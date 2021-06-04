@@ -133,5 +133,30 @@ root@IOT-02-RASB:/home/pi/hackrf-2021.03.1#
 
 Use [instructions](https://github.com/pothosware/SoapyRemote/wiki) that you can find into the github.
 
+```shell
+root@IOT-02-RASB:/home/pi/hackrf-2021.03.1# apt install soapyserver soapysdr-module-hackrf
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following package was automatically installed and is no longer required:
+  python-colorzero
+Use 'sudo apt autoremove' to remove it.
+The following NEW packages will be installed:
+  soapyremote-server
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 57.4 kB of archives.
+After this operation, 171 kB of additional disk space will be used.
+Get:1 http://mirrors.ircam.fr/pub/raspbian/raspbian buster/main armhf soapyremote-server armhf 0.4.3-1 [57.4 kB]
+Fetched 57.4 kB in 1s (49.0 kB/s)          
+Selecting previously unselected package soapyremote-server.
+(Reading database ... 40387 files and directories currently installed.)
+Preparing to unpack .../soapyremote-server_0.4.3-1_armhf.deb ...
+Unpacking soapyremote-server (0.4.3-1) ...
+Setting up soapyremote-server (0.4.3-1) ...
+Created symlink /etc/systemd/system/SoapySDRServer.service → /lib/systemd/system/soapyremote-server.service.
+Created symlink /etc/systemd/system/multi-user.target.wants/soapyremote-server.service → /lib/systemd/system/soapyremote-server.service.
+Processing triggers for man-db (2.8.5-2) ...
+root@IOT-02-RASB:/home/pi/hackrf-2021.03.1#
+```
 
-
+Connect using [CubicSDR](https://github.com/cjcliffe/CubicSDR) or others that support the Soapy server protocol.

@@ -86,5 +86,52 @@ cannot read device status, Resource temporarily unavailable (11)
 
 ```
 
-1. `sudo apt install hackrf soapysdr-module-hackrf`
+`sudo apt install hackrf soapysdr-module-hackrf`
+
+Download from [mossmann hackrf github](https://github.com/mossmann/hackrf) the latest release.
+
+```shell
+pi@IOT-02-RASB:~/hackrf-2021.03.1 $ hackrf_info
+hackrf_info version: unknown
+libhackrf version: unknown (0.5)
+Found HackRF
+Index: 0
+Serial number: 0000000000000000088869dc35694c1b
+Board ID Number: 2 (HackRF One)
+Firmware Version: 2018.01.1 (API:1.02)
+Part ID Number: 0xa000cb3c 0x00614764
+pi@IOT-02-RASB:~/hackrf-2021.03.1 $ 
+
+```
+
+Update the firmware:
+
+```shell
+root@IOT-02-RASB:/home/pi/hackrf-2021.03.1/firmware-bin# hackrf_spiflash -w hackrf_one_usb.bin
+File size 35444 bytes.
+Erasing SPI flash.
+Writing 35444 bytes at 0x000000.
+root@IOT-02-RASB:/home/pi/hackrf-2021.03.1/firmware-bin# 
+```
+
+Update the [CPLD](https://en.wikipedia.org/wiki/Complex_programmable_logic_device):
+
+```shell
+root@IOT-02-RASB:/home/pi/hackrf-2021.03.1# hackrf_cpldjtag -x firmware/cpld/sgpio_if/default.xsvf
+File size 37629 bytes.
+LED1/2/3 blinking means CPLD program success.
+LED3/RED steady means error.
+Wait message 'Write finished' or in case of LED3/RED steady, Power OFF/Disconnect the HackRF.
+Write finished.
+Please Power OFF/Disconnect the HackRF.
+root@IOT-02-RASB:/home/pi/hackrf-2021.03.1#
+```
+
+#### Soapy remote
+
+![](https://raw.githubusercontent.com/wiki/pothosware/SoapyRemote/images/soapy_sdr_remote_logo.png)
+
+Use [instructions](https://github.com/pothosware/SoapyRemote/wiki) that you can find into the github.
+
+
 

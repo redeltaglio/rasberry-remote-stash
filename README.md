@@ -11,6 +11,18 @@
 7. update it with `sudo apt update && sudo apt upgrade`
 8. `sudo raspi-config`
 
+In case you are updating the hackrf one by remote remember that you can remove USB power using:
+
+```shell
+# disable external wake-up; do this only once
+echo disabled > /sys/bus/usb/devices/usb1/power/wakeup 
+
+echo on > /sys/bus/usb/devices/usb1/power/level       # turn on
+echo suspend > /sys/bus/usb/devices/usb1/power/level  # turn off
+```
+
+
+
 #### Hackrf one
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0b/SDR_HackRF_one_PCB.jpg)
@@ -160,3 +172,8 @@ root@IOT-02-RASB:/home/pi/hackrf-2021.03.1#
 ```
 
 Connect using [CubicSDR](https://github.com/cjcliffe/CubicSDR) or others that support the Soapy server protocol.
+
+#### CubicSDR
+
+https://github.com/cjcliffe/CubicSDR/wiki/Build-Linux
+

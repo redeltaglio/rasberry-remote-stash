@@ -21,6 +21,142 @@ echo on > /sys/bus/usb/devices/usb1/power/level       # turn on
 echo suspend > /sys/bus/usb/devices/usb1/power/level  # turn off
 ```
 
+#### Rasbian update
+
+Rasbian is a Linux distribution and, as all the others, got it personal [cheat sheet](https://en.wikipedia.org/wiki/Cheat_sheet) to a correct administration.
+
+```shell
+root@IOT-01-RASB:/home/taglio# rpi-update 
+ *** Raspberry Pi firmware updater by Hexxeh, enhanced by AndrewS and Dom
+ *** Performing self-update
+ *** Relaunching after update
+ *** Raspberry Pi firmware updater by Hexxeh, enhanced by AndrewS and Dom
+ *** We're running for the first time
+ *** Backing up files (this will take a few minutes)
+ *** Backing up firmware
+ *** Backing up modules 5.10.17-v7+
+#############################################################
+WARNING: This update bumps to rpi-5.10.y linux tree
+See: https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=288234
+'rpi-update' should only be used if there is a specific
+reason to do so - for example, a request by a Raspberry Pi
+engineer or if you want to help the testing effort
+and are comfortable with restoring if there are regressions.
+
+DO NOT use 'rpi-update' as part of a regular update process.
+
+##############################################################
+Would you like to proceed? (y/N)
+
+ *** Downloading specific firmware revision (this will take a few minutes)
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   168  100   168    0     0    126      0  0:00:01  0:00:01 --:--:--   126
+100  120M  100  120M    0     0  1744k      0  0:01:10  0:01:10 --:--:-- 1920k
+ *** Updating firmware
+ *** Updating kernel modules
+ *** depmod 5.10.46-v8+
+ *** depmod 5.10.46-v7+
+ *** depmod 5.10.46-v7l+
+ *** depmod 5.10.46+
+ *** Updating VideoCore libraries
+ *** Using HardFP libraries
+ *** Updating SDK
+ *** Running ldconfig
+ *** Storing current firmware revision
+ *** Deleting downloaded files
+ *** Syncing changes to disk
+ *** If no errors appeared, your firmware was successfully updated to f29ab05611eef385d17675c77190df0b87a0d456
+ *** A reboot is needed to activate the new firmware
+root@IOT-01-RASB:/home/taglio# 
+
+```
+
+Then a reboot is needed and we can visualize the new installed firmware doing the classical:
+
+```shell
+taglio@IOT-01-RASB:~ $ uname -a
+Linux IOT-01-RASB 5.10.46-v7+ #1432 SMP Fri Jul 2 21:16:37 BST 2021 armv7l GNU/Linux
+taglio@IOT-01-RASB:~ $ 
+```
+
+Next:
+
+```shell
+root@IOT-01-RASB:/home/taglio# apt dist-upgrade
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+Calculating upgrade... Done
+The following packages were automatically installed and are no longer required:
+  lxplug-volume nyx python-colorzero python3-stem
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+  gui-pkinst lxplug-volumepulse pi-printer-support printer-driver-escpr
+The following packages will be upgraded:
+  raspberrypi-ui-mods
+1 upgraded, 4 newly installed, 0 to remove and 0 not upgraded.
+Need to get 752 kB of archives.
+After this operation, 897 kB of additional disk space will be used.
+Do you want to continue? [Y/n] Y
+Get:1 http://archive.raspberrypi.org/debian buster/main armhf gui-pkinst armhf 0.2 [127 kB]
+Get:2 http://archive.raspberrypi.org/debian buster/main armhf lxplug-volumepulse armhf 0.5 [19.8 kB]
+Get:3 http://archive.raspberrypi.org/debian buster/main armhf pi-printer-support all 1.1 [2,272 B]
+Get:4 http://archive.raspberrypi.org/debian buster/main armhf printer-driver-escpr armhf 1.7.8-1~bpo10+1 [281 kB]
+Get:5 http://archive.raspberrypi.org/debian buster/main armhf raspberrypi-ui-mods armhf 1.20201210+nmu1 [323 kB]
+Fetched 752 kB in 5s (163 kB/s)               
+Reading changelogs... Done
+Selecting previously unselected package gui-pkinst.
+(Reading database ... 202309 files and directories currently installed.)
+Preparing to unpack .../gui-pkinst_0.2_armhf.deb ...
+Unpacking gui-pkinst (0.2) ...
+Selecting previously unselected package lxplug-volumepulse.
+Preparing to unpack .../lxplug-volumepulse_0.5_armhf.deb ...
+Unpacking lxplug-volumepulse (0.5) ...
+Selecting previously unselected package pi-printer-support.
+Preparing to unpack .../pi-printer-support_1.1_all.deb ...
+Unpacking pi-printer-support (1.1) ...
+Selecting previously unselected package printer-driver-escpr.
+Preparing to unpack .../printer-driver-escpr_1.7.8-1~bpo10+1_armhf.deb ...
+Unpacking printer-driver-escpr (1.7.8-1~bpo10+1) ...
+Preparing to unpack .../raspberrypi-ui-mods_1.20201210+nmu1_armhf.deb ...
+dpkg-query: package 'raspberrypi-ui-mods' is not installed
+Use dpkg --contents (= dpkg-deb --contents) to list archive files contents.
+Unpacking raspberrypi-ui-mods (1.20201210+nmu1) over (1.20200611) ...
+Setting up lxplug-volumepulse (0.5) ...
+Setting up printer-driver-escpr (1.7.8-1~bpo10+1) ...
+Setting up gui-pkinst (0.2) ...
+Setting up raspberrypi-ui-mods (1.20201210+nmu1) ...
+Installing new version of config file /etc/xdg/lxpanel/LXDE-pi/panels/panel ...
+Installing new version of config file /etc/xdg/openbox/lxde-pi-rc.xml ...
+Adding user `root' to group `lpadmin' ...
+Adding user root to group lpadmin
+Done.
+Adding user `pi' to group `lpadmin' ...
+Adding user pi to group lpadmin
+Done.
+Adding user `taglio' to group `lpadmin' ...
+Adding user taglio to group lpadmin
+Done.
+The desktop has been updated.
+To apply the updates, please reboot your Pi, and then select one of the options on the Defaults page in Appearance Settings.
+Setting up pi-printer-support (1.1) ...
+Processing triggers for shared-mime-info (1.10-1) ...
+Processing triggers for cups (2.2.10-6+deb10u4) ...
+Updating PPD files for escpr ...
+root@IOT-01-RASB:/home/taglio#
+```
+
+One good trick to pass from plain RaspiOS to RaspiOS-Lite in the case you've done a project error:
+
+```shell
+root@IOT-01-RASB:/home/taglio#  apt purge xserver* lightdm* raspberrypi-ui-mods
+...
+root@IOT-01-RASB:/home/taglio# apt autoremove
+...
+root@IOT-01-RASB:/home/taglio#
+```
+
 
 
 #### Hackrf one

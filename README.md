@@ -254,6 +254,8 @@ Connect using [CubicSDR](https://github.com/cjcliffe/CubicSDR) or others that su
 
 #### Skywave Linux
 
+![](https://github.com/redeltaglio/rasberry-hackrf/raw/main/Images/skywave.png)
+
 To got a good work environment with all the libraries necessary and all the tools preinstalled I prefer using a [Linux distribution](https://distrowatch.com/) dedicated to radio ham. My choose is:
 
 - [Skywave Linux](https://skywavelinux.com/)

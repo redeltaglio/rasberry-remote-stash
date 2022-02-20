@@ -1,15 +1,40 @@
-# Rasberry pi, hackrf and soapy SDR
+# Rasberry pi, passive and active hamradio device.
 
 ![](https://www.distrelec.biz/Web/WebShopImages/landscape_large/3-/03/Raspberry%20Pi-RASPBERRY-PI-4-CASE-RW-30152783-03.jpg)
 
-1. https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit
-2. download lite version
-3. `dd if=file.img of=/dev/mmcblk0 bs=1M conv=fsync status=progress`
-4. mount `boot` partition and `touch ssh`
-5. mount `rootfs` partition and edit `/etc/dhcpcd.conf` to enable static IPv4.
-6. `ssh` to the device using user `pi` and password `raspberry` 
-7. update it with `sudo apt update && sudo apt upgrade`
-8. `sudo raspi-config`
+- https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit
+
+- download lite version
+
+- `dd if=file.img of=/dev/mmcblk0 bs=1M conv=fsync status=progress`
+
+- mount `boot` partition and `touch ssh`
+
+- mount `rootfs` partition and edit `/etc/dhcpcd.conf` to enable static IPv4.
+
+- `ssh` to the device using user `pi` and password `raspberry` 
+
+- Set `locale`:
+
+  - ```bash
+    # cat > /etc/default/locale
+    LANG=en_US.UTF-8
+    LC_NUMERIC=es_ES.UTF-8
+    LC_TIME=es_ES.UTF-8
+    LC_MONETARY=es_ES.UTF-8
+    LC_PAPER=es_ES.UTF-8
+    LC_NAME=es_ES.UTF-8
+    LC_ADDRESS=es_ES.UTF-8
+    LC_TELEPHONE=es_ES.UTF-8
+    LC_MEASUREMENT=es_ES.UTF-8
+    LC_IDENTIFICATION=es_ES.UTF-8
+    ^EOF
+    # locale-gen
+    ```
+
+- update it with `sudo apt update && sudo apt upgrade`
+
+- `sudo raspi-config`
 
 In case you are updating the hackrf one by remote remember that you can remove USB power using:
 
@@ -99,6 +124,63 @@ root@IOT-01-RASB:/home/taglio# apt autoremove
 ...
 root@IOT-01-RASB:/home/taglio#
 ```
+
+Install git:
+
+```bash
+# apt install git
+```
+
+Disable bluetooth and wireless:
+
+```bash
+# echo dtoverlay=disable-bt >> /boot/config.txt
+# echo dtoverlay=pi3-disable-wifi >> /boot/config.txt
+# systemctl disable bluetooth.service
+# systemctl disable wpa_supplicant.service
+```
+
+Disable others services:
+
+```
+# systemctl disable avahi-daemon.service
+```
+
+
+
+Add your user and add your identity:
+
+```bash
+# useradd -m taglio
+# for i in $(cat /etc/group | grep pi | sed /^pi.*/d | cut -d : -f1); do a+=$(printf "%s," $i); done
+# eval usermod -G $(echo $a | sed "s|,$||") taglio 
+# passwd taglio
+# exit
+taglio@trimurti:~/Bin$ ssh-copy-id -i /home/taglio/.ssh/id_ed25519.pub ham-01-rasb.red.ama
+/usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "/home/taglio/.ssh/id_ed25519.pub"
+The authenticity of host 'ham-01-rasb.red.ama (172.16.18.254)' can't be established.
+ECDSA key fingerprint is SHA256:RH32lmukVHv3SUcK/ninNAoKMXW8+swlWVJ4eb/ZVCY.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+/usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
+/usr/bin/ssh-copy-id: INFO: 1 key(s) remain to be installed -- if you are prompted now it is to install the new keys
+taglio@ham-01-rasb.red.ama's password: 
+
+Number of key(s) added: 1
+
+Now try logging into the machine, with:   "ssh 'ham-01-rasb.red.ama'"
+and check to make sure that only the key(s) you wanted were added.
+
+taglio@trimurti:~/Bin$
+```
+
+Delete pi user:
+
+```bash
+# userdel pi
+# rm -rf /home/pi
+```
+
+#### External SB X-Fi Surround 5.1 Pro
 
 
 

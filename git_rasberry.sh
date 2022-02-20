@@ -2,7 +2,7 @@
 
 DATE=$(date +%d%m%Y)
 DATE_RELEASE=$(date +"%d/%m/%Y %H:%m:%S")
-HOMEWRK="/home/riccardo/Work/redama"
+HOMEWRK="/home/taglio/Work/redama"
 REPO="/rasberry-hackrf"
 RELEASE="/rasberryhackrf$DATE.tar"
 

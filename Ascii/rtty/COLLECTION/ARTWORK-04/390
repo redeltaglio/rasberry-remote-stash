@@ -1,66 +1,0 @@
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"IIIIIIIIIII"XXXXXXXXXXXXXXXXXXXXXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM             MMMMMMMMMMMMMMMMMMMMM
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"IIIIIIIXXXXXIIIIIIII"XXXXXXXXXXXXXXXXXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM        MMMMM         MMMMMMMMMMMMMMMMM
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"IIIIIIIIIIIIIIIIIXXXXXIIII"XXXXXXXXXXXXXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                  MMMMM     MMMMMMMMMMMMM
-XXXXXXXXXXXXXXXXXXXXXXXXXXXX"IIIIIIXXXXXIIIIIIIIIIIIIXXXXXXI"XXXXXXXXXXXMMMMMMMMMMMMMMMMMMMMMMMMMMMM       MMMMM             MMMMMM  MMMMMMMMMMM
-XXXXXXXXXXXXXXXXXXXXXXXXX"IIIIIIIIXXXIIIIIIIIXXXXIIIIIIIXXXII"XXXXXXXXXXMMMMMMMMMMMMMMMMMMMMMMMMM         MMM        MMMM       MMM   MMMMMMMMMM
-XXXXXXXXXXXXXXXXXXX"IIIIIIIIXXXXXXIIIIIIIIIIIIIIXXXXXIIIIIIII"XXXXXXXXXXMMMMMMMMMMMMMMMMMMM         MMMMMM              MMMMM         MMMMMMMMMM
-XXXXXXXXXXXXXXXXXX"IIIIIIIIIIIIIIIIIIIIXXXXXIIIIIIIIIIIIIIXXXXI"XXXXXXXMMMMMMMMMMMMMMMMMMM                     MMMMM              MMMM  MMMMMMMX
-XXXXXXXXXXXXXXXX"IIIIIIIIIIIIIIIXXXXXXIIIIIIIIIXXXXXIIIIIIIIIII"XXXXXXXXMMMMMMMMMMMMMMMM                MMMMMM         MMMMM            MMMMMMMM
-XXXXXXXXXXXXXX"IIIIIIXXXXXXXXXXXXXXXIIIIIIIIIIIXXXXXXXXXXXXIII-XXXXXXXXMMMMMMMMMMMMMMM       MMMMMMMMMMMMMMM           MMMMMMMMMMMM    MMMMMMMMX
-XXXXXXXXX"IIIIIIIIIIXXXXX/.''.XXXXXXXXXXXIIIIIIIXXXXXXXXXXIII"XXXXXXXXXXMMMMMMMMM           MMMMM     MMMMMMMMMMM       MMMMMMMMMM    MMMMMMMMMM
-XXXXXXXX"IIIIIIIIXXXXXXXXXXX"    ".XXXXXXXXXXXXXXXXXXXIIIIIIIIIII"XXXXXXMMMMMMMM         MMMMMMMMMMM       MMMMMMMMMMMMMMMMMMM            MMMMMM
-XXXXXXXX"IIIIIIIIIIIIIX"         "XX     X     ".""".XXIIIIIIIIIII"XXXXXMMMMMMMM              M           MM     M           MM            MMMMM
-XXXXXXX"IIIIIIIIIIIIIXX"           "XXX"  XX         "XXXIIIIXXXXXI"XXXXMMMMMMM              MM             MMM   MM          MMM    MMMMM  MMMM
-XIIIIIIIIIIIIIIIIIIXXXXX"..'        XXXX  XX           "XXXXXIIIIIIII"XXM                  MMMMM            MMMM  MM            MMMMM         MM
-IIIIIIIIIIIIIIIXXXXXXXXXXX"         X  X XX"          "XXXXXXIIIIIII"XXX               MMMMMMMMMMM.         M  M MM           .MMMMMM        MMM
-"""".IIIIIIIIXX."""""""""""             XX           "XXXXXXXXIIIIII"XXX             MM                         MM            MMMMMMMM       MMM
-X    "MMMMMMMMM'        XM   ..                    "XXXXXXXXXXXIIIII"XXXM     XXXXXXXXX         MX                          MMMMMMMMMMM      MMM
-X  "           " .      XX   /          ""-"""'.   "XXXXXXXXXXXXXIII"XXXM                       MM   M          MM XXXX     MMMMMMMMMMMMM    MMM                                        XX MMMM
-X.                " .   X X  ' .       .XXXXXXXXXXXX''''''''''''."XXXXXXM                       M M             MMMMMMMMMMMM              MMMMMM
-X"                    "XXXXX...X......"XXXXXXXXXXX'               "XXXXXM                      MMMMM   M       MMMMMMMMMMM                 MMMMM
-X                                                                  "XXXXM                                                                   MMMM
-X                                                                   "XXXM                                                                    MMM
-X                                                                    "XXM                                                                     MM
-X                                                                   "XXXM                                                                    MMM
-X                                                                 "XXXXXM                                                                  MMMMM
-X                                                       ........."XXXXXXM                                                                 MMMMMM
-X                                                    . "         "XXXXXXM                                                                 MMMMMM
-X                                                . "              "XXXXXM                                                                  MMMMM
-X                                       ......."                    "XXXM                                                                    MMM
-X            ......................''''''XXXX"  "                "   "XXM                                  IIIIIIMMMM                         MM
-X         .' ''''''''IIIIIIIIIIIIIIIIII"XXX"   "                 "     XM                                       MMM                            M
-X        .      "IIIIIIIIIIIIIIIIIIIIII"XXX"  "   "    "        ""    XXM                                       MMM                           MM
-X       .       "IIIIIIIIIIIIIIIIIIIII"XXX"  "   "    "        " "    XXM                                      MMM                            MM
-X                "IIIIIIIIXXXXXXIIII"XXXX" "    "    "       "  "     XXM                         MMMMMM     MMMM                             MM
-X                 "XXXXXXXXXXX"III"XXXX"  "   "    "   "     "   "    XXM                  MMMMMMMMMMM     MMMM                               MM
-X                  "XXXXXXXXX"III"XXXX"  "   "    "    "    "     "   XXM                   MMMMMMMMM     MMMM                                MM
-X                  "XXXX"IIIIII"XXXXX" "    "    "   "     "       " XXXM                   MMMM        MMMMM                                MMM
-X                   "XXXXXXXXXXXXXXX"  " "     "    "   "          " XXXM                    MMMMMMMMMMMMMMM                                 MMM
-X                    "XXXXXXXXXXXXX"   "  "   "    "  "             "XXXM                     MMMMMMMMMMMMM                                  MMM
-X                     "XXXXXXXX:""""""""" "   "   "  """"""""""""":  XXXM                      MMMMMMMM                                      MMM
-X                      "XXXXXXX:         " " """' ' "             :  XXXM                       MMMMMMM                                      MMM
-X                       "XXXXXX:              BY:                 :  XXXM                        MMMMMM                                      MMM
-X                        "XXXXX:            WB9WNU                :  XXXM                         MMMMM                                      MMM
-X                         "XXXX:        ROBERT E. EAST            :  XXXM                          MMMM                                      MMM
-X                         ."XXX:      MICHIGAN CITY. IND.         :  XXXM                           MMM                                      MMM
-X                         . "XX:                                  :  XXXM                            MM         APRIL 3, 1979                MMM
-X                          " "X:                                  :  XXXM                             M                                      MMM
-X                           "XX:                                  :  XXXM                          . MM                                      MMM
-X                         "XXXX:                                  :  XXXM                          MMMM                                      MMM
-X                        "XXXXX""""""""""""""""""""""""""""""""""""  XXXM                         MMMMM                                      MMM
-X         '            "XXXXXX"                       "XXXXXX"       XXXM                       MMMMMM                         MMMMMM        MMM
-X          ".       ""XXXXXXX"                       "XXXXXXXX"      XXXM                     MMMMMMM                         MMMMMMMM       MMM
-X            """"""'XXXXXXXX"                       "XXXXXXXXXX"     XXXM                   MMMMMMMM                         MMMMMMMMMM      MMM
-X             "XXXXXXXXXXXX"                       "XXXXXXXXXXXX"    XXXM              MMMMMMMMMMMM                         MMMMMMMMMMMM     MMM
-X              "XXXXXXXXXX"                       "XXXXXXXXXXXXXX"   XXXM               MMMMMMMMMM                         MMMMMMMMMMMMMM    MMM
-X               "XXXXXXXX"                       "XXXXXXXXXXXXXXXX"  XXXM                MMMMMMMM                         MMMMMMMMMMMMMMMM   MMM
-X                "XXXXXX"                       "XXXXXXXXXXXXXXXXXX" XXXM                 MMMMMM                         MMMMMMMMMMMMMMMMMM  MMM
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-XXXXXXXXXXXXXXXXXXXXXXX HOPE THAT YOU ENJOY ???? XXXXXXXXXXXXXXXXXXXXXXXMMMMMMMMMMMMMMMMMMMMMMM                          HMMMMMMMMMMMMMMMMMMMMMM
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXX              XXXXXXXXXXXXXXXXXXXXXXXXXXXXXMMMMMMMMMMMMMMMMMMMMMMMMMMMMM RESTING NUDE MMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-

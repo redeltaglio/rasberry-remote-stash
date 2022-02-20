@@ -1,85 +1,0 @@
-
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M          II   TTTTTT       II  SSSSSS  NN   NN OO  TTTTTT          MW                                                                    W
-M          II     TT         II SS       NNN  NN  '    TT            MW                                                                    W
-M          II     TT         II  SSSSS   NNNN NN       TT            MW                                                                    W
-M          II     TT         II      SS  NN NNNN       TT            MW                                                                    W
-M          II     TT         II  SSSSS   NN  NNN       TT            MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M         EEEEE  NN   NN   OOOOO   UU   UU   GGGGG   HH   HH         MW                                                                    W
-M         EE     NNN  NN  OO   OO  UU   UU  GG       HH   HH         MW                                                                    W
-M         EEEEE  NNNN NN  OO   OO  UU   UU  GG  GGG  HHHHHHH         MW                                                                    W
-M         EE     NN NNNN  OO   OO  UU   UU  GG   GG  HH   HH         MW                                                                    W
-M         EEEEE  NN  NNN   OOOOO    UUUUU    GGGGG   HH   HH         MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M      TTTTTT   OOOOO       BBBBB   EEEEE       OOOOO   NN   NN      MW                                                                    W
-M        TT    OO   OO      BB  BB  EE         OO   OO  NNN  NN      MW                                                                    W
-M        TT    OO   OO      BBBBB   EEEEE      OO   OO  NNNN NN      MW                                                                    W
-M        TT    OO   OO      BB  BB  EE         OO   OO  NN NNNN      MW                                                                    W
-M        TT     OOOOO       BBBBB   EEEEE       OOOOO   NN  NNN      MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M  TTTTTT  HH   HH  EEEEE      RRRRR   II   GGGGG  HH   HH   TTTTTT  MW                                                                    W
-M    TT    HH   HH  EE         RR  RR  II  GG      HH   HH     TT    MW                                                                    W
-M    TT    HHHHHHH  EEEEE      RRRRR   II  GG  GGG HHHHHHH     TT    MW                                                                    W
-M    TT    HH   HH  EE         RR  RR  II  GG   GG HH   HH     TT    MW                                                                    W
-M    TT    HH   HH  EEEEE      RR   RR II   GGGGG  HH   HH     TT    MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M            TTTTTT   RRRRR       AA       CCCCC   KK  KK            MW                                                                    W
-M              TT     RR  RR     AAAA     CC       KK KK             MW                                                                    W
-M              TT     RRRRR     AA  AA    CC       KKKK              MW                                                                    W
-M              TT     RR  RR   AAAAAAAA   CC       KK KK             MW                                                                    W
-M              TT     RR   RR AA      AA   CCCCC   KK  KK            M
-W                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M   YY    YY  OOOOO   UU   UU     MM    MM  UU  UU  SSSSS   TTTTTT   MW                                                                    W
-M    YY  YY  OO   OO  UU   UU     MMM  MMM  UU  UU SS         TT     MW                                                                    W
-M     YYYY   OO   OO  UU   UU     MMMMMMMM  UU  UU  SSSSS     TT     MW                                                                    W
-M      YY    OO   OO  UU   UU     MM MM MM  UU  UU      SS    TT     MW                                                                    W
-M      YY     OOOOO    UUUUU      MM MM MM   UUUU   SSSSS     TT     MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M       HH  HH  EEEEE      AA     DDDDD            II  NN   NN       MW                                                                    W
-M       HH  HH  EE        AAAA    DD  DD           II  NNN  NN       MW                                                                    W
-M       HHHHHH  EEEEE    AA  AA   DD  DD           II  NNNN NN       MW                                                                    W
-M       HH  HH  EE      AAAAAAAA  DD  DD           II  NN NNNN       MW                                                                    W
-M       HH  HH  EEEEE  AA      AA DDDDD            II  NN  NNN       MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M  TTTTTT  HH  HH  EEEEE      RRRRR    II   GGGGG   HH  HH  TTTTTT   MW                                                                    W
-M    TT    HH  HH  EE         RR  RR   II  GG       HH  HH    TT     MW                                                                    W
-M    TT    HHHHHH  EEEEE      RRRRR    II  GG  GGG  HHHHHH    TT     MW                                                                    W
-M    TT    HH  HH  EE         RR  RR   II  GG   GG  HH  HH    TT     MW                                                                    W
-M    TT    HH  HH  EEEEE      RR   RR  II   GGGGG   HH  HH    TT     MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M  DDDDD   II  RRRRR    EEEEE   CCCCC  TTTTTT  II   OOOOO   NN   NN  MW                                                                    W
-M  DD  DD  II  RR  RR   EE     CC         TT   II  OO   OO  NNN  NN  MW                                                                    W
-M  DD  DD  II  RRRRR    EEEEE  CC         TT   II  OO   OO  NNNN NN  MW                                                                    W
-M  DD  DD  II  RR  RR   EE     CC         TT   II  OO   OO  NN NNNN  MW                                                                    W
-M  DDDDD   II  RR   RR  EEEEE   CCCCC     TT   II   OOOOO   NN  NNN  MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-M                                                                    MW                                                                    W
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-
-
-                           ON RIGHT TRACK
-
-     ORIGINATED FOR RTTY BY RALPH, K6YCS, INGLEWOOD, CA  22-JAN-91
-

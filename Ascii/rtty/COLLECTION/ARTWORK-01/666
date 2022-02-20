@@ -1,201 +1,0 @@
-
-------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                 ........
-                          MMMMMMMMMMMMMMMMMMMMMM...                   .M                          WWWWW            WWWWW                       W
-                      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..         ..MMMM                      WWW                WWWWWWWWWWWWWW             WWWW
-                    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                    WWW            WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-             ...MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:MM::MMMMMMMMMMMMMMMMMM                  WWW             WWWWWWWWWWWWWWW WW  WWWWWWWWWWWWWWWWWW
-         .::MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:MMMM:MMMMMMMMMMMMMMMMMM                 WW                       WWWWWW WWWW WWWWWWWWWWWWWWWWWW
-       .:::MMMMMMMMMMMMMM:::::::MMMMMMMMMMMMMMM:MMMMMM:MMMMMMMMMMMMMMMMM                WW                       WWWWWW WWWWWW WWWW         WWWW
-      .:::MMMMMMMMMMMMMMMMM::::MMMMMMMMMMMMMMM:MMMMMMM:MMMMMMMMMMMMMMMMM               WW                     WWWWWWWW WWWWWW             WWW
-     :::MMMMMMMMMM::::MM:::::::::MMMMMMMMMMMMM:MMMMMMM:MMMMMMMMMMMMMMMMM              W                     WWWWWWWWWW WWWWWWW
-     MMMMMMMMMM::::::::MMMMMMM::::::MMMMMMMMMM:MMMMMMM::MMMMMMMMMMMMMMMM             W         WWWWWWW      WWWWWWWWWW WWWWWWW
-     MMMMMMMMM:::::::MMMMMMMMM::::::MMMMMMMMMM:MMMMMMMM::MMMMMMMMMMMMMMM            WW       WWWWWWWWW      WWWWWWWWWW WWWWWWWW
-     "MMMMMMMM::::::MMMMMMMMMM::::::MMMMMMMMMM:MMMMMMMM::MMMMMMMMMMMMMMM            WW      WWWWWWWWWW      WWWWWWWWWW WWWWWWWW
-      "MMMM"MMM:::MMMMMMMMMM::::::::MMMMMMMMMM:MMMMMMMM::MMMMMMMMMMMMMMM            WWW   WWWWWWWWWW        WWWWWWWWWW WWWWWWWW
-            MMMMMMMMMMMMMM:::::::::MMMMMMMMMMM::MMMMMM:::MMMMMMMMMMMMMMM            WWWWWWWWWWWWWW         WWWWWWWWWWW  WWWWWW
-            "MMMMMMMMMMMMM::::::::MMMMMMMMMMMM::MMMMMM::MMMMMMMMMMMMMMMM             WWWWWWWWWWWWW        WWWWWWWWWWWW  WWWWWW
-             MMMMMMMMMMMMMM:::MMMMMMMMMMMMMMM::MMMMMMM::MMMMMMMMMMMMMMMM              WWWWWWW WWWWW   WWWWWWWWWWWWWWW  WWWWWWW
-             "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:::MMMMMMM::MMMMMMMMMMMMMMMM               WWWW  WWWWWWWW     WWWWWWWWWW   WWWWWWW           WWWWWWW
-              MMMMMMMMMMMMMMMMMMMMMMMMMMMMM:::MMMMMM::::MMMMMMMMMMMMMMMM                     WWWWWWWW     WWWWWWWWW   WWWWWW            WWWWWWWW
-               MMMMMMMMMMMMMMMMMMMMMMMMMMM::MMMMMMM:::MMMMMMMMMMMMMMMMMM                      WWWWW       WWWW   W  WWWWWWW                WWWWW
-               "MMMMMMMMMMMMMMMMMMMMMMMM:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                               WWWWW   W WWWWWWWWWWWWWW                W
-                MMMMMMMMMMMMMMMMMMMMMM:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                    WWWWWW    WWWWWWWW WWWWWWWWWWWWWWWWWWWWWWWWWW      W
-                 MMMMMMMMMMMMMMMMMMMM:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                 WWWWWWWWWWWWWWWWWWWW WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-                 "MMMMMMMMMMMMMMMMMM:MMMMM"  ""MMMMMMMMMMMMMMMMMMMMMMMMM                  WWWWWWWWWWWWWWWWWW WWWWW     WWWWWWWWWWWWWWWWWWWWWWWWW
-                 .MMMMMMMMMMMMMMMM:MMMM""          ""MMMMMMMMMMMMMMMMMMM                  WWWWWWWWWWWWWWWW WWWW              WWWWWWWWWWWWWWWWWWW
-                 MMMMMMMMMMMM::::MMMMM                    """"""MMMMMMMM                 WWWWWWWWWWWW    WWWWW                          WWWWWWWW
-                 MMMMMMMMMMM::MMMMMMM                 WWWWWWWWWWW  WWWWWWW
-               .' M"" """  ::MMMMMMM                  W          WWWWWWW
-             .'           :: ""MMM"                               WWW
-            .   .        :'    MM                               WW
-         .-.:..::.     .:'   .MM                              WW
-        .   :::::::::::"     "M                              W
-        .   :"  "":::"        "
-        .   :      '.        .
-        '":::::   .'.        .
-       '  ::"   .'  .       .
-      '   ::   .    .       .
-      '       .     .       .
-     .'       .    .        .
-    .         .   .          .
-    .         .   .          .
-   '          .  .            .
-   '          .   .            .
-  '           .   .             .
- .             .  .              '.
- .              .  .              .      /// / ///  /    ////
-  .              . .              ./////////////////////////////
-  .               '. .             .////////////////////////////////
-   .             ///.////////////////////////////////////////////////
-  //                 ///////////////////////////////////////////////////
-////////////-'''''''////////////////////////////////////////////////////
-///////////////      //////////////  ///////////////////////////////////
-    ////////////////////////////                        ////////////////
-         /////////////////
-
-
-
-                                                                  "CLYDE
-
-                                          ORIGINATED FOR RTTY BY DENNY,
-
-
-
-
-
-
-
-
-
-------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-                                                        M                                                        W
-                                                     .MM   M                                                      WW   W
-                                                    MMMM.. M                                                    WWWW   W
-                                      ..MMMMMMMMMM  MMMM: "MM                                               WWW  W W    WW
-                              ..MMMMMMMMM:::MMMMMMMMMMM:   :                                              WWWWWWW
-                        ..MMMMMMMMM:::::MMMMMM:::MMMMMM:    :                                            WW   WWW WW
-                    .MMMMMMMMM:::::MMMMMMMMMMM::MMMMMMMM. ::::.                                           WWW  WWWWWWWW
-                 .MMMMMMMM::::MMMMMMMMMMMMMM:::MMMMMMMMMMM:::"":.                                          WW   WW WWWWWWWW
-              .MMMMMMM:::MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM::   .                                     WWWWWW WWWW  WWWWWWWWW
-            .MMMMM::::MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM    "..                                 WWWWWWWW  WWWW        WWWW                                                       OOO                                                       EEE
-          .MMMMM::::MMMMMMMMMMMMMMMMMMM::MMMMMMMMMMMMMMMMMMM    ::                               WWWWWWWW   WWWW        WWWWWW
-        .MMMMM:::MMMMMMMMMMMMMMMMMMMM::::MMMMMMMMMMMMM::MMMM.    :.                             WWWWWWWW    WWWWWWW        WWWW
-      .MMMMM::::MMMMMMMMMMMMMMMMMMM::::MMMMMMMMMMMMMMMM:::MMM     :.                           WWWWWWWW    WWWWWWWWW          WWW
-    .MMMMM::::MMMMMMMMMMMMMMMMMMMMM::MMMMMMMMMMMMMMMMMMMM:MMM.      .                         WWWWWWWWW   WWWWWWWWWWW       WW WWW
-  .MMMM::::::MMMMMMMMMMMMMMMMMMMMM::MMMMM::MMMMMMMMMMMMMMMMMMM.      .                      WWWWWWWWWWW    WWWW  WWWWWWWWWWWWWWWWWWW
-.::::::::::MMMMMMMMMMMMMMMMMMMMMM:MMMMMM:MMMMMMMMMMMMMMMMMMMMMM:      "                   WWWWWWWWWWWW    WWWWW WWWWWWWWWWWWWWWWWWWWWW
-:::MMMMMMMMMMMMMMMMMMMMMMMMMMM:::MMMMM:MMMMMM"""MMMMMMMMMMMMMMM: . .   :               WWWWWWWWWWWWWWW    WWWW WWWWWW   WWWWWWWWWWWWWWW
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMM::::MMMM:MMMMMM       "MMMMMMMMMMM: :. :. :           WWWWWWWWWWWWWWWWW      WWW WWWWWW        WWWWWWWWWWW
-MMMMMMMMMMMMMMMMMMMMMMMMMMMM:::::MMM:MMMMMM            ""MMMM    ::"": :        WWWWWWWWWWWWWWWWWWW       WW WWWWWW              WWWW
-MMMMMMMMMMMMMMMMMMMMMMMMMMMM::::MMM:MMMMM"                ""M.  :" M ::"      WWWWWWWWWWWWWWWWWWWWWW    WWW WWWWW                   W
-MMMMMMMMMMMMMMMMMMMMMMMMMMMM::::MMM:MMMM"                    ::   M: :"WW WWWWWWWWWWWWWWWWWWWWWWWWW    WWW WWWW
-MMMMMMMMMMMMMMMMMMMMMMMMMMMM::::MM:MMMM                      ":..::".:WWWWWWWWWWWWWWWWWWWWWWWWWWWW    WW WWWW
-MMMMMMMMMMMMMMMMMMMMMMMMMMM::::MM:MMMM                          """"WWWWWWWWWWWWWWWWWWWWWWWWWWW    WW WWWW
-MMMMMMMMMMM::MMMMMMMMMMMMMM:::MMM:MMM"          W  WWWW  WWWWWWWW   WWW WWW
-MMMMMMMM:::MMMMMMMMMMMMMMMMMMMMMM:MMM           WWWWWWW    WWWWWWWWWWW WWW
-MMMMMMM:MMMMMMMMMMMMMMMMMMMMMMMM:MMM        WWWWWWWWWWW     WWWWWWWW WWW
-MMMMM:MMMMMMMMMMMMMMMMMMMMMMMMM:MMM"      WWWWWWWWWWWWWW     WWWWWW WWW
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"     WWWWWWWWWWWWWWWW     WWWWWWWW
-MMMMMMMMMMMMM::MMMMMMMMMMMMMMMMMM"     WWWWWWWW  WWWWWW      WWWWWW
-MMMMMMMMMMMM::::MMMMMMMMMMMMMMMMM     WWWWWWW    WWWWWWW    WWWWWW
-MMMMMMMMMMM::::::MMMMMMMMMMMMMMMM   WWWWWWWW      WWWWWWWWWWWWWWWW
-MMMMMMMMMM:M:::MMMMMMMMMMMMMMMMMMWWWWWWWWWW W   WWWWWWWWWWWWWWWWWW
-MMMMMMMMMMMM::MMM:::MMMMMMMMMMMMMWWWWW  WWWWW  WWW   WWWWWWWWWWWWW
-MMMMMMMMMMM::MMM::::MMMMMMMMMMMMMWWW     WWW  WWW    WWWWWWWWWWWWW
-MMMMMMMMMMMMMMM::::MMMMMMMMMMMMMMWWW     WWWWWWW    WWWWWWWWWWWWWW
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"WWWW    WWWWWWWWWWWWWWWWW WWWWWW
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"WWWW  WWWWWWWWWWWWWWWWW    WWWW
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWW   WWWWWWWWWWWWWW     WWW
-MMMMMMMMMMMMMMMMMMMMMMMMMMMM"WWWWW    WWWWWWWWWW   W   WW
-MMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWW    WWWW    WWW   W
-         MMM:MMMMMMMMMMMM         WWW WWWWWWWW  WW
-         MMM:MMMMMMMMMMM         WWW WWWWWW WWWW
-         MMM:MMMMMMMMMM"         WWW WWWWWWWWWW
-         MMM:MMMMMMMMMM         WWW WWTWW   W
-         MMM:MMOMMMMMM"         WWW WWWWW  WW
-         MMM:MMMMMMMMM         WWW WWWW WWWW
-         MMM:MMMMMMMMM         WWW WWW WWWWW
-         MMM:MMMMMMMM"         WWW WWW WWWW
-        '   MMMMMMMMM            WW WW WWW
-        .  .MMMMMMMMM            WWWWWWWWW
-        .   MMMMMMMMM            WWWWWWWWW
-        .    MMMMM" :             WWWWW
-       .     MMMMM  .             WWWWW
-       .    .MMMM  .             WWWW
-      .     MMMMM  .            WWWWW
-     .     MMMMMM  .           WWWWWW
-     .    MMMMM"   .          WWWWW
-    .     MMMM     .          WWWW
-   .      MMMM     .          WWWW
-  .      MMMMM      .         WWWWW
-  .      MMMM       .         WWWW
-  .      MMM"        '.         WWW
-//.      MM"           '.         WW
-///      M"             .///////////         W
-////                    ./////////////////////
-/////////////          .//////////////////
-////////////////////////////////
-         /////////////////
-
-
-
-SDALE"
-
-WA3OHM, MCDONALD, PENNSYLVANIA
-
-
-
-
-
-
-
-
-
-------------------------------------------------------------------------
-

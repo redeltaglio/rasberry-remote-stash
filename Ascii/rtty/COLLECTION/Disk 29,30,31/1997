@@ -1,118 +1,0 @@
-
-WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW   TTTTTT  HH  HH  EEEEEE     MM     MM   OOOO    SSSSS   TTTTTT  WWMM                                                                  MM
-WW     TT    HH  HH  EE         MMM   MMM  OO  OO  SS         TT    WWMM                                                                  MM
-WW     TT    HHHHHH  EEEEE      MMMM MMMM  OO  OO   SSSSS     TT    WWMM                                                                  MM
-WW     TT    HH  HH  EE         MM MMM MM  OO  OO       SS    TT    WWMM                                                                  MM
-WW     TT    HH  HH  EEEEEE     MM  M  MM   OOOO    SSSSS     TT    WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW    DDDDD   II  FFFFFF  FFFFFF  II   CCCCC  UU  UU  LL   TTTTTT   WWMM                                                                  MM
-WW    DD  DD  II  FF      FF      II  CC      UU  UU  LL     TT     WWMM                                                                  MM
-WW    DD  DD  II  FFFFF   FFFFF   II  CC      UU  UU  LL     TT     WWMM                                                                  MM
-WW    DD  DD  II  FF      FF      II  CC      UU  UU  LL     TT     WWMM                                                                  MM
-WW    DDDDD   II  FF      FF      II   CCCCC   UUUU   LLLLL  TT     WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW   TTTTTT  HH  HH  II  NN   NN   GGGG     TTTTTT  HH  HH  EEEEE   WWMM                                                                  MM
-WW     TT    HH  HH  II  NNN  NN  GG          TT    HH  HH  EE      WWMM                                                                  MM
-WW     TT    HHHHHH  II  NNNN NN  GG GGG      TT    HHHHHH  EEEEE   WWMM                                                                  MM
-WW     TT    HH  HH  II  NN NNNN  GG  GG      TT    HH  HH  EE      WWMM                                                                  MM
-WW     TT    HH  HH  II  NN  NNN   GGGG       TT    HH  HH  EEEEE   WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW    WW   W   WW   OOOO   RRRRR    LL     DDDDD       II   SSSSS   WWMM                                                                  MM
-WW     WW WWW WW   OO  OO  RR  RR   LL     DD DD       II  SS       WWMM                                                                  MM
-WW      WWW WWW    OO  OO  RRRRR    LL     DD  DD      II   SSSSS   WWMM                                                                  NU
-WW       WWWWW     OO  OO  RR  RR   LL     DD  DD      II       SS  WWMM                                                                  MM
-WW        W W       OOOO   RR   RR  LLLLL  DDDDD       II   SSSSS   WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW     TTTTTT   OOOO       KK  KK  NN   NN   OOOO  WW   W   WW      WWMM                                                                  MM
-WW       TT    OO  OO      KK KK   NNN  NN  OO  OO  WW WWW WW       WWMM                                                                  MM
-WW       TT    OO  OO      KKKK    NNNN NN  OO  OO   WWW WWW        WWMM                                                                  MM
-WW       TT    OO  OO      KK KK   NN NNNN  OO  OO    WWWWW         WWMM                                                                  MM
-WW       TT     OOOO       KK  KK  NN  NNN   OOOO      W W          WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW   HH  HH   OOOO   WW   W   WW   TTTTTT  OOOO     DDDDD    OOOO   WWMM                                                                  MM
-WW   HH  HH  OO  OO   WW WWW WW      TT   OO  OO    DD  DD  OO  OO  WWMM                                                                  MM
-WW   HHHHHH  OO  OO    WWW WWW       TT   OO  OO    DD  DD  OO  OO  WWMM                                                                  MM
-WW   HH  HH  OO  OO     WWWWW        TT   OO  OO    DD  DD  OO  OO  WWMM                                                                  MM
-WW   HH  HH   OOOO       W W         TT    OOOO     DDDDD    OOOO   WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW            AA         TTTTTT   HH  HH  II  NN   NN   GGGG        WWMM                                                                  MM
-WW           AAAA          TT     HH  HH  II  NNN  NN  GG           WWMM                                                                  MM
-WW          AA  AA         TT     HHHHHH  II  NNNN NN  GG GGG       WWMM                                                                  MM
-WW         AAAAAAAA        TT     HH  HH  II  NN NNNN  GG  GG       WWMM                                                                  MM
-WW        AA      AA       TT     HH  HH  II  NN  NNN   GGGG        WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW            AA      NN   NN  DDDDD         TTTTTT   OOOO          WWMM                                                                  MM
-WW           AAAA     NNN  NN  DD  DD          TT    OO  OO         WWMM                                                                  MM
-WW          AA  AA    NNNN NN  DD  DD          TT    OO  OO         WWMM                                                                  MM
-WW         AAAAAAAA   NN NNNN  DD  DD          TT    OO  OO         WWMM                                                                  MM
-WW        AA      AA  NN  NNN  DDDDD           TT     OOOO          WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW         WW   W   WW     AA      TTTTTT   CCCCC    HH  HH         WWMM                                                                  MM
-WW          WW WWW WW     AAAA       TT    CC        HH  HH         WWMM                                                                  MM
-WW           WWW WWW     AA  AA      TT    CC        HHHHHH         WWMM                                                                  MM
-WW            WWWWW     AAAAAAAA     TT    CC        HH  HH         WWMM                                                                  MM
-WW             W W     AA      AA    TT     CCCCC    HH  HH         WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW       SSSSS      OOOO   MM     MM  EEEE   OOOO   NN   NN  EEEEE  WWMM                                                                  MM
-WW      SS         OO  OO  MMM   MMM  EE    OO  OO  NNN  NN  EE     WWMM                                                                  MM
-WW       SSSSS     OO  OO  MMMM MMMM  EEEE  OO  OO  NNNN NN  EEEEE  WWMM                                                                  MM
-WW           SS    OO  OO  MM MMM MM  EE    OO  OO  NN NNNN  EE     WWMM                                                                  MM
-WW       SSSSS      OOOO   MM  M  MM  EEEE   OOOO   NN  NNN  EEEEE  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                  EEEEE   LL       SSSSS    EEEEE                 WWMM                                                                  MM
-WW                  EE      LL      SS        EE                    WWMM                                                                  MM
-WW                  EEEE    LL       SSSSS    EEEEE                 WWMM                                                                  MM
-WW                  EE      LL           SS   EE                    WWMM                                                                  MM
-WW                  EEEEE   LLLLLL   SSSSS    EEEEE                 WWMM                                                                  MM
-WW                                                                  WWMT                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW      DDDDD    OOOO   II  NN   NN   GGGG       II  TTTTTT         WWMM                                                                  MM
-WW      DD  DD  OO  OO  II  NNN  NN  GG          II    TT           WWMM                                                                  MM
-WW      DD  DD  OO  OO  II  NNNN NN  GG GGG      II    TT           WWMM                                                                  MM
-WW      DD  DD  OO  OO  II  NN NNNN  GG  GG      II    TT           WWMM                                                                  MM
-WW      DDDDD    OOOO   II  NN  NNN   GGGG       II    TT           WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW           WW   W   WW   RRRRR    OOOO   NN  NN    GGGG           WWMM                                                                  MM
-WW            WW WWW WW    RR  RR  OO  OO  NNN  NN  GG              WWMM                                                                  MM
-WW             WWW WWW     RRRRR   OO  OO  NNNN NN  GG GGG          WWMM                                                                  MM
-WW              WWWWW      RR  RR  OO  OO  NN NNNN  GG  GG          WWMM                                                                  MM
-WW               W W       RR   RR  OOOO   NN  NNN   GGGG           WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW     WW   W   WW   II  TTTTTT  HH  HH   OOOO   UU  UU  TTTTTT     WWMM                                                                  MM
-WW      WW WWW WW    II    TT    HH  HH  OO  OO  UU  UU    TT       WWMM                                                                  MM
-WW       WWW WWW     II    TT    HHHHHH  OO  OO  UU  UU    TT       WWMM                                                                  MM
-WW        WWWWW      II    TT    HH  HH  OO  OO  UU  UU    TT       WWMM                                                                  MM
-WW         W W       II    TT    HH  HH   OOOO    UUUU     TT       WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW    CCCC   OOOO   MM     MM  MM     MM  EEEE  NN   NN  TTTTTT     WWMM                                                                  MM
-WW   CC     OO  OO  MMM   MMM  MMM   MMM  EE    NNN  NN    TT       WWMM                                                                  MM
-WW   CC     OO  OO  MMMM MMMM  MMMM MMMM  EEEE  NNNN NN    TT       WWMM                                                                  MM
-WW   CC     OO  OO  MM MMM MM  MM MMM MM  EE    NN NNNN    TT       WWMM                                                                  MM
-WW    CCCC   OOOO   MM  M  MM  MM  M  MM  EEEE  NN  NNN    TT       WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WW                                                                  WWMM                                                                  MM
-WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-
-
-                              BE QUIET
-
-        FOR RTTY BY RALPH, K6YCS, INGLEWOOD, CA.  DATE 22-JUNE-91
-

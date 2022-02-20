@@ -1,274 +1,0 @@
-
--------------------------------------------------------------------------
-
-
-
-
-
-                                                       ,MIIIMMMIIIIIMMII                                                         OHHWWOHOOOO  OO
-                                                    ,XXHMIIIIMHXXHHHHHXX                                                         HHHO
-                                                  ,IYXHIIIHXXXXXXXXXHHHX                                                       OOO
-                                                ,:IYXXXMHXXXHHHMMIIIMHHH                                                                 OOO
-                                               ,;IYYYXHYYXHHIIIMMMMHXXYY                                                            OOO
-                                            ,:;IIIXXXYYHMIIIIIIIIIIIIIHX                                                         OOOOOOHHHHHOO
-                                            ,:;IYYXXXHMIIMIIIIIIIIIIIIII                                                       OO OOHHHHHHHHHHHO
-                                          ,::;;;YXHMIMMIIIIIIIIMMIIIIIII                                                    O  OOOOOHHHOOHHHHHHO
-                                         ,:::;IXIIIIMIIIIIIIIMMMMMMMMIIM                                                OHHO OOHHHHHHOWOOWWWOHO
-                                          ,:;XHIIIIIIIIIIIMMMMMMMMMMMMMM                                               HOOOOHHHHHHOOOWWWWWWWWWWO                                                              OOOOOOOO
-                                        ,:IYXIIIIIIIIIIIIIMMMMMMMMMMMMMM                                             OOHOOHHHHHHHHWWWWWWWWWWWWWW                                                           OOOOOOOOOOO
-                                       ,:IHIIIIIIMIIIIIIIMMMMMMMMMMMMMMM                                           OHHHOHOHHHHHOHWWWWWWWWWWWWWWW                                                         OOOOOOOOOOOOOOO
-                                     ,::XHIIIIIIIIIIIIIIIMMMMMMMMMMMMMMM                                          HHHOOHHHHHOOOHHOWWWWWWWWWWWWWW                                                           OOOOOOOOOOOOO
-                                    ,:YXIIIIIIIIIIIIMIIIMMMMMMMMMMMMMMMM                                        OOOOOHHHHHOO OHHOWWWWWWWWWWWWWWW                                                          OOOOOOOOOOOOOO
-                                  ,:;YMIIIIIIMMMIIMIIIIIIIMMMMMMMMMMMMMM                                       OOOHHHOOOHO OHOOOOHWWWWWWWWWWWWWW                                                           OOOOOOOOOOOOO
-                                  ,YXIIIIIIIIIIIIIIIIIIIIMMMMMMMMMMMMMMM                                     OOOOOHHHHHHHHHHOOOHHOWWWWWWWWWWWWWW                                                           OOOOOOOOOOOOO
-                                 ,,XHIIIIIIMMIIMIIIIIIIIMMMMMMMMMMMMMMMM                                     HOOHHHOOHO OOOOOHHHOWWWWWWWWWWWWWWW                                                         OOOOOOOOOOOOOOO
-                                ,IXIIIIIIMMMIMIIIIMIIIIMMMMMMMMMMMMMMMMM                                   HHOOOHOWOH OHOO OHOOWWWWWWWWWWWWWWWWW                                                       OOOOOOOOOOOOOOOOO
-                               ,YMIIIIIIMMMIIIIIIIIIHMMMMMMMMMMMMMMMMMMM                                  OHHHHHOOOHHHHOOOHO OWWWWWWWWWWWWWWWWWW                                                      OOOOOOOOOOOOOOOOOO
-                              ,;HIIIIIIIMMIIIIMHMMHIMMMMMMMMMMMMMMMMMMMM                                 OHHHHHHOOHHHO     OWWWWWWWWWWWWWWWWWWWW                                                     OOOOOOOOOOOOOOOOOOO
-                            .,XXHMIIIIIIIIIIIYXHHHIIIMMMMMMMMMMMMMMMMMMM                                  OOOHHHHHHHH     HHHOWOWWWWWWWWWWWWWWWW                                                        OOOOOOOOOOOOOOO
-                            ;YHMIIIIIIIIIMMIHXXHMIIIIIIIMMMMMMMMMMMMMMMM                                OOOHHHHHHOWO     OOOHHHHOWWWWWWWWWWWWWWW                                                         OOOOOOOOOOOOOOO
-                           .IXMIIIIIIIIIMIIMHHMIIIIIIIIMMMMMMMMMMMMMMMMM                               OHHHHHHHHOHO    OHHOOOOOWWWWWWWWWWWWWWWWW                                                         OOOOOOOOOOOOOOO
-                          .:YHIIIIIMMMIIIIMMMIIIMHHHHIIMMMMMMMMMMMMMMIII                              OOOHHOOOHHHO   OOO     OHWWWWWWWWWWWWWOHHH                                                       OOO  OOOOOOOO
-                         .:YXHIIIIMMMMMMIIIIIIMXXXXXHIMMMMMMMMMMMIIIIIII                              HHOHOOOOWWHHOHHO       HWWWWOOWWWWWHHHHHHH                                                       OO   OOOOO
-                         ,;XMIIIIMMMMMIIIIIIIIMXYYYHIMMMMIIMMMMIMIIMMMII                             OOOHOWWWOHHOOOHHO      HWWWOOHOWWOO HO   OO                                                      O
-                       . :IHMIIIMMMMMIIIIIIIIHXYYYIIMMMHMIIIIIIIIXXXXXII                             OHHOOOOOHHHOOHOO     OHWWW  OHHHHOHH     OH                                                    OOO
-                      ..,IYMIIIIMMMIIIIIIIIIIXXYXHIMMIIXHMHHHMIHXYYIXHMM                            OOHHOOOHHHHHHHHOO     HOWHO       O       WW
-                       .,XHIIIIMMMMIIIIIIIMHHXXYXHIIIXYXXHHHMHYII,;XMIIM                           HHHHOWWWHHHHHHO        HHO                OHO
-                      ..,HMIMMIIMMMIIIIIIIIMHXXXHMHHXYYXXXMIXY;:,IYXXXIM                           HOOHHOOOHHHHHOOH                O          HO
-                       ;YIIIMMMMIMMIMMMIIIIMHYYYXXXXYYYYXHXY;:,;I;IYXHII                         OOHOOOOHOOHOWOHHHO                           OO
-                      .IXIIIMMIMMMMMMIIIIIMHXYYYXXXYIIIYYXYI,,,::;IYXXMM                         OOHOOHOWOOWOHHHHO
-                     .:HIIIMMMMMMMMIIIMMIMHXYYYYYYYI:::XY:,,   ,:,,:IYYY                        OHHOOOOOOWWHHHOOO
-                    .,YMIIMMMIIMMMMIMMMIIMXXXXXXYY,,,IYI;:,.,,:,,,,,:;,:                        OHOWOHHOWWWHOWOHO                                O
-                    ,;XIIMMMMMMMMMIMMIIIXXHXXHXY:,,,:IY::,,,::,. . ... .                       OHOOWOOWWWOHWOHOO                              OO
-                    ,IIIIIIMMMMMIMMMMIHXXHMHHYYI:,::;;;;:,;I::,..                      OHHHHOWWWWHOWWWO                              O    O
-                   .YHIIIMMMMMMMMMMIIIMHIIMHHYYIII::;:::;YII,,..       .                      HHHWWWWWOOWOOHHO  OO
-                    XHIMMMMIMMMMMIIIMHMIIIMHXYI;::;;I;;:;Y:,...       .                      HOOOOHOOWWOHHO   OHO
-                  .,MIIMMIIMMMMMIIIIIIIIHMIHXYYI;:;;;::;:,,,....                     OHOOHHOWWOOHOOOOOHH  O
-                  ;YIIIMMIIIIIIIIIIMMIIIIMHXYIIIYYYI:::I;,,,,,,   . . .                    HHHOOHHHHHOOOOO  OOOO
-                 .IXIIMMMIIMIIIIIMMIIIMMIMXYYYYYYYIIIYYI;,::::,. ....,..                    HHOOOHHOHHOOO  OOO  O
-                  ;XIIIIIIIIIIMMMIIIIMIIXXYYYYYXXXYYYYYIII;;:, ., .,,,,.                    HHHHHHHHOO   OOOO OO
-                 :HIIIIIIIIIMMMMMMMMMIMHXXXYYYXHXXYYXYYYYYII:, .,..:,,..                   OHHHHHHHO         O
-                ,YMIIIIIIIMHMMHHHHHIMHXXYYYYYHHHXXXXXYYXXYII,,,,,,,:,,..                   OOOOOOO         O
-               YXIIIIIIIIIMHXXMMIIIHXYYYYYYXXMHXXXXXYXXHXYI;,,:,,,,:,,,.                 OHHOOOHHO      OOO
-. . .       ..,HMIIIIIIIIMMHMIMMMHXYYYYYYYYXHHHHXXXXYXHXYIII:::,,;;:,,,.                 HHHHHHOO    O
-   .,..... .,IXMMIMMHHMMMMMHHHHHXYYYYXYYYXHMIHHXXXXXXHHXYI;;III;;II;:,..                 O                          O
-      .,:::;XHHHHHXXHHHHHHHHXYYYYYYXXYYYXHMHHHHHXXXXHHHYYYYYYXIMHXXXYI,.                                                              O
-     . ..,IIYXXXXYYYYYXXXXXYXXYYYYYXXYXHIMHXXXXXXXHMIMHXXYXHIIIIIIMMMIIM                                        O           O       HHHHHHOWOHO
-      .,::YYXHMIMHXXXXXXXHHXXXHHHHHHHHHHXXYYYYYXHHIIIMHHHHXXMMHHHHHHIIIM               O                                  HHO               OHO
-     . .,,XHMMMIIIIIIIIIIIIIIIIIIIIIIXYYIIIYYHMIIIIMHHHXXYYY::,,,,,,::;;               OOHHHOOOOOHHHHHHHOOOHO          OHHO
-      .,IXMIIMMMMMMMMMMMMMMMMMMMMMIMMIMHIIIIIHMIIIYYIIIIIIIIIIYXXYYI;:::           OHOOWWWWWWWWWWWWWWWWWWOHWOH  OOHOO  HOO                 OOOOOOOOOOOOOOO
-     ,:;IYHMIMMMMMMMMMMMMMMMMMMMMMMMMMMMIIHHHHMIHXYI;IYXHIIMMMMMMMMMMIXY            HOOWWWWWWWWWWWWWWWWWWWWWWWWWHO     O         OHOWWWWWWWWOH                 OOOOOOOOOOOOOOOOOO
-   .,::,;IHMIMMMMMMMMMMMMMMMMMMMMMMMMMMMIMHXXHHXYYXXHIIMMMMMMMMMMMMMMMMI            HOWWWWWWWWWWWWWWWWWWWWWWWWWWO            OHWWWWWWWWWWWWWWWWH                 OOOOO OO   OOOO   OOOOO               OOOOOOOOOOOOO
- ..,,,,:IYMIIMMMMMMIIIIIIMMMMMMMMMMMMMMIHHHHHXYIYXMIMMMMMMMMMMMMMXMMMMMM           OHOOWWWOHHHHHHWWWWWWWWWWWWWOH           HWWWWWWWWWWWWW  OWWWO               OO          OOOOOOOOOO               OOOOOOOOOOOOO    O
-.   .,,:IYIIIMMMIIXYIYXIMMMMMMMMMMMMMIIIHHHMMI;:YXMMMMMMMMMMMMMMI,,:YHIM          OOHOOOHO     OOWWWWWWWWWWWWHOO          WWWWWWWWWWWWWOH     O                         OOOOOOOOOOO              OOOOOOOOOO
-   ..,:;YXIMMMMIMYIIXHIMMMMMMMMMMMMIIIMHHHXXX::,::MMMMMMMMMMMMMMMIIMMMHX          HOWWWO      HWWWWWWWWWWWWHHO            WWWWWWWWWWWWWOOHO                        OOOOOOOOOOO               OOOOOOOOOO
-. . .::;YXIIIHXYI:YXIIIMMMMMMMMMMMMIIIMHXXXYY,,,::YYXYYXXYXXHHXHHXXYII;:          HHH       HHHOWWWWWWWWWWWHHO                         OOOOOOOOOO
- ....IIYHMIMHI;IYXIIMMIMMMMMMMMMMMMIIIMHHHXYY,,,,,:::::,,,,,,,,,,::;II;;          O       OHOOHOWWWWWWWWWWWHHO                         OOOOOOOO
-. ...;IXHMYI;IYIIIIIIIMMMWB8TMRMMMMIIIMMHHXYY,,,,,...,,,,.. ,,,:::::::II               HHHOOOHOWWWWWWWWWWWWHHO                        OOOOOO  O
-.. .,IYXYYYXHIMIIHXXMMMMWB8TMRMMMMMIIIMMXXYII::,,, . ..,,,,,,,,,,,,:;;;;             HOHO   WWWWWWWWWWWWWWWHHO                      OOOOOOOOOOO
-. .,:IIIYXIMMIHYYXIMMMMMMMMMMMMMMMMIIIIIXXXYY;;:,,.....,,,,,:::::::;;;::          HOWO    HWWWWWWWWWWWWWOOOHHHOO                    OO OOOOOOOO
-..,:;IYHIMMMIXIIIMMMMMMMMMMMMMIIIIIIIIIIHHXYY;;:,,,,.. ,,,:::;IYYI;:,,,,        HWWOO  HHOWWWWWWWWWWWWOOHHHHHOOO                      OOOOOO
-.,:;IHIMMIIMXMIIIMIIMMMMMMMIIIYYXMIIIIIIXXXYY;;:,,,,,,,,,,::;;:::::,..,.      OWOHO   OOO OHWWWWWWWHOO    OHHHOO       O            OOOOOOOMMOMOMMOM
-,:IYXIIIIIXHIIIHHHIIMMMMMXXXXXIYXHMIIIIIMHXYI;;:::,,,....,,,,,,,,,,,.. .     HHHOO  OOO   OHWWWWW          OOOHH                    OOOOO
-,;XHMIIIMHIIIMHXHIMMMMMMMIIXHHYYYXXHMIIIIMYYYI;:::,,,.. . . . ..... . .     HHO  OOH    HWWWWWWWHO          OHHO                   OOOOOO
-YXMIIIIHIIIIHXXIMMMMMMMMMMIYHMHHXYYMIIMMIMXYYIII;:::,.   OHHO OHHO   HOWWWWWWWWWH         OHOOO                 OOOOOOOOO
-HMIIIMMIMMHHHIMMMMMMMMMMMMMIHXIMHIIIIIMMIIXYYYYI;;,,,..             ..,,  OHH  O     HWWWWWWWWWWWWWH  O  OHOOHOWHO               OOOOOOOOOOO
-IIIMMMMIIIIIMMMMMMMMMMMMMMMMIHHXYXXIIIMMIIHXYYYI;:,,..           ..,,,::OOO    OOOOHWWWWWWWWWWWWWWWWO      OOHOWHO             OOOOOOOOOOOOOOO
-MMMHHMMIIIMMMMMMMMMMMMMMMMMMIIYI,::XHIMMIIHXYYYI:,,.. .       . .,,,,,::       OOOWWWWWWWWWWWWWWWWWWHO       HOOHO          OOOOOOOOOOOOOOOOOO
-IIIMHMMIIIMMMMMMMMMMMMMMMMMMMMYI,::XMMMMIIHXXYYI;:,,..         .,.   .,,OOO    OHHWWWWWWWWWWWWWWWWWWWW       WWWHO          OOOOOOOOOOOOOOOOOOOO
-IIIMMIMMMMMMMMMMMMMMMMMMMMMMMMXY:;IXMMMMIIMXYYI;:,...       ..,,,   . ,,OOHOOHOWWWWWWWWWWWWWWWWWWWWWWW       WWWHO        OOOOOOOOOOOOOOOOOOOOOO
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMIYI;YHMMMIIHXXYI;::,,.. . . .,,,... . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWH     WWWHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO       OO
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMIY;:;YIMMIIHXXYYI;:,.. . . .,::,.. . . ,,WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWH     HWWHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO        O
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXYHIMMIIXYYII;::,,.,,..,:::::,,.......WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW    HWWHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO      O
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMIIHXY;;I;:::,,,,:YII,,,,,,,,,,,,WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXYY;;:::::,,,:;YII:::,,:::::,,WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMHYI::,,,,,,..:;XHMIMMMMIIIIIMHWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWO                  HOWWWHHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                     O
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXYI::,,,,,.. ,:IYYMIIIIYYIII,,WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWO                   OHHHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMIXI::,,,...   .;::YXMMM,.WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMIHY::,,,,.   ..,:::;XMIYI:..WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWH                     OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMY;:,... .   .,::,:;YXMIIHX,.WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                       OHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMIHI;,.. .     ..,,,,::XXHIIIIWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWO                        OHHHOOOOO   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-MMMMMMMIMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMIYI:,....     .,,,,::YYXHHMMWWWWWWOHOOOWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWOHOOOOO       OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-MMMMMIIIIIMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMIYI:,,....     .,,,::::;YXHHWWWWWHHHHHWWWWWWWWWWWWWWWWWWWWWWWWWOOOWWWWWOHOOOOO     OOOOOOOOOOOOOOOOOOOOOOOOO    OOOO
-MMMMIHMIMMMMMMMMMMMMMMMMMMMMMMMMMMMHMIMMMMMMMXY;:,,,,..   ..,,:::::,::YYWWWOH  OOWWWWWWWWWWWWWWWWWWWWWWWWWW  OWWWWWWOOOO       OOOOOOOOOOOOOOOOOOOOOOOOO    OOOO
-MMMMIHHHMMIMMMMMMMMMMMMMMMMMMMMMMMMIIMIIMMMMMIMY;:,,,,,.   .,,:::,,,,,,,WWWOH     HOWWWWWWWWWWWWWWWWWWWWWWWOO OHWWWOOOOOO          OOOOOOOOOOOOOOOOOOOOOO     OO
-MMMMMIIIIIMMMMMMMMMMMMMMMMMMMMMMMMMIIIIIMMIIIIMX;:,,,,, .   ,,::::::,,..WWWWWHHOHHOOWWWWWWWWWWWWWWWWWWWWWWWHHOOOWOHHHOOOOOO        OOOOOOOOOOOOOOOOOOOOOO
-MMMMMIIIIIIMMMMMMMMMMMMMMMMMMMMMMMMMMIIIMIHMIMMHXY::,,,,..  .,:;;:::,,,.WWWWWHHOOOHOWWWWWWWWWWWWWWWWWWWWWWWWOHOOWH  OOOOOO        OOOOOOOOOOOOOOOOOOOOOO
-MMMMMMMIIMMIIMMMMMMMMMMMMMMMMMMMMMMMMIIIMIYXHHHMXYI;,,,,,.. ..,:::::::,,WWWWWWWHO  OHWWWWWWWWWWWWWWWWWWWWWWWWHHHWHOOOOOO        OOOOOOOOOOOOOOOOOOOOOO
-MMMMMMMMMMMMIMMMMMMMMMMMMMMMMMMMMMMMMIIIMMXYYHHHHHYI;:,,,,.. .,::::,,,,,WWWWWWWWWO  OOWWWWWWWWWWWWWWWWWWWWWWWHHHWOOOOOOOOO       OOOOOOOOOOOOOOOOOOOOO    O
-MMMMMMMMMMMMIIIMMMMMMMMMMMMMMMMMMMMMMIIIMIXYYXXHHHYYI:,,,:,,. .,:,,:::,,WWWWWWWWWWWOOHHWWWWWWWWWWWWWWWWWWWWWWHHHWHOOO  OOOOO       OOOOOOOOOOOOOOOOOOO
-MMMMMMMMMMMMMMIMIMMMMMMMMMMMMMMMMMMMMMMIMIHXY;IXHHXYI;:,,:,, . .,::,,,,,WWWWWWWWWWWWWOH OOWWWWWWWWWWWWWWWWWWWWOHWHOOOOO  OOOOOO      OOOOOOOOOOOOOOOOOO
-MMMMMMMMMMMMMMMIIIIIMMMMMMMMMMMMMMMMMMMMMIXYI:;IYYYYY;:::,::,...,::,..,,WWWWWWWWWWWWWWWHHOHHWWWWWWWWWWWWWWWWWWWWWH  OOO  OOOOOOOO     OOOOOOOOOOOOOOOOO OO
-IMMMMMMMMMMMMMMMMMMIIMMMMMMMMMMMMMMMMMMMMMHYI::,IYYYI;;::,,,::,..,,,,,..HOWWWWWWWWWWWWWWWWOHHOWWWWWWWWWWWWWWWWWWWO  OOOOOOOOOOOOOOO      OOOOOOOOOOOOOOOOOO
-IMMMMMMMMMMMMMMMMMMIIIMMMMMMMMMMMMMMMMMMMMHXY::,,,YYYII;;;:::::,,,,,...HOWWWWWWWWWWWWWWWWOHHHOWWWWWWWWWWWWWWWWWWO  OOOOOOOOOOOOOOOO      OOOOOOOOOOOOOOOOO
-HIMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMIMXYY::,,,,:YYYYYI;;,,,::,,,.. . OWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWO   OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMHHXYY,,,. ..,;IIII;:::,::;:,,,.  OWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW    OOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOO
-XHIMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMIXXYII::,.. ..,:IIIII;;:::,:;::,,  OOWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWOH     OOOOOOOO  OO     OOOOOOOOOOOOOOO
-YXHIIMMMMMMMMMMMMMMIIIMMMMMMMMMMMMMIIIIIHXYI;::,... . .::,,,::;:::::::;;   OHWWWWWWWWOOWWWOHHHOWWWWWWWWWWWWHHOOO                        OOOOOOOOOOO
-YYXMIIMMMMMMMMMIMMMIIIIIIIMMMMMMMMMIMHXXMHYI;:::,, .   .,:,.,,,::II;::::    OHOWWWWWOOOHOWOHOOOOOHOWWWWWWWWO                            OOOOO
-;IYXHIIIIIMMIMMMMMIIMMMMMIIIMMMMMMMIMHXXXXYI;::,,,... . .,,,    .,,:::::     OOHHHOOHOOOOOHH     OOHOWWWWWWO                              OOO
-:;YXXHMIIIIIIIIMMIIIHHXHHHHMIIMMMMIHHXYYYYXYI::,,,.. .    .,,.     ..,,,       HHHHHHHHOOHHH        OHWWWOH                                O
-:;IYYHMIIIIIIMMMMIIIHHXXXXXHMIMMMMMIMXXXIIIII;;:,,... .     ...       OOOOOHOOOOHOO         OWWWWWO                                O
-::;IYXXHMMIIIMMMMMIIXXXYYYYYHMIMMMMIMXYYYI;;;I;:,,,,.. .          HHHOOWWWHO          HOWWWO
-,:;IIYXHMMIIIMMMMMIIHHXYYYYYXXIMMMMIIHXYII;::;;:,,,,... .       .          OOHOOWWOHH          HOWWWHO
-,,:;;IYXXXMMIIIMMMMMIMXYYIIIYXMIIMMIIMXYYI::::::,,,,......           .            OHHOOWOOO          OHOWHO
-,,,::IIYXXHHHMIIIMMMIIHXYIIIYYHMIMMMIMHXYI;:::::,,,,. ....... . . .              OHHOWWHO          HOOOH
-,,,,,:;IYXXXHMMIIIMMMMIHXIIIYYXHIMMMIIHXYYI;:,,,,,,,...,,....... . ... .               HHHOOOOH         OWWOHO                                  O
-,,,,,::;IYXXXHHIIIMMMMIIIYI;;;XHIIIIIIHXYI;::,,,,,,,.,,,,...,,... ......               OOHOOWOHOO       OHHHHO
-,,,,,:::;IYYXXXHMIIIMMMIIXYI;;YXMIIIIHXXYYI:,,,,,,..,..,,,,,,,,,,..,,,..                 OHHWWOHH        OHHO
-..,,,:::;;IIYXXXHMIIIIIMMIMYI;IYMIIIMHXXYI;::,,,,,..,,,,,,,,,,,,,,,,,,..                  OOHHHOOO       OHO
-,,,,,:::;IIIYYYXXXHMIIIIIIIXYIYXHIIMMHXYYI:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,                    OOHHHHO      OH
-,,,,,:;IIIYYIYYYYXXXHHMIIIIIXYYXMIIXXYYYI;:::::,,,,...,,,,,,::,,,,,,,,..                       OHHHO     OH
-,,,,,:::;I;;IYYXXXXXHHHMIIIIIMXHMIIYYYIII;:::,,,,,,,,,,,,,::::,,,,,,,,,,                        OHHHO    OO
-,,,,,:::;;IIIYYIIYYYYXHHHMMIIIIIMIIYYYYYYYI::::,,,,,,,,,,::::::,,,,,,,,,                           OHHOO OO
-,,,:::::;;IIIIIYYIYYYYXXXHMIIIIIIIIYYYYYYYI;:,,:::,,,,,::::::::,,::,,,,,                           OHHHHOOO
-
-
-                                                                     KER
-
-
--------------------------------------------------------------------------
-
-
-KERRY - 03/30/85
-             RTTY PHOTO - BY DAVE,WB8TMR,N.RIDGEVILLE,OHIO....
-
-
-
-
-
-
--------------------------------------------------------------------------
-
-
-
-
-
-MMMHHXYY::,. ...,,
-YYYYYI:,            .
-YII;;:..              .
-XYY::,.                 .
-YYY,.          ,:::;I,     .
-YII,.         .YYYYXHYI:,   . .
-HYI,.         .YXHHHMXYII;..    .
-HXY,. . :::,,,;HXXIIIHYIII:,     .                  OOH
-HHHYI,::YYXXXHIMMMIIIMHXXXYY,.    .              OWWWHHO                OO
-IHXHXYYYHHHHHIMMMMMMMMMMIIHX,.     .H            HOWWWWWWWWOHO               OOOOOOOO
-MMIXXXXXHMMMMMMMMMMMMMMMMIHXI;,.WOH       OWWWWWWWWWWWWWWH            O  OOOOOOOOO
-MMMIIXHHIIMHYXHIMMMMMMMMMMIIYI,WWWHO   OHO    HOWWWWWWWWWHO                  OOOOOOO
-MMMIIIIIIIHXXXY;YXMMMMMMMMMMY;WWWHHOOOHO        WWWWWWWWWOOOO               OOOOOOOO
-MMIIMYXXIIIII     XMMMMMMMMMIMY.WOHO    HHHHH       WWWWWWWWHO                   OOOOOOOO
-MMIYYIHIIIMXY      :MMMMMMMMMMIHYWOH    OOO          OWWWWWWWWOHO                     OOOOOO
-MMI:;XMIIIIXI:,   XMMMMMMMMMMMMMX,.WOH    OHHO         WWWWWWWWWWWO                   OOOOOOOOOO
-MMMMMIMMMMIMMY;   XHIMMMMMMMMMMMMY;WWOOOHOWWOO         HOOWWWWWWWWWWO                      OOOOOOOOOO
-MMMMMMMMMMIIMXI,::XHIMMIMMMMMMMMMIYWWWWWWWWWWHO        HOWHOWWWWWWWWOOOOOOOOOO                OOOOOOOO
-MMMMMMMMMMMIIXY:YH,;XIMHHMHHXMMMMMIY.WWWWWWWWWWWHO        OO       WWWWHOOOOOOOO                       OO
-MMMMMMMMMMMMMIIHXX:::YXXXY:, .YIMMMM;WWWWWWWWWWWWWHO                HWWWWOOOOOOOOOOOOO                    OOO
-MMMMMMMMMMMMMMMMHYIIYMIYI,     XIMMMMYWWWWWWWWWWWWWWWW      H         HWWWOOOOOOOOOOOOO                    OOO
-MMMMMMMMMMMMMMMMIIIIIMMIH,.    ;YMMMMM,.WWWWWWWWWWWWWWWWHOOOHOWH         OWWWWOOOOO OOOOOOOOOO                   O
-MMMMMMMMMMMMMMMIIIMMMMIIH,       MMMMMY;WWWWWWWWWWWWWWWHHHOOWOHH         OOOOOOOO  OOOOOOOOO
-MIIMMMMMMMMMMMMIMMMMMMMMIH,      IIXIIHIOHHWWWWWWWWWWWWHWWWWWOOWH        HO OH     OOOOOOOOO   OOO
-IMMMMMMMMMMMMMMMMMMMMMIMMIY:     YYYXXX;HOWWWWWWWWWWWOWWWWWWWOHWWH   OOOOOOOOOO  OOOOO   O
-IMMMMMMMMMMMMMMMMMMMMMIMMIHX,.   ::,IYXI,HWWWWWWWWWWWWWWWWWWWWOHOOH  OOOOOOOOOOO  OOOOOO
-MMMMMMMMMMMMMMMMMMIIIIIIIHHHY; .,:, ;XHY,.WWWWWWWWWWWWWWWWWWHHHOOHOOOOOOOOOOOO  OOOOO
-MMMMMMMMMMIMMMMIMMMMIMMIMHXXYI,IYY; ;XYI,WWWWWWWWWOHOWWOHOOWOO  OOOOOOOOO
-MMMMMMMIIIIIIIIIIIIIHMMHHXYI;:,IY:,.:IYI,.WWWWWWOHOOHHHOOOHHHO OO
-MMMIIIIIXHIIMXHIIIYYIYYYYY:,,. ,:,,,..:,.WOOHHOOO  HO   OOO
-IIIMMMHXHHXYYXXHXY:::;;IIY:,.. .,,,,,,:,HOO
-HMMHHXYIYYI;:III;:,,,,,,,,. . ..,,,,,,,..
-IYYI;:;;::,::,,,,,...,,..,,,,.   ,....,.
-;::,,,,,..,,,.... . . ...,,,,.    .     .         .
-,.   . . . . .   .   . ,,:,,,.   .     .,..      .,.
-.       . .          .,,:;:,,.   ,.   ..,,, .     . .
-                   .,,,::;:::,   ,,.   ..,,.     .Y;:.
-    .             . ..,..,::;:.  ::,.   .., .     ,,,
-   .             .   ....,,,:,   :,. .   .,,.    .YYYY;
-  ...               ... .,,,::,          .,,.    .I:,IIY.
- ,:                . . . .,,::,.   .     .,,.    ,XHMYI;::
-..,                  . . .,,,:            :,    .YYY;;:,,,.
-,.                       . .,,:.           ,.      ;YYI:,. .
-,                         . ..,..                   .IIY:,.
-                               .                       . .
-                              ...             .
-                             .....             ;,     ,
-                      .,,:IYHHHHHYI,.             . .,,..
-Y:,.               .,::XHIIIIIIIIXXY:,                 .   .                         OHHHHOOO
-XYY,.           . ,:;IYHHMIIIMXI;::;;;.                 . .                          OOO
-III::,..         .,:IYYYYYII::,,,,,.,, .     ,..,:YMIIMXYI,.                                                    OO
-,,,,,,.         ..,,:IYHMIIIMMHXXYI;;;,.    ,XMIYYXHHHMIXY,.                         HOO                   O       O
-:,,,,. .       ..,:;XIMMMMMMMMMMMMMIMH:,    ;MMMIMIYYYYXYI,.                     HWOOWWWWWWWWWWH         WWWH                          OOOOOOOO           O
-XYI::,.         ,:XMMMIMMMMMMMMMMMMMMMMI,.. .YMIIMY:.:;YI;                    WOHWWWWWWWWWWWWWWWWO       HH                       OOOOOOOOOOOOOOOO
-IHXYI:,.       ,IXIIIIIYHIMMMMMMMIIMMMMII.    XIIMY.   ,,,H                 OOHHH  HOWWWWWWOHWWWWH       HH                            OOOOO  OOOO
-XYYYYI:,      ,YXXMMII,,;XIIMMMMMHIMMMMMX;,   ;XMIXYI   .                    O     OHOOWWW OWWWWO        OO                               OO  OOOO
-Y:,IIY;:..   ,;XYYYYXHHHMIIIIIIMMMMMHYXXY:,   ;YIIXYI                         OOOHHHOWWWW            HO                                 OO
-,,,III;:,.. ..:YYYYI;::YYYYYHHXYYYI:.   .       IMXYI,.                                                O
-:;IIII;:,. ..,:YYYYYI;;III;:::,,,::,            IIXYI.                                                HO
-;::II;::,,.,,,:YXXYYIIIIIIIII;:::,,,.           IIIHY,.                                                HHH
-:::,:;::,,,,,:;IYYIIYIIII;::,,,,,,,,.. .        IIIHY,..                                                HHH
-,,,,,:::,,,::::;IIII;::;;::::::,,,,,.           MMIHY:,..                                                WOH
-,,,,,:::::,::::;IIII;::::::::::::,,,..          MMIHX,,.                                                WWH                                                O
-..,,,:::,,,,,:;III;;:::::,,,,,,,,,,,.           MMIMM,,,.                                                WWO                                                O
- ..:::::,,,::,,::::::::::,,,........          ;XMMIHX;:,,,                                                WOO
-  .,:;;;:::::,,,::,,,..,,,,,... . .           ;XMIXYIYI:,,                                                WH
- .,:;I;:::,,,.    ,,:,,....... . . . .        ;XIIXYYYI:                                                HO
-:::IIYII::,,,..   ,:;;;,. . .   . . ..        XIMIHXYHXY,                                               HOH
-:::III;;,,,,,.     .:;I::,.. . . . ... .      XIMIHXYHXY:.                                               HWH
-::::;I:,    .,,..   ,;I::,,,... . .......     XIIIXYYHXI,                                               HHO
-,,,,,,,,   . . .  ,,,:;,,,,,,. . . .,,,.      HMIIHXYXI,..                                               WHO
-,,,,,,,,.   ...,::::;::,,,,,,,... . .....     MMHXYYYYI,.                                               W                                               O
-,:::;I;:,,,,,:;YYYI;:,,,,,,,,,,... .....    ,XMMHXYIII;,..                                              OW                                               O
-...,,,::::,,,;:,:::::,,:::::::,,,.. .....   ;MMMHXYI;,,.,,                                             WWW                                             O
-,.....,,,,,,,..,,,,,,:::::::::;:,.....,.    ;MMIXYIII...,,                                             WOH                                             O
-... .       . ..,,,,:::,,::::;III::,,,,,.   ;MMIYI;;;,,,,,                                             WOH                                             O
-,... .     . . .,,,,:;;;;;IIIII;;,,,,,,.    ;MMXYYY;:::,                                             W
-XYYYI;:,   .,;;IYYHHMMMIIMIIXYI;:,. .,,..  XMMMHXYI;:::,.                       OHOHH                 O
-,:;IYXYY:::::YYXXXYXHMIMMMMMYI,,,. ..,..   IMMIHXXYYY,,,                      OWWWWW               HOWO                       OO                    O
-          .       .  ,;IIIHX,,. .   ...    MMMIIHXYI;::,. .                       HHH                 WWOHH
-                     ;XMMII:..     . .     MMMHY,.      ,:,.                       WOO                 WWW                                           OO
-                   ,XIIIMY:,...     .    XIIMI.       .,:;,.                     OHO                  HH
-IMHYI,         :YXHMIMMXYI:,..     . .   ;Y,.   ,,,,,YXHXY,.      .,H                   O
-IIIXYI, . .  IYHMMMMMHHYI;::,..   ... .,:,,     ,,,::XXXI;,.   YI;:,.OOO
-HHHXXYYYYYYIIIIYXXXHMXY;;;::,.   ,,,IYII;:,,,:;;:::IYXXY:, .,XIYI,,,,. .                                                              O
-YII:, . ::,,,IIYXXMHYII:::::,....,:YXHYYI;:,:III;IYXXYI,..YYX;:
-,::::,.. ..,:;IYYYII;::::,::.. .,XHIMHIII;:,:Y;:,,,;I:::IYYYY.                                   O
-... .,,,,,,,,,,,,,,,::::::::  .;YIIMIHYYI;:;IY;:,,,,,,:YYY;:,..   .                                 OHWO                                   O
-               ..,,,:::,,:::,,,IXMMMMXI;:::YYY;:,,,.  .I;:,,,,,,,. .                                 WWW                                   O
-.             . ..,,,,,,,:::,:YMIMMIHYIII;;XXY:,:,    .I:,... . . . . .                                HWOH
-,.         . . .,,,,,,,:;III:;XIMIIIXYXXYIIHXY:,..   ,,,                               OOHHO
-,.. .     ..,..,,,,,:,,:;YYYYHIIIMMMHXYYIIIHXY;:,.   I:                             HHH
-,,,,,,..   .,,,,,,:::::IYXYYIIMIIIIIMHXXYIIHHMHX,.   Y;                            OHOHHHHO
-,,, .       . .,,,,,,,,IYXHHIIIIIIIIIIIMHXYIIIMH:, ;Y:,                            HHHHHOOOOOO    HHO
-....         ..,,,,,,::YYXMIIIIIIMMIIIIIIMHIIMMMY; ;X,.                           OHHHHHWOHHHOOH  HO
-. .           . .,,,,::YXHIIIIMHHIIIIIMHXYYMMHHH,. IH,.                          OHHO   OOOOO
-                 ...,;IYXIMMHXI:,:IHMMHXY:,MMHXX,;XXX                         OOW
-                  ..:IYXXHHHYI:,,:;XXXXXYYYMHYI;YXIXY                                                  O
-..               .:;IYYI;:;IXHMHHIIIMHYYYMIMMIIIIIIHY                                 OOH      HOOHHHHHH
-:,,,,.. . . . .,::YYY:,,,,,,:;XIIMMIMMMMMMMIIIIIIMY:,                               OHOOHOOWWWWWHHHHHO                                        OOO
-,::::::::::::IYXHHYI,. ..,..,,,:;YYYYYIIMMMXY:::::,.                                      OHWWW                                        OOO
-:::::;;;IIYXHMIIMMIHI:,,,......,,:::::IYXXXY;              OHOOO
-::::;III;;IYYHMIMMMMMMMYI:,,,,,,,,,,,,,,,. ,.               HWWWWWWW                 OOOOOO
-. . ....,,,:;XHIMMWB8TMRMMIHYYIII::,,,.......               HWWWWWWWWWWO                 OOOOOOOO
-     . ...,;IHMIMMMMMMMMMMMMMIHXY;:,.. . .               HWWWWWWWWWWWWWH                 OOOOOOOOOOO
-      ..,,:IYHMIMMMMMMMMMMMMMMIHXI;,... .               HWWWWWWWWWWWWWWO                 OOOOOOOOOOOO
- . . ..,,:IYXHMIMMMMMMMMMMMMIIIIIYI:,,.. . .               HWWWWWWWWWWWWOOHOO                 OOO
-. . .,,,:;IYXMIMMMMMIMMMMIIMMMIIIHXY;:,.. ...              HWWWWOHOWWOHO   OOO               OOO
- . . .,,:;YXXIMMMMMMMMMMMIIMHHHXXXXXYY::,,,,..             HOWWWOOWWWOOHO               OOO
-.....,,,IYXHHIMMMMMMMMIIIIIIHHHXXI;:IYIIIII:,.. .             HOWWWWWWOHOOOOO               OOO
-...,,,::YYXMIMMMMMMMMIIIIIMMIMHXX::,..,,,,,;;;:,,,.. .            OWWWWWWWOHHHHO  O             OOOOO
-.,,,,:;IXXHIIMMMMMMMMIIIIIIIMMHXY::,... .     .,:::,,,,,... . . . . .           OHWWWWWWWOHHHHOOO             OOOOO
-,,,,,:;IYYXIIMMMMMMMMMIIIIMMHXYI;::,,, .           :III;::::,,,::,,,,.           OHWWWWWWWWOHOOO             OOOOO
-.,,:::;;YYXIMMMMMMMMIIIHHMMMHXI;;,,,,,.                 :I;;IYYYYI:,. .           HWWWWWWWOHOO             OOO
-,,,::;IYYXMMMMMMMMIIMMMHHMHHYYI;;:::,. .                         ,,,,,..           OWWWWOOHO            OOO
-,,,:;IIIXHIMMMMMMIHHXXXHHHXXYYI;:::,.                             .,,,,,          HWWWWWOH            OOO
-,::;IYYYYXIMMMMMIHHHXHHMMHXXYI;::,,,..                              ::,,          OWWWWWO            OOO
-
-
-RY
-
-
--------------------------------------------------------------------------
-
-
-KERRY - PART TWO - 03/30/85
-              RTTY PHOTO BY DAVE,WB8TMR,N.RIDGEVILLE,OHIO....
-

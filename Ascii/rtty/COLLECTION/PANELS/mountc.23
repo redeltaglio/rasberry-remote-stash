@@ -1,91 +1,0 @@
-:::'::::''::'':-'-.'::''''''':.''''''''''----------------'--------CCC:CCCC::CC::CC:.':CC:CCCCCCC'CCCCCCCCCC................C........   C    CC  CC  C':C  CBBBBBB :BBBBBBBBBB''''''''''''''''B''''''''                 XC    HHHHHH CHHHHHHHHHHXXXXXXXXXXXXXXXXHXXXXXXXX                 C     XXXXXX  XXXXXXXXXXCCCCCCCCCCCCCCCCXCCCCCCCC
-::::::::'.':::':'--.:::-'''''M)'''''''''.----'-''--'----'---'-''''CCCCCCCC:':CCC:C:..'CCC.CCCCC  CCCCCCCCC'....C.CC..C....C...C.CCCC        C:C   C C'':   'BBBBB  BBBBBBBBB:''''B'BB''B''''B'''B'BBBB         C       XXC   XHHHHH  HHHHHHHHHCXXXXHXHHXXHXXXXHXXXHXHHHH                 CC    CXXXXX  XXXXXXXXX CCCCXCXXCCXCCCCXCCCXCXXXX
-''::::''''.:::-'.-'':::-'''''X--''''''''.-'''''---''--''-'''---'''::CCCC::::'CCC.:'.::CCC.CCCCC  .CCCCCCCC'.CCCCC...CC..CC.CCC...CCCCC    CCCC:   'C:'CC   'BBBBB  'BBBBBBBB:'BBBBB'''BB''BB'BBB'''BBB          C   X CX     XHHHHH  XHHHHHHHHCXHHHHHXXXHHXXHHXHHHXXXHHH              C  C     CXXXXX  CXXXXXXXX CXXXXXCCCXXCCXXCXXXCCCXXX
-'''':''''''::.-...''.':.''''': Z''''''''--'''''''-''''''''''':M'''::::C::::::CC'.'''::':C'CCCCCC  CCCCCCCC..CCCCCCC.CCCCCCCCCCCC CCCCCCC CCCCCC  :':::CC:C :BBBBB   BBBBBBBB''BBBBBBB'BBBBBBBBBBB  BBB             CXCCC  C  CHHHHH   HHHHHHHHXXHHHHHHHXHHHHHHHHHHH  HHH              C         XXXXX   XXXXXXXXCCXXXXXXXCXXXXXXXXXXX  XXX
-''.''''''''::''.--.'.'''-''''':).''''''''----''''''''''''''''.-'--::'::::::::CC::'..':':::.CCCC:  'CCCCCCCC....CCCCCCCCCCCCCCCC'.C..CC:CCCCCCCC  CC:'':C:CCC'BBBBC  :BBBBBBBB''''BBBBBBBBBBBBBBBB:'B''  C            CXXC C   XHHHH   CHHHHHHHHXXXXHHHHHHHHHHHHHHHHCXHXX                CC      CXXXX    XXXXXXXXCCCCXXXXXXXXXXXXXXXX CXCC
-.'''''.''.'.'''.-.-'''''.-''''X:A-''''''''--.-'''''''''''---.'----':::::'::':':::'.'.:::::'.CCCC   .CCCCCCCC..'.CCCCCCCCCCC...':....:CCCCC:CC:C:CCC:':'CCCCC:'BBBB   'BBBBBBBB'':'BBBBBBBBBBB''':C''''C     C  C C   CXCX     CXHHHH   XHHHHHHHHXXCXHHHHHHHHHHHXXXC XXXX                C C      CXXXX   CXXXXXXXXCC CXXXXXXXXXXXCCC  CCCC
---.''''''''....-----'..''-'''':)1X-'''''''---''''-'''''--..----.--..'::::::::''''.....:''::.CCCCC   .CCCCCCC...CCCC.CCCCC..''....'..'':CCCCCCCC::::'''''C::CC'BBBB    'BBBBBBB'''BBBB'BBBBB''::'''':''XXC        CCCCXXXXX CC  XHHHH    XHHHHHHHXXXHHHHXHHHHHXXCCXXXXCXXCC             CCCCC     CXXXX    CXXXXXXXCCCXXXXCXXXXXCC  CCCC CC
---.-....':-:''.''::-MXAA::-'''-MZZM-'''''''--::--.--.--':AM::-.---..'.'''':CCC::'::CCC    CC.CCC.    .CCCCCCC..CC..'..'..:C  CC.'...'':'::::C   CC:CC         'BBB'    'BBBBBBB''  '':'':''C     ':'''XXCXCCCC      C           XHHHX    XHHHHHHHXX  XXCXXCXX      XCXXXCC C                      CXXXC    CXXXXXXXCC  CC CC CC      C CCC
---------:) -::::-       :)ZXXA) - :1:-''''''-1)-''--'-.-:-MM:::--:........C                           C.CCCCCC.  C::..:.'CCC  CCCCCC''''''''                             'BBBBBB'   CC''C':XXXXXXXX                             XHHHHHHX     XX XCCCCCCCCC                             CXXXXXXC     CC C
-------.::                            :AM:--'-Z:XMM:.--AZ:--M-XMX1X......'C                                C..C.     C'..  CCC C'''''':                                  ''B'      :''XXXXXXC                                  XXHX      CXXCCCCCC                                   CCXC       CC
----.--:)                                   :A:-ZMZM-'-AA::X1))11:-...'..C                                      CC    C:.  CC      C.''':''                                              C'           'XXXCXX                                               X           XCCC CC                                               C           C
----..:Z                                      -ZXAMMMM:-AZMAAM:.---...''C                                               CC      C'...'''::                                                         :'''XXXCC                                                         CXXXCCC                                                            CCC
-..'::1                                  -     ::'''-:::::'.--'----'':CC                                          C:::CCCCCC:'..C....::C                                             CCC      C:''B''''CC                                                        CXXHXXXX                                                           CCXCCCC
-.:Z):)                                         Z--''--''----------'C  C                                           ..CC..CC..........:                                               ''BB''BB''''''''''C                                               XXHHXXHHXXXXXXXXXX                                                CCXXCCXXCCCCCCCCCC
-.::)M-                                          X.-''''''-'--..-'''C                                               '.CCCCCC.C..''.CC:                                                :'BBBBBB'B''::'BBC                                                CXHHHHHHXHXXCCXHH                                                  CXXXXXXCXCC  CXX
--.XZ:                 --                         -.--''''''''-----.'                                               C'..CCCCCCCC.....':                                                :''BBBBBBBB'''''XC                                                CXXHHHHHHHHXXXXXC                                                  CCXXXXXXXXCCCCC
---M)                                            :A:.--'''''''''---..                                                C'..CCCCCCCCC...''                                                 :''BBBBBBBBB'''XX                                                 CXXHHHHHHHHHXXXCC                                                  CCXXXXXXXXXCCC
-'A:-                                          -)Z1-::'.----''''''':                                                   C:'....CCCCCCCC                                                    C:''''BBBBBBB                                                      CXXXXHHHHHHH                                                       CCCCXXXXXXX
-A:                                           :-      :A:.-------''                                                       C'.......CC                                                        :'''''''BB                                                        CXXXXXXXHH                                                         CCCCCCCXX
--                                                      -----------                                                        C.........                                                         '''''''''                                                         XXXXXXXXX                                                         CCCCCCCCC
-                                                        1M:---'---                                                          C...C...                                                           '''B'''                                                           XXXHXXX                                                           CCCXCCC
-                                                       Z:M-'.-''''                                                        C C:'.CCCC                                                           C:'BBBB                                                            CXHHHH                                                             CXXXX
-                                                   -:-:Z'-.---'''-                                                        :.'...CCC.                                                        C':'''BBB'                                                         XCXXXHHHX                                                         C CCCXXXC
-                -:                                      A----'-'''                                                         ....C.CCC                                                         ''''B'BBB                                                         XXXXHXHHH                                                         CCCCXCXXX
-               -::              -                       -M-M:'----                                                          C C:....                                                             C''''                                                              XXXX                                                              CCCC
-              -::   -:--:                                Z:'''.-'-                                                          C:::'.C.                                                           CCC:'B'                                                              CXHX                                                               CXC
-     - -   ---:Z     -:-:-                               )-'''-.--                                                          .CCC.'..                                                          'BBB':''                                                          XHHHXCXX                                                          CXXXC CC
-       --  ---):--                    -                   -'''---.                                                          .CCC...'                                                          'BBB''':                                                          XHHHXXXC                                                          CXXXCCC
-       :-   -:--                                          :'''----                                                          CCCC....                                                           BBB''''                                                           HHHXXXX                                                           XXXCCCC
-      :::   --                                            :-''----                                                           .CC....                                                           'BB''''                                                           XHHXXXX                                                           CXXCCCC
-      :::-  --                                            1-------                                                           .......                                                           '''''''                                                           XXXXXXX                                                           CCCCCCC
-    -----  ----          -                                 -------                                                           C......                                                            ''''''                                                            XXXXXX                                                            CCCCCC
-                     --  -             -      --           :------                                                            ......                                                            ''''''                                                            XXXXXX                                                            CCCCCC
-                     -:- --    ---     -      --          -1'--'--                                                            :..:..                                                            C''C''                                                             XX XX                                                             CC CC
-                        --  ------- -   -: -            ::1ZZ--':.                                                             C.:C'                                                              'C :                                                              X  C                                                              C
--                             --  --                  --     ::.::                                                              C'CC                                                               :                                                               C
-::- ---                       --  -- -                        -M..                                                                ''                                                                ::                                                                CC
-:::--:::::--                   -   - -        --               -:-                                                                C.                                                                 '                                                                 X                                                                 C
-)::--::----:--:-                 --                             :-                                                                 C
-)::::::--::---:::::-                            -     --         )
-:::::::--:::::::-::::--                                       -:)1
-):::):::::::::::::::::---:::             -  -   -           -::::-
-)::):)::::::::::::::-::--:::--
-))11:)):::::::))::::::::::::--:::
-1))1):):::)::))):::::::::::::::::::-
-1)))1))))))::)):::::):::::::::::::::- -                         -:
-11:)1))))))))))::)):::)::):::)::)::::-:---:-                    Z:                                                                 C
-Z111)))1)))))):::)))::)))):::):):::::::::::::---            -)A:':                                                               C:C                                                                C
-Z1)))))))))))))::):::::)))::))::):::::::::::::::::-       :X:'.':M                                                            C:':C                                                             C:C                                                              C
-1)):)))))))))1)))))::))))))))):)):))::))):::::::::::::1ZXMM:::MZ:                                                           CCC
-)))):)1)111111)):::)):)):):)::))))):::::)::::-:::::)X-'..:M1))-                                                     C:''C                                                      C::                                                       CC
-Z111))111)11111)))))))))))))::))))))::):::::::::)1X-'''':AZ:--                                                   C::::C                                                    CCCC
-ZZZZ11ZZ1111))))))1)))))111)):))):)::::):::::1ZAM-MAMMMX1:::::::-                                                 C
-ZZZXZZZ1111))1))))))))))))):::))):):::::::)1A:::::MZ:))::::::)))):                                             CCCCC
-Z1111))))111ZZ1)))11))))11:)))))):::::::)ZAM:':-X1):::::::::))))))                                            C:CC                                             C
-11)111)))111Z111))))))))))):)):::::::)ZA-:MXZXX1:::::::::::))))1))                                        CC
-1)11111)))))111)))))))))1)::::::::)1A-:::-MX::::::::):)))::)))))):                                     CCCCC
-))111Z11111))11)))):):))1)::-::))ZAM-M--MZ1::::::)::)))):)))))))))                                    C CC
-))))11111)11111)::::):))))::::1M-::M111Z)-:::::::::))))::::))):::1                                CCC
-11))1111Z111111)::))1)1))11ZA-:'::-A1::::::))):::::)))))))):))))))                             CC:CCC                               C
-11)))111Z1111)))::)))))))ZAMMMM-MAZ):::::::))))):::)))))11):))))::                               C
-1ZZZ111111ZZ1111))))))ZX-:::A1)11:::::):::)1):)))):)1Z11ZZ1))):):)                        CCCC
-1ZZZZ11)))111Z11):))Z-:'''-MX)-:)):::::::))))))))))1Z11111)::::):)                     CC:::C                       CCC
-ZZZZZZ1)111ZZZ1))1ZXA::--MXZ)))))11)):::)))))))))))1Z11111)):)::::                     CCCC
-ZZZ1ZZ111))111ZZA-:-MZ)1Z11):)11))1))111))))))))1)111))1Z1))))))1)                 CCC
-111)1111))))ZA--:::MAZ)1Z))::)11))))1111)::):)))1)1Z111ZZZZZ))1ZZZ              CCCCC
-))111111)::1A-:--MAZ1))11):::)1)):)ZZZZ11::)::))))1))1111XXZ1ZZZZZ             CCCC
-1111)1ZZXAM-MX11Z1):))1111))))1Z)))ZZ11ZX11Z11)111Z1))):11ZXZ11ZXX           C
-1Z11)ZM-::::MX)::)))1))111ZZZZ11)))11ZZXXXXXXZZ1ZXXXZZ1)111ZXZZZXX       CCCCC
--:)1ZM:::-MAZ1))11Z1ZZZZZZZZZZ11)1))1XXXZXXAXXZ1ZXAAXZ1ZZZZZZZZZZX      CCCC
- :Z--AXXXX1::)1111Z1ZXXXXX11Z11)11)1XXXXXXXAAAXZXXXXXZ1111ZZZZAXXX   CC
-Z-:':X):-::::::))111ZXXZZXXZZ1111111XAAMMAAMMAAXXAXXZXAXXXAAAAAAXA CC:C   C
-'':MZ-          --:::1111ZZX111Z11111ZXXAAAMMMAXXZZZZXAAAAMAAAAAAA::CCC
--M1:                 --::::ZZZXXZ1111111ZXAMMAXAXZZXXMAAMMAMMAAAXXC
-)-                         -)1ZXZ11ZZ1111ZZXXZ11ZZXAAMAAMMAAAXXXZ1
-                              :::)1111111ZZZZZZ11ZZXXXXXXXAAAXZ1))
-              ----                ::::):)))1ZXXZZZZZZ11111ZZZ1))))
-               -----                  -   -:1ZZZZZZ11111)1))))))1)
-                      ---                  )):::))::::)1ZX1)))1ZXA
-                        -  -               -::-::-  --:11ZXXXXXAXA
-                          ----               -:)))::--:::::1ZZZXZZ
-            -            ----- - --         --:::)))):)::::)111ZZ1
-             -     ---------:---     -        --- -)1111):::1ZZ111
-
-
-
-MOUNTAIN CLIMBER PANEL 2 PART 3 (83 LINES)
-FROM A COMPUTER GRAPHICS.  FORMATTED  FOR  5  LEVEL
-RTTY BY DALE, AG9H, LOCKPORT, ILLINOIS, AUGUST 1985
-
-

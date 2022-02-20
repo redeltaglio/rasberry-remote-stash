@@ -1,48 +1,0 @@
-
-''..       ..'.  .   .      .   .
- .''''' '' '.'.  '.  .''   '.'''''.  ..''. .  .     .    .  .     ...
-('' '. '..' .'. '. '' .'  '  '.  '''''. .  .               .     .       ....
-(''. '. '  ' .' '  '. '   .' .'. '.''''') ..     . .   . .  .  .             . ..
-('' '..' .' .'   '.' '. '' .' .'.' .'.'') ..              .       .            ..
- (''.' '. '. '' .'  .'.  '' '. '. '.'.'')  .  .       .            . .         ..
- ('.'.''. '   ''   '  '. '. .'.' .' .'')  .       .  .'.  ..                 ..
- ('.' .'   '. '. ''  .' .' '.  '' ''.'')  .        .      .            .  .  ..
-  ('.'   '.' .'  .'.  '. '  '.' .'.'.'')   .   .                 .           ..
-  (' .'  ' .''  '.'  .' '.  '  '. '.'.')     .AAA.   .     .  .               .         .       JHL                                              /I:
- (''.' .'  ' '.  .' '  .'  . '. ' . ''')   .AAAAAAA.  ..       .        .               .'.     JHHHHHL                                            /IIIII:
- (' '.' .'  '.'/:' '..'.'  .''. .'.' '') ./AAAAAAAAA:.  . .          AF.                   ..   AHHHHHHHHHL               JA                         JIIIIIIIIIA
- (' ' '. ' ' ./AA' ' .II!:' ''.'II' '.')/AAAAA/'YAAAAAA.  .'..     .  AHH. .     A. .     .   . AHHHHHF VHHHHHL              JII        L              JIIIII"-TIIIII:
- (''..'.  '.'!AAA!'.'III!AA'.''IIII!'.')AAAAA/   VAAAAA:  .     II.   HHH        HL           . HHHHHF   YHHHHHL              III        I:             IIIII"   TIIIIIA
- ('.'.'    ' !AAA!I'IIII!AAA''IIIII!:'')AAAAF     YAAAAA  .    IIII I HHH        HHH          . HHHH/     VHHHHH              III        III            IIII"     TIIIII
- ('.'.!      !AAA!      !AAA'      !A..)AAA/      AAAAAA       IIIIII HHH IIIIII HHH IIIIII :   HHH"      HHHHHH              III        III        L   IIIF      IIIIII
- ('.'.!      !AAA!      !AAA!      !AA'/AAA       AAAAAA       IIIIII HHH IIIIII HHH IIIIII HH AHHH       HHHHHH              III        III        II :III       IIIIII
- ('.'/!      !AAA!      !AAA!      !AA!AAAA       AAAAAA     A IIIIII HHH IIIIII HHH IIIIII HH HHHH       HHHHHH     J        III        III        II IIII       IIIIII
- (./AA!      !AAA!      !AAA!      !AA!AAAA       AAAAAA   AHH IIIIII HHH IIIIII HHH IIIIII HH HHHH       HHHHHH   JII        III        III        II IIII       IIIIII
-  !AAA!      !AAA!      !AAA!      !AA!AAAA       AAAAAA   HHH IIIIII HHH IIIIII HHH IIIIII HH HHHH       HHHHHH   III        III        III        II IIII       IIIIII
-  !AAA!      !AAA!      !AAA!      !AA!AAAA       AAAAAA   HHH IIIIII HHH IIIIII HHH IIIIII HH HHHH       HHHHHH   III        III        III        II IIII       IIIIII
-  !AAA!      !AAA!      !AAA!      !AA!AAAA       AAAAAA   HHH IIIIII HHH IIIIII HHH IIIIII HH IIII       IIIIII   III        III        III        II HHHH       HHHHHH
-  !AAA!      !AAA!      !AAA!      !AA!AAAA       AAAAAA   HHH IIIIII HHH IIIIII HHH IIIIII HH HHHH       HHHHHH   III        III        III        II IIII       IIIIII
-  !AAA!      !AAA!      !AAA!      !AA!AAAA       AAAAAA   HHH IIIIII HHH IIIIII HHH IIIIII HH HHHH       HHHHHH   III        III        III        II IIII       IIIIII
-  !AAA!      !AAA!      !AAA!      !AA!AAAAA     AAAAAAY   HHH IIIIII HHH IIIIII HHH IIIIII HH HHHHL     JHHHHHV   III        III        III        II IIII:     /IIIIIT
-  !AAA!      !AAA!      !AAA!      !AA!AAAAAA   AAAAAAY   HHH IIIIII HHH IIIIII HHH IIIIII HH HHHHHL   JHHHHHV   III        III        III        II IIIII:   /IIIIIT
-  !AAA!      !AAA!      !AAA!      !AA!YAAAAAA-/AAAAAY   HHH IIIIII HHH IIIIII HHH IIIIII HH VHHHHHL.JHHHHHV   III        III        III        II TIIIII: AIIIIIT
-  !AAA!      !AAA!      !AAA!      !AA! YAAAAAAAAAAAY   HHH IIIIII HHH IIIIII HHH IIIIII HH  VHHHHHHHHHHHV   III        III        III        II  TIIIIIIIIIIIT
-  !AAA!      !AAA!      !AAA!      !AA!  YAAAAAAAAAY   HHH IIIIII HHH IIIIII HHH IIIIII HH   VHHHHHHHHHV   III        III        III        II   TIIIIIIIIIT
-  !AAA!      !AAA!      !AAA!      !AA!   'AAAAAAA'   HHH IIIIII HHH IIIIII HHH IIIIII HH     HHHHHHH   III        III        III        II     IIIIIII
-  !AAA!      !AAA!      !AAA!      !AA!      """   HHH IIIIII HHH IIIIII HHH IIIIII HH   III        III        III        II
-  !AAAAIIIIIIAAAA!IIIIII!AAAAIIIIIIAAA!   IIIL      JIII        IIIL      JII   HHH:      :HHH        HHH:      :HH
-  !AAAAAIIIIAAAAAAIIIIIIAAAAAAIIIIAAAA!   HHHHL    JHHHHL      JHHHHL    JHHH   IIII:    :IIII:      :IIII:    :III
-  !AAAAAAIIAAAAAAAAIIIIAAAAAAAAIIAAAAA!   HHHHHL  JHHHHHHL    JHHHHHHL  JHHHH   IIIII:  !IIIIII:    :IIIIII:  :IIII
-  !AAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAAA!   HHHHHHHHHHHHHHHHL  JHHHHHHHHHHHHHHH   IIIIIIIIIIIIIIII:  :IIIIIIIIIIIIIII
-  '"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"'   -HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH-   .IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII.
-    ""AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"     -HHHHHHHHHHHHHHHHHHHHHHHHHHHHH-     .IIIIIIIIIIIIIIIIIIIIIIIIIIIII.
-        """""""""""""""""""""""""            -----------------
-
-
-        " O N   T A P - R O U N D   T W O "
-
-
-ORIGINATED FOR RTTY BY GENE, KF7I, COOS BAY, OREGON
-
-         1981 WORLD WIDE RTTY ART CONTEST
-

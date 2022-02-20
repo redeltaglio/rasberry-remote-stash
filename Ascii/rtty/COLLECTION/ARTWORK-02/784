@@ -1,40 +1,0 @@
-
-       .AMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMA.       .:$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$:.       ,;WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW;,
-     .AMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMA.,     .:$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$:.     ,;WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW;,
-   .AMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMA.   .:$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$:.   ,;WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW;,
-  .AMMMM'                                               'MMMMA.  .:$$$$                                                '$$$$:.  ,;WWWW                                                'WWWW;,
- AMMMM'                                                   'MMMMA :$$$$                                                    '$$$$: ;WWWW                                                    'WWWW;
-AMMMM'                                                     'MMMMA:$$$$'                                                     '$$$$:WWWWW'                                                     'WWWW;
-MMMMM                                                       MMMMM$$$$$                                                       $$$$$WWWWW                                                       WWWWW
-MMMMM                                                       MMMMM$$$$$                                                       $$$$$WWWWW                                                       WWWWW
-MMMMM       MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM       MMMMM$$$$$       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$       $$$$$WWWWW       WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW       WWWWW
-MMMMM       MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM       MMMMM$$$$$       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$       $$$$$WWWWW       WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW       WWWWW
-MMMMM       MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM       MMMMM$$$$$       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$       $$$$$WWWWW       WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW       WWWWW
-MMMMM                         MMMMM                         MMMMM$$$$$                         $$$$$                         $$$$$WWWWW                         WWWWW                         WWWWW
-MMMMM                         MMMMM                         MMMMM$$$$$                         $$$$$                         $$$$$WWWWW                         WWWWW                         WWWWW
-MMMMM       .....             MMMMM             .....       MMMMM$$$$$       ,,,,,             $$$$$             ,,,,,       $$$$$WWWWW       ,,,,,             WWWWW             ,,,,,       WWWWW
-MMMMM       MMMMM             MMMMM             MMMMM       MMMMM$$$$$       $$$$$             $$$$$             $$$$$       $$$$$WWWWW       WWWWW             WWWWW             WWWWW       WWWWW
-MMMMM       MMMMM             MMMMM             MMMMM       MMMMM$$$$$       $$$$$             $$$$$             $$$$$       $$$$$WWWWW       WWWWW             WWWWW             WWWWW       WWWWW
-MMMMM       MMMMM             MMMMM             MMMMM       MMMMM$$$$$       $$$$$             $$$$$             $$$$$       $$$$$WWWWW       WWWWW             WWWWW             WWWWW       WWWWW
-MMMMM       MMMMM             MMMMM             VMMMM       MMMMM$$$$$       $$$$$             $$$$$             $$$$$       $$$$$WWWWW       WWWWW             WWWWW             WWWWW       WWWWW
-MMMMM       MMMMM             MMMMM             MMMMM       MMMMM$$$$$       $$$$$             $$$$$             $$$$$       $$$$$WWWWW       WWWWW             WWWWW             WWWWW       WWWWW
-MMMMM       MMMMM             MMMMM             MMMMM       MMMMM$$$$$       $$$$$             $$$$$             $$$$$       $$$$$WWWWW       WWWWW             WWWWW             WWWWW       WWWWW
-MMMMM       MMMMM             MMMMM             MMMMM       MMMMM$$$$$       $$$$$             $$$$$             $$$$$       $$$$$WWWWW       WWWWW             WWWWW             WWWWW       WWWWW
-MMMMM       MMMMM             MMMMM             MMMMM       MMMMM$$$$$       $$$$$             $$$$$             $$$$$       $$$$$WWWWW       WWWWW             WWWWW             WWWWW       WWWWW
-MMMMM       MMMMM             MMMMM             MMMMM       MMMMM$$$$$       $$$$$             $$$$$             $$$$$       $$$$$WWWWW       WWWWW             WWWWW             WWWWW       WWWWW
-MMMMM       MMMMM             MMMMM             MMMMM       MMMMM$$$$$       $$$$$             $$$$$             $$$$$       $$$$$WWWWW       WWWWW             WWWWW             WWWWW       WWWWW
-VMMMM.      MMMMM             MMMMM             MMMMM      .MMMMV"$$$$.      $$$$$             $$$$$             $$$$$      .$$$$::WWWW.      WWWWW             WWWWW             WWWWW      .WWWW"
- VMMMM.     MMMMM             MMMMM             MMMMM     .MMMMV :$$$$.     $$$$$             $$$$$             $$$$$     .$$$$: "WWWW.     WWWWW             WWWWW             WWWWW     .WWWW"
-  'VMMMM.   MMMMM             MMMMM             MMMMM   .MMMMV'  ':$$$$.   $$$$$             $$$$$             $$$$$   .$$$$:'  '"WWWW.   WWWWW             WWWWW             WWWWW   .WWWW"'
-   'VMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMV'   ':$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$:'   '"WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"'
-     'VMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMV'     ':$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$:'     '"WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"'
-       'VMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMV'       ':$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$:'       '"WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"'
-
-
-
-                    EMBLEM - MICRO-HERM, INC.
-
-           MAKERS OF THE 45NN SERIES OF VIDEO TERMINALS
-
-ORGINATED FOR RTTY BY DALE AG9H, LOCKPORT, ILLINOIS 2--FEB-91 NBR.12
-

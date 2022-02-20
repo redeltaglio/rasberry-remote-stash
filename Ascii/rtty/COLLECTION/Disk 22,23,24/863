@@ -1,107 +1,0 @@
-
-::::::::
-:::::::::
-::::::::
-:::::::''''''.
-::::::IIIII   .
-:::::MMMMIII   .     WWWW
-::::MMMMMMII    .    WWWWWW
-::::MMMMMMIII    WWWWWW
-::::MMII' III    .    WW
-:::IMMII  'III    WW
-:::MMII'   IIII   .   WW
-:::MMII  I 'IIII   WW
-:::MMM   I  IIII   .   WWW
-:::MMII  I  IIIII......   WW
-:::MMII     III'       '.   WW
-:::MMII MM MII'   WW   WW W
-:::MMII MM III   .       '   WW   WW
-:::IMII MMMIII      .    .    W   WWW
-:::MMII MMMIII .         .   WW   WWW
-:::IIIIMIMMIII       .   .       W WW
-:::IIIIMMIMMII.       WW WW
-::::IIIIMIMIIII   .       .        W W
-::::IIII MMIIII       .         WW
-::::III  MMIIMM   .        .         WW  WW
-::::IIII  IIIIII        .  .
-:::::MII  IIIIII           .     W
-:::::MIII  IIIIM  .        .     W         W
-::::::MIII IIIIM       .   .      W        W
-::::::MMIIMIIIIM  .        .      WW  W    W
-:::::::MMMMMIIMM       WWWWW  WW
-:::::::MMMMMIIMM     .      .       WWWWW  WW
-::::::::MMMIIIMM            .        WWW   WW
-::::::::.MMIIIIM  .         .         WW    W
-:::::::::.MMIIII      .    ...          WW
-:::::::::::MIIIII          .II.           W
-:::::::::::::IIIIII        .III.
-::::::::::::::IIIIII.............
-::::::::::::::IIIIII'' .........  ''.
-::::::::::::::MMMIIIMMMMMMMMMMMMM    .      ......              WWW   WWWWWWWWWWWWW
-::::::::::::::MIIIIMMMMM    MMM'      ...'''      ''.              W    WWWWW    WWW
-:::::::::::::::   MMMMMMMMMM .......''               .                  WWWWWWWWWW
-:::::::::::::::     IMMMMM    MMMMM .'                '.                     WWWWW    WWWWW
-:::::::::::::::.     MMMMMMMMMMMM'  '                   '.                     WWWWWWWWWWWW
-:::::::::::::::::     '''''''''      '.                   .
-::::::::::::::IIIIII....      ...     .                    .
-::::::::::::::IIIMMIIIIIIIIIIIIMMI   .'                    .                 WW            WW
-:::::::::::::IIIIIIII  IMIIIIIIIIII ....'''..               .                        W
-::::::::::::IIIIIIIII   IIIIII  IIIIIIIII:.'''''''MMIIIIIIII                                                  WW
-::::::::::::IIIIIIII   IIII :    IIIIIIIIIIIII.'..    IIII II''''''''
-::::::::::::IIIIIII  II                II''....... ''''IIIIIIIIIII..
-::::::::::::IIIIII  I          ...'''''' IIII     ''''IIIIIIIIIIIIIIII
-::::::::::''IIIII  I    ...'' ''           III            IIIIIII      I
-::::::'IMMIIIIII ...''''        '         IIII     I I I IIIIMMI     I        WW                                                   WW
-''''IIIIIIMMII .II             .         IIIII      I I IIIIIIIIII  I          WW
-..MMMMM  '' ..IIII             .         IIIII    I  I  IIIIIIII''  I  WWWWW
-MMMMM''   MMIIIIII            .         IIIIII      I   IIIIIIII    IWWWWW     WW
-'  '     'MMMMIIIII           IIII          II     I   IIIIIIIIII   I          WWWW
-    III    'MMIIIII          IIIIII      I   II        IIIIIIIIII  I            WW
-    ''      MMMIIII         IIIIIIII     I   I     I   III   IIII  I            WWW
-            'MMMIII         IIIIIIII     I   I     I   IIIII III    I             WWW
-     III     'MMIII       '.IIIIIIIII     I        I   IIIIIIIIII    I              WW
-     III      MMIII      .MMIIIIIIII     I                IIIIII    I              WW          WW
-     II        MMIIII...IIMIIIIIIIII     I                II IIII    I               WW         W
-II   II        MMMMMMMMMIMIIIIIIIIII     I                  IIIII    I               WWWWWWWWW W
-       I I      MMIIIIIIMMIIIIIIIII      I              .....IIII    I                WW      WW
-       I I      MMMMMMMMMMIIIIIIIII     I           ..''     '.II    I                WWWWWWWWWW
-       I I       MMMMMMMMIIIIIIIIIII    I          .           .II   I                 WWWWWWWW
-      III         MMMMMMMIIIIIIIIII     I          .            .I   I                  WWWWWWW
-I II   IIII        MMMMMMIIIIIIIII      I         .      ''''    .   I                   WWWWWW
-I  I    IIIII       MMMMIIIIIIIIIII:::  I      ....   ..'         .  I                    WWWW
-II I    IIIII       I I  III            I     .       IIIII        . I
-II II    IIIII      .  ..IIII  ......   I     .MMMM  IIIIIII        I                                               WWWW
-MIII      IIIII    .  ..III III  ...    I    IIMMMMMIIIIIIIII        IW                                              WWWWW
-MMII      IIIII     .. ....IIIIIII       I.  IIIIMMMMIIIIIIII         IWW                                               WWWW
-MMIIII     IIII    . ...IIIMMII     III  ..''IMIIMMMMIIIIIIIII        IWW                         WW                 W  WWWW
-MMIIIII     IIIII     IIIII  I I . IIIIII MIIMMIIMMMMMMIIIIIII         IWW                                        W  WW  WWWWWW
-MMMIIIII     ''IIIIIIIIMMIIIIIIIIII  ..  M  IIMIIMMMMMMMIIIIIII        IWWW                    WW                W    W  WWWWWWW
-MMMIIIIII             ''IIIIII  II   IIIIIIIIIIIIMMMMMMIIIIIIIII       IWWW                                              WWWWWW
-MIMMIIIII I                 IIIIII..IIIIIMMMMMIIIMMMMMMMIIIIIIII       IW WW                                     WWWWW   WWWWWWW
-MIMMIIIII   IIIII           III     IIIIIMMMMMIIIMMMMMMMMIIIIIIII     IW WW                                     WWWWW   WWWWWWWW
-MIMMMMIIII   I  IIIII   II   II     IIIIIIMMMMMIIMMMMMMMMIIIIIIIII   IW WWWW                                    WWWWW  WWWWWWWW
-MIMMMMMMIIIIIIIIIIIIMMIIIIIIII      IIIIIIIMMMMMIIIMMMMMMMIIIIIIII  IW WWWWWW            WW                     WWWWW   WWWWWWW
-MIMMMMMMMMIIIIIIIIIIIIIIMMMIIII     IIIIIIIIIMMMMMIIMMMMMMMIIIIII  IW WWWWWWWW              WWW                  WWWWW  WWWWWWW
-MMMIMMMMMMMMMIIIIIIIIIIIIIIIII       IIIIIIIIIIIIIIIIIIMMMIIIIIIIIIWWW WWWWWWWWW                                          WWW
-MMIMMMMMMMMMMMMMIIIIIIIIIIIIIII            IIIII        IIIIIII'WW WWWWWWWWWWWWW
-MIIMMMMMMMMMMMMMMMMMIIIIIIIIIIII                         .'W  WWWWWWWWWWWWWWWWW
-MIIMMMMMMMMMMMMMMMMMIIIIIIIIIIII                        .W  WWWWWWWWWWWWWWWWW
-IIIMMIIMMMMMMMMMMMMMMIIIIIIIIIIII                    ..'   WW  WWWWWWWWWWWWWW
-MMIIIIIMMMMMMMMMMMMMMMMIIIIIIIIIIIII               .'WW     WWWWWWWWWWWWWWWW
-MIIIIIIMMMMMMMMMMMMMMMMMMM'''IIIIIIIIII          .'W      WWWWWWWWWWWWWWWWWWW
-MMIIIIIMMMMMMMMMMMMMM'''''      ''IIIIII........'WW     WWWWWWWWWWWWWW
-MMIIIIMMMMIIIIIIIIIIIIIWW    WWWW
-MMMMIIMMMMIIIIIIIIIIIIIWWWW  WWWW
-MMMMMMMMMIIIIIIIIIIIIIIWWWWWWWWW
-MMMMMMMMMIIIIIIIIIIIIIIWWWWWWWWW
-MMMMMMMMMIIIIIIIIIIIIIIWWWWWWWWW
-MMMMMMMMMIIIIIIIIIIIIIIWWWWWWWWW
-MMMMMMMMMIIIIIIIIIIIIIWWWWWWWWW
-MMMMMMM  IIIIIIIIIIIIIWWWWWWW
-MMM      IIIIIIIIIIIIWWW
-MMM      IIIIIIIIIIIIWWW
-MMMM     IIIIIIIIIIIWWWW
-           IIIIIIII
-
-                      MOTORCROSS NUMBER TWO
-

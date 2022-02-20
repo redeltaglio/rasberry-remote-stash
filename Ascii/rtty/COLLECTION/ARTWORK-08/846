@@ -1,203 +1,0 @@
-
-                                    .
-                                   ...
-                                    X
-                                    X
-                                    X
-                                    X
-                                    X
-                                    X
-                                    X
-                                    X
-                                  XXXXX
-                                  XXXXX
-                                  XXXXX
-                                  XXXXX
-                                  XXXXX
-                                  XXXXX
-                                  XXXXX
-                                  XXXXX
-                                  XXXXX
-                                  XXXXX
-                                XXX X XXX                                  H   H
-                                 XXXXXXX                                  H   M
-                                  X   X                                  H   H
-                                  XX  X                                  HH  H
-                                  X X X                                  H H H
-                                  X  XX                                  H  HH
-                                 .XXXXX.                                  HHHHH
-                                 X     X                                 H     H
-                                 XX    X                                 HH    H
-                                 X X   X                                 H H   H
-                                 X  X  X                                 H  H  H
-                                 X   X X                                 H   H H
-                                 X    XX                                 H    HH
-                                .XXXXXXX.                                 HHHHHHH
-                                X       X                                H       H
-                                XX      X                                HH      H
-                                X X     X                                H H     H
-                                X  X    X                                H  H    H
-                                X   X   X                                H   H   H
-                                X    X  X                                H    H  H
-                                X     X X                                H     H H
-                                X  .X. XX                                H      HH
-                                XXXXXXXXX                                HH     HH
-                                XXXXXXXXX                                H H   H H
-                                XXXXXXXXX                                H  H H  H                                XXXXXXXXX                                H   H   H
-                                XXXXXXXXX                                HHHHHHHHH
-                                XXXXXXXXX
-                                XXXXXXXXX
-                                XXXXXXXXX
-                               XXXXXXXXXXX
-                              XXXXXXXXXXXXX
-                             XXXXXXXXXXXXXXX
-                            XXXXXXXXXXXXXXXXX
-                           XXXXXXXXXXXXXXXXXXX
-                          XXXXXXXXXXXXXXXXXXXXX
-                         XXXXXXXXXXXXXXXXXXXXXXX
-                        XXXXXXXXXXXXXXXXXXXXXXXXX
-                       XXXXXXXXXXXXXXXXXXXXXXXXXXX
-                      XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-                     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-                   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-                  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-                   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-                    XXXX        XXXXXXXXX        XXXX
-                    XXXX        XXXXXXXXX        XXXX
-                    XXXX        XXXXXXXXX        XXXX
-                    XXXX        XXXXXXXXX        XXXX
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    X   XXXXXXXX         XXXXXXXX   X
-                    XXXX        XXXXXXXXX        XXXX
-                    XXXX        XXXXXXXXX        XXXX
-                    XXXX        XXXXXXXXX        XXXX
-                    XXXX        XXXXXXXXX        XXXX
-                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-                    X                               X
-                    X                               X
-                    X           X       X           X                                H       H
-                    X           X       X           X                                H       H
-                    X           X       X           X                                H       H
-                    X           X       X           X                                H       H
-                    X            .XXXXX.            X                                  HHHHH
-                    X                               X
-                    X           X       X           X                                H       H
-                    X           X X     X           X                                H H     H
-                    X           X   X   X           X                                H   H   H
-                    X           X     X X           X                                H     H H
-                    X           X       X           X                                H       H
-                    X                               X
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X                               X
-                    X           XXXXXXXXX           X                                HHHHHHHHH
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X                               X
-                    X           XXXXXXXXX           X                                HHHHHHHHH
-                    X           X                   X                                H
-                    X           XXXXXX              X                                HHHHHH
-                    X           X                   X                                H
-                    X           XXXXXXXXX           X                                HHHHHHHHH
-                    X                               X
-                    X           XXXXXXX.            X                                HHHHHHH
-                    X           X       X           X                                H       H
-                    X           X       X           X                                H       H
-                    X           X       X           X                                H       H
-                    X           XXXXXXX.            X                                HHHHHHH
-                    X                               X
-                    X                               X
-                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-                    X                               X
-                    X                               X
-                    X           .XXXXXXX.           X                                 HHHHHHH
-                    X           X                   X                                H
-                    X           .XXXXXXX.           X                                 HHHHHHH
-                    X                   X           X                                        H
-                    X           .XXXXXXX.           X                                 HHHHHPH
-                    X                               X
-                    X           XXXXXXXXX           X                                HHHHHHHHH
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X                               X
-                    X               X               X                                    H
-                    X              X X              X                                   H H
-                    X             X   X             X                                  H   H
-                    X            XXXXXXX            X                                 HHHHHHH
-                    X           X       X           X                                H       H
-                    X                               X
-                    X           XXXXXXXXX           X                                HHHHHHHHH
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X               X               X                                    H
-                    X                               X
-                    X           XXXXXXXXX           X                                HHHHHHHHH
-                    X           X                   X                                H
-                    X           XXXXXX              X                                HHHHHH
-                    X           X                   X                                H
-                    X           XXXXXXXXX           X                                HHHHHHHHH
-                    X                               X
-                    X           .XXXXXXX.           X                                 HHHHHHH
-                    X           X                   X                                H
-                    X           .XXXXXXX.           X                                 HHHHHHH
-                    X                   X           X                                        H
-                    X           .XXXXXXX.           X                                 HHHHHHH
-                    X                               X
-                    X                               X
-                    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-                   XXXXXXXXXXXXXXXXXX               XX                   H HHHHHHHHHHHHHHH
-                  XXXXXXXXXXXXXXXXXXX               X X                  HH HHHHHHHHHHHHHHH
-                 XXXXXXXXXXXXXXXXXXXX               X  X                 HHH HHHHHHHHHHHHHHH
-                XXXXXXXXXXXXXXXXXXXXX               X   X                HHHH HHHHHHHHHHHHHHH
-               XXXXXXXXXXXXXXXXXXXXXX               X    X               HHHHH HHHHHHHHHHHHHHH
-              XXXXXXXXXXXXXXXXXXXXXXX               X     X              HHHHHH HHHHHHHHHHHHHHH
-             XXXXXXXXXXXXXXXXXXXXXXXX               X      X             HHHHHHH HHHHHHHHHHHHHHH
-            XXXXXXXXXXXXXXXXXXXXXXXXX               X       X            HHHHHHHH HHHHHHHHHHHHHHH
-           XXXXXXXXXXXXXXXXXXXXXXXXXX               X        X           HHHHHHHHH HHHHHHHHHHHHHHH
-          XXXXXXXXXXXXXXXXXXXXXXXXXXX               X         X          HHHHHHHHHH HHHHHHHHHHHHHHH
-         XXXXXXXXXXXXXXXXXXXXXXXXXXXX               X          X         HHHHHHHHHHH HHHHHHHHHHHHHHH
-        X           X               XXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                     HHHHHHHHHHHHHHH HHHHHHHHHHHH
-        X           X               XXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                     HHHHHHHHHHHHHHH HHHHHHHHHHHH
-    XXXXX           X               XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   X                                 HHHHHHHHHHHHHHH HHHHHHHHHHHH
-   X                X               XXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X                                     HHHHHHHHHHHHHHH HHHHHHHHHHHH
-   X                X               XXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X                                     HHHHHHHHHHHHHHH HHHHHHHHHHHH
-   X                X               XXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X                                     HHHHHHHHHHHHHHH HHHHHHHHHHHH
-   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                     HHHHHHHHHHHHHHH HHHHHHHHHHHH
-                                (.......)
-                               (.........)
-
-
-
-
-                           MERCURY REDSTONE
-          THE FIRST U.S. ROCKET TO PUT AN ASTRONAUT IN ORBIT
-
-     COMPOSED BY CHRIS ANDERSON, JEFFERSONVILLE, INDIANA - 12/20/81
-

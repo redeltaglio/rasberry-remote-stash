@@ -1,96 +1,0 @@
-
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-MIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIMW                                                                    W
-MIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII000000000000MXXIIIIIIIIIIIIIIIIIIIIIIMW                               $$$$$$$$$$$$                         W
-MIIIIIIIIIIIIIIIIIIIIIIIIIIJ00000000000000000000000000IIIIIIIIIIIIIIIMW                           $$$$$$$$$$$$$$$$$$$$$$$$$$               W
-MIIIIIIIIIIIIIIIIIIIIIIIJ00000000000000000000000000000000LIIIIIIIIIIIMW                        $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$            W
-MIIIIIIIIIIIIIIIIIIIIIX0000000000000000(00000000000000000000IIIIIIIIIMW                      $$$$$$$$$$$$$$$$ $$$$$$$$$$$$$$$$$$$$         W
-MIIIIIIIIIIIIIIIIIIJ0000000000000000000(0000000000000000000000LIIIIIIMWN                  $$$$$$$$$$$$$$$$$$$ $$$$$$$$$$$$$$$$$$$$$$       W
-MIIIIIIIIIIIIIIIIII0000000000Z0000000000000000000000000000000000LIIIIMW                 S$$$$$$$$$$ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$     W
-M.III.III.III.IIL00000000000ZZ000000000000000000000000000000000000LI.MW               S$$$$$$$$$$$  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$   W
-MI.III.III.IIIJ000000000000MZ000000000000000000000000000000000000000IMW              $$$$$$$$$$$$  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ W
-MII.III.III.IJ0000000000IMMXIIIIMMMIIII000000000000000000000000000000MW             $$$$$$$$$$S          SSSS$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W
-M....II.II.IJ00000IMMIIIII..........IIIIXMMMI000000000000000000000000MW            $$$$$S                         S$$$$$$$$$$$$$$$$$$$$$$$$W
-MI..II..I..J0000IMI..............IIIXXXXXMMMMI00000000000000000000000MW           $$$$S                            S$$$$$$$$$$$$$$$$$$$$$$$W
-M.I.I..I..J0000IIXXXII..................IXMMMII0000000000000000000000MW          $$$$SS                            SS$$$$$$$$$$$$$?$$$$$$$$W
-MI..II....0000MXI........................IXXMMIM000000000000000000000MW         $$$$                                S $$$$$$$$$$$$$$$$$$$$$W
-M.I....I.L0000MXII........................IXXXMMI00000000000000000000MW        S$$$$                                  S$$$$$$$$$$$$$$$$$$$$W
-M..I....L0000MXII.........................IIXMMMMMI000000000000000000MW       S$$$$                                     S$$$$$$$$$$$$$$$$$$W
-M......L00000MMXII.......................IIIXXXXMMI000000000000000000MW      S$$$$$                                     S$$$$$$$$$$$$$$$$$$W
-M...IZZ00000IIXII......................IIIIIIXXXXXIIII000000000000000MW      $$$$$SS                                    SSSS$$$$$$$$$$$$$$$W
-M..IZZ000000MXXIII.....................IIIIIIIXXXXXMMII00000000000000MW     $$$$$$                                         SS$$$$$$$$$$$$$$W
-M.IZZ000000IMXIIII..........................IIIIIXXXMII00000000000000MW    $$$$$$S                                         SS$$$$$$$$$$$$$$W
-MMZZM000000MXXIII................................IIIXMI00000000000000MW    $$$$$$                                           S$$$$$$$$$$$$$$W
-MIZZM000000MXII.................................IIIXXMI00000000000000MW    $$$$$$                                           S$$$$$$$$$$$$$$W
-MZZZM00000IXIIIII..................IIIIII.....IIIIXXXII00000000000000MW    $$$$$S                                          SS$$$$$$$$$$$$$$W
-MZZZI00000IIXIIIIIIXXXII..........XXMMMMXXXXXXXXXXXXMII00000000000000MW   S$$$$$SS                                         SS$$$$$$$$$$$$$$W
-MZZZI000000IIIXXMMII0M0MMI......I00000000IMMMXXMMIIIIIII0000000000000MW   S$$$$$$SSS    SS$W$W          $$$$$$$S       SSSSSSS$$$$$$$$$$$$$W
-MZZM00000000000000IFXXMI00I....IXI0000IXIXXIII0000000IMI0000000000000MW   $$$$$$$$$$$$$$S    S$$       S$$$$S    SSS$$$$$$$S S$$$$$$$$$$$$$W
-MZZM000000M00000I0I0000MI00...IX00000IIII0000III0000IMXMI000000000000MW   $$$$!$ $$$$$S S$$$$  $$     $$$$$SSSS$$$$SSS$$$$S   S$$$$$$$$$$$$W
-MZ000000000MIM000MIM00000MX...II000IIIM.I00000000IMMXIXMI000000000000MW $$$$$$$$$   $$$   $$$$$      S$$$SSS   $$$$$$$$S      S$$$$$$$$$$$$W
-M0MM000000IIIIIXIII.IFFFFIX...IMMMMXXI...FFFFFMMIIIIIIXXI000000000000MW$WW$$$$$$S                                             S$$$$$$$$$$$$W
-MI00000000MXIIIIIIXXXXMXII....IMMXXXIIIIXXXXXMMM.....IXMM000000000000MWS$$$$$$$$                                               $$$$$$$$$$$$W
-MI00000000IXI......IIIII......IMMXXII..IXIIIII.....IIIXII000000000000MWS$$$$$$$$S                                            SS$$$$$$$$$$$$W
-MI00000000IXI.................IMMXII...............IIXXII000000000000MWS$$$$$$$$S                                            SS$$$$$$$$$$$$W
-MM00000000IXII................IXXXII..............IIIXMII000000000000MW $$$$$$$$S                                            SS$$$$$$$$$$$$W
-MM00000000III.................IIIIII..............IIXXIIM000000000000MW $$$$$$$$S                                           SS $$$$$$$$$$$$W
-MI000000000IXI................XXXXII.............IIIXXII0000000000000MWS$$$$$$$$$S                                          SS$$$$$$$$$$$$$W
-MI000000000IXII..............IIIIXXI.............IIIXMI00000000000000MWS$$$$$$$$$S                                          S$$$$$$$$$$$$$$W
-M00000000000IXII......II.....IIXIWLI............IIIXXII00000000000000MW$$$$$$$$$$$S                                        SS$$$$$$$$$$$$$$W
-M00000000000IIXII......XX...ZIMMMIII...........IIIXXXII00000000000000MW$$$$$$$$$$$SS               S   SSS                 SS$$$$$$$$$$$$$$W
-M000000000000IXII........IIMMMMMMMIMI.........IIIXXXIII00000000000000MW$$$$$$$$$$$$S           SS       S                 SSS$$$$$$$$$$$$$$W
-M000000000000IXXII.........MMMMMMMXI.........IIIIXXXXII00000000000000MW$$$$$$$$$$$$S                                       SS$$$$$$$$$$$$$$W
-M000000000000IIXXII.........IXXXXXIIIIIII...IIIXXXIIII000000000000000MW$$$$$$$$$$$$SS                                   SSSS$$$$$$$$$$$$$$$W
-M0000MMM0MM0MMIXXIIIIX0X.II.IIXXXMMM00MMI....IXXXMMMII000000000000000MW$$$$WWW$WW$WWS                      $W             SS$$$$$$$$$$$$$$$W
-M0000000000000IXII....I000IL.MMI000000II......IXXMMII0000000000000000MW$$$$$$$$$$$$$S       S$$$S    S$$$$$$S            SS$$$$$$$$$$$$$$$$W
-M000000000000000I..............IXXXMIII.......IXXIII00000000000000000MW$$$$$$$$$$$$$$$                                 SSS$$$$$$$$$$$$$$$$$W
-M00000000MMMMMMMM0I........MM0IXXXXXXXX......IIXXII000000000000000000MW$$$$$$$$WWWWWWWW             S                  SS$$$$$$$$$$$$$$$$$$W
-M00000000000000000MIXI....IIIIXXII.IIXX......IXXII0000000000000000000MW$$$$$$$$$$$$$$$$$ S                            SS$$$$$$$$$$$$$$$$$$$W
-M0000000000000000000II..................IIXXXIIII00000000000000000000MW$$$$$$$$$$$$$$$$$$$S                        SSSS$$$$$$$$$$$$$$$$$$$$W
-M000000000000000000000II.............IXXXXIIIII0000000000000000000000MW$$$$$$$$$$$$$$$$$$$$$S                   SSSSS$$$$$$$$$$$$$$$$$$$$$$W
-M0000000000000000000000II..........IIIXXXXIII000000000000000000000000MW$$$$$$$$$$$$$$$$$$$$$$S                  SSS$$$$$$$$$$$$$$$$$$$$$$$$W
-M000000000000000000000000II.....IIXXXIIIII000000MM0000000000000000000MW$$$$$$$$$$$$$$$$$$$$$$$$S           SSSSS$$$$$$  $$$$$$$$$$$$$$$$$$$W
-M0000000000000000000000000000W000000000000000000000000000000000000000MW$$$$$$$$$$$$$$$$$$$$$$$$$$$$ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W
-M00000000000000000000000000000000000000000000000000000000000000000000MW$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$W
-M00000000000000000000000000000000000000000000000000IIMMMMIIM000000000MW$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$SS    SS $$$$$$$$$W
-M00000000000000000000000000000IXMMMII000000000000IIIIMMMMMI0000000000MW$$$$$$$$$$$$$$$$$$$$$$$$$$$$$     SS$$$$$$$$$$$$SSSS     S$$$$$$$$$$W
-MI0000000000000000000000000000IIXXXIIMIM0000000IIIMMMMMMMMMI000000000MW $$$$$$$$$$$$$$$$$$$$$$$$$$$$     SS S $$$$$$$SSS         S$$$$$$$$$W
-MII000000000000000000000000000IIIIXXXXMIIIIIIIIIMMMMMXXXMMMMI00000000MW  $$$$$$$$$$$$$$$$$$$$$$$$$$$         SSSSSSSSS            S$$$$$$$$W
-MII000000000000000000000000000XI...IIXXXXMMMMMMMMMMMXXIIXXXMIII000000MW  $$$$$$$$$$$$$$$$$$$$$$$$$$$                              SSS$$$$$$W
-MII000000000000000000000000000XI...IIIXXXMMMMMMMXXXXXIIIIIXXMIII00000MW  $$$$$$$$$$$$$$$$$$$$$$$$$$$                               SSS$$$$$W
-MII0000000000000000000000000000XIIIIIIIXXXXMXXXXXXXXII.IIIXXXII0I0000MW  $$$$$$$$$$$$$$$$$$$$$$$$$$$$                              SS$S$$$$W
-MI00000000000000000000000000000XIII....IXXXXXXXXXIII......IIXMI0I0000MW $$$$$$$$$$$$$$$$$$$$$$$$$$$$$                               S$S$$$$W
-MX0000000000000000000000000MFXXIIII....IIIXXXXXII........IIXXMIXI0I00MW $$$$$$$$$$$$$$$$$$$$$$$$$                                   S S$S$$W
-M00000000000000000000000IIIXXIIII.......IIIIIXI...........IIXXMMIM0X0MW$$$$$$$$$$$$$$$$$$$$$$$SSS                                     S $ $W
-M0000000000000000000OOIIIIII..............IIIII............IIXXMIM000MW$$$$$$$$$$$$$$$$$$$                                            S $$$W
-M0000000000000JIX..........................................I.X00MX00MMW$$$$$$$$$$$$$                                                $$  $$ W
-M0000000000000MXXM.........................................I.IIX00Z00MW$$$$$$$$$$$$$                                                S $$ $$W
-M000000000000JMXXJ........................................IJXI.I0MI00MW$$$$$$$$$$$$                                                  S$ S$$W
-M00000000000JXIIII........................................JJII000M000MW$$$$$$$$$$$                                                  $$$ $$$W
-M00000000000XJJII.........................................JJII00M0Z00MW$$$$$$$$$$$                                                 S$$ $ $$W
-M0000000JIIIJJJ.I........................................IJI.JI000XM0MW$$$$$$$  SS                                                   $$$  $W
-M00000JIIIJJII...........................................J.JJX0XIM0M0MW$$$$$   S                                                    $ S $ $W
-M00000XIIIJJ.............................................JI.JX0JXMMMMMW$$$$$ S                                                      $      W
-M000IIIIIILI............................................IJ.IXJ0JX0X0XMW$$$S  SS                                                     $  $ $ W
-M00IJJIIIXJJ...........................................IJ.JJX0IXJJJJJMW$$S                                                         $       W
-M00II.....I.................................................JJJJIIXMMMW$$S                                                                 W
-M000M.....................................................J.I.I.XMMMMMW$$$                                                                 W
-M0000L....................................................II.XMMMMMI.MW$$$$                                                                W
-M00M00...............I....................................IMMMMMIIMM0MW$$ $$                                                              $W
-M00000000L..........II.................................MMMMMMIIXM0000MW$$$$$$$$                                                        $$$$W
-M000000000000L......................................IJMMMMMIXM0000000MW$$$$$$$$$$$$                                                 $$$$$$$W
-M0X0000MMM0000000MMIIXIII..........................IMMMMM.IX00M000000MW$ $$$$   $$$$$$$  S                                        $$ $$$$$$W
-M00W00I00W0W0000000000000LX.....................I.XMMMMMMMM0000000000MW$$ $$ $$ $ $$$$$$$$$$$$$                                  $$$$$$$$$$W
-M0000X00M0M00M000M0MM0MMMMMMM0M0M000MMMM00MMIXXMMMMMFI.JM000000000000MW$$$$ $$ $ $$ $$$ $  $       $ $ $$$    $$               $$$$$$$$$$$$W
-M0X0M00M0X0WM0M0M000000000000000MMMMMMMMMMMMMMMMMM.IXMMM0000000000000MW$ $ $$ $ $  $ $ $$$$$$$$$$$$$$$                        $$$$$$$$$$$$$W
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-
-
-
-                              "MONA LISA"
-
-
-
-CREATED FOR RTTY BY BILL, W0HBH, ST. LOUIS, MISSOURI FROM A COMPUTER
-PRINTOUT SUPPLIED TO ME FROM JOHN, WD0PFPY, KIRKWOOD, MISSOURI
-

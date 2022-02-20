@@ -1,60 +1,0 @@
-
-                                          .IIIII.
-     M.                                 .IIIIIIIIINNNN...     X
-    MMMMM.                      .IIIIIIIIIIIIIINNNNNNIIII     X
-   .MMMMMMMMM.               ..IIIIINNNNNNNNNNNNIIIIIIIIII     X     X                              XX
-   IMMMMMMMMMMI           .INNIIIIINNNNNNNIIIIIIIIIIIIIIIII.      X    X                XX       XXXXX
-   MMMMMMMMMMMMM       .IIINNNIINNNNNNIIIIINNN.III.NNNNN IIII      X    X               XXX      XX       X     XXXXX
-   MMMMMMMMMMMMMM    .IIIINNNNIINNNNNIIIINNNN.IIIIINNNNNNNNIII       X   X    X          XXX   XXXX       X           XX                                                       X
-   MMMMMMMMMMMMMMM..IIIINNNNNINNNNNNNIIINNNIINN"""NNIIIIINNNIII        X  X    X          XX   XXXXX    XX    ...       XX
-   MMMMMMMMMMMMMMMMIIIINNNNNNNNNNNNIIIINNINNNNNNNNNNNNNNIINNNII.   XXX  X  X    X          XXXXX  X    XX    XXX  X       X
-   "MMMMMMMMMMMMMMMMIIIINNNNNNNNNNNIIINNINNN"NNNNNNNNNNNNINNNIII     XXX X X    X        XXXXXX  XX   XX     X    XXXX    X
-    MMMMMMMMMMMMMMMMMIIINNNNNNINNNNIINNIINNNNNNNNNNNNNNIINNNIIII        XXXX    X   X    XXXXX   XX   X     XXXXXXX  X   X
-    "MMMMMMMMMMMMMMIIIINNNNNNIIINNIIINNNIINNNNNNNN"NNNNIINNNNIII           X    X         XXX    X   XXX    XXXXXX   XX  XX
-     "MMMMMMXMMMXMIIIIINNNXXXIINNXIIINXXXIINXXXXXNNNNXXINNNNIIII            M   M         NNN    N    NNN   NNNNN    NN 
-      "XMMMMMXMMXMIIIIINNNXXXIINXXIIINXXXXIIXXXNNNXXXXXXNNNIIIII       M     M  M         NNN   NN    NNNN  NNN   NNNNNN
-       "MXXMMMXMXMIIIIIINNXXIIINXXXIIXXINXXXXXXXXXXXXXXNNNIIIII"         MM   M M         NN    NNN  NN  NNNNNNNNNNNNNN
-        "MMXXXXXXMMIIIINNNXXIINNNXXNNXXXINNNXXXXXXXXXXNNIIIIIXXXX.           MMMMMM         NN     NN  NNN    NNNNNNNNNN       NNNN
-          "MMMMMXMXXIXXXXXXIIINNNXXXXXXXXINNNNNXXXXXXNNIIIIIXXXXXXX                M NN NNNNNN      NNNNNNNN      NNNNNN       NNNNNNN
-            "MMMMXXMMIIIXXXXIIINNNXXXXXXXIIIINNNNNXXNNIIIIIXXNNNNNNX                 MM     NNNN   NNNNNNNNNN         NN       NN      N
-              "MMMXIIINNXXXXNXIIINNNXXXXXXXIIIIIIIIXXIIIIXXXXNNNNIIII                  M     NNNN N      NNNNNNN        NN    NNNN
-          .MMMMMXIIIIINNNXXXXIIIIIINNNXXXXXIIIIIIIIINIIIXXXXNNNIIIIIIX                M        NNNN         NNNNN             NNNN         N
-       .MMMMMMMXIIIIIINNNXXXNXIIIIINNXXNNXXXXXXXXXXXXXXXNNNIIIIIIIIXXX               M         NNN N       NN  NNNNNNNNNNNNNNN           NNN
-     .MMMMMMMMXMIIIIIINNNXXXIXXIIIIIIIIINNNXXXXXXXXXNNNNIIIIIIIIIXXXXXX              M          NNN NN            NNNNNNNNN             NNNNNN
-    .MMMMMXXXXMMIIIIIINNNNXXIINXXXIIIIIIIXXXXXIIIIIIIIIIIIIXXXXXXXNIIII          MMMM            NN   NNN       NNNNN             NNNNNNN
-   .MMXXXXMXMXMMIIIIIIINNNXXXIINNXXXXXXXXNNNNXXIIIIIIIIIIIXXXXNNNNIIIII      MMMM M M            NNN    NNNNNNNN    NN           NNNN
-  .MXXMMMMXMMMXMIIIIIIIINNNXXIIIIIIINNNNNNNNNNNXXXXXXXXXXXXNNNNNNIIIIII    MM    M   M            NN                  NNNNNNNNNNNN
-  MMMMMMMXMMMMXMMIIIIIIINNXXXXXXXXXIIIIIIIIIINNNNNNNNNXXXXXNNNNIIIIIII         M    M           NNNNNNNNN                   NNNNN
-  MMMMMMXMMMMMXMMMIIIIIIINNNXXXXXXXXXXIIIIIIIIIIIIIIXXXXNNNNNNNIIIIIII        M     M             NNNNNNNNNN              NNNN
-  MMMMXXMXMMMMXMM" IIIIIINNNNNNNXXXXXXXXXIIIIIIIIXXXXNNNNNNNNIIIIIIII"      MM M    M                 NNNNNNNNN        NNNN
-  MMXXMXMXMMMMMX"   IIIIIIINNNNNNNNXXXXXXXXXXXXXXXXXNNNNNNIIIIIIIIIII    MM M M     M                   NNNNNNNNNNNNNNNNN
-  MXMMXMMMXMMM"  ..MMIIIIIIIINNNNNNNNNNXXXXI  XXXXNNNNNNIIIIIIIIIII"   M  M   M                            NNNN   NNNN
-  "MMMXMMMXMM".MMMMMMIIIIIIIIIIINNNNNNNNNNI   "XXNNIIIIIIIIIIIIII"      M   M                                    NN
-   MMMXMMMX".MMMMMXXXIIIIIIIIIIIIIINNNNIII     "NIIIIIIIIIIIIIII"      M   M       MMM
-   "MXMMM" .XXXXXXMXXIIIIIIIIIIIIIIIIIIIIMM   .MMM"""""MM"""MM     M      MMMMMM MM                             .....  ...
-    "XM"  .MMMMMMXXMXIIIIIIIIIIIIIIIIII"MMM  .MMMMMXXXXMMMMMMM     M           MM M                  .           MMMM
-    "    .MMMMMMXMMMXMMMXMMMIIIIIIIII"MMMMM MMMMMMXMMXMMXMMMM"                M   M   M            .            M  M  M
-        .MMMMMMXMMMMXMMMXMMMMMMMMXMMXMMMMMM MMMMXMMMMXMMMXMMM"               M    M   M        M  M           M    M  NM
-        MMMMMMXMMMMMXMMXMMXXXMMMXMMMXMMMMM" MMXMMMMMXMMMMXMM.              M     M  M  MMM   M   M          M     M    M
-       .MMMXXMXXMMMMXMX"XXXMMMMXMMMMMXMMM"  MMXMMMMMMXMMMMMMX.           MM MM    M M MMM    M     M        M      M      M
-       .MMXMMMXXMMMMX" MMMMMMMXMMMMMMXMM"   "XMMMMMMMXMMMMMMX          M   MM    M         M      M       M       M      M
-       "XXMMMMXMXMMM   "MMMMXXMXMMMMMXM      "MMMMMMXXXMMMMM"        MM    M M           MM M     M              MMM
-        MMMMMXMMXM"     MXXMXMMMXMMMM"        "MMMMXMXMMXMMM"             M  M        MM M   M                  M M  M
-        "MMMMXMMX"      "MMXMMMMXMMM           "MXXMMXMMMXM"             M  M          M    M                MM  M   M
-         "MMMXMM"        MMXMMMMM"              "XMMMXMMMX"             M             M                     M   M   M
-           "MXM"         "MXMM"                   "MMXMMM"             M             M                         M
-            "MM           XM"                      "MXMM"             X            M                          M
-             "            "                         "XM                                                     M
-                                                     M
-
-
-
-                             "THE ROSE"
-
-
-
-
-         ORIGINATED BY SANDI CLARK, WB4VEU, HURT, VIRGINIA
-
-                       1979 RTTY ART CONTEST
-

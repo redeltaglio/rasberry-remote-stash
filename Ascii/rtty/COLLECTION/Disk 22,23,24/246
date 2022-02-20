@@ -1,67 +1,0 @@
-
- .  .    .     .     .     .     .     .     .  .. .   . .    .   .
-    .   .    ... .    .  .    .    .    .      ..    .    .   . .  .
- .   .   .   .  .   .  .  MMM:::.  .   .    ..     .   .    .     ..                          WWW
-.  .   .    .     .   . MMMMM::::.   .   .     .     .    .    .   .                        WWWWW
- .   .    .   ..    .  MMMMMM:::::      .   .     .    .    .    . .                       WWWWWW
-.  .    .   .    .   . MMMMM::::::  .     .    .     .    .    .   .                       WWWWW
-  .  .    .   .    .  MMMMMM::::::    .    ..     ..     .    .    .                      WWWWWW
-.      .    .   .   . MMMMMM::::II  .    .     .   .     .    .    .                        WWWW
-  .   .   .   .   .   MMMMMM::III .   ..    .    ..    .  .   .    .                          WW
-.   .    .     .   .  MMMMMMIIIII   .     .    .    .   .      .   .
-   .   .    .    .   .MMMMMIIIII  .    .     .    .  .     .   .  .
-.     .  .    .   .    MMMMIIIII    .    .      .   .    .     .   .
-  .  .  .   .   .   .  MMMMIIII .   .   .   .   .   .  .    .    . .
-.   .      .    .  .  MMMMIIIIIIIIIIIIIIIIIMMMMMMMMMMII   .   .   .
-  .   .  .    .  .   MMMMMMIIIMMMMMMMMMMMMMMMMMMMMMMMMMMMMII  . .  .                                           WWW
- .  .   .  .    IMMMMMMMMMIMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMI . .   .                 WW    W     WWWWW WWWWW  WWWW
-.  .  . . MIMMMIIMMMMMMMMMIIMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMI .  .  .          W WWW  WW    W     W   W W W W  WWWW
- .  . . MMMIMMMIIMMMMMMMMMIIMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMI .  .  .        WWW WWW  WW   W      W   W W   W  WWWW
-.  . .MMMMMIMMMIIMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMI  .  . .      WWWWW WWW  WW   W    W WWWWW WWWWW  WWW
-. .  MMMMMMIMMMIIMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMI ...  . .     WWWWWW WWW  WW   W    W W   W W   W  WWW
-..  MMMMMMMIMMMIIMMMMMMV'VMMMV  VMMMMMMMMMMMMMMMMMMMMMMMMMI   .  . .    WWWWWWW WWW  WW   W    WW    WMW  W   WWW
- . MMMMMMMMIMMMIIMMMMMMA.AMMMA..AMMMMMMMMMMMMMMMMMMMMMMMMI  .  .   .   WWWWWWWW WWW  WW   W   W W    W W  W   WW
-. .MMMMMMMMIMMMIIMMMMMMV'VMMMV'VMMMMMMMMMMMMMMMMMMMMMMMMI  .  . .  .   WWWWWWWW WWW  WW   W   W W   WWWWWW      WW
- . MMMMMMMMIMMMMIMMMMMMA.AMMMA.AMMMMMMMMMMMMMMMMMMMMMMMI  .  . .   .   WWWWWWWW WWWW WWW  W   W W   W           WW
-. .MMMMMMMMIMMMMIMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMI .   .   .  .   WWWWWWWW WWWW WWW   WWWW WWWWW       WW
-.. MMMMMMMMIMMMMIMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMI   .  .  .   .   WWWWWWWW WWWW WWW                    WW
-. .MMMMMMMMIMMMMIMMMMMMMMMMMMMMMMMMMMMMMIMMMMMMMMMMMI .  . .  . .  .   WWWWWWWW WWWW WWW                  WW
- . MMMMMMMMIMMMMIMMMMMMMMMMMMMMMMMMMMMMMIMMMMMMMMMMMI .  .  .  . . .   WWWWWWWW WWWW WWWW                WWW
-.  MMMMMMMMIIMMMMIIMMMMMMMMMMMMMMMMMMMMMMIMMMMMMMMMI  .  .  .    . .   WWWWWWWW  WWWW  WWWW               WWW
-. . MMMMMMMIIMMMIIMMMMMMMMMMMMMMMMMMMMMMIMMMMMMMMMMI .   .   .  .  .    WWWWWWW  WWW  WWWW              WWWW
- .. MMMMMMMMIMMMMIMMMMMMMMMMMMIIIIIIIMMMIMMMMMMMMI .  .   .   . .  .    WWWWWWWW WWWW WWWWW              WWW
-.  .MMMMMMMMIMMMMIMMMMMMMMMMIIIIIIIIMMMMIIMMMMMMIMMMMMMMMM  .   .  .    WWWWWWWW WWWW WWWWW             W WW
- .  .MMMMMMMIIMMMIMMMMMMMMMMIIIIIIIIMMMMIIMMMMMIMMMMMMMMMMMMMMMMMM .     WWWWWWW  WWW WWWWW             W WW               W
-. .  MMMMMMMMIMMMIMMMMMMMMMMIIIIIIIIMMMMIIMMMMIMMMMMMMMMMMMMMMMMMM .     WWWWWWWW WWW WWWW              W WW       WWWWW
- .  .MMMMMMMMIMMMIMMMMMMMMMMIIIIIIIIMMMMMIMMMMIMMMMMMMMMMMMMMMMM   .     WWWWWWWW WWW WWWW              WWWWW      WWWWWWWWWWWWWWWWW
-.  . .MMMMMMMIMMMIMMMMMMMMMMIIIIIIIMMMMMMMMMMMMMMMMMMMMMMMMMMMM .  .      WWWWWWW WWW WWWW             WWWW       WWWWWWWWWWWWWWWWW
- .  . .MMMMMMMIMMMIMMMMMMMMMIIIIIIIMMMMMMMMMMMMMM  .   .   . .   . .       WWWWWWW WWW WW              WWWW    WWWWWW
-. .  . MMMMMMM MMMIMMMMMMMMMIIIIIIIMMMMMMM  .  .  .  .   .   .  .  .       WWWWWWWIWWW WW              WWWWW
- . .  . MMMMMMMMMMMMMMMMMMMMIIIIIIIMMMMMM .   .     .   .      .  ..        WWWWWWWWWWWWW              WWWWW
-.     .  MMMMMMMMMMMMMMMMMMIIIIIIIMMMMM .   .   .     .    . . .   .         WWWWWWWWWWWW             WWWWW
- . .   . MMMMMMMMMMMMMMMMMMIIIIIIMMMMM .  .   .   .    .     .   . .         WWWWWWWWWWW             WWWWW
- .  .   . MMMMMMMMMMMMMMMMMIIIIIMMMM  .  .   .   .   .   .     .   .          WWWWWWWWWW            WWWW
-. .  ..   .MMMMMMMMMMMMMMMMIIIIMMM .    .   . .    .   .   .   .  .           WWWWWWWWW           WWW
- .  .  .  . MMMMMMMMMMMMMMMIIIMMM .  .    .   .   .   .   .   . .  .            WWWWWWWW          WWW
-.  .  .   . . MMMMMMMMMMMMIIIMMM   .   .    .  .    .   .   .  .   .              WWWWW          WWW
-  .  .  .   . MMMMMMMMMMMIIMM   .  .     .   .  .    .   .   .    .              WWWW         WW
-.   .  .  .  .  MMMMMMMMMMIM  .    . .  .  .   .    .    .    .   ..                WWW        W
-  .   .   .    .  MMMMMMM  .   .   .     .    .  .  .   .   .    .                  WW
-.   .   .   .   . .     .    .    .     .   .    .       .   .  .  .
-   .  .  .  .  .       .    .  .  .    .    .    .   .   .   . . .
- .   .    .  .   .         . .  .   .  .    .    .    .    .   . . .
-.  .  .   ..  .             .  .   .   .  .  .    .   .    .   .   .
- .  .  .   . .               .   .   .   .     .  .   .   .    ..  .
-.  .  .  .  .                . .   .   .   . . .  .   .   .   . .  .
- .. .  .   .                     .  .  .  .   .  . .  .  . .. .  . .
-. .. . . ..                    .  .  . ..  .  ..  .  .  .  . . . . .
- . . ..  .                      ..  .  .  .  .  .  ...  . .   .   ..
-.    . ..                        .  .  .   .  ..   .  . ..   ..  . .
-. . ..  .                          .  .  ..   .   . .   . .   . . ..
-.  .. .                            .  .   .   . .    .. .  . .  . ..
-
-
-                           "FIRE   ONE!"
-
-ORIGINATED FOR RTTY BY GEORGE, W2IUC, MAYWOOD, NEW JERSEY
-

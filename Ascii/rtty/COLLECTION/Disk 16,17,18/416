@@ -1,175 +1,0 @@
-
-----------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW$$$$$$$$$$$$$$   $$$$$$$$$$$$$     $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMHHHMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWIIIWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW  $$$$$$$$$$$$    $$$$$$$$$$$$$     $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-MMMMMMMMMMMMMMMHHHMMMMMMMMMMMMMMMHHHMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWIIIIWWWWWWWWWWWWWWWIIIWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW   $$$$$$$$$$      $$$$$$$$$$$$$     $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-MMMMMMMMMMMMMMHHHIMMMMMMMMMMMHMMMMHHHMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWIII/IWWWWWWWWWIIIIWWIIIIWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW    $$$$$$$$$       $$$$$$$     $$     $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-MMMMMMMMMMMMMMMHHHHMMMMMMMMMMMHHMMMHHHHHMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWIIIIIIIWWWWWWWWWIIIIIIIII:IIWWWWWWWWWWWWWWWWWWWWWWWWWWWWW     $$$$$$$        $$$$  $$              $$$$$$$$$$$$$$$$$$$$$$$$$$$$
-MMMMMMMMMMMHHMMMHHMMMMMMMMMMMMMHHMMMMMHHHHMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWIIWWWIIIIWWWWIIWWWWIIIIIIIII::IIWWWWWWWWWWWWWWWWWWWWWWWWWWW      $$$$$   $$    $$$   $$$               $$$$$$$$$$$$$$$$$$$$$$$$$$
-MMMMMMMMMMMMIMMMMHMMMMMMMMMMMMMMHHMMMMMHHHHIVMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWI WWWWIWWWWWWWWWWWWIIIIIWIWIIII:/!IWWWWWWWWWWWWWWWWWWWWWWWW       $$$$   $$  $$    $$$$$      $ $         $$$$$$$$$$$$$$$$$$$$$$$
-MMMMMMMMMMMM:VMMMMHHMMMMMMMMMMMHHHMMMMHHHHHHIIVMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWW 'WWWIIIIWWWWWWWWWIIIIIWWIIIIII:/ !WWWWWWWWWWWWWWWWWWWWWWW        $$$$  $$     $$  $$$$      $$           $$$$$$$$$$$$$$$$$$$$$$
-MMMMMMMMMMMI:.VMMMMMHVMMMMMMMMMMHHMMMMMMHMMMMHIIVMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWW/  !WWIIW:!WWWWWWWWWIIIIWWIIWIIWIII/-!IWWWWWWWWWWWWWWWWWWWW        $$$    $   $  $$$  $$$     $$     $        $$$$$$$$$$$$$$$$$$$
-MMMMMMMMMMMI:..MMMMMMHMMMMMMMMMMHHHMMHHMMMMMMMMHIIHMMHHMMMMMMMMMMMMMMMWWWWWWWWWWW/  "WWWWWI:WWWWWWWWWWIIIWWIIIWWWWWWII/-:IIIIIWWWWWWWWWWWWWW         $$    $$$    $$$$ $$$$$   $$    $$$$$           $$$$$$$$$$$$$
-MMMMMMMMMMMA::.VMMMMVAMMMMMMMMMMMHMHMHHHMMMMMMMMMMMAIIVHHHHHMMMHHHHHMMWWWWWWWWWWW!   !WWII':IWWWWWWWWWWIIIWIIIIWWWWWWWWWI!/-!:::IIIIIIIIIIIW          $     $      $$$$$ $$$$   $     $$$$$$$                    $
-MMMMMMMMMMMMA:.:MMMMHHMMMMHHHMMMMMHHHHHHHHMMMMMMMMMMMHHAIVHHHIIIIIIHHHWWWWWWWWWWWW:  "WWWW:IWWWIIIIIWWWWIII::':IWWWWWWWWWWWI::/"II:   " ":::$       $$      $$$   $$       $$$         $$$$$$$$$
-MMMMMMMMMMMMM::.VMHMMHMMMHHHMMMMMMMHHMHHIHHMMMMMMMMMMMHHHHHHHHHHHHAAHHWWWWWWWWWWWWW   :WIWW:IWWIIIWWWWWWWIIWI:-:IWWWWWWWWWWIIIIII::::III!!II$$$    $$        $ $$  $$    $$$$$$         $$$$$$$$
-MMMMMMMMMMMMMM:::VMMMMHHMHMMMMMMMMMMHHHIHHIIVMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWI   !WWWWIIWIWWWWWWWWWIII:/:I//!WWWWWWWWWWWWWWWWWWWWWWWWW$$$$$$$            $$      $ $$$$$$           $$$$$$$$$$$$$$$$$$$$$$$$
-MMMMMMMMMMMMMMMAL:VMMMMHHMMMMMMHHMMMMHHHIIIHIVMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWW!- !WWWIIIWWWWWIIIIWWII::///:/:WWWWWWWWWWWWWWWWWWWWWWWW$$$$$$$$$$$$$$      $     $$$     $            $$$$$$$$$$$$$$$$$$$$$$$
-MMMV.:...:I:.VMMML.VMMMHHHAMMMMHHHHMMMHHIIHHHHHVMMMMMMMMMMMMMMMMMMMMMMWWW""  " """"!WWW- !IWWIII!WWWIIIIIWWII://:I:II!IWWWWWWWWWWWWWWWWWWWWW$$$           $$     $      $      $              $$$$$$$$$$$$$$$$$$$$
-PTT::''::I::.'VMMH..MMMMHHHMHHHMMMMMMMHHHHIHHHHHHAVMMMMMMMMMMMMMMMMMMMI--       -   !IW: 'WWWWIIIWIIIWWWWWWWI:::/:IIII::!WWWWWWWWWWWWWWWWWWW                $   $$$    $    $$$$$$              $$$$$$$$$$$$$$$$$$
-::I:.:::.","::",VV..VMMMMMMMHHMMMMMMMMMHHHHHHHHHHHAVMMMMMMMMMMMMMMMMMM-               !!  !WWWWWWIIIIIWWWWWWW::::::IIIII:'IWWWWWWWWWWWWWWWWW                     $$$$$      $  $$$$               $$$$$$$$$$$$$$$$
-II:':.::'.:::";'.:..:VMMMMMMMHMMMMMMMMMMHHHIHHHHHHHHAVHHMMMMMMMMMMMMMM-      -      - "    !WWWWWWW:IWWWWWWWWIII:/:IIIIII::'::IWWWWWWWWWWWWW                      $$$$$    $$$   $$                   $$$$$$$$$$$$
-II:-::'::.":I:I:.::.::VMMMMMHHMMMMMMMMMMMHHHHHHHHHHHHHHHHMMMMMMMMMMMMM--  -   " -"- /- -    !WWWWWI:IWWWWWWWWWII::::IIIIIII:.':WWWWWIWWWWWWW                        $$$    $$$$$   $$                          $$$
-HII.4'" .:IIII::I: .:::IMMMMHMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHHHHHHHHMMMM://       --"-- "      "WWWIIWWWWWWWIIIIIWII:::::IIIIIIIII:'.':IIIWWWW                        $$    $$$$$      $                         $$$
-:II:  '":IIIIII:I".::I::IMMMHMMMMMMMMMMMMMMMHHHHHHHMHHHHHHHHHHHMMMHHHH---    --//--//--       "WWIIIWWWWWWWWWWWWWII::::::II:::::II,':IWIIIII                         $    $$$$$$$$   $$                     $
-I::."'.:IHII:IHI:.::':I::VMMHHMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHIHHMMHHHHM-""     -"/-  '-"        !WW:IIWWWWWWIIWWWWWWII::::IIIIIII::/:IIIIIIIW                          $     $$$$       $$                        $
-I'':P.:.:.Y.:I:II:II::II::VMHIHHHMMMMMMMHHMMMMHHHHHIIHHHHHHIHHHHHHIHMM-   :-"-"'"'-/ --         !II/IIIIIWWWWWIIWWWWIII::-":IIII:/:IIII:":WW                                    $$$$    $$                      $$
-"::I:" AII::/I:III:IIIII:::VHHIIVHHHHHMMMMHHHHMMHHHHIIIHHHIIHMHIHHHMMM   "-   "    " /-- -   -   !II//::::IIWWWWIIIIWWI:::/--::://:I:/::IIWW                                       $$     $$                    $$
-':VF.:.H:../:AII:::IIII:..:AMMHHIIIVHHHMMMMMHHMMMHHHHHHIII::II:IHHMMMM "'/ --,"'   .--"  ---     :WII://--:IIWWWWWIIWWWIIII::/ "- "  /:IIWWW                                        $$$    $$                  $$$
-::L"VHVI::/::I:I:I:::"IIIII:HVMHHHIIIIIIVHHHHMHMMMMMHHHHHHHIIHHHHHHMMM  "  "-   .  " /      //--- :!III:/   "/:IIIIIIIIWWWIIIII::--,,:IIIWWW                                                  $$               $$$
-IIIALLLAHIII::/:II:::HHHLLHIIAVHHHHHHHHHIIAHHHHHMMMMMHHHHHMMMMHHMMMMMM-- .- -../    I      .':--:--.!II:::III:/ "IIIIIIWWWWI::IIIIIIIIIWWWWW                                                   $$             $$$$
-IIHIHIHIIIHI:/:III::AHHHHHHIHHAVHHHHMMMMIIHHHHHHHHHMMMMHHHMMMMMMMMMMMM/-.-.-.---/  I      !IIIII:/::!!I:::IIII/ ::::IIIIIIWWII:IIWWWWWWWWWWW                                                    $$      $$$$$$$$$$
-HHIIHHHHII:/:II:II::HHHHHHHHHHHMMHHHHHMMMMHHHHMMMMMMMHMMMHHMMMMMHMMMMM :/ .'..---I-       IIIIIIIII::IWI:::IIWWIW:::IWWWWWWIIWWIIWWWWWIWWWWW                                $      $$       $$$$   $    $$$  $$$$$
-IHHHHHHII:/::III:::AHMHMHMHMHMHHMMHHHHMMMMMMMMMMMMMMMHMMMHHHHHHHHHMMMM .'.'.'---I"  -    !IIIIIIIIIIIIWII:IIIIIIIIIIIIIIWWWIWWWIIIIIIIIIWWWW                                $                  $$  $          $$$$
-:VHAIHHI:/::III::AHMHMHMHMHMHMHHMMMHHHHHHHHHHMMMMMMMHHHMMMHHHHHHHMMMMM ''.".'--I   -   !IIIIIIIIIIIIIIIWWI:::IIIIIIIIWWWWWIIIWWWIIIIIIIIWWWW                                 $              $$$     $         $$$$
-I:HHHHVI:.:III::AHMMHHMHHHMMMMMMMMMHIIHHHHHHMMMMMMMMHHMMMMMHHHHHHMMMMM  ''..--"   -   !IIIIIIIIIIIWWWWWWII//::IIIIIIIWWWWI::WWWWWIIIIIIWWWWW                             $$$$$              $$     $$$        $$$$
-IIHHV".'.:I:.:AHHHMHMHMHMMMMMMMMMMMHHHIIHHHMMMMMMMMHHHMMMMMMMHHHHMMMMM -'''     -   !:IIWIWIWIWWWWWWWWWWWI:://::IIIWWWWWI:::IWWWWWIIIIIIWWWW                  $ $ $  $$$$$$$$$$           $$$       $$$        $$$
-VHV"  .:::..AHHHMMHHMMMMHMMMMMMMMMHMAVHHIHHHMMMMMMHHHHHMMMWWWWWWWWWWWWWWWWWWWWIIIIIIWWWWWWWWWWWWWWWWWWIWWI::::-  ""       "  --$$$        $$$$$ $$$$             $$$$$$$$    $$
-MMMMMMMMMMHHHMMMMMMMMMMMHHHHMMMMMMMMMMMMMMHMMMMMMMHHHIL:I:..:..:.::-..WWWWWWWWWWIIIIWWWWWWWWWWIIIIIWWWWWWWWWWWWWIWWWWWWWI::---/        "   "$$$$$         $$$$$$$  $           $$$$$$$ $$$$$$
-MMMMMMMMMMHHMMMMMMMMMMMMMMMHHHHHHHMMMMMMMMHMMMHHMMHHIIIHHI:.::IAHI::.AWWWWWWWWWWIIIIWWWWWWWWWWWWIIIIIIIIIWWWWWWWIWWWIIWWII//-II--'-"/:'/- '!$$$$$$$$$$    $$$$$$$   $$         $$$$$$   $$  $
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMHHHHHHMMMMMMMMMMMMMMMMMMHLAMMA:LLLLLLWWAMMWWWWWWWWWWWWWWWWWWWWWWWWWWIIIIIIIIIIWWWWWWWWWWWWWWWWIJ:II:---''--,,!WW$$$$$$$$$$$$$$$$$$$$$$  $$           $$$$$ $$$$$$                    $
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMHHHHHHHMMMMMMMMMMMMMMMMMMMMMMHHHHHMHMMMMMMWWWWWWWWWWWIIIIWWWWWWWWWWWWIIIIIIIIIWWWWWWWWWWWWWWWWWWWWIIIIIIIIIWWWWW$$$$$$$$$$$    $$$$$$$$  $$         $$$$$$$$$$$$$$$$$$$          $$
-MMMMMMMMMMHHHHHHMMHMMHMMHMMMHHHHIHMMMMMMMMMMMMMHHMMHHHMMHHHMMHHHHMMMMMWWWWWWWWWWIIIII IIIWIIIIIWWWIIII-:IWWWWWWWWWWWWIIWWIIIWWIIIWWIIIIWWWWW$$$$$$$$$$         $      $$       $$$     $$$   $$   $$   $$    $$
-MMMMMMVTIHHHMMMMMMMMMHHHHMMMHHHHHMMMMMMMMMMMMMMHHMMHHHMMHHHMMHHHMMMHHHWWWWWI:" :IIIWWWW WWIIIIIWWWWIIIIIWWWWWWWWWWWWWIIWWIIIWWIIIWW::IIWWIII                          $$      $$$$     $$$   $$   $$   $$    $$
-MMMMMHVHIAMMMMMMMMMMMHMMMMMMMMHHHMMMMMMMMMMMMMMHHMMHHHMMHHHMMHHHMMMHHHW WWI:::-!WWWWWWW WWIIIIIWWWWIIIIIWWWWWWWWWWWWIIIWWIIIWWIIIWWIIIWWWIII                          $$      $$$$     $$$   $$   $$   $$   $$$
-MMMMMHHHIMMMMMMMMMMMMHHMMMMMMMHHHMMMMMMMMMMMMMHHHMMHHMMHHHMMMHHHMMMHHH W WW:::-IWWWWWW IWWIIIIIWWWWIIIIIWWWWWWWWWWWWIIIWWIIWWIIIWWWI:IWWW:II                  $$      $$$     $$$$     $$$   $$  $$   $$$   $$$
-HHAMMMHHHHHMMMMMMMMMHHHHHMMMMMHHHHMMMMMMMMMMMMMMMMMHHMMMHHMMMHHHMMMWWWI::IWII::::IWWWWWWWWIIIIIWWWWWIIIIWWWWWWWWWWWWWWWWWIIWWWIIWWWI:IWWW:::                  $       $$$     $$$$     $$$   $$  $$$  $$$   $$$
-MTHHMMMHHMHHMMHHHMHHHHMHMMMMMHHHHMMMMMMMMMMMMMMMMMMMHMMMHMMMMMMMMMMMMMW-:IIWII:W::IWIIIW:IIIWIIWWWWIIIIWWWWWWWWWWWWWWWWWWWIWWWWWWWWWWWWWWIWW                 $        $$      $$$$$$$$$$$$$$$$$      $$$$$$$$$   $
-LHMMMMMMHMMHHMMMMHHHMMMMMMMMHHHHMMMMMMMMMMMMMMMMMMMMMMMMMMHHHHHMMHHHHH-:IWWWWW:IW:IIWWWIIIWWWWWWWWIIIIWWWWWWWWWWWWWWWWWWWWWWWWWII::::IIIIIII    $$$       $$$    $$$$$$          $$$$$$$$$$$$$$$$$$$
-HHHHHHHHHMMMMMMMMMMMMHHHMMMMMHHHHHMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHHMI I::::::IWWWIWWWWWWIIIIWWWWWIIIIIIWWWWWWWWWWWWWWWWWWI:IIII::::IIII::W          $$$  $$$$      $$$         $$$$$$$$$$$$$$$                 $
-MMMMMMMMHHMMMMMMMMMMMHHHMMMMHHHHHMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHMMMMMWW III I:IIWWWWWWWWWII:IWWWWIIIIIIWWWWWWWWWWWWWWWWWWWI:::"":::I:IWWWWW           $$$$$$$$      $$$          $$$$$$$$$$$$$$              $$$
-MMMHHHHHMHHMMMMMMMMMHHHMMMMMHHHHMMMMMMMMMMMMMMMMMMMMHHHH":::HIHHHMP"":III::.,:I:IWWWWWWWWWIIIWWWWWIIIIIIWWWWWWWWWWWWWWWWWII::".""" -,,:I"-           $$$$$$$$     $$$$          $$$$$$$$$$$$
-MMMMMHHHAMMMMMMMMMMHHHMMMMMMMHHHMMMMMMMMMMMMMMMMMMMMP:: .:::IIIHHMHA.VWWWWII:!!WWWWWWWWWWIIIWWWWWWWIIIIIWWWWWWWWWWWWWWWWWI""" " ""--/"IWI: !$$$       $$$$$$$$     $$$$$          $$$$$$$$$$$
-MMMHHHHMMMMMMMMMMMHHHHMMMMMMMMHHHMMMMMMMMMMMMMMMMMT: :' ' ' '.::IHI:AWWWHHHHWWWWWWWWWWHHHHHHWWWWWWWHHHHWWWWWWWWWWWWWWHH-"          ""/:/"!$$$     $$$$$$$$       $$$$$$        $$$$$$$$$$
-MMMMMMMMMMMMMMMMMHHHHMMMMMMMMMMMMMMMMMMMMMMMMMMMMV:.'  '   ':::I:IIHIVWWWIIWWWWWWWWWWWIIIIIIWWWWWWWWWWWWWWWWWWWWWWWWWWI:            "/-//:/!$$    $$$$$$$$$        $$$$$$$$$ $$$$$$$$$$$$$$
-MMMMMMMMMMMMMMMHHHHHMMMMMMMHHHHMMMMMMMMMMMMMMMMMMI.       .'.:.:IHIHHIWWWWWWIIIIIWWWIIIIIIIWWWWWIIIIIWWWWWWWWWWWWWWWWII"             -/:/::-$  $$$     $$$       $$$$$       $$$$$$$$$$$$
-P"MMMMMMMMMMMMMHHHHMMMMMMMHHHMMMMMMMMMMMMMMMMMMMV: .      '.:.:IIHIHIH"-WWWWWWWWWIIIIIIIIIWWWWWIIIIIIWWWWWWWWWWWWWWWII""            --/I/I/I    $$$$$$           $$$$       $$$$$$$$$$$$
-:.PPMMMMMMMHHHHHHHMMMMMMMHHHHMMMMMMMMMMMMMMMMMHHHL . '   '...::IHIHIHH" "IWWWWWWIIIIIIIIIWWWWWIIIIIIWWWWWWWWWWWWWIIII::-           - /:/I/:'     $$$$           $$$        $$$$$$$$$$$
-I:0. """""PMMMMMMMMMMMMMMMMMMMMMMMMMMMPPPP""PHII:B:   . ' ..::IHHHHHIH--:     --IIIIWWWWWWWWWWWWIIIWWWWWWWWP::::-:I:///I-          -/:III:/I               $$$$$$$$$$     $$$$$$
-H..I..     '""HMMMMMMP:::""""""""'  '    '  '."":'".::.  '.:.:IHHHHHHMI            -IIWWWWII"""------               .-"./ "         /:I:II:W                 $$$                                                 $
-I..A.. .  .  . ""'  '                     '  ' .:":ILTL.:.....IHMHHHMH ' :                                                /B-'      /:W:IIWI
-:.:: .. .  .  .                        . .     :.:I:"'"::.,;..IHHHHHHM  /)                                                  ."-    '/II:I:IW                                                                     $
-0:0. ... .. . ..'.         . ' .  .' .'      ' .";I:'  ' ':...IHHHMMMM:":                                             .-            /I:IIWWW                                                                     $
-H:'.. ... .... .. ..'. . .. ... .. ../. '   .  .."::.   .:....IHHMMMMMI                                    :             "          -:IIIWWW                                                                    $$
-0L.... ... .. .... ...... .. .. ....:' .       (PL,  ' '.. ..:IIIVHMMM -                                  -          : --           ""/!IIWW                                                                     $
-AHAL..... ...:... .:...:. .. ...:::".'.        :"::"' .. . ..::IIHHMMM:::-                             --              ""-           ""::IWW                                                                     $
-HHHHHHA,,,:. .;,,:,,,;,,,;,,;,.-F" '  .'.' .   : '' . . . ..:.::IVHMMHIIIIII!--                      :/                               -!:IWI
-HHHHHHHHHHHHHHHHV".'.'   '  ' .F"     .  . ..   '-..-:..::.:.:::::I-::IIIIIIIIIIIIIIII!             //       '.                       - /""
-HHHHHHHHHHHHPPPP.:.          .:    .  ... ... .   . ":.:.:.:.::I:/I:::IIIIIIIIIII::::"-            /"                       - -      --:-  -
-'.-""''' '     ' .::...   .... :L .:.'....::.  . . .'.:I:.;,;,I:::::::  '                 -       /   -                      --    -- -    -
-"             . ..::::::""''.. .:IHI:::..:II..   .. ...:IIIIIIIII:::::                    ""                                   ------      -
-          .   . .:II::'.   ..  ..:II::..::II:.. ..   '.::IIIIIIIIII:::                                                           --///--
-      .  .  .  ..:I::.'      ...::II::.:IIHII:.. ..   .'.::IIIII::::::                                                            -/---
-   .   .   .  ..::::..       ..:IHHI::.:IIHHII:..   ' '''.:III:::::::.                                           :-
-    .  . . .  . .::..         .:IHHI::.:IHHHHI:'''    ..:.::::::::::..                                          :::/ -                  --
-  .  . .. .  . . .:. .        ..:III::.:IHHII:'      . .:.:.:.:..:I:.:                                           -/                     -
-. . . .:.     . . .. .      . ..:III:.::IHI::'    . .:.' ..:.:.:I:::.:                                          /"                    --
- . . .:. .     . . .    . .  ..:III:..:IHI::'   . .::.'  ..:LLLIHI.::.                                         /"        -        -:- :
-.. ..:. .       . .    . .. ...:II:.:.::II::.  .:A' . .,,,,AMMMMA,:.:.                                        --      -        --!WWWW!-
-.:..:I:.        . . .  ..::....:.::.:.::II:.:.:.. ..-"""''""""""I:";::                                               ''  .--       --""-- -
-:.::II:..      . . . ...::::....:.::.::::::::--"""''.'' '         '.";                                      --  ---:'-..                   "
-:::III::.     . .. .. .::::.:..:.:.::.::::":-':.--'I''' .. .  .     '  --/-                                  -" "     ' "
-::IHHI::. .. . . .. .:.::::::.:.:::::::" :'.-' ..::-''' .. .. . . . .. --::--                            ---"/           "
-:IHHHII:::.. .. .:. ....:::.:::::III"'.  '-::--...:.:.:.:.:..: .:.. ..-/:I:/--                       ----"-         '
-IHMMHI:::::... ... .,;:.::.::::II"' .                        '""::.. .-:IWI---                     -----.                            --
-HHMMHHII:::::.......:,:.:.:.:::I". '                              ""::IIWWI:---                    ---/                                  -
-MMMMMHHIII:::::.:.:::".:.::.:::".                              . .   'WWWWII:/-----                --/
-MHHHHHMHHIIII::::::.:.:.:.::::"..                        .    . .  .II:::IWI:------             --/
-'"IIHHHMMHHIII::::.:.:.:.:::IV..                      .     .  . .  . .--.":IW::-----           --:
-' '.":::IHMHIIIII:::::::I:IIHI..                     .   .   . .  .  .   ' """":II/--- -     ----/:/
-.   . .:IIHMHHIIIIII::IIHHHHHH.'.       .       .     .   . . . .  .        "":WI://--------,,::I
- .  .. ..:IHHMHHHHIIIIHHHH""""-.       .  .  .' ' .. . ... .-''-''''-'        "//IIWIII:----::IP-.  .
-. ...:.:.::IHHHMHHHP""""'. .   ':.. . .:.. ..-:..:...:...:...:.:...:.        '--/IIIIIII"--
-:.:.:.::::IIHHI'''. .        ' .:.:.: .::::.::I.:..:.:...:...:.:...:..       ---//:I/-                          /  -/
-::.:.:::III"''        '          '  ":..:'.::II.::..:.:.:.:.. .:..:.:.      --///-                            /
-::::::III".  .           .      .     "::..:.:A::I.::::..:. . ....:.AI   ---///-                             --
-:::::::I:.  .             .          . "V.:::AI:I:.:.:...:........,,IH--    -/"                                 /                        - :
- .      .           ' .    .   .   .    I ..:HIII:..... .. .. .,,AHHII                                             :                  -:::-
-         .              .   .  .    .  .: :.:HHMMA,,,,,,,,,,AHHIII::::                                        /    ",WW:--     ---:'."-"  -
-   .      .      .      ..  ..  .    . .:. :::VHMHIIHIIII::I:I:I::::II                                        /     ':::/ :/  / "/
-                 ..     ..   .  .   .. I:..:I:HMHIHI:HIIII::I:::IIIIII                                              :I" ,  ,  "-      -/- --
-    .       . .  ...     ..  .    . . .I..::I:VAIIHII:HIIII::IIIIHHHII                                       /      :!/ :/  :--    ---/:::/
- .    .    .   . ...    ...  .  .',,,,,I..:.:::HHIIHII:HIIIHHIHMHHHHHH                                      -/       ::"/:   :/ /I:/IIII::I:
-.  . .  .  . .. ..::. . :... :.'AHHHHHHAL:::::AHIHIHIIIIMHHHIHHMMMMHHH                                 ":":"::--   -::-. : / -III:-:IIIIII::
- . .. ... .. .. ..:::. .::.:.:;AHHIHHHHIHMMMMHIHIHI::I:AHHHIMMMMMMMMMH                               ::.-::.:/::III : :   / !:::-IIIIIIIIIII
-.. ... .... ....:.:::../::;,:IIHHIIHHFFHMMHHHHIHIHIIAMMMMHIMMMMMMMMMMM                           -//-,:- ::/":II::::/I : /:IIII:/IIIIIIIIIII
-...:..:..:...::.:::::;AHHHHHHIIHHHHHHIIAHHMMHHIHIIHAHMMHHMMMMMMMMMMMMM                     -::II.:  /::::::--!::II::/I--:::II::IIWWWWWWIIIII                                                           $$$$$
-:.:.:.:.:.:.::::;;AHHHHHIIHHHLLHIITHYYHHIHHMHHIIHIHHHHHHMMMMMMMMHHHHHH                 -:::::,-",",--/" ":""::-::I:: /:/:IIIIIWWWWWWWIIIIIII                                                        $$$$$$
-::::.::::;;;;ATTHHHHHHHHLLHHHHHHHHHHIIHIHHHIIHHHFAHMHHHMMMMMMMMHHHHHHH           --:- ,::::,':- .:::::IIII  : .'."":":/:II:::IWWWWWWWIIIIIII                                                        $$$$$$
-HHHHHHHHPPIIHHHHHFFHLLHHFFHHIIHHHHHMHIHIHHIILHAHHMMMMHHHHMMMHMHHHH"HIHIIIIII:://""::::://:--.:"":: -I::::I  : :.---:!:IIWWW::::WWWIWI:I:/:/:                                                  $$$    $$$ $
-HHHHHHIIHHHHHIIHHIIHHHHHHHHHHHHHHHHHIIHIIHMHHHHHMMMMMMMMMMMMMMHHHHVHHH::: :://:::::-/::--I:::::II::::II:II//I--:II::IIWWWWWWWWWWWWWII:::::::                                                $$$$$$$$$$$$
-HHHFFHHHLLHHHHHHFIIHLLHHHHMHHIHHIHHHIHMHHHMHHHMMMMMMMMMHMMHMHHHHHHHHHH :://"::--::::::/"":--::::II:/:I/::I/:I:I:IIIIIWWWWWWWWIWWIWIIIIIIIIII                                               $$$$$$$$ $$ $
-HHHIIAHFFHHIIHHMHHHMHMMHHHIHHIHMHHHHHHMHMHAMHHHMMMMMMMMMMMMA,MMMMMHMMH I:/-;;//;;--III::II:III::/::-:I:III::IIII!WIIIWWWWWWWWWWWW! WWWWWIWWI                                           $   $$$$$$$$$$$$  $$$$  $$
-FFHHHHHLLAWA6PIRHHIIHIHHHMHHHIMHHHMMHHMLHMHMHMMHMMMHMMHHHHHHHMMMMMHMMM//I:III--::I/"/:I://:/:I:I:::/III:IIII"-IWIW:IWWIWWIWWII::::IIWIIIIIWI                                         $ $  $$ $$ $$        $     $
-HMHHHHHHHHHMHHHHHMHMHHHMHHMHMHMMMMMMHHMMMMMALLLHMMMMMMMHHHHHHHMMMMMHHH:I:I:I:I:::I:::::I:I:::I::I:IIIIWWWWIIWWWWW!---IWWWWWWIIIIIIIIWWWWWIII                                 $$    $$$       $$$$          $$$
-HMHMHHHMHHMMHMHHHMHMHHHMHHMHMHMMHHHMMMMMMMMMMMMMMMMMMMMMM'MMMMMMHHHHHM:I:I:::I::II!I:::I:I:I:I::I:WIWWI,:WIIWWWWWWIIWWWWWWWWWWW IWWWWWIIIIII                            $ $$   $   $$$$    $$$$$$$$$    $$$
-HMHHMHHMMHMHMHMHHMHMMHHMMHMMMMMHHMMMMMHMHMHMHMMMMMMMMMMMMMHHMMHHHHHHHH:I:II::II:W:I:W::I:WWIIWIIIWWWWIIIWWWWIIIIIWIIWWWWWWWWWWWWIIWW::::::::                   $$  $    $$$    $$      $   $$$$$$$$$$
-MMHHMHHMMHMMHHMHHMMMMMMMMHHMMHHHHMHHHHMMMHHHHMMMMMMMMHHHHMMMMMHHHHHMHHIW::I::WI:WII:W:IIIWWWWWIIIIWIIIIII::IWWIIIIIIWIWWWWWIII:IIIIII::::I::       $      $     $$$     $         $$         $$$
-MMHHMHHHMHMMMMMMMMMMMHHHMMMMHHMMMMMMMMMMMMHMHHMMMMMMHMMHMMHHMHMHMHHHHMWI::I::II:WIIWWWWWWWIIIIIIWWIIIWWWWWWWWWWWIWI:WWWWWWIWWIWWIIWIWIII:::I              $$$$$       $$    $$$$$$$$$  $   $$$$  $$ $$  $ $
-MMMHMHHHMHMMMMMMHHMMMMMMMMHHMMMMHMMMMMMMMHHMMHMMHMMMHMMFVHMMMMMHHHHHHHWWIIIII:IIWWWWWWIIIWWWWWWIIIWWWWIWWWWWWWIIIIIIIIIIIIIII/:IWWWII::IIIII$          $$$$     $$$$     $$   $$$$$                   $$$
-MMMMHHHHHHMMMMMMHHMMMMMHMHHMMHMMMMHHMMMMMHHHMHHHHHMMMMMM.MHMMMMHHHHHHHWWWIIIIIIIIWWWWWIIWWWWWIIIIWWIWWWIIIIWWWIIIIWIIIIIIIWIWI IIWWIIII:I:I:$$          $$$    $$$     $$ $$$    $$$    $         $    $$
-MMMMMMMMMMMMMMMMMMMMMMMMMHHMMHMMMMHHMMMMMHHHHHHHHHHMMHHMMMMMHHHHHHHHHHWWWWWWWWWWWWWWWIIIWWWWWWIIIIIWWWWWIIWWWWIIIIIIIIIIIIWIIWWWWWIIIIIIII:I$$$$$$$$$$$$$$     $$$$      $$$$$  $$$$            $  $$$$$
-MMMMMMMMMMMMMMHMHMMMMMMMMMHHHMMHMMMMMMMMMHHMHHMMMMHMMMHHMMMMHHHHHHHHHHWWWWWWWWWWWWWWIIIIWWWWWIWIIIIIIIWWWWWWWWIIIWIIWWWWIWWWI:IWWWI:::III::I$$$$$$$$$$$$$      $$$           $$$$$$    $  $$$$ $$$   $$$
-MMMMMMMMMMMMMMMMMMMMMMMFVMHHHMMMMHMMMMMMHHHMMHMMMHMMMMHHMMMMHHHMMMHHHHWWWWWWWWWWWWWWWIIIWWWWW/:WIIIIWIIIIWWWWWIIIWWIWWWIWWWWI:IWWW::IIWI:III $$$$$$$$$$$$$     $$$   $    $     $$$    $$ $$$ $$$$   $$$    $
-MMA:MMMMMMMMMMMMMMMMMMMLAMHHHMMMMMMHHMMHHHHHMMMMHHHHHHMMMMMHHHHHMMMHHHWW! WWWWWWWWWWWWWWWWWWW-!IIIIIWWWIIIIIWII:::IWII:II:::IWIII:I:::III:II $  $$$$$$$$$$$$$$$$$$$       $$$     $      $         $
-MMMMMMMMMMMMMMMMMMMMMMMMMMHHHHMMMHHHHHHHHHHHHMMMMHHHHHHIIMMHMHHHMMMHHHWWWWWWWWWWWWWWWWWWWWWWWWWII:IIWWWII::::I::II:WWWWIIIII:-""IIII::III::I $$$$$$$$$$$$$$$$$$$$$$$      $$$            $$$$
-HMMMMMMMMMMMMMMMMMMMMMMMMMMHHHHMMMHHMMMMMHHMHHHHHMMMHHHALIHMHMHMHMHHHHIIIWWWWWWWWWWWWWWWWWWWWWWWIIIIIIWW:IIIIIWIIIIII:IIIIIII:-/II:IIIIIII::    $$$$$$$$$$$$$$$$$$$$$       $$      $
-MMM.MMMMMMMMMMMMMMMMMMMIMMMMMHMHMHMHMHHHMMIIII::IHMMMMMHHHHHNHHHHMHHHMWWW WWWWWWWWWWWWWWWWWWW"WWWWIIIIIIIIIIIIWI------":IWWWWII::II:I::I::II$$$ $$$$$$$$$$$$$$$$$$$  $$             $           $$
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMHHHHHHHHMMMHHMMMHMMHHHHHHMMMHHWWWWWWWWWWIIIIWWWWWWWWWWWWWWWWWWWWWWIIIII:::::::IIW::IWIIIIIIIIIIIIIII$$$$$$$$$      $$$$$$$$$$$$$$$$$$$$               $   $
-MMMMMMMMMMMHHHHMHHHHMMMMMMMMMMMMMMMMMMHHHPPFFFPPP::.HMMHIHMMMHHHHHHHHHWWWWWWWWWWIIIIIWIIIIIWWWIIIIIIIIIIIIIII::""//////" ":IW:/:IWWIII::::I:$$$$$$$$$            $$                               $    $
-MMMMMMMMMMMMMMMMMMMMMMMMFF::-:-:.:VMMHHIIIIV::...:.:HHHIIHMMMMMHHHHHHHWWWWWWWWWWWWWWWWWWWWWWWW//""""""""!WII:----'-   """ ,,,--:IWWIIIIIIIII$$$$$$$$$$$$$$$$$$$$$$$            $                       $
-MMMMMMMMMMMMMMMMMMMMMVII::..::AMMMA::,,-:::.A..,,...:VMMMMMMMMMMMMMMMHWWWWWWWWWWWWWWWWWWWWW!"      /:WWW!"""""--/ :  --   "!FFFFFIIIWWWWWWII$$$$$$$$$$$$$$$$$$$$          -$$$-                            $$$$
-MMMMMMMMMMMMMMMMMMMMMIIAI::::IOMMMMMMMMM,:,F".:::..A::.HII...:VMMMMMMMWWWWWWWWWWWWWWWWIIIWW/ .      AWWWWWWWWW-"'/'  "" /,'-",--  ""!IIWWWWW$$$$$$$$$$$$$$$    $$          $$$$$$$$$                         $$$$
-MMMMMMMMMMMMMMMMMMMMMMAHAPL:::::YYYFFFLLLHMH:.'"':HHHHLLLLLI".'.HHHHMMWWWWWWWWIIIWWWWWWWWIIW!!!/--  " """///---,I: -  -/III:----      ::::IW$$$$$$$     $$$$$$   $          ---"""                               $
-MMMMMHHHHMMMMMMMMMMMMMHHMAAHPPPMMMMMMMMHHHMH"'.':ALLHIHIIIITA:.':THHHMWWWWIIIIIIWWWWIIWWWWWWIII:,""""IIIIIIIIII:I:-    !--:/://  Y:-  "V:::I$$$        $$    $$$$
-MMMMMMHHHMMMMMMMMMMHMMMMHHHHHHHHHHHHMMHHMMM:.::I:AMMMA::::::IHL:.'VHMMWWWWWIIIIWWWWWIIWWIIIIIIIIIII::I::::IWIIWWW"    -!WWW!   ///":-   ':IW$$$$      $$$    $                   $  $$$       $$$                $
-MMMMMMMHHMMHMMMHHHMMMHHHHMMMHHHHHHHMMMHHHHHHHMMMMMMMMMMA:::::IHMML:HMMWWWWWWIIIWWWWWWIIIWWWII:IIIWIIIIIIIIIII::::IIIIIIIIIWWW:  // /IWI--IWW$$$$$     $$$$    $$       $                         $$             $$
-MMMMMMHHHHHMMMMMMMMMMMMHHMHMHMMMMMMMMMMMHHHHHHHHMMMMMMMMMA:::IIHHMI:HMWWWWIIIIIIIIWWWWWWWWWWWIIIIIIWIIWWWWWWWWIII:::IIIIWWWWWWW! ////:II/ :W$$$          $$$$$$$$$       $   $$$$$$            $$$$$$            $
-MMMMHMHMMHMMMMMMMMMMMMMMMMMMMMHHHHHHHMMMMMMMMMMMMMMMMMMMMMMMAALLLLAHHMWWWWIIIWWIIIWWWWWWWWWWWWIIWWWWIIIIIIIIWWWWIIIIWWWWWWWWWIIWWW!!--  ,::W$$$    $$    $$$$$$$$$$    $$          $$      $$$$$$$    $$         $
-MMMMHHHMMMMMMMMMMMMMMMMMMMMMMMMMMHHHHHHHHMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWIIIIIWWIIIWWWWWWWWWWWWWWWWWWIIIIIIIIIIIIIIWWWWWWWWWWWWWWWWWWWWWIIWW$$      $$    $$$$$$$$$$$$$3$3                $$$$$$$$$$$$$$$$$$$   $$
-MMHHHMMMMMMMMMMHHMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMHHMMWWIIIIIWWWWWWWIIIIIIWWWWWWWWWWWWWWWWWWWWIIIIIIIWWWWWWWWWWWWWWWIIWWIIIW$       $$$$$        $$$$$$$$$$$$$$$$$$         $$$$$$$$$$$$$   $$   $
-MMMHHHHHMMMMMMMMMMMMMMMHMMMMMHMMMMMMMMMMMMHHHHHMMMMMMMMMMHMMHHHHMMMHHHWWIIIIIIWWIIWWWWWWWWWWWIWWIWWIWIIWWWWWWWWWIIIIIIIWWWWWWWIIWWIIIIIWWIII$       $$   $$$$$$$$$  $$ $$ $   $$$$$$$         $$$$$   $$     $$
-MMMHHHHHHHHHMMMMMMMMMMMMMMMMMHMMHMMMMMMMMMMMMMMMMMMMHHMMHMHMMHHHHHHHMMWWIIIIIIIIIIIIIIWWWWWWWWWWWWWIWIIIIWWWWWWWWWWWWWWWWWIIWWIWIWWII:::::II$                $$$$$$$$$$$        $$$$$$$$$$$$$$$   $$ $ $$
-MHHHHHHHHHHHHHHHHHHHIIIPPHMMMMMHHHMMMMMHMMMMMMMMMMMMMMMHHHMMMMHHMHMMMHIIIIIIIIIIIIIIIII::://///TWIIWWIIIIWWWWIWWWWWWWWWWWWWWII::IWWI:IWIWWWI                          $  $$     $$   $$$$$$$$$$$$      $$     $$$
-MMMMMMMMMMMMMMMHHHHHHHIHIHIIIPHMMMMHHHHMMMMMMMMMMMMMMMHMMMMHHHHHHHMMHHWWWWWWWWWWWWIIIIIIII::/:/:////IWWWWIIIIWWWWWWWWWWWWWWWIWWWIIIII::IIIII$$$$$$$$$$$                     $$$     $$$$$$$$$$$$$  $$$
-MMMMMMMMMMMMMMMHHHHHHHHHHHHIHIHIHIHMMMHHMMMMMMMMMMMMMMMMMMMMMMMHHMHMHHWWWWWWWWWWWWWWIIIIII::::II:/:/:/:/IIWIIIIWWWWWWWWWWWWWWWWWWWWWWIIWIWII$$$$$$$$$$$$                        $     $$$$$$$$$$$$$$$$$$$$     $
-MMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHIHIHIHHMMMMMMMMMMMHMHMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWWWWWWIIIII::::III:/:/:/:IIIWWWWWWWWWIWIWWWWWWWWWWWWWWWWW  $$$$$$$$$$$$$$$                         $$$$$$$  $  $$$$$$$$$$$$$$$$
-MMMMMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHIHIHIHIHMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWWWWWWWWWIII::::::::III/:/:/:/:IWWWWWIWWIWWWWWWWWWWWWWWWWW    $$$$$$$$$$$$$$$                          $$$   $  $$$$$$$$$$$$$$$$
-HHHHHHHHHHHHMMMMMMMMMMMMMMMMHHHHHHHHHHHHHIHIHIMMMMMMMMMMMMMMMMMMMMMMMMII:::::::::I IIWWWWWWWWWWWWIIIIII::::II::/:/:/IWWWWWWWWWWWWWWWWWWWWWWW                 $$$$$$$$                       $$$$$$$$$$$$$$$$$$$$$$
-HHHHHHHHHHHHHHHHHHHHHMMMMMMMMMMMMMMHHHHHHIHIHIHHHHMMMMMMMMMMMMMMMMMMMMII::I::::::IIIIIIIIIIIIIWWWWWWWWWWII:::::/:/:/::::IWWWWWWWWWWWWWWWWWWW                          $$$$$$                    $$$$$$$$$$$$$$$$$$
-HHHHHHHHHHHHHHHHHHHHHHHHHHMMMMMMMMMMMMMMHHIHIHHHHHHHMMMMMMMMMMMMMMMMMMI:::::IIIIIIIIIIIII::::::IIIIIIWWWWWWWIII:/:/:::::::IWWWWWWWWWWWWWWWWW                                $$$$$                 $$$$$$$$$$$$$$$$
-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHMMMMMMMMMMMMMHHHHHHHHHHHMMMMMMMMMMMMMMMMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIWWWWWWWWIIIIIIIIIIIIWWWWWWWWWWWWWWW                                    $$$$$$              $$$$$$$$$$$$$$
-
-
-
-
-
-            ORIGINATED - AUGUST, 1974 BY DON ROYER, WA6PIR
-
-                          ENCINO, CALIFORNIA
-
-
-
-----------------------------------------------------------------------
-

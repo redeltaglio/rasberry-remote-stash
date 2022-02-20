@@ -1,94 +1,0 @@
-
-       OO                                                     OO
-       OOO                                                   OOO
-      OOOOOO                                               OOOOOO
-      OOO.OOOOOO                                       OOOOOO.OOO
-      OOO.....OOOOOO                               OOOOOO.....OOO
-       OOO........OOOOOOO                     OOOOOOO........OOO
-        OOO.........OOOOO                     OOOOO.........OOO
-         OOO..OOOOOOOOOO                        OOOOOOOOOO..OOO              I                                         I
-          OOOO OOO....V                         V....OOO OOOO             I                                           I
-           OO 000OOO.V                           V.OOO 00.OO            I WWW                                      WW I              NNN                                      NN,
-           O  0,0  OOOOO                       OOOOO   0 0 O           I  W,W                                      W W I              N N                                      N N
-          O   0"0 000 OOOOOOOO           OOOOOOOO  000 0 0  O          I   W"W WWW                              WWW W W  I              N N NNN                              NNN N N
-         OOOO 000 0,,    OOOOOOOOOOOOOOOOOOOOO 000 0,, 00"OOO              WWW W,,                          WWW W,, WW"              NNN N                            NNN N   NN
-          OOOOO   0""    000 000OOOOOOOO  ,0,  0 0 0""  OOOOO                  W""    WWW WWW          ,W,  W W W""                  N      NNN NNN           N   N N N
-             OOOOO000    0,0 0 0 000 000 ,0,0, 000 000OOOO                  WWW    W,W W W WWW WWW ,W,W, WWW WWW                  NNN    N N N N NNN NNN  N N  NNN NNN
-             000OOOOO    0"" 00" 0,, 0,0 0"""0 0 0 OOOO000             WWW         W"" WW" W,, W,W W"""W W W     WWW                         N   NN  N   N N N   N N N
-             0000000OOOO 0   0 0 0"" 0"" 0   0OOOOO0000000             WWWWWWW     W   W W W"" W"" W   W     WWWWWWW                         N   N N N   N   N   N
-             0000000000OOOOOOOOO 000 0 OOOOOOOO00000000000             WWWWWWWWWW          WWW W         WWWWWWWWWWW                                 NNN N
-             0000000000000000OOOOOOOOOOOOO0000000000000000             WWWWWWWWWWWWWWWW             WWWWWWWWWWWWWWWW
-             0000000000000000    OO OO    0000000000000000             WWWWWWWWWWWWWWWW    II II    WWWWWWWWWWWWWWWW
-             0000000000000000     OOO     0000000000000000             WWWWWWWWWWWWWWWW     III     WWWWWWWWWWWWWWWW
-             0000000000000000      O      0000000000000000             WWWWWWWWWWWWWWWW      I      WWWWWWWWWWWWWWWW
-             0000000000000000      O      0000000000000000             WWWWWWWWWWWWWWWW      I      WWWWWWWWWWWWWWWW
-             0000000000000000     O O     0000000000000000             WWWWWWWWWWWWWWWW     I I     WWWWWWWWWWWWWWWW
-             0000000000000000    O   O    0000000000000000             WWWWWWWWWWWWWWWW    I   I    WWWWWWWWWWWWWWWW
-             0000000000000000    O   O    0000000000000000             WWWWWWWWWWWWWWWW    I   I    WWWWWWWWWWWWWWWW
-             0000000000000000     OOO     0000000000000000             WWWWWWWWWWWWWWWW     III     WWWWWWWWWWWWWWWW
-             0000000000000000             0000000000000000             WWWWWWWWWWWWWWWW             WWWWWWWWWWWWWWWW
-             0000000000000000             0000000000000000             WWWWWWWWWWWWWWWW             WWWWWWWWWWWWWWWW
-             0000000000000000             0000000000000000             WWWWWWWWWWWWWWWW             WWWWWWWWWWWWWWWW
-             0000000000000000             0000000000000000             WWWWWWWWWWWWWWWW             WWWWWWWWWWWWWWWW
-             0000000000000000             0000000000000000             WWWWWWWWWWWWWWWW             WWWWWWWWWWWWWWWW
-              000000000000000             000000000000000              WWWWWWWWWWWWWWW             WWWWWWWWWWWWWWW
-              000000000000000             000000000000000              WWWWWWWWWWWWWWW             WWWWWWWWWWWWWWW
-               00000000000000             00000000000000               WWWWWWWWWWWWWW             WWWWWWWWWWWWWW
-               00000000000000             00000000000000               WWWWWWWWWWWWWW             WWWWWWWWWWWWWW
-                0000000000000             0000000000000                WWWWWWWWWWWWW             WWWWWWWWWWWWW
-                0000000000000             0000000000000                WWWWWWWWWWWWW             WWWWWWWWWWWWW
-                 000000000000             000000000000                 WWWWWWWWWWWW             WWWWWWWWWWWW
-                  000000000000           000000000000                  WWWWWWWWWWWW           WWWWWWWWWWWW
-                    00000000000         00000000000                    WWWWWWWWWWW         WWWWWWWWWWW
-                      0000000000       0000000000                      WWWWWWWWWW       WWWWWWWWWW
-                        000000000     000000000                        WWWWWWWWW     WWWWWWWWW
-                          0000000.....0000000                          WWWWWWW     WWWWWWW
-                           OOO           OOO
-                            OOOO  OOO  OOOO                                  I I
-                              OOOOOOOOOOO                                  I I
-                                 OOOOO                                  I I
-               WW                 OOO                 WW               00,                I I                ,00
-               W WW              OOOOO              WW W               0.00,              I I              ,00.0
-               WWW WWW          OOOOOOO          WWW WWW               00 .000,           I I           ,000  00
-                W W   WWW       OO   OO       WWW   W W                0.  .;000,                   ,000;.  .0
-                W  WW    WW      OOOOO     WWW    WW  W                0..   . ;00,    /,,,,,    ,000; .   ..0
-                 W  WWW    W      W   W   W     WWW  W                 0..    .;;0   /  0,  0   0;; .    ..0                                  N
-                 WWW  WW   W  0        W  W    WW  WWW                 00 ..    ;0  ,/;   "  0  0;.    ..  0
-                  WWW   W  W     W      W W   W   WWW                  0  ...  ;0  "  0      0 0;   ...  0
-                  W  W  W  W    W       W W   W  W  W                  0:: ..  ;0    0       0 0;   .. ::0
-                   W  WW    W  W   V V   W   W WW  W                   0::  . ";0  0         0"   .  ::0
-                   W   W  W  WW   V V V     W  W   W                   0::: ..  "00              .. :::0
-                    W   W  W     V V V V   W  W   W                    0::: ..                 .. :::0
-                    W    W  W   V B S A V W  W    W                    0:::: ..       . . .   .. ::::0
-                     W    W      V V V V    W    W                     0:::: ..             .. ::::0
-                      W    W      V V V    W    W                      0:::: ..           .. ::::0
-                       W    W             W    W                       0:::: .. ,,, ,,, .. ::::0
-                       W     W           W     W                       0:::::  ,   ;   ,  :::::0
-                        WW                   WW                        00::::,    ;    ,::::00
-                          WWW             WWW                          000, ...   ... ,000
-                             W           W                             0.. .. .. ..0
-                            W             W                            0..   ...   ..0
-                           W  III     III  W                           0--III-----III--0
-                          W   III     III   W                          0---III-----III---0
-                          W  W  W W W W  W  W                          0  0, 0 0 0 0 ,0  0
-                          WWW  W  W W  W  WWW                          000  0  0 0  0  000
-                            WWW WW W WW WWW                            000 00 0 00 000
-
-
-
-                          EAGLE  SCOUT  MEDAL
-
-
-
-
-       IF YOU HAVE EARNED THIS MEDAL YOU CAN BE OF GREAT SERVICE
-       TO YOUTH OF YOUR COMMUNITY.   FIND OUT HOW BY CONTACTING
-       THE COUNCIL OFFICE OF THE BOY SCOUTS OF AMERICA NEAR YOU!
-
-
-                          1981 RTTY ART CONTEST
-
-
-
-ORIGINATED FOR RTTY BY "RON", K3SEW, SUNBURY, PENNSYLVANIA, ON 08-17-81.
-

@@ -1,87 +1,0 @@
-
-                               .. :::::. ..
-                           . :MMMMMMMMMMMMMMM:.
-                        .:MMMMMMMMMMMIIIIMMMMMMM.,
-                      .:MMMMMMMMMMIIIIIIIIIIIMMMMM.,
-                    .:MMMMMMMMMMMMMMIIIIIIIIIIIIMMMM:.
-                  .:MMMMMMMMMMMMMMMMMMIIIIIIIIIIIIIMMM.
-                 .:MMMMMMMMMMMMMMMMMMMMMMMMIIIIIIIIMIIM.
-                .:MMMMMMMMMMMMMMMMMMMIIIIIMMMMMMMMMIIIMI.
-               .IIMMMMMMMMMMMMMMMMMMMMMIIIIMMMMMMMMIIIMIM.
-             .:MIIMMMMMMMM::::::MMMMMMMIIIIIIIIMMMMMIIIMIM.
-            .:MMIIMMMMMM.'       '':MMMMMIIIIIIIIMMMMIIMII.
-            .MMMIIMMMMM.            'MMMMIIIIMMIIMMMMMIIMMM.
-           .MMMMIIIMMM.               MMMMIIIIMMIMMMMMIIMMM.
-          .:MMMMIIMMM.::.             ':IIIIMMIMMMMIMMMMMMM.
-           .MMMMIIMMM.:.                '.IIIMIMMMMMMMMMMMMM.
-          .:MMMMIIIMM ...:::.       .:::''.IIMMMMMMMMMMMMMMM.
-          .:MMMMIIMIM. (((((       .(((((."MMMMMMIIIMMMIIMMM.
-          '.MMMMIMMIM.'.:M'.' '   .. :'.' .MMIIIIMMMMMMMIIMM..
-         .'MMMMMMMMIM   """   :   . '"""  '.MMMIIIIMMMMMMIIMMM..
-         .'MMMMMMMMIM:       ::.  .         'MMMMIIMMIIMMMMMMMM: .
-        .'IIMMMMMMMMI        ':'  '          '.MMIIMMIIIMMMMMMIII''. .
-        .IIMMMMMMMMMM         :'   '         :.:MMMMMMMMMIIMMMMIIIII.'
-       .:IIIMMMMMMMMM.:.     .:.  .:.       '::.MMMMMMMMMMMMMMMIIIIM.:.
-       .IIIMMMMMMMMMMM::.     ''..''        ':::.MMMMMMMMMMMMMMMIIMMI.
-      .:IIIMMMMMMMMMMMM::.                 ':::.MMMMMMIIIIMMM MMIIIIM.
-     .:IIIIMMMIIMMMMMMMM::.  ..''..''..    '::.MMMIIIIIMMIIMMMMIII II.
-      .'IIMMMIIMMMMMMMMM::  ''...  ...''     ::IIMMMMMMMMMMMMMIIII I'
-       .IIIMMMMMMMMMMMMMM.     ''''''        .IIIMMMMMMMMMMMMIIMMMII'
-        .IIIIIIIIIMMMMMMM.                  .MMMMMMIIMMMMMMMIIMMMMIII.
-        .IIIIIIIMMMMMMMMMMM.             .'MMMMMMMMIIIIIIIMMIIMMIIIIII.
-       .:IIMMMMMMMMMMMMMMMMM'..       ..'MMMMMMMMMMMIIIIIIIMIMMMIIIIII.
-       .IIMMMMMMMMMMMMMMMMMMMM '"---"'  .IIIMMMMMMMMMMMIIIIIIMMMMMMMIII.
-      '.IIMMMMMMMMMMIIMMMMMMMMM.    . . IIIIMMMMMMMMMMMMMMIIIMMMMIIMMII.'
-     ':.IIMMMMMMMMMMIIIMMMMMMMMM.    . .IIIIIIMMMMIIIIIIIIIMMMMMMMMMIIII.
-      '.:.MMMMMMMMMMIIIMMMMMMMMM'.    . .IIIIIIMMMMMMMMMMMMMMMMMMMIII II'
-       '.MMMMMMMMMMIIIMMMMMMMMMM'.      . .IIII:'''" "-::IIIIIIIIIIII II.
-       '.IIMMMIIMMMMIIMMMMMMMMMMM'.      . .'             '.IIIIII  IIII.
-       :.IIMMMMMMIIIMMMMMMMMMMMMMM'.      .'                '.IIII III:.
-        'IIIMMMMMIIIIIIIMMMMMMMMMM'.     .'                   '. III'''
-        '.IIIMMMMMMMMMMMMMMMMMMMMM'.    '.                      '.II'.
-         'IIIIMMMMMMMMMMMMMMMMMMMMM.    .'                        '.I.
-         'IIIIMMMMMMMMMMMMMMMMMMM.'     .'                          .'.
-           'IIIIMMMMMMMMMMMMMMMM.       .                            '.
-             ''::::'':::IIII.''.        M.                            '.                                        W
-                     '..' M     ..   . M '.                            '                          W            W
-                      :  M . . ::   . M   '.                         W            W
-                      :'M . . ::   . M     '.                        W            W
-                      :M . . ::  . MM.       .                       W           WW
-                     .  . .::  . MMMM.        .                                 WWWW
-                   .' . :::'  .MMMMMM.         .                               WWWWWW
-                  .'  .::: . MMMMMMMM.          .                             WWWWWWWW
-                .'   :::' .MMMMMMMMMM.           .                           WWWWWWWWWW
-               .'   :::'.MMMMMMMMMMMM.             '.                         WWWWWWWWWWWW
-             :'    ::' .MMMMMMMMMMMMMM              '.                        WWWWWWWWWWWWWW
-           .'M    ::'.'MMMMMMMMMMMMMMM                '.             W         WWWWWWWWWWWWWWW
-          .'M    ::'.MMMMMMMMMMMMMMMMM'                 '.            W        WWWWWWWWWWWWWWWWW
-        .'MM    ::: MMMMMMMMMMMMMMMMMM.                 ':'.          WW        WWWWWWWWWWWWWWWWWW
-        .MM    ::'.MMMMMMMMMMMMMMMMMMM.                  :  ':.         WW        WWWWWWWWWWWWWWWWWWW
-      .'MM    ::'.MMMMMMMMMMMMMMMMMMMMM'                 '     '.        WW        WWWWWWWWWWWWWWWWWWWWW
-     .'MMM.   .''MMMMMMNNNMMMMMMMMMMMMMM'.                .      '.       WWW       WWWWWWWWWWWWWWWWWWWWWWW
-    'MMMMM:     .MMMMMNNNNNMMMMMMMMMMMMMMM'.             :.         .     WWWWW       WWWWWWWWWWWWWWWWWWWWWWWWW
-    :MMMMMM     .MMMMNNNNNNNMMMMMMMMMMMMMMMM.            :.     WWWWWW      WWWWWWWWWWWWWWWWWWWWWWWWWWW
-   '.MMMMMM     .MMMMMNNNNNMMMMMMMMMMMMMMMMMM'.     '    :     WWWWWW      WWWWWWWWWWWWWWWWWWWWWWWWWWWW
-    ':MMMMMM    ':MMMMMNNNMMMMMMMMMMMMMMMMMMMMM'.  ::   ::      WWWWWW      WWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-     '.MMMMM.    'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM ::    :'       WWWWW      WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-      'MMMMMM.    'MMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWM'------       WWWWWW      WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-       'MMMMMM'.   'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM        WWWWWW      WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-        '.MMMMMM:..::MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:'          WWWWWW     WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-          'MMMMMMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:'           WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-           '.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:'             WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-             ''".MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-                  :                                  :'
-                  '                                 :'
-                  :                                 :'
-                  :.                               :'
-                 .:                                :'
-                 .:                               :'
-               .:'                               :'
-                .:'                              :'
-                .'                               :'
-
-
-                               RAQUEL WELCH
-
-          ORIGINATED FOR RTTY BY DANNY, WA4YGD, GIBBONVILLE, N. C.
-

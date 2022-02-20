@@ -1,67 +1,0 @@
-
-       X
-       XXX                                     XXXXXX
-       XXXXXX                 #$#$#$#$ $XXXXXXXXXXXXX                              W W W W                              M M M M
-       XXXXXXXX  ##$#$#      $#$#$#$#$#XXXXXXXXXXXXXX                 WW W W       W W W W W                 MM M M       M M M M M
-      XX$$XXXXX$#$#$#$#$#####$#$#$#$#$#XXXXXX$$$$$$XXX                W W W W       W W W W W                M M M M XXXXX M M M M M
-      #X$$$$$XX$#$#$#$#$ H$$H$#O$$$$$$XXX$$$$$$$$$$XXX      W         W W W W  I  I W      M         M M M M       MX
-      ##$$$$$$$##$$$$$## HOOH$$$$$$$$#$$$$$XXXX$$$$XXX      WW       WW     WW I  I        W      MM       MM     MM  XX         M 
-       #$$$XXX$$$$$$$$$$#XXHH$OOOOOOO##$XXXXXXX$$$$XXX       W                W  II        WW       M                M     XXXXXXXMM 
-        #$$XXX$$OOOOOOO$$XXHOOOOOO--O##HXXXXXXXX$$$$XXX        W                  I         WWI        M       XXXXXXX     XXXXXX  XMM 
-         #$XXX$$OOO####OOHHHO-OO######HHXXX//XXX$$$$XXX         W         WWWW  III    WWWWWWII         M      XXXMMMMXX   X XXMMMMMM
-          ###XX$###OOOO##O#OOOO##XXXXX#$XX//////$$$$XXX          W W   WWW    WW W    WW     W          MXM   MMMXXXXMMXMXXXXMM     M
-           O##X#OOO---OO#O##O-O#XXOOOOX$X///////$$$$            WW W        W WW   W           XMM MXXX   XXMXMMX XM  XXXX
-            O##XXOO###OOXX######XXXOOXXNX///////$$             WW    WWW    WWWWWW            XMM  XXMMMXX  MMMMMM   XX  S
-            OO##$OO########//O//XXXOOX##////////              WW   WWWWWWWW            XXMM XXMMMMMMMM  X     XX XX
-             O##$$X########OXXX/XXXOOX##//////              WW   WWWWWWWW             XMM   MMMMMMMMX       XX XX
-             O##$$X########OXXX/OOOXXOOOXX//              WW   WWWWWWWW             XMM   MMMMMMMMX    XXX  XXX
-             OOOOOX########OXXX/O######OOX/                   WWWWWWWW      WWWWWW             XXXXX MMMMMMMMX    XMMMMMMXX
-             OOO## ########OXXX/#########X/                WW WWWWWWWW     WWWWWWWWW             XXXMM MMMMMMMMX    MMMMMMMMM
-             O#### OOOO###OXHXXO########OX              WWWW     WWW  I   WWWWWWWW             XMMMM XXXXMMMX    XMMMMMMMMX
-             O#### OOOHHOOOXHHXHX######X//              WWWW    II    II I WWWWWW             XMMMM XXX  XXX      MMMMMM
-               ### OOOOOOOOOHHXXXXXXX##X/               WWW          II       WW               MMM XXXXXXXXX         MM
-                 O ######OOOHHXXXOOXXXXX                   WWWWWW   II                 X MMMMMMXXX     XX
-                 OLOOXXXXXO##XXXXOOXXOXO                 X XX     XXX    XX  X X
-                 ### ####OO##XXXXOXXX0X                 WWW WWWW                 MMM MMMMXXXX    X   X
-                  ### ####O#XXXXXOXXXOX                  WWW WWWWXX     X   X                  MMM MMMM
-                   ### ####XXXXXXXXXXO                   WWW WWW                   MMM MMMX          X
-                    ## ##O###XXXXXXXXO                    WW WW                    MM MMXXXX        X
-                     ## #O#$$XXXXXXXXO                     WW W                     MM MXX          X
-                     ###OO#$$OOOXXXOOO                     WWW                     MMMXXX  XXX   XXX
-                     O##//OOOOOOOXOOXO                      WW                     XMM  XXXXXXX XX X
-                     O/OO/OOOOOOXOOXOO                     X XX XXXXXX XX XX
-                     O/$$/$$$$OOO$$$$                     X        XXX    
-                     O/$$/$$$$$OO$$$$                     X         XX    
-                     O/$$/$$$$$$$$###                                  WWW                     X            MMM
-                     O/$$/####$$$$###                                  WWW                     X    XXXX    MMM
-                      O$$/######$$###                                  WWW                      X   XXXXXX  MMM
-                      O$$/###########                                  WWW                      X   XXXXXXXXMMM
-                      O$$/###########                          WWWW    WWW                      X   MMMMXXXXMMM
-                      O$$/###########                          WWWWW   WWW                      X   MMMMMXXXMMM
-                      O$$/###########                          WWWWWWWWWWW                      X   MMMMMMMMMMM
-                      O$$/###########                          WWWWWWWWWWW                      X   MMMMMMMMMMM
-                      O$$/###########                           WWWWWWWWWW                      X   XMMMMMMMMMM
-                      O$$/###########                            WWWWWWWWW                      X   XXMMMMMMMMM
-                      O$$/$$$#######                             WWWWWWW                      X      MMMMMMM
-                      O$$/$$$$######                              WWWWWW                      X       MMMMMM
-                       O$$/$$$######                               WWWWW                       X      XMMMMM
-                       O$$/$$$######                                WWWW                       X      XXMMMM
-                       O$$/$$$######                                 WWW                       X      XXXMMM
-                       O$$O$$$######                                WWWW                       X  X   XXMMMM
-                       O$$H$$$######                          I     WWWW                       X      XXMMMM
-                       H$$O$$#######                              WWWWWW                       I  X  XMMMMMM
-                       O$$O$########                             WWWWWWW                       X  X XMMMMMMM
-                       OXXO#########                           WWWWWWWWW                       X  XMMMMMMMMM
-                       OXXO$$#######                             WWWWWWW                       X  X  MMMMMMM
-                       OXXOO#######                            WWWWWWW                       X  XXMMMMMMM
-                       OHHH######                        IIIWWWWWW                       XSSSMMMMMM
-                        #######                        WWWWWWW                        MMMMMMM
-                         #####                         WWWWW                         MMMMM
-                          #                          W                          M
-
-
-
-VIPER
-
-AUTHOR UNKNOWN, REWORKED FROM 8 LEVEL BY DICK, WB6LGL, BUENA PARK, CA.
-

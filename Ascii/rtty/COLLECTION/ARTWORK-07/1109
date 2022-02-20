@@ -1,84 +1,0 @@
-
-                                       .III..
-                   .IIIIIIII        .HHHHHHHIII                                      IIIIIII
-                  .XHHHHHX  XXXL  IHHHHHHHHHHI  .I                   IIIIIII         IIIIIIIIII
-                IHHHHHHHHHHI    LXHHH::HH.:HHHI HHI                 IIIIIIIIII      IIII  II  III  II
-               IHHHH:. II  III  XIHHH:. I. II  IHHHI                IIII              III           III
-               IH:.I.  I   HHH  I   I.         I    I                           III
-              IHH:.   XXX.     HH       XXXXX...X  IHI               II     
-              I    XX::IIIIXX X X    XX:        .X    I           I
-              I  X:            XX  X:             XX  III       X   I
-              I X                IX                 X I  I     X  X
-              HI                 X                   XI   I   X X   I
-           IHHH                 X                    IXI  I  X X  X            III
-         IHHHHH                 X                    IX   IXX    X          IIIII
-       HHHHHHHH X           XXX X X               XXX.X.IHH   XX       IIIIIIII                                          II
-      X        I. XXXXXXXXXX    I  XXX XXXXXXXXXX.  .I.IHHHHHXX                                                        IIIII
-     IH      .X.I.  HHHHH     IIII      HHHHH      .I.:    .:IHI                    IIIII               IIIII                 I
-   HHHII.  X.    I.         ::     :.            I.X X.    .:IHHI   III                                                        II
-  IHHHII.X.        II.. .II:        :I.        I.       X   .IHHHI   III                                                        III
-  IHHI. /    I   I   IIII  ..X    X:   II.I.II.           X   :.HHI   II                                                           II
-  I:.  /  X   IXI            .:..:.                  I  X  X    .:I
-  X..  /       I           .I      I.               II     X   :.II
-  IHHI. /   X    I     .I            I.        .IX:.  :  X X  : HHI   II                                                           II
-  IHHHIIX:     X    III                I.   .I             X..HHHHI   III                                                        IIII
-  :IHII:.  XXXXXI                        II:       X  X   X  ..:HI:    I                                                           I
-   I I:.        I                                    X   X    ..:X
-    X:.     HI:.I                          I   X.       X     .:X
-     IHHHHHHH::.I                           :X:  I:XXXX       . X      IIIIIII
-      IHHHHHH::. I                                    ..:HH:IHHH       IIIIII                                            II  III
-       IHHHH:.. HI                                     .:HHHHHI        IIII                                             IIIII
-         HH:.   HI                           II. .I.    .HHHHI         II     I                                        IIII
-             XHHHI                       :HHHH:.  HH: ..HHHH              III                         IIII    II    IIII
-              :HHHI                       HHHH.. HHHHHHH:.               III                        IIII   III
-                 X                           HI..IHHHH:.X                                             I    III
-             XX /                                       :IX
-            X::X                             XXX:.        :.X
-       XXX X:..:X                             IIX:.        :.X
-      X:.  X:..:X                      :::       X:.        .:X
-     XX:.   X..X                    :XXXXXXX    XI:.        .:X
-    X.X:.   XX                     XX:.   :.XXXX:.          .:X
-   X:. X:. X                      XX:.                      .:X
-   X:.  XXX                       X:.  X XXX               :.X
-    X:. X                         :XXXX  X:.          XX:.:XX
-     XXX               HHHHHI.          X:.          X  XXX                       IIIII
-     /              .HHHHHHHH..H:      X:.       X: X   .HHH                     IIIIIIII  I                         III
-    /              /.HHHHHHHI..HHI     X:.  X:.  X X  .:HHHHH                     IIIIIII   II                       IIIII
-   //            //   :HHHHH:..HHHH    X::.X:.  XX  .:HHHHHHHI                       IIIII   IIII                   IIIIIII
-   /             HH:.   IHH   HHHHH:    X. X:.  X .:IHHHHHHHHI                 II      II   IIIII                  IIIIIIII
-   /            HHHH:..   X  IH:.       XXXXX..X     ..IIHHHHH                IIII          I                          IIIII
-   /            IHHHHH:..   :                XX           ..H                 IIIII                                      I
-   /           HHHHHH::.                                ..HHH               IIIIII                                     III
-   /           HHH:.                                 ..:HHHHH               III                                      IIIII
-   /           X                                  ..HHHHHHHHI                                                    IIIIIIII
-   /           HHH:.                               .:IHHHHHH               III                                    IIIIII
-   /           HHHHHHI:.                             .:HHHH..:HHH..HI:.               IIIIII                                  IIII   III  I
-   HH          HHHHI:.                                 ..XHHHHHHI:.HHHI.   II          IIII                                      IIIIIII   III
- HH,//         XX:.                                        IIII   IIIIII
-H:.  /   XXXXXIHHHHHHHH:.             XHHHHHHH X             HH:. HHHHHHI               III II                  IIIIIII               II   IIIIII
-HI:. H  X.        XHHHHH:.        XHHH:::HHHHHHHXX              XHHHHHHHH     I              III            III   IIIIIII                 IIIIIIII
-H:. H.XX:.  X.         IH  ..  XXXH:.   .:HHHHHHHHXXXX          X    .:HHI                       I         I       IIIIIIII                     II
-HI:H.X:.   X:.                XHHHHI     .:HHHHH:   IHHH.      XHHHH::HHI                              IIII        IIIII     III        IIII  II
- HXHHX.   X:.   /.           HHHHHHH:    ..HHH:.   .HHHHHHXXXXI  HHHHHH I                                         III       IIIII       IIIIII
-      X. X;.   X:.          HHHH :::.      .H.      HHHHHHHI    HHHHH.                            III                     IIIII       IIIII
-       X.X:.  /:.           HHHHH:.        ;     .:H   .:HHHH..XHHI                                                   I     IIII
-        XXX:. X:.    XX:.   HHHHHHHHH:.                  HH  XXI                            IIIII
-           XXX.XXXXXX.  X.X. HHHHHH:.                 .:XXXX:
-                         .XXXX..XXX:.           .:XXXXX.
-                                  .XXXXXXXXXXXXXX:.
-
-
-     XXXXX    XXXX    XXXXX    XXXXXX   XX   XXXXXX   XX       XXXXX
-    XX       XX  XX   XX   X   XX       XX   XX       XX       XX   X
-    XX       XX   X   XX   X   XX       XX   XX       XX       XX   X
-    XX       XX   X   XX   X   XX       XX   XX       XX       XX   X
-    XX XXX   XXXXXX   XXXXX    XXXXX    XX   XXXXX    XX       XX   X
-    XX   X   XX   X   XX  X    XX       XX   XX       XX       XX   X
-    XX   X   XX   X   XX   X   XX       XX   XX       XX       XX   X
-     XXXXX   XX   X   XX   X   XX       XX   XXXXXX   XXXXXX   XXXXX
-
-
-                ORIGINATED BY AL, WA2OQJ, HICKSVILLE, N.Y.
-
-                          1983 RTTY ART CONTEST
-

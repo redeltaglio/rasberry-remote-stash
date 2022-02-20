@@ -1,120 +1,0 @@
-
-  :
-  B  :
-  B X H  X  : X H  X
-  B X H  X  X  : X H  X  X
-  B X H X  X  X  : X H X  X  X
-  BX XHXX X  X  :X XHXX X  X
-  B X H  X  X  : X H  X  X
-  BX XH X XX  :X XH X XX
-  BX  HX  X  :X  HX  X
-  BX  HX  XXXXXXX  :X  HX  XXXXXXX
-  BX XH X X  :X XH X X
-  B X H  X X  : X H  X X
-  BX XHXXX  X  :X XHXXX  X
-  B X H X X  X   : X H X X  X
-  BX  H X  X  X  :X  H X  X  X
-  BBBMMMX   X  :::   X   X
-  BBBMMMX      MM  :::   X
-  BBBMMMNNNNNNNMM          MM       MM  :::
-  BBBMMM       MMNNNNNNNNNNMMNNNNNNNMM  :::
-  BBBMMMNNNNNNNMM      'NNNMM    'NNMM  :::
-  BBBMMM    'NNMM         NMM      NMM  :::
-  BBBMMM      NMM         NMM    .NNMM  :::
-  BBBMMM    .NNMM      .NNNMMNNNNNNNMM  :::
-  BBBMMMNNNNNNNMMNNNNNNNNNNMM    'NNMM  :::
-  BBBMMM    'NNMM      'NNNMM      NMM  :::
-  BBBMMM      NMM         NMM    .NNMM  :::
-  BBBMMM    .NNMM         NNMNNNNNNNMM  :::
-  BBBMMMNNNNNNNNM      .NNNMM    'NNMM  :::
-  BBBMMM    'NNMMNNNNNNNNNNMM      NMM  :::
-  BBBMMM      NMM      'NNNMM    .NNMM  :::
-  BBBMMM    .NNMM         NMMNNNNNNNMM  :::
-  BBBMMMNNNNNNNMM         NMM    'NNMM  :::
-  BBBMMM    'NNMM      .NNNMM      NMM  :::
-  BBBMMM      NMMNNNNNNNNNNMM    .NNMM  :::
-  BBBMMM    .NNMM      'NNNMMNNNNNNNMM  :::
-  BBBMMMNNNNNNNMM         NMM    'NNMM  :::
-  BBBMMM    'NNMM         NMM      NMM  :::
-  BBBMMM      NMM      .NNNMM    .NNMM  :::
-  BBBMMM    .NNMMNNNNNNNNNNMMNNNNNNNMM  :::
-  BBBMMMNNNNNNNMM      'NNNMM    'NNMM  :::
-  BBBMMM    'NNMM         NMM      NMM  :::
-  BBBMMM      NMM         NMM    .NNMM  :::
-  BBBMMM    .NNMM      .NNNMMNNNNNNNMM  :::
-  BBBMMMNNNNNNNMMNNNNNNNNNNMM    'NNMM  :::
-  BBBMMM    'NNMM      'NNNMM      NMM  :::
-  BBBMMM      NMM         NMM    .NNMM  :::
-  BBBMMM    .NNMM         NMMNNNNNNNMM  :::
-  BBBMMMNNNNNNNMM      .NNNMM    'NNMM  :::
-  BBBMMM    'NNMMNNNNNNNNNNMM      NMM  :::
-  BBBMMM      NMM      'NNNMM    .NNMM  :::
-  BBBMMM    .NNMM         NMMNNNNNNNMM  :::
-  BBBMMMNNNNNNNMM         NMM    'NNMM  :::
-  BBBMMM    'NNMM      .NNNMM      NMM  :::
-  BBBMMM      NMMNNNNNNNNNNMM    .NNMM  :::
-  BBBMMM    .NNMM      'NNNMMNNNNNNNMM  :::
-  BBBMMMNNNNNNNMM         NMM    'NNMM  :::
-  BBBMMM    'NNMM         NMM      NMM  :::
-  BBBMMM      NMM      .NNNMM    .NNMM  :::
-  BBBMMM    .NNMMNNNNNNNNNNMMNNNNNNNMM  :::
-  BBBMMMNNNNNNNMM      'NNNMM    'NNMM                         MM  :::
-  BBBMMM    'NNMM         NMM      NMMNNNNNNNNNNNNNNNNNNNNNNNNNMM  :::
-  BBBMMM      NMM         NMM    .NNMMNNNNNNNNNNNNNNNNNNNNNNNNNMM  :::
-  BBBMMM    .NNMM      .NNNMMNNNNNNNMM     XX   XXXX   X       MM  :::
-  BBBMMMNNNNNNNMMNNNNNNNNNNMM    'NNMM       X X    X X  :::
-  BBBMMM    'NNMM      'NNNMM      NMM     -X X      X XX-  :::
-  BBBMMM      NMM         NMM    .NNMM       X X    X X  :::
-  BBBMMM    .NNMM         NMMNNNNNNNMM     XX   XXXX   X       MM  :::
-  BBBMMMNNNNNNNMM      .NNNMM    'NNMMNNNNNNNNNNNNNNNNNNNNNNNNNMM  :::
-  BBBMMM    'NNMMNNNNNNNNNNMM      NMMNNNNNNNNNNNNNNNNNNNNNNNNNMM  :::
-  BBBMMM      NMM      'NNNMM    .NNMM                         MM  :::
-  BBBMMM    .NNMM         NMMNNNNNNNMM        MM  :::
-  BBBMMMNNNNNNNMM         NMM    'NNMMNNNNNNNNMM  :::
-  BBBMMM    'NNMM       NNNMM      NMMN      NMM  :::
-  BBBMMM      NMMNNNNNNNNNNMM    .NNMMN      NMM  :::
-  BBBMMM    .NNMM      'NNNMMNNNNNNNMMNNNNNNNNMM  :::
-  BBBMMMNNNNNNNMM         NMM    'NNMMN      NMM  :::
-  BBBMMM    'NNMM         NMM      NMMN      NMM  :::
-  BBBMMM      NMM      .NNNMM    .NNMMNNNNNNNNMM  :::
-  BBBMMM    .NNMMNNNNNNNNNNMMNNNNNNNMMN      NMM  :::
-  BBBMMMNNNNNNNMM      'NNNMM    'NNMMN      NMM  :::
-  BBBMMM    'NNMM         MMM      NMMNNNNNNNNMM  :::
-  BBBMMM      NMM         NMM    .NNMM        MM  :::
-  BBBMMM    .NNMM      .NNNMMNNNNNNNMM  :::
-  BBBMMMNNNNNNNMMNNNNNNNNNNMM    'NNMM  :::
-  BBBMMM    'NNMM      'NNNMM      NMM  :::
-  BBBMMM      NMM         NMM    .NNMM  :::
-  BBBMMM    .NNMM         NMMNNNNNNNMM  :::
-  BBBMMMNNNNNNNMM      .NNNMM       MM  :::
-  BBBMMM    'NNMMNNNNNNNNNNMM  :::
-  BBBMMM      NMM      'NNNMM  :::
-  BBBMMM    .NNMM         NMM  :::
-  BBBMMMNNNNNNNMM         NMM  :::
-  BBBMMM    'NNMM      .NNNMM  :::
-  BBBMMM      NMMNNNNNNNNNNMM  :::
-  BBBMMM    .NNMM          MM  :::
-  BBBMMMNNNNNNNMM  :::
-  BBBMMM    'NNMM  :::
-  BBBMMM      NMM  :::
-  BBBMMM    .NNMM  :::
-  BBBMMMNNNNNNNMM  :::
-  BBBMMM       MM  :::
-  BBBMMM  :::
-  BBBMMM  :::
-  BBBMMM  :::
-  BBBMMM  :::
-  BBB MM  :::
-  BBB  M  :::
-  BBB  :::
-  BBB  :::
-  BBB  :::
-  BB  ::
-  B  :
-
-
-
-                             FERRY BOAT
-
-             ORIGINATED BY SANDI, WB4VEU, HURT, VIRGINIA
-

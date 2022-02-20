@@ -1,72 +1,0 @@
-
-                                . .......
-                           ../""          "-.
-                     ..-"""          .       "-.
-                  ./"    .      ..         .   "-.
-               ./"       ..  .::::::::::.     .   "-.
-             ./"         ...:.:::::::::::::    .    ".
-            /" .:"          ....::::..  ""  .. :::.   ".
-           /"II"   .          ....::::..    . ..::II:  :.
-          /"I"   . :::.          ....:::.. . .::II:I: I:"".                      -              --        -
-         /"        ":IHI.         .....:::::::::I:II: :I:. "                     -I-               ----   -
-       //"       ..:IH/" ""--...........::::III::I:I /::/.  :                    -I:                -------
-      /"        ..:IHM"  .  .  . .       ""-.::I::I:---::/"  ".                   -IW                     "----
-      :         .. :H . . . . . .             ""       .:VI:   ".                   -I                                     --
-     :"          .:M:  . . . . .                        .::VH.  ".                  -W-                                     -II
-    :" .      .::IHI .  . . . .                           ::VM:  :                 -I-                                       -IW
-    I./"    .::I:.M:  . .. .."                            :::MH  :                 -W-                                        -WI
-   :I/    ./::I:HMM .  . . .                               ::VM  ".                IWW                                         -IW
-   :/:  .:/I/ .:HM:  . . . .                                ::MI  :                IW                                            W-
-   :/:   "   .: IM .  . . .:            . .::.        ...  .:::H .:                -W                                            -I
-   :I.        ./HM  . .. . .        "--.::::::::. .. .:::::.::::H".                IW                        ----        ---      -I
-   :II      .:"IM: . . . ..                   ""    "  .   .::::H::               -W                              :               -I
-   :I:   ./:.:.:M . . . .           .    ..             ". :::::H :                W                                               I
-   .-.    .::/.:M  . . . .                               ":::::I: :                W                                             --
-  /AII.  .::/ ./H . . . . .        .:...                .::::::H :"    --          I                                             -I
-  IIM. :.   .:: I. . . . . .  .....    "-.            .::::::::H :   -W           -               --                            -I
-  " MI "   .::::I.  . . ..:AMMMMMMMMMMA:. "-   .   .  .:::::::H :"    W-         --         -IWWWWWWWWWWI--                    -I  .
-  :I"   ": .::::I . .. . MMMMMMMMMMMMMMMMMA  .       . ::::::: .:"                -        WWWWWWWWWWWWWWWWWI                  -  -
-   : ..   "":::::  . .    "":::. . . . ."VMM:.      ..:MMMMMM ./               --           ""         ":IWW-         -WWWWWW  :
-   " .I.:" . .::::  .   .   "     ..    "HMV" .  .::""""VMMMH/"      -        ---              "     " :IWI:          :IWWWI:.
-    ::I::   .::::/ . . .. . .:"."MPBV:.:   : .    .:""MP":..H"               --               .W./I-"-             :W..-  I                                -EXI                  EX-
-    " : ". ./:::" . . . .. ::. ""---""  :  ..     .  """"".:M               "                -":::-                -::- -W                                 .BBFX                .B/.
-     "".  ":::/ .  .   . . .:::."      :". .:    .  "-.-"  :M             -                     .    .            "     -W
-      : : :.:: .  . . .  .:.:.  "-...-" .: ..     "-....-" :H                                 "   .-                -"  -I
-      ":   ::   . :.:.    .:..     ""  .:: .  .   .       :"/
-..AMMMMA   .:  . .:.::      .:.       .   .:    . .:. :.  ."
-MMMMMMMM    :.  . ::./      ::.           .: .  . "": ::::/"
-MMMMMMM::../" . .. :/      :::        .:"  .: .      :.:::
-MMMMMMM:  "M/  . .::       ::.       .:I    " .    .  ::::
-MMMMMO:   M: . . :::      .:      .::::V.         :  .:::
-MMMMMMM".   :  . .  ::    .::    .::":::":A:.  . :/   .:::
-MMMMMMM :   ".  . . .:    .::.  .: /...   . "-...-"   .::MMM:.            .                                    :.
-MMMMMMM  :    ". . . :.   :::  .: /((((((((((())))):   :/MMMMMMM.                                   .--::::::::::::--
-MMMMMMM   :     ".    :    ::  : /(((((((((((())))/   .:MMMMMMMMMMM.                                  .-:::::::::::::::"
-MMMMMMM:   :     ".    :    "  ./ --AMMMMM....... :   ./MMMMMMMMMMMMM.                .                 ..IWWWWW::-""-- -
-MMMMMMMM    :     :    :.  .  . ...  ""VMMMMMMM" .:. ./MMMMMMMMMMMMMMMM.                                     -.IWWWWWWW-
-MMMMMMMM:    :     ::          .:..VI.    """.:":::::/M:MMMMMMMMMMMMMMMM
-MMMMMMMMM.    :     ":.         "::::.VI.    .: :.::/MMM:MMMMMMMMMMMMMMM.
-MMMMMMMMMM.    ":  .   ":.  ".       "" ""--"   :::/MMMMM:MMMMMMMMMMMMMMM                                         -""
-MMMMMMMMMMM      :   .   ":.  ".               .:/MMMMMMMM:MMMMMMMMMMMMMM
-MMMMMMMMMMMM      :   .   "::::.:              :/MMMMMMMMMM:MMMMMMMMMMMMM
-MMMMMMMMMMMMM      :   .   .":IHH.            ./MMMMMMMMMMMM:MMMMMMMMMMMM
-MMMMMMMMMMMMM:      :   .  .  ":IHH.        ./"MMMMMMMMMMMM."MMMMMMMMMMMM
-MMMMMMMMMMMMMM       :        .  "HMMM....-" M".MMMMMMMMM./MMMMMMMMMMMMMM
-MMMMMMMMMMMMMMM       :.        . .:/    :MMMMMM".MMMMM./MMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMM         "-.. ..:".       :MMMMMMMM".MMM:MMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMM:        .:IHHHHHHHH:..  :"MMMMMMMMM"..:MMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMM    .:IHHHHHHHHHHHHHH"":MMMMMMMMMMMMM".MMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMM..:IHHHHHHHHHHHHHHHH/  :MMMMMMMMMMMMMMM"MMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMM:"    "HHHHHHHHHHHH/   :MMMMMMMMMMMMMMMM"MMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMM:       "HHHHHHHHH/    :MMMMMMMMMMMMMMMM:MMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMM          "HHHHHH/     :MMMMMMMMMMMMMMMM:MMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMM           HHHHHH:     :MMMMMMMMMMMMMMM:MMMMMMMMMMMMMMMM
-
-
-
-                   W A L T E R     C R O N K I T E 
-
-
-
-         ORIGINATED FOR RTTY BY WINKY, AD4M, HOLLYWOOD, FLORIDA
-

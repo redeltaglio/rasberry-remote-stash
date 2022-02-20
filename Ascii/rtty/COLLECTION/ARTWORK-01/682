@@ -1,80 +1,0 @@
-  BB
-  /BB
-  //BB
-   //BBB           L
-   BBBBBB     XX    I /              II
-  ///BBBBBB    XX  -L/               II
-  /BB/BBBBBBB  XXX I                                   N               III
-  BBBBBBB///BBBXXXXXX                     NN          NN               IIIIII
-   BBBBB///BBBBB:XXXXXX                   XNN       NNN:                 IIIIII                   I
-      BBBBBBBBBB::::BBBBBB                 XN       NN::                                           I
-         BBBUBBBB::::::VVVBB               XNN     NN::            T          TTT                 I
-            UUBB::::::::VVVVV              XXN    NN::            TT          TTTTT              II
-            UUUU:::::::::VVVVV             XXN   /            TTTT         TTTTT             II
-            UUUUU::::::::VVVVVVV            X --/NNN            TTTTT        TTTTTTT            I
-             UUUUUU:::::VVVVVVVVJ            X  BBBNN             TTTTTT     TTTTTTTT             -
-             DUUUUUUU:::VVVVVVVVJJ          X NNNNBBN              TTTTTTT   TTTTTTTT            -
-             DUUUUJJUUUVVVVVVVVVVJJ        X  XXNNNN/              TTTT  TTTTTTTTTTTTT          -  $$
-             DDUUUJJJJUUUVVVVVVVVJJJJ     X    XXXNNNN               TTT    TTTTTTTTTTT         -    $$$
-             DDUUUJJJJJUUUVVVVVVVJJJJM    X      XXXXNN               TTT     TTTTTTTTTT         -      $$$$
-              DDUUJJJJJUU:::VVJJJJJJJMMM X                TT     TT   TT           -
-              DDDUUJJJJUU::::UJJJJJJJMMMX                 TT    TT    T          -
-            XXDDDDUUUUUU:::::UUUUJJJJMMMM            $$    TTTTTT     TTTT
-             XXD//UUUUU::::::UUUUJJJJMMMMMM             -$   TTTTT      TTTT
-             XXD///UUU::::::UUUUUUJJJ)MMMMM             -$    TTT      TTTTTT
-             XX D///U::::::UUUUUUUJJ))MMMMM             -$     T      TTTTTTT
-     -  I   XX   D///:::::UUUUUUUUJ)))MMMMM            --            TTTTTTTT
-      7 I   XX    D////::UUUUUUUUUJ)))MMMMM            --           TTTTTTTTT
-      L /  OOOO    D////UUUUUUUUUJ))))MMMMM   Y              XX                        TTTTTTTTT                            $$
-       Y--OO  OO    DD/////UUUUDDDD))BMMMMM   )              XXX                           TTTT                              $$$
-       /  OBB BO      DD////DDDDDDDDDXMMMM   /              XXXXMM                                     $                      $$$$
-      /   OBBBBO   :    DDD////DDDDXXXXMMM  / /       /VVVJJMMMMXMM                                   $$$$                TTT      $
-          OOBBO    ::      DDDDDD/  XXXMM   I/     VVVVVVVJJJMMMMMM                                    $$$            TTTTTTT
-           OOO     :::         X    XX      I    6VVVVVVJJJJ))MMMMM                               -    $$            TTTTTT
-            XX     ::::        X          -/   6VVVVVVVJJJJ)))MMMMM            --                 -                TTTTTTT
-            XX      X::       X          X    666VVVVJJJJJJ)))MMMMM            --      $         -          -       TTTT
-         XXXXXX     XX::      X     --   X   6666JJJJJJJJJJ)))MMMMM         $$$$$$     $$        -          -
-        XXXXXXXX    XX::      X       L/ X  6666JJJUUUJJJJJ)))MMMMM        $$$$$$$$    $$        -          -         TTT
-    /    CCCCCXXX   XX::      X        L X 6666JJJUUUUUUJJJ))MMMMM              $$$   $$        -          -        TTTTTT
-    I /    CCCCCNN  XX:       X         X  66VVJJUUUUUUUUJJ)MMMMMM                    $$        -         -    TT  TTTTTTTT
-    L/      CCCCCCCXXX        X         X 666VVVUUUUUUUUUUJ)MMMMM                   -$$        -         -    TTTTTTTTTTTTT
-  -  7        X9    X        PPPP       X 66VVVV:UU////UUUJMMMMM              -     -                   -   TTTT TT    TTT
-  :N /         X9   XXXX    PP  PP     XX66VVVV:::UU///UUUJMMMM               -    ----               $-  TTTT   TT   TTT
-  :NN          X9XXXXX  X   PPOOOPP   XXX66VVVV:::UUU//UUUJMMM               - $$$$$  -             --$  TTTT   TTT  TTT
-  ::NN         XXXXXXXX  X BPBBOOBP  XX X66VVV:::::UUUUUUUBMM               $$$$$$$$  -           -- $  TTT     TTTTTTT
-   :NN  L-/   X X:::::::  BBBPBBBPP  X  X66VVV:::::::UUUUBB99              $ -                    -  $  TTT       TTTT
- L-::   /       X::::::   B BBBPPPP XX   66VUUU:::::::UUBBB99                -                   --     TTTT       TT
-   ::  /        X::       BB BBB   XX    666UUUU:::::::UBBB9                -                  --       TTTT       T
-    : /         XX         BBBB    X     666UUUUUU:::::BBBB9                --                 -        TTTTTT
- ::: X         PPP          X     XX      66UUUUUUU:::BBBB9     -                      -     --        TTTTTTT
-:::::X   I    PO  PP    :   X     X       6UUUUUUUUU:BBBB99     -                      -     -        TTTTTTTTT
- :::  X  L   PBOO  PP   :3  X     X  3333  UUUUUUUUUJBBBB9      -                     -     -        TTTTTTTTT
-       X  XXXXBBOOOP    :3 XX4    X 333N   UUUUUUUUJJJBB9       -  ----             --     -        TTTTTTTT
-       -XXX    PBOOP    :33 X4   XX33NNN   UUUUUUUJJJJTTT        ---                 -    --        TTTTTTT
-      /        PPBBPX   ::3  X4  XX3NNN    UUUUUUUJJJTTT                    -        -   --        TTTTTTT
-     /          PPPP X  ::33 XX4XX  NN     UUUUUJJJJJTTT                     -       -- --         TTTTT
-                     X4  :33  X4X          UUUUUJJJJTTT                     -        - -          TTTTT
-                     XX4::3    X4          UUUJJJJJJTTT                     --        -           TTT
-                       X4X3    X4          UUUJJJJJTTT                       - -     -           TTT
-                        X44    X4          UU BJBJTTT                        -      -           TT
-                     NNN-XX4   X4          UU BBBBTTT                         --    -           TT
-                  NNNNN::  X4   X4         U   BBBBB                           -    -          T
-                 NNNNN::   X4   X4             BBBBB                           -    -
-               ::::::::     X4  X4             BBBBB                            -   -
-                  :::       XX4XX              BBBB                            -- --
-                             XXXXXX            BBBB                             ------
-                                XXX            BBB                                ---
-                                 XXX            BB                                 ---
-                                 XXX             B                                 ---
-                                  XX                                  --
-
-
-
-
-                  BIRDS, BY MRS. S. SIMMONDS
-
-
-
-
-       REWORKED AND RELAYED BY DON, WA6PIR, ENCINO, CALIFORNIA
-

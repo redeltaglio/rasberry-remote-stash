@@ -1,51 +1,0 @@
-
-                             M          /                             W
-          WWWWW            WWWX      :  /          MMMMM            MMM
-        WWWWWWWWW          WWW        MMMMMMMMM          MMMXX       / :
-      WW         WW      WWWW      MM         MM      MMMMXX       :
-     WW           WW     WWW   W W WWW     MM           MM     MMMXXXM M MMM
-    WW            WW    WWWW WWWWWWWWWWW    MM    XX X    MM    MMMMXMMMMMMMMMMM
-    WW    WW      WW     WW  WWW    MM    MMXXX   MM     MMXXMMMXXXXXXXX
-    WW   WWW      W      W W    MM   MMMXXXX  M      MXM XXXXXXX  X
-    WWW   WWW          WW WW                        W    MMM   MMMXX      : MM MM   X  X                 M
-     WWW WWWW        WWWWWWWWWW                     WW     MMM MMMMXXX  : /MMMMMMMMMM                     MM
-      WWW   WW        WWWW     W                W   W W      MMM   MMX : / : MMMMXXXXXM                M   M M
-        WWW  W                              WW WW  W   W        MMM  M  X   XX X X  X               MM MM  M   M
- W  W     WW   WW                       WW W W WW WW   W  W M  M     MM X MMX : /                  MM M M MM MM   M  M
-    WWWW   WW WW                 W    W   W  WW W W   W  W  XXMMMM   MMXMMXX: /:           M    M   M  MM M M   M  M
-      WWWW   WWW                 WW   W   W  WW  W  WW  W   XXXMMMM   MMMXXX ,            MM   M   M  MM  M  MM  M
-        WW WWWWW            WWW  W W  W  W   W     XXXMMXMMMMM            MMM  M M  M  M   M
-         WW W  WW          W  W  W  W  WW    XXXXXMM MXXMM          M  M  M  M  MM
-         W  W   WW    WW  W   W W   W W       XXM  M   MM    MM  M   M M   M M
-                WW   W W  W  WW W WW W                        W       :  :     MM   M M  M  MM M MM M                        M
-    W       WWW WW   W W   WW WW             W                WW    M   :  XMMM MM   M M   MM MM             M                MM
-  WW     WWW    WWW   W  W             W   W            W W   W W  MM     MMM    MMM   M  M             M   M            M M   M M
- WW    WWW      WW W W WW              W W             W  W  W   W MM    MMM  :   MM M M MM              M M             M  M  M   M
- WW   WWW W    WWW WW                W W   W       WW W  WW  W   W   W MM   MMMXM X  MMM MM                M M   M       MM M  MM  M   M   M
- WW   WW  WWW WWW   WW             W   W          W W W W W  W  W   W MM   MMXXMMM MMM   MM             M   M          M M M M M  M  M   M
-  WW WW    WWWWWW   WW                 W   W  WW W   W W  W W WW  W  MM MM XXXMMMMMM   MM                 M   M  MM M   M M  M M MM  M
-    WWWW     WW     WW              WW W   W  W W    W   WW    MMMM XXXXMM     MM              MM M   M  M M    M   MM
-   WWW       W      W              W W W   W W  W       W W     W   MMM       M      M              M M M   M M  M       M M     M
-   WWW       W                WW  W W W  W            W  W   WWW   MMM       X                MM  M M M  M            M  M   MMMXX
-  WWW     W                   W W   W W W              W  W   WWW  MMM     M   X               M M   M M M              M  M   MMMXXX
-  WWW   WWWW W        W  WWWW W W  W W                  WW  WWWW  MMM   MMMM M X      M  MMMM M M  M M                  MM  MMMMXXX
-  WWW       WWW      WW  W  W  W  W                  W     WWWWW  MMM    XXXMMM      MM  M  M  M  M                  M     MMMMMXXXX
-  WWW        WWWW   WWW  W  W W W                   WW       WW  MMM   XXXXXMMMM   MMM  M  M M M                   MMXXX    MMXXX
-   WW          WWW  WWW W    W                W    WWWW      W   MM     XXXXXMMM  MMM M    M   X  X         M    MMMMXXXX  MXXXXX
-   WW          WW  WWWW                   WWWW      WWW     W   MM    :   XXMM  MMMM        XXXXX      MMMMX     MMMXXX  M    XX
-    WW    WWW WW  W  WW     WW            WWW       WWWW    MM   XMMM MM XM  MM  : /MMXXXX     :/ MMMXXX    MMMMXX / :   : /
-     WW       WW W  XWW                  WWWW      WWWW     MM   XXXXMMXM   MM   / XXXX      :/:MMMMXXXXX MMMMXX /    :  / :
-      WWW        WW  WW            WW    WWWW       / W      MMM X XXXXXMM XMM : :  XX    MM /  MMMMXXXX     M  /       / ::
-        WWWWWW    W WWW      WW  WWWWW  W  WW              W  W        MMMMMM XXXMXMMM / /  MM  MMMMM  M  MMXXX   / /  X  M  M /
-              WWWWWWWW              WWWWW  WWW         WWWWWWWWW WW         /    MMMMMMMM /   XX X   XXMMMMM  MMMXXX /  XXMMMMMMMMM MM
-            WWWWW   WW                 WWWW  W         W       WWW      : /:  MMMMMXXXMM XXX X X X XXXXXXMMMM  MX  /  X  MXXXXXXXMMM
-         WWWWWW    WW   WWWWW WW       WWWW                   WWWW    :  / MMMMMMXXX MM   MMMMM MM XXXXXXMMMM X   /    XXXXXXXXXMMMM
-          WWW      WW   WWWWW             W                      W      /:  MMMXXXXX MM   MMMMMXX : :  XXXXXM   :/  :     X  XXX XXM
-          W      WW   WWWW     /    MXX    MM   MMMMXXXXX :      X   : /:  X  X
-                  WW  WWWW    /             MM  MMMMXXXX               /    X  X   X
-                  WW  WWWWXXXX               /       X:      X                  MM  MMMM
-                WW     WXX X               /        X  X     X                MM     M
-             WWW      W   X               /           X   X     X             MMM      M
-
-K2AGI
-

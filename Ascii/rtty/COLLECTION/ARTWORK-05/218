@@ -1,121 +1,0 @@
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-/////////////////////////////////////////////////////////////////////SSSSSSSSS
-//''/ '////////////////////////////// /  /  / /  /// / //////////////SS  S  SS
-// , / /////////////////////////////// //  /    /    / //   /////////SS   S SS
-// /, ,//////////////////////// /// /  /             / / /// ////////SS S   SS
-////////////////////////////////  // //   /    (     /     // // ////SSSSSSSSS                                      )
-// /   ////////////////////////// /  / /       (            / // ////SS S   SS                                      )
-// / / ///////// / // / / /// / / //           (    /  /     / /  ///SS S S SS                                      )
-//, ,/ /////// / / // / // //   / / /          (     /  /    //  ////SS   S SS                                    , )
-/////////////// //  /  /  /// //     //     (0-(      //   / //  / //SSSSSSSSS                                    M )
-////////////// /  /    /// /// / /  /        ' (          /   /   ///SSSSSSSSS                                      )
-/////' ////// /   /  // / /  /    / /         ((           //  / / //SSSSS  SS                                     ))
-//   -//////   /       /// /// /  /   /       ((         //  // //  /SS    SSS       M                             ))
-/////  /////   /   /   / / //// /   / //    , ()      /  /    / /  //SSSSS, SS    M  M                             )(
-////////////     M,  /    /  /// /  /      (0-M(         /  /// / ///SSSSSSSSS    M VVW                          M W)
-//     ///// MVVVVM    //   ////   /        ' M(  M         /  // ///SS     SS    W    W                           W)  W
-// / / //// ,MMMMMM    /   /// ///   /        M) M            /  ////SS S S SS    W    W                           W( W
-// /// //// MVVVVVM    /  /   // /           ,M,M          /       //SS SSS SS   W     W                           W W
-/////////// MV/V/VM    /   // //            ,MMMM,                ///SSSSSSSSS   W     W                          WWWW
-//     ///  MV/V/VM,    /  /// // /         MMMMMM --------    /  ///SS     SS   W     W                         WWWWWW :::::::
-//// / /// ,MV/VV/VM     /// // // /        'MMMM'               / //SSSS S SS   W      W                         WWWW
-//     /// MVV/VV/VM       //// /// /        'M'M             /    //SS     SS  W       W                          W W
-////////// MMMVVV/VM     //  / /// ///  /     M( M       //// // ////SSSSSSSSS  W       W                          W) W
-//     /// MMMMMMMMM     ///  / / ////      , M(  M       /  /// / //SS     SS  W  WWWWWW                         W)  W
-///' / /// MMMMMMMM'      /  /// ////      (0-M(       /  / /// // //SSS  S SS  W  WWWWW                         M W)
-//',/ ,/// MMMMMMMM    //  ////// / /       ' M(         / / / //////SS  S  SS  W  WWWWW                           W)
-////////// MMM           /// /////  /         ((          /    //////SSSSSSSSS  W                                  ))
-// /' '/// MMM  ,M     //  ///// / // //      ((           /    /////SS S   SS  W     W                            ))
-// ' , /// MMVVVMM     /  ///  / / /         ,()            / ///////SS     SS  W     W                            )(
-//, ,/ // ,MMMV/VM      /    /      ///  /  (0-(              / // //SS   S SS  W     W                           M )
-///////// MMMMV/VM        / /  /    ////     ' (     /  /     // ////SSSSSSSS  W      W                             )
-///////// MMMMMMMM      / /     /    ///       (    / / /  /// //////SSSSSSSS  W  WWWWW                             )
-/////// / MMMMMMM'     //           / //   /   (      / /      //////          W  WWWW                              )
-/////// / MMMMMMM     / /               //  /  (    //   //  / //  //          W  WWWW                              )
-////// // M/MM'''              ,,,,      // /         / /////////////          W
-/// ///   M//M                ,MMMM   /   ///     / /  //////////////        I W                    WWWW
-///  // I M/MM MMMMMMMMMMMMMMMMMMMM,   /    //   /     /////     ////          W  W WWWWWWWWWWWWWWWWW  W
-//////  I M//M MM//M//M//M//V//MMMMM     /    ///  / / ///// / / ////          W  W                  W  W
-/ // // I M/MM MM//M//M//M//M//MMMMM    / /   /// /// ////// /// ////          W  W                  W  W
-///// / I M//MM M//M//M//M/M//MMMMMM,  / /  / / /    ////////////////          W   W                 W  W
-//// // I M//MM MM/M//M//MM//M//MMMMM   /// / /  /  // ///     //////          W   W                  W  W
-////   MMMMMMMMMMMM M/MM//M//M//MMMMM     /      / / ///// /// //////       WWWWWWWWWWWW              W  W
-//// / MVVIMMMMMMVM M//M//M//M///MMMM,    /        / / ///,   //// //       W   W    W W              W  W
-////   MVIIM////MVM-MMMMMMMMMMMMMMMMM,               / //////////////       W   W    W W WWWWWWWWWWWWWWWWW'
-/////  MVVIM////MVM,MMMMMMMMMMMMMMMM'       ,           /////     ///       W   W    W W WWWWWWWWWWWWWWWW
-/////  MVIIMMMMMMVIM ..MMMMMMMMMMMMM ,, ,, ,, ,,    /  / //// /// ///       W   W    W  W    WWWW WW WWWW -----------
-/// /  MVVIM///MMIMW    .MMMMMMMMM'':::             / // ///,   /////       W   W    W          WWWWWWW-----
-////// M:::M////MVIM ---- .MMMMMMMM -----------        // ///////////       W   W    W  W  , ,   WWWWWWW  NN NN ,
-/// / ,MVVIM////MVIM  ' '  .MMMMM'                   / ////      ////       W   W    W  W         WWWW
-//// /MMVIIMMMMMMVIM ---- .MMMM''                /   // /// /// /////      W    W    W  W  , ,  WWWW
-//  / MMVVIM////MVIM /'-' .MMMM                 / //  /////,   /// //      W    W    W  W       WWWW
-//////MM:::M////MVIM ----,                / /   //// / //////////////      W    W    W  W   ,
-/// / MVVIM/////MVIM ----'          /  /   /   / / / //   ///////////      W    W    W  W   '
-///// MMVIIMMMMMMVIMM ----     /   / ///  / ////// ////// /// / /////      W    W    W   W   ,,
-///   MMVVIM////MVIMM ----      /  /    /     /   //// // / /  //////      W    W    W   W ''
-// / ,MM:::M////MVIVM ----      //   / ////// /// ///  /  // ///// //      W    W    W   W  ,
-///  MMVVIIM////MVIMM / ',     / /   /////  //////// // //  // //////     W     W    W   W
-//// MMVIIIM////MVIMM ----      / / ///  / / / / ///  / /// // //////     W     W    W   W  , ,
-//// M::::MMMMMMMVIMM  ' '      / //// /// //////  / /  / / /// /////     W     W    W   W
-//// MM//VMM////MVIMM ,---     / / //  //  ///// //         /  / ////     W     W    W   W
-/  //MM//VMM/////MVIM '---     /  /  /// ///////   /            /  //     W     W     W  W
-/ /  M::::MM//////VIM ----         /  ///  /// // /               / /     W     W        W  , ,
-// /,MM/VMMM////MMIMM /' '          / /// /// / /     ,,,    /   // /     W     W     W  W  ---                             W
-/// MM///VMMMMMMMMVIM    (      /   /  ///  / /      ,(/(,    / // //    WW     W     W  W    )                            ) )
-/ / MM::::MM/////MVIM :::(      ///  / //  / / /     ((//(     /  ///    WW     W     W  W    )                           )   )
-//  MM///VMM/////VIMM    (       /  /////  / /      ,(//)(,    // / /    WW     W     M  W    )                           )   )
-//  MM//VVMM/////MVIIM ----     /   /  //////  /    ((/ /)(    / // /    WW     W     W   W    ,                         )     )
-/ / MM::::MM/////MVIMM  -'        / // /  // /     ,((/ /)(,   / // /    WW     W     W   W   ,                          )     )
-/// MM///VMMMMMMMMVIMM ----      // / //// //   ,,((// //))(   /  ///    W      W     W   W    '                      MW)       )
-// ,MM//VVMM////MMIMMM ----    // /// ////  /   (M() / //))(   // ///    W      W     W W W  , ,                       W(       )
-// MM:::::MM////MMIMMM ----    /   / / ///      (M(( // /))(   /  ///   W       W     W   W  ' '                       W)       )
-/  MMV///VMM/////MVIMM ----        /  /  / /     (M)(  // /))    // /   W       W     W   W                            W(       ((
-// MMV//VVMM/////MVIMM ----     /  /   //  /     'M( // / ))      / /   W       W     W   W   ,,                       W)       (
-// MM:::::MM////MMIMMW ''     / /// //// / /      M)/  / ))(     ////   W       W     W   M ----                       W(       )
-/  MMV///VMMMMMMMMVIMM          /  / / ///  /     '( // //))      / /   W       W     W   W                             )       (
-// MMV//VVMMMMMMMMMMMM      /  /    //////   /     ((  // ))    /  //   W       W     W   W                             )       (
-// MMMMMMMMMMMMMMMMMM'      / // ///   / /         ( -0- //)     / //   WWWWWWWWWWWWWWWWWW                              )  M    (
-// 'MMMMMMMMMMMMMMMMM     /  /// /  / / / /        (( 0  //)      ///    WWWWWWWWWWWWWWWWW                              )  M    (
-/ / M...:!MMMMMMMMMM'         // //  ////          (( 0 //))      / /    W          WWWWW                               )  M    (
-/// M.....MMMMMMMMMM      /   / /  /    //         ((  // /)       //    W          WWWWW                               )       (
-// MMMMMMMMM//MMMMM' M      /       //      /      ((/// / )     /  /               WWWW                                )       (
-// MMMM//MMM//MMMMM .M  ,     /    /    //   /     (( // / (      / /               WWWW '                              )       )
-// MMMMMMMMMMMMMMM'.MM           / ///   /         (( /  /))       //   WWWWWWWWWWWWWWW       ',                        )       (
-/ /'MM//MM//MMMMMM .MM     '        /   / /        ( -0-  ))   /   //    WW  WW  WWWWWW                                 )  M  / (
-//  MMMMMMMMMMMMM'.M/M :::         /    //   /     (  0  //)     /  /    WWWWWWWWWW WW      -----                       )  M    (
-/ /  MMMMMMMMMMMM .M/M            /  /    /        (  0  //(     / //             WWWW                                  )  M    )
-// /  MMMMMMMMMM' .//M    ,'            /  ///     ((   / /)       //      WWWWWW WWW                                   )       (
-// / /'M//MMMMMM .MMMM,  '     /    /  ///    /    ((/ // /)    /   /       W  WW WWW                                   )       (
-/ / // MMMMMMMM'.M/MMMM     / /// //     /  //     ((/  / ))     /  /       WWWWWWWW                                    )       (
-// / / '''''''' MM/M/MM          /    //   ///     ((/   /))    /  //                                                   )       (
-// /// MMMMMM MMMMMMMMM            /    ////        (-0-  )'     ////       W      WWWWWWWWW                            ') M   (
-/// // MM//MM MMMMMMMM'         /    /  // /  /     ( 0  /)     /  //       W      WW WW WW                              ) M   (
-// //  MM///M MMMMMMMM      /       //////  /  /    ( 0 //)     / ///       W      WW W  WW                              ) M   (
-// // MMM//MM MMMMMMM'       /   /  //  //   /      (  /)))      / //       W      WWWW WW                               )(    (
-/ /// MMM///M MMMMMMM     /    /    // / /  / /     ((/ /))   /  ////       W       WWW WW                               )     (
-/ /// MMM//MM MMMMMM'      /   /      /////  //     ((// ))     /  //       W      W W WW                                )     (
-// /  MMMMMMMWMMMMMM         /   /  /  /// /   /    (()/ ))    / // /       WWWWW  W WWWW                                )    )(
-// . / MMV/M MMMMM'     /        / / ////// /  /    ')// )'     /  //       W     WWWWW                                   (   (
-/ / // .MV/VM M        /   /     / / /// /    /    ,M( M/)M,    /  //            W W                                        W  W
-// ///  M   M M      /  /  /       / //////    /   MM( M/)MM  /  / //            W W                                        W  W
-/// // / / VM M       /  /    //// //  //  /      ,MM( M/)MM,     / /              W                                        W   W
-/// /// //  M MM       / //  //  / /     /   /    MMM((M/)MMM    / //               W                                       W    W
-/// //// // M  M    /    /   /////   ////  /  /   MMM,(O),MMM    / //               W                                       X    W
-/  / //// / /  M      /    /       /////       /  MMMM(M)MMMM     / /                                                       W    W
-/// //////    /M    /////  /// //////   /   /     MMMM(M)MMMM    // /                                                       W  WWW
-/// ///// //     //// //   ////// /// /// ///         ,()       / ///                                                      ')
-// //// /////  M  //  // //////   /////// ///          (   /   / ////                                                       )
-/ ///// //// / / ///  /////// /////  //////   // /            /  ////
-/////////////////////////////////////////////////////////////////////
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-
-                        FRANKFURT-MAIN AIRPORT
-
-
-               BY KLAUS, DF7FB, ERLENSEE, WEST GERMANY
-

@@ -1,123 +1,0 @@
-
-     .        .       .       .       .   II    .    . III    .     . 
-.      .      .          .       .      . III     .    IIII     .
-   .       .        .        .       .    IIII        IIIIII  .     .
-        .       .        .       .      . IIII  .      IIIII     .
- .        .         .        .     .      III      .   IIIIII       .
-      .         .         .          .    III  .      .  IIIII  .
-            .        .          .       .  III    .     IIIIII     .
-.      .           .       .         .     III       . IIIIIII  .
-               .                 .        IIII    .    IIIIIII      .
-    .                .               .     III  .    . IIIIIII   .
-        .        .       .       .      .  III    .    IIIIIII    .
-   IMMMMIMMMIMMMIMMMMMMMMMM.        .      III       . IIIIIIII     .         WWW     WWW  WWW
-  MIMMMMMIMMIMMMIMMMMMMMMMMMMM .       .    III   .    IIIIIIIII .     W    WW     WWW  WWW
- MMIMMMMMIMMIMMMIMMMMMMMMMMMMMMM   .      . III     .  IIIIIII I   .    WWW   WW     WWW   WWW    WW
- MMIMMMMMIMMIMMMIIMMMMMMMMMMMMMMM.    .      II  .      IIIIIIII     . WW WWW   WW      WW   WWW     WW
- MMMIMMMMMIMIMMMIIIMMMMMMMMMMMMMMH        .   I    ;    IIIIIIII  . WWW W     W       WW   WW      W
-.MMMIMMMMMIMIMMMMIIMMMMMMMMMMMMMMMH  .       .I      .  IIIIIIII      . WWW WWWWW W       WW   WWWWWWWWWW
-  MMMIMMMMIMIIMMMIIIMMMMMMM-M---MMH      .       .    .  IIIIII     .  WWW WWWW W        WW   WW W   WW
-  MMMIMMMMIMMIMMMMIIIMMMMMM---M-MMH         .       .    IIIIII       .  WWW WWWW WW WWWW   W   WW   W WW
-.  MMIMMMMIIMIIMMMIIIMMMMMMMMMMM-MH.   .         .     .  IIIIII   .   WW WWWW  W        W WWWWWWWWW W
- . MMIIMMMIIMMIMMMMIIIMMMMMM-----MMH       .        .      IIIII      .   WW  WWW  WW        W WWWW     WW
-   MMMIMMMMIMMIIMMMIIIMMMMMMMMMMMMMH   .     I    .      .  IIII    .   WWW WWWW WW        W   WWWWWWWWW
-.   MMIMMMMIMMMIIMMMIIIMMMMMM-----MH.    .  II       .      IIII  .   .    WW WWWW WWW  WWW   W WWWW     W
-  .  MIMMMMIMMMMIMMMMIIMMMMMMMMMMMMMH       III   .      .  IIIII    .     W WWWW WWWW       W WWWWWWWWWWW
-     MIMMMMIMMMMMIMMMIIIMMMMMMMMMMMMH   .   III      .      IIIII  .     W WWWW WWWWW       W WW
- .    MIMMMIMMMMMMIMMMIIMMMMMMMMMMMMH     . II   .        .  IIII  .      W WWW WWWWWW      W       W
-   .  MIMMMIMMMMMMIMMMIIMMMMMMMMMMMMH.  .   III    .    .    IIII     .      W WWW WWWWWW      WW      WW
-       IMMMIMMMMMMIMMMIIIMMMMMMMMMMMMM    .  II      .      IIIII  .        WWW WWWWWW       W WW WWWW
-    .  IMMMMIMMMMMIMMMMIIMMMMMMMMMMMMM  .    II   .      .   IIII     .        WWWW WWWWW WWWW  WW   WWWWW
-I       MMMMMMMMMMMIMMMIIMMMMM:MMMMMMM    .   II     .       IIII  .        WWWWWWWWWWW      WW  W WWWWW
-II  .   MMMMMMMMMMMIMMMIIIMMMM:M:MMMMM .      II   .   .     IIII    .        WWWWWWWWWWW       WWWW W WWW
-II    . .MMMMMMMMMMIMMMMIIMMM:::MMMMMM.    .  III    .       IIII      .         WWWWWWWWWW       WWW   WWWW
-II  .    MMIMMMMMMMIMMMMIIIMM:::MMMMMMM  .    III  .     .   IIII   .         WW WWWWWWW        WW   WWWWW
-III   .  MMIMMMMMMMMIMMMIIMMM:::MMMMMMM     .  II     .      IIII      .         WW WWWWWWWW      WWW   WWWWW
-III      .MIIMMMMMMMIMMMMIMMM:::MMMMMMM.       III           IIII  .          W  WWWWWWW   WW WWW   WWWWWW
-III   .   MIIMMMMMMMIMMMMIIMM::://MMMNM.   .   III    .      III      .          W  WWWWWWW  WWW  WW   XXWWWW
-IIII      MMIMMMMMMMMIMMMIIMM:::MMMMMMMM  .    III  .     .  III    .          WW WWWWWWWW WWW  WW   WWWWWW
-IIII    . .MIMMMMMMMMIMMMIIMM::://MMMMMM    .  III      .    III    .           W WWWWWWWW WWW  WW   XXWWWW
-IIIII .    MIMMMMMMMMIMMMMIM::::MMMMMMMM .     III    .     IIII  .           W WWWWWWWW WWWW W    WWWWWW
-IIIII    . .MMMMMMMMMMIMMMII:::::MMMMMMM    .  III       .  IIII      .K            WWWWWWWWWW WWW       WWWWWW
-IIIII   .   MMMMMMMMMMI::::I:I:::MMMMMMMM      III   .      IIII  .            WWWWWWWWWW           WWWWWW
-IIIII .     .MMMMMMMMMHI:::I:II::MMMMMMMM  .    II     .     III     .             WWWWWWWWW           WWWWWW
-IIIII   .    MMMMMMMMMHI:::I::I:://MMMMMM    .   II       .   II  .             WWWWWWWWW           XXWWWWW
-IIIII     .  MM:MMMMMMHHH::I::I::MMMMMMMM        I   .        I      .             WW WWWWWW           WWWWWWW
-IIIII  .     .M::MMMMMHHH:::I::I::MMMMMMM.  .    I      .         .              W  WWWWW            WWWWWW
-IIIII    .    M::MMMMMHHHH::I::I:://MMMMMM    .      .       .        .              W   WWWW            XXWWWWW
-IIII           M::MMMMMHHH::I::II:MMMMMMMM       .       .       .               W  WWWWW           WWWWWWW
-IIII  .     .   M::MMMMHHH:: :::I:MMMMMMMM    .       .      .       .                W  WWWW           WWWWWWW
-IIII      .     M::MMMMHHHH::I::I::MMMMMMM.      .        .      .                W  WWWW            WWWWWW
-IIII  .         M::MMMMMHHH::I::I::MMMMMMMM---------------.    .     .                W  WWWWW           WWWWWW
-IIII     .     .M::MMMMHHHH::I::I:MMMMMMMMII::M:::M::I::M::      .                 W  WWWW           WWWWWW      W   W     W
-IIII    .     .  MM:MMMMHHHH::I::I::MMMMMMMII::II:::::I:::::    .    .                 WW WWWW            WWWWWW
-IIII  .    .      M:MMMMMHHHH::I:I::MMMMMM:II:::I:::::I:::::                  W WWWWW           WWWWWW
-IIII     .      .  M:MMMMHHWH::I:I::://MMM::II::MIMMMMIMMM::                   W WWWW            XXWWW
-III         .      M:MMMMHH2H::I:::::MMMMMMMIIMMMIIMMMIMMMM:     .     .                   W WWWW            WWWWWWW
-III   .          .  :MMMMHHIH::I:::::MMMMMMMMIMMMMIMMMIMMMM:                     WWWW            WWWWWWWW      WWW WWWW
- II     .      .     MMMMMMUHH:::::::MMMMMMMMIIMMMIIMMMIMMM:       .   .                     WWWWWW          WWWWWWWW  WWW  WWW WWW
-   .    I    .    .  MMMMMMCHHH:::::::MMMMMMMIIMMMIIMMMIIMM:  .      .                     WWWWWW           WWWWWWW  WWW  WWW  WW
-.      IIII     .     MMMMMHHHH:::::::MMMMMMMMIMMMMIIMMMIMM:     .    .                      WWWWW           WWWWWWWW WWWW  WWW WW
-   .   IIIII      .    MMMMHHHH:::::::MMMMMMMMIMMMMIIMMMIMM:        .                       WWWW           WWWWWAWW WWWW  WWW WW
- .     IIIII  .        MMMMHHHH:::::::MMMMMMMMIMM''           .       .                       WWWW           WWWWWWWW WW
-    .   IIIII     .    MMMMMHHHM:::::::MMMMMMM         .         .                       WWWWW   W       WWWWWWW
-       . IIIII  .       MMMMHHHM:::::::MMMMMMM  .            .         .                        WWWW   W       WWWWWWW
- .       IIIII     .    MMMMMHHMM::::::://MMMM     .      .        .                        WWWWW  WW       XXWWWW
-    .    IIIIII       .  MMMMMHMM:::::::MMMMMM          .      .       .                         WWWWW WW       WWWWWW
-       . IIIIII   .      MMMMMHMMM:::::::MMMMM    .       .       .                         WWWWW WWW       WWWWW
-   .     IIIII       .   .MMMMMMMM::::::://;....      .       .    I   .                          WWWWWWWW       XXWWWW
-      .   IIIII    .      MMMMMMMMM::::::MMMMMM  .        .      II                          WWWWW WWW      WWWWWW
-.         IIIII      .     MMMMMMMM:::::::MMMMM     .       .    III  .                           WWWWW WW       WWWWW
-    .     IIIIII .      .  MMMMMMMMM::::::MMMMM        .         III   .                           WWWWW WWW      WWWWW
-  .     .  IIIIII     .    .MMMMMMMM:::::://MMM            .     III  .                            WWWWW WW      XXWWW
-     .     IIIIII  .     .  MMMMMMMM:::::::MMMM   .           .  III   .                            WWWWW WW       WWWW
-.         IIIIIII   .        MMMMMMMM:::::::MMM      .           II   .                             WWWWW WW       WWW
-   .      IIIIIII      .     MMMMMMMM:::::::MMM           .      II    .                             WWWWW WW       WWW
-        .   IIIIIII        .  MMMMMMM:::::::MMMM    .            II                              WWWW WW       WWWW
-      .      IIIIII   .       MMMMMMMM::::::MMMM       .         II   .                              WWWWW WW      WWWW
- .       .   IIIIII      .     MMMMMMM::::::MMMM  .         .    II                               WWWW WW      WWWW
-    .        IIIIII  .      .  MMMMMMM::::::MMMM     .         .  II  .                               WWWWW W      WWWW
-       .     IIIIII     .       MMMMMMM:::::MMMMM      .          II                                WWWW WW     WWWWW
-   .        .  IIIII      .     MMMMMMM::::::MMMM         .       II .                                WWWWW W      WWWW
-       .       IIIII          .  MMMMMMM:::::MMMM  .        .    III .                                 WWWW WW     WWWW
- .            IIIIII      .      MMMMMMM:::::MMMM     .       .  III                                 WWWWW W     WWWW
-     .        IIIIIII  .    .     MMMMMM:::::MMMM        .        II   .              I                   WWWW W     WWWW
-   .      .   IIIIIII     .     . MMMMMMM:M::MMMM   .              I .                                  WWWWW W    WWWW
-    .        IIIIIIII  .           MMMMMMM:M::MMM      .       .                                   WWWW WW    WWW
-        .    IIIIIIII       .      MMMMMMM:M::MMM  .      .        .                                   WWWWW W    WWW
-      .      IIIIIIII            .  MMMMMM:M::MMM     .       .       .                                    WWWW W    WWW
- .           IIIIIIIII   .           MMMMMM:M:MMM         .        .                                     WWWW W   WWW
-      .      IIIIIIIII        .       MMMMMMMMMMM   .             .                                      WWW WW WWWW
-   .      .  IIIIIIIII     .          MMMMMMMMMMM        .     .                                      WWW WW  WWW
-      .     IIIIIIIIII            .    MMMMMMMMMM      .             .                                       WWW W  WWW
-        .   IIIIIIIIII  .       .       MMMMMMMMM  .        .    .                                        WW W  WWW
-    .       IIIIIIIIII      .         .  MMMMMMMM       .          .                                         WW   WWW
-         .   IIIIIIIII   .         .      MMM MMM    .      .        .                                          W   WWW
-       .      IIIIIIII        .           .MM MMM       .        .                                           W  WWW
- .        .   IIIIIII     .        .     MMMM  MMMM.       .                                         WWW   WWWW
-     .        IIIIIII       .           :: MM  MMMMM           .                                           WW  WWWWW
-  .        .  IIIIII              .      :     I   I   .         .
-      .        IIIII     .           .    :    I   I      .         .
-          .     IIII        .             :    I I  I         .
-   .            III               .       ::   II   II     .       .
-       .      .  II      .            .    :   II   II        .
-         .       II          .             :   II    I    .      .
-    .        .   I              .          :    I  . I      .
-      .              .             .    .  :: . I    ::         .
-           .             .            .    ::   I .  ::    .
-     .           .           .       .      :   I    ::        .
-          .           .           .          :       ::           .
-   .             .           .           .          . ::      .
-             .                 .             .         :
-
-
-                            SSN  571
-
-                          USS NAUTILUS
-
-                        FIRST NUKE BOAT
-
-                     1979 RTTY ART CONTEST
-
-  ORIGINATED FOR RTTY BY GEORGE, W2IUC, ROCHELLE PARK, NEW JERSEY
-

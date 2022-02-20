@@ -1,124 +1,0 @@
-:::::::::::"""--"""":::":::::::"::::::::::::::::::::::::::MMMMM---CCCCCCCCCCC:::..::::CCC:CCCCCCC:CCCCCCCCCCCCCCCCCCCCCCCCCC     CCC           CCC''CCCC   C       C              XX              CC
-::::::::::"""-""""":":::":::::::::::::::::::::M:::::::::::M:MMMM--CCCCCCCCCC:::.:::::C:CCC:CCCCCCCCCCCCCCCCCCCCC CCCCCCCCCCC C    CC          CCC'CCCCC C   C             X             C
-:"":::::::""""-"""""":::::::::::::::::::::::::::::::::::::MMMMMM--C::CCCCCCC::::.::::::CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC      CC CC       CCCC'CCCCCC              X              C
-::"::::::"":"-""""""::::"::::::::::::::::::::::::::::::::MMMMMMM--CC:CCCCCC::C:.::::::CCCC:CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC       CC  C      CC C'CCCCCC    C             X             C
-::::::::::":"--""""""":"":::::::::::::::::::::::::::::::MMMMMMMM--CCCCCCCCCC:C:..:::::::C::CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC        CC          C C''CCCCCCC CC             XX             CC
-"::::::::::""-""""""":::::::::::::::::::M::M::::::::::::MMMMM--M--:CCCCCCCCCC::.:::::::CCCCCCCCCCCCCCCCCCC CC CCCCCCCCCCCC     CC CCC          CC'CCCCCCC             X             C
-":":::::::"""-"""""""::::::::::::::::::::::::::::::::::MMMMM-M----:C:CCCCCCC:::.:::::::CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC     C CCCCC C       CCC'CCCCCCC             X             C
-::::::::::""-""""""""::::::::::::::::::::::::::::::::::MM-MM----Z-CCCCCCCCCC::.::::::::CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC  C  CCCC C          CC'CCCCCCCC            X            C
-::""::::::"""""""""""::"::::::::::::::::::::::::::::MMMMM-------Z-CC::CCCCCC:::::::::::CC:CCCCCCCCCCCCCCCCCCCCCCCCCCCC     CCCCCCC C  CC      CCCCCCCCCCC  C
-:::::::::::--""""""""::::::::::::::::M:::::::::::::MMMMM-M----Z-ZZCCCCCCCCCCC..::::::::CCCCCCCCCCCCCCCC CCCCCCCCCCCCC     C CCCC C           ''CCCCCCCC           XX           CC
-":":""::::"--""""""""""":::::::::::::M::::::::::::::MM--------ZZZZ:C:C::CCCC:..:::::::::::CCCCCCCCCCCCC CCCCCCCCCCCCCC  CCCCCCCCC C CC    C''CCCCCCCCCCC           XX           CC
-""":::::::""-""""""""":"::::::::::::::::::::::-::M:MMM-------ZZZZZ:::CCCCCCC::.:::::::::C:CCCCCCCCCCCCCCCCCCCCCCCCC C   CCCCCCCCCC       CC'CCCCCCCCC C            X            C
-""""::"::"""-"""-""""::":::::::::::::::::::::XX::MMMMM----ZZ-Z-ZZZ::::CC:CC:::.:::.::::CC:CCCCCCCCCCCCCCCCCCCCC  CC     CCCC  C CCCCC  C  CCC'CCC'CCCC  C            X   X            C   C
-"""::::":"""-""-"""""::""::::::::::::::::::::::M-MMM-----ZZ-ZZZXZZ:::CCCC:C:::.::.:::::CC::CCCCCCCCCCCCCCCCCCCCCC C   CCCCC  CCCC    C CCC'CC'CCCCC  CC            X  X            C  C
-"""::::::"""""-"""":":"":::::::::::::::::::::M:MMM-M-----ZZZ-ZXZXX:::CCCCCC:::::.::::C:C::CCCCCCCCCCCCCCCCCCCCC C   C CCCCC   CCCC      CCCCC'CCCC C CC              X              C
-":::::":"-""""-"-"":::"::::::::::::::::::::M:::MMM-------ZZZZZZXXX:CCCCC:C:.::::.:.::CCC:CCCCCCCCCCCCCCCCCCCC CCC   CCCCCCCC     C C'CCCC'C'CC   C         X    X X         C    C C
-":""::":"-"--"-"""""::""::::::::::::::::::::MMMM-M-------ZZZZZZXXX:C::CC:C:.:..:.:::::CC::CCCCCCCCCCCCCCCCCCCC    C CCCCCCCC CC  C C'C''C'CCCCC  CC         X XX X         C CC C
-":":::::""""""-"""""::::::::::::::::::::::MMMMMMM--Z-Z-ZZZZZXXXXXX:C:CCCCC::::::.:::::CCCCCCCCCCCCCCCCCCCCCC       CC C CC C     CCCCCC'CCCCC              X              C
-"":":::"--""-""""":":"""""::::::::::::::::MMMM----Z-ZZZZZZZZZZZXXX::C:CCC:..::.:::::C:C:::::CCCCCCCCCCCCCCCC    CCCC CCC C   C''CC'CCCCC C CCCCC        XX  X        CC  C
-"""::::"""""--"""":":""":::::::::::::::::MMMM-----ZZZZZZZZZZZXXXXX:::CCCC:::::..::::C:C:::CCCCCCCCCCCCCCCCC    CCCCCCCC    CCCCC''CCCC C CCC            XX            CC
-""":::"-""""""""""""::::":::::"::::::::MMMM-------ZZZZZZZXXZXXXXXX:::CCC:.::::::::::::CCCC:CCCCC:CCCCCCCC    CCCCCCCCCC   C'CCCCCCCCCCCC    C     C       X       C
-:"":::""-""""""""":::"::"::":::::::::::MMM----Z-XZZZZZXZXXXXXXXAAXC::CCC::.:::::::::CCC:CC:CC:CCCCCCCCCCC   CCCC C CC   CC'CCCCCCCCC   C  C  C        X        C
-"""":""""""""""""":::::"":::"::::::::MMMMMMM----ZZZZZZZZZXXXXXAAXA::::C:::::::::::::CCCCC::CCC:CCCCCCCC       CCCCCCCC CCCCCCCCCCCCC     CC   C
-:""""""""""""""""":::::""::::::::::M:MMMMMM----ZZZZZXXZZXXXXAXXXAXC:::::::::::::::::CCCCC::CCCCCCCCCC C      CCCC CCCCCCCCCCCCCCCCC     CC
-""":"-"""""""""""":::::::::::::::::::MMMM-------ZZZXAXZZXAAAXXXXXA:::C:.::::::::::::CCCCCCCCCCCCCCCCCCC    CCCCCCCCCC C'CCCCCCCCCCCC     X     C
-:"""""-"""""""""::::":::::::::::M:MMMMM----ZZZ-ZZZAXAXXXXAAAXXAXAXC:::::.:::::::::CCCC:CCCCCCCCCCC C     CCCC   C CCCCC'CCCCCCCCC    C      X      C
-":""-"""":""""":::::::::":::::::MM:MM-M----ZZZ---XIAXXXXXXAAXAAAAA:C::.::::C:::::CCCCCCCCC:CCCCCCC  C  C CCCC   CCCC CC'CCCC CCCCC         C    X    C
-::":""""":"""""::::::::::::M:::MMMMMM------ZZZZZZX:AXXXXAXIAAAAIAICC:C:::::C:::::CCCCCCCCCCCC CCC      CCCCCC  C CCCCC CCCCC
-:"":"-""::"""""M:::"::::::MZM-MM-ZXXXXXXXXAIIAIIII::::I::::::::I::C::C:.::CC::::: CCC:CCCCCC   C  C CC C'CC  CCCCC    C     X     C
-:::M::::M----M--Z--MM-M::MM:M:M-MMM-Z---Z--ZZZZXXZXXXXAIAAAAIAAIAICCC CCCC CCCC CC CC  C CC  C C C   C CCC CC
-"""""""":""""::""":"""::::::::::MM-MM---ZZZ-ZZZXXXXXXAAAAAIAAIIIII::::::::C::::CC:::C:::CCCCCCCCCC  C  CCC   CCCCCCCCC CCCC  CCC CCC
-----"""""""""::"""""""::::::MMMM-MM-----ZZZZXXXXXXXXAAAAAAIIIIIIII....:::::::::CC:::::::CCCCCC    C  CCCCC''''CCCCCCCCC  CCCCCCCXXXXCCCC
----""""""":":":""""":":::::::-MM-M------ZZZXXXAXXXXAAIAAIIIIIIIIII...:::::::C:C:C:::::C:CCCCCCCC  C CCCCCC'''CCCCCCC C C CCCCC CXXXCCC
--""""""""""":::::""":::::::MM--M--Z--ZZZXXXXXXAXXAAAA:IIII::::I:::.:::::::::::CCCCC:::CCCCCCC  CC CC CC'CCCCCCCCCCC     CCCXC
---""""""""::::::":"":::::::MM------ZZZXZXXXXXAAAAAAIII:III:III::::..::::::::CCCCCC:C::CCCCCCC  CCCCCC''CCCCCCCC      C CCXXCC
--""""""":::::::::":::::::MMM-------ZZZZZZXXXXAXAAAAIAIIIII::::::::.:::::::CCCCCCCCC:CCCCCCC   CCCCCCC'CCCCCCC         CXC
--"""""""::::::::::::::M::MMM-------ZZZZZXXAXXXAAAAAIIIIIII::::::::.:::::::CCCCCCCCCCCCCC CC   CCCCCCC'CCCCCCCXC
-"""""::::::::::::::::::M:MMM-------ZZXXXXXAAAAAAIIIIIIII:::::::::::::::CCCCCCCCCCCCCCCCCC C   CCCCCCCCCCCC
-"":::::::::::::::::::M:::MM---Z---ZZZZXXXXXAAAAAIAAIII:I::::::::::::CCCCCCCCCCCCCCCCCCC CCC  CCC CCCCC
-"::::::::::::::::::::M::MMM-----ZZZZZZXXXXXXXAAAIIIIII:::::::::::::CCCCCCCCCCCCCCCCCCCC CC   CCCCCC
-:::::::::::::::::::::MM:MMMM----ZZZZZZXXXXXXAAAIIIIIIII:::::::::::CCCCCCCCCCCCCCCCCCCCC  C    CCCC
-:::::::M::M:::::::MM:MM:----MZ-Z-ZZZXZZAZXXAAAAIAIIII:::::::::::::CCCCCCC CC CCCCCCC  C  CCCCC  C C
-:::::M:M:::::::::::M:MMMM-M----ZZ-ZZXXXXXXAAXAAAAIA::I::::::::::::CCCCC C CCCCCCCCCCC C    C CCCC  C
-::::::MMM::::::::::MMMMMM-M-----ZZZXZXXXXXAAXAAAIIII:I:I::::::::::CCCCCC   CCCCCCCCCC      C CCCCC
-:::::::MMM:::::::::MMMMMM--------ZZZZZXZXXAXXXAAIIIIII::::::::::::CCCCCCC   CCCCCCCCC      CCCCCCCC
-:::M:MMMMM:MM::::::MMMMMM------ZZZZZXZXXXXAAAIAIAAAIIII:::::::::::CCC C     C  CCCCCC      CCCCCC
-:MMMMMMM::::::::::MMMMMMM-------Z-ZZXZZXXXAXAAAAIAAIIII:::::::::::C       CCCCCCCCCC       CCCCCCC C
-:::MM:MMMM::::::::MMMMMMM-M--------ZXZZXXXAXAAIAIIAIII::::::::::1:CCC  C    CCCCCCCC       C CCCCCCCC
-MMMM::MMM:::::::::MMMM-M-----------ZZZZXAXXXXXAAAIIIIII:I:::::::::    CC   CCCCCCCCC    C CCCCCCCCCCC
-MM:MM:M::M:::::::MMMMMM----Z------ZZZZXXAAXXXAAAAAAI:IAI::::::::11  C  C CC CCCCCCC      CCCC CCCCCC
-MMMM::MM::M::::::MMMMMM------------ZZZXZXXXAXXAAAAAIIIIIII::::::::    CC  CC CCCCCC      CCCCCCCCCCCC
-MMMM::MMMM:::::::MMMMMM-M---Z------ZZZXZXXXXXAAAAAAIIIIII:::::::::    CC    CCCCCCC      C CCC CCCCCC
-MMMM::::M:::::::::MMMM--M----------ZZXZZXXXXXXAAAAIIIIII::I::I::::    CCCC CCCCCCCCC    CC CCCCCCCCCC
-:MMMMMMMMM:::::MMMMM:M-MM-------Z--ZZZZXZZZAXAAAXAAIAIIII:::::::::C         CCCCC     C C  CCCCCCC CC
-MM:MMMMZ--M:::::MMMMMM-MMMMM--------ZZZZZZXXXAAAAAAAIIII::::::I:::  C     CC CCCCC      C     CCCCCCCC
-MM:MM--MM-M::::::MMMMMMMMMMMM-----ZZZZZZZZZXXXXXAAAAAIAI:I:I::::::  C  CC  C CCCCCC            CCCCC
-MMMMMMMMMMMM:::M:MMMMMM-MMM--------ZZ-ZZXZXXXXXXAXAAAAIIIIII:::I::            CCC C      C   CCCCCCCC  C
-MMMMMMMMMMMMM::MMMMMMMMMMMM---------ZZ-ZZZZZZXXAXAAAIAAIII::I:::::             CC            CCCCCCCCC  C
-MMMMMMMMM:MM:::::MMMMMMMM------------Z--ZZZZZXXXXAAAXAAAIII:::::::         C  CCCCC        CCCCCCCCCCCC CC
-MMMMMMMMMMMM:::MMMM-M-MMMMMM-------M-Z--ZZZZZXXXXAAAAAAAIII:::::::            CCC    C C      CCCCCCC C CC
-M-MMMMM-MMM:M::MMMMMMM-MM-MM---------Z--ZZZZXZXXXXXXXXAAIII:I::I:: C     C   C CC       C  C  CCCCCCCCC CC
-MMMMMMMMMMM::::MMMMMM------------ZM-ZZ---ZZZZZZXXXAAAAAIIIII::::::           CCCC      CCCCCCCCCCCC  C  CCC
-MMMMMMMMMMMM::::MMMMM--M---M------------ZZZZZZZXXXXAAXAAIIAIIII:::            CCCC     CC CCC CCCCCCCCCCCC
-MM-MMMMMMMMM:::MMMM--M-----M--------Z----ZZZZZXZXXXAAAAAIIAIIIII::  C         CCC    CC CCCCC CCCCCCCC CCCC
-MMMMMMMMMMMMM:::MMM--M-MM--M-------ZZ--M--ZZZZZZZXXXXAAAAAIIIIIII:             CCC   CC C  CC CCCCCCC  CC CC
-MMM---MM-MMMM:::MM---M--M------------Z-----ZZZZXXXXXXAXAAIAI:IIIII   CCC  C    CCC  CCC CC CCCCCCCCCCCC CCCCC
-M-MMMMMMMMMMM:::MMMMMMMMM-MMM----------M--ZZZZZZZZXXXXAAAAAAIIIIII C           CCC         C   CCCCCCCCCC CC
-MMMM-MMM-MMMM:::MMM-MMMM--MM----------------ZZZZZZXXXXAXAAAAAIAAII    C   C    CCC   C    CC  CCCCCCCCCCCCCCCC
-MMMMMMMMMMMMMM:::MM-MMMMM-MM-M---M-M-M-------ZZZZZXXXXAXXAAAAIIIII              CCC  C     C  C CCC C C CCCCCCC
-MMMM-MM-MMMMMM::::MMMMMMMM-MMMMMMM-----M----ZZ-ZZXZXXXXXAAAXAAAIAI    C  C      CCCC        C       CCCCC CCCC  C
-M-MMMMMMMMMMMM:::::MMMMMMMMMMMM--MMMM-M------Z-ZZZZZXZXXXXAAAAAAAA C            CCCCC            CC    C CCCCCC C
-MMMMMM-M-MMMMM:::::MMMMMMMMM-MMM-M--M-----M-----Z-ZZZXXXXAIAXAAAAI      C C     CCCCC         C   C CC CCCCC CCCCC C
-MMMMMMMMMMMMMM::::::MMMMMMMM-MMMM-M------M------ZZZXZZZZXXXXXXXAAA              CCCCCC        C    C CCCCCC CCCCCC
-MMMM-MMM-MMMMMM:::::MMMMMM:MMMMM-----------Z----ZZZXXXZZAXXXXXXXAA    C   C      CCCCC      C     CCCCCCCCCCC CCCC
-MMM-M---MMMMMMMM:::::MMMMM-M-MMM-M----M--------ZZZZZZZZZXXXXXXXXAA   C CCC        CCCCC     C C   C CCCC CCCCCCCC
-MMM-M-MMMMMMMMMM::::MMMMMMMMMMMM-M-M--M---------ZZZZZZZXXXXXXXXXAA   C C          CCCC            C C CC CCCCCCCCC
-MMMMMM-MM-MMMMMM::::MMMM:MMMMM----MM------------ZZZZZZZZZZXXXXXXAX      C  C      CCCC    C     CCCC  CCCCCCCCCCCC
-MMMMMMM-M-MMMMMM:::::MMMMMM-MM-MMMMM--M---------ZZZZZXZZZZZZXXXXXX       C C      CCCCC      C  C     CC CCCCCCCCC
-MMMMMMMMMMMMMMMMM::::::M:MMMMMMM--MMM--------------ZZXZZZZZXXAXXXX                 CCCCCC C       CC   CCCCCCCCCCCCCC
-:MMMMMMMMMMMMMMMM:M::::::MM:MMM-MMM------------Z-Z-ZZZ-ZZZZZZXZZXZC                C CCCCCC  C   C   CCCCCCCCCCCC C C   C
-MMMMMMMMMMMMMMMMMM:::::::::MMMMMMMM--------------Z-------ZZZZZZZZZ                  CCCCCCCCC        CCCCCCCCCCCCCC CCCCCCC
-MMMMMMMM-MM-MMMMMMMMM::::MMMZMMMMMM-------------M---Z---ZZZ-ZZZ-Z-        C  C         CCCC          CCCCCCCCCCCCC CCC CCC   C   C C
-:MMMMMMMMMMMMMMMMMMM::::::::M:M:MMM-MMMMM-MMM--M-----------Z------C                   CCCCCCCC C C   C     C   CC CCCCCCCCCCC CCCCCC
-:MMMMMMMMMMMMMMMMMMMM::::::::::MMMMMM-MMMMMMMM----------------M---C                    CCCCCCCCCC      C        CCCCCCCCCCCCCCCC CCC
-:MMMMM-MM-MMMMMMMMMMMM:::::::::::MMMMMMMM-MMMMM------M--M--M--M--MC     C  C            CCCCCCCCCCC        C     CCCCCC CC CC CC CC
-MMMMMMMMMM-M-M-MMM-MM:M::::::::::M::MMMMMMMMMM-M--MM--M--MMMMMMM--          C C C   C  C CCCCCCCCCC CC          C CC  CC CC       CC
-MM:MMMMMMMMMMMMMMMMMMMM:::::::::::::MM:MMMMMMMMMMMMM-MMMMMMMMMMMMM  C                    CCCCCCCCCCCCC  C             C
-:M:MMMMMMMMMMMMMMMMMMMM::::::::::::::M:MMM:MMMMMMMMMMMMMMMMMMMMMMMC C                    CCCCCCCCCCCCCC C   C
-:::MMMMMMMMMMMMMMMMMM:MM::::::::::::::::MMMM:MMMMMMMMM:M::M:MM:M:MCCC                  C  CCCCCCCCCCCCCCCC    C         C CC C  C C
-:MMMMMMMMMMMMMMMMMMMMM:M:M::::::::::::::M::::M:MMMMMM::M:::M:M::MMC                     C C CCCCCCCCCCCCCC CCCC C      CC CCC C CC
-:::::M:MMMM-MMMM:MMM:MMMM::::::::::::::::::::::M:MM:::::::::::::::CCCCC C    C    C   C    CCCCCCCCCCCCCCCCCCCCCC C  CCCCCCCCCCCCCCC
-::::::MMMMMMMMMMMMMM:MMMMM::::::::::::::::::::::::::::::::::::::::CCCCCC              C     CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
-:::::::MMMMMMMMMMMMMMMMM::::::::::::":::::::::::::::::::::::::::::CCCCCCC                 CCCCCCCCCCCC:CCCCCCCCCCCCCCCCCCCCCCCCCCCCC                                    C
-::::::M:M::MMMMMMMMMMMM:M:M::::::::::"::::::::::::::::::::::::::::CCCCCC C CC            C C CCCCCCCCCC:CCCCCCCCCCCCCCCCCCCCCCCCCCCC                                     C
-":::::::::MMMMMMMMMMMM:M:::::::::::::::""::::::::::::::::::::::::::CCCCCCCCC            C CCCCCCCCCCCCCCC::CCCCCCCCCCCCCCCCCCCCCCCCCC                                      CC
-":::::::::MMMMMMMMMMMMMM:M:::M:::::::::""""""""::::::::::::::::::::CCCCCCCCC              C CCC CCCCCCCCC::::::::CCCCCCCCCCCCCCCCCCCC                                      CCCCCCCC
--"::::M:::MMMM:MMMMMMMMMMMM:M::::::::::"""""---""""""""::"::::::::.:CCCC CCC    C            C CCCCCCCCCC:::::...::::::::CC:CCCCCCCC'C                                     CCCCC'''CCCCCCCC  CX                                           XXXC                                           CCC
---:::::MM:MMMMMMMMMMMMMM:M:M::::::::::::"""""--"--""""""""::::::::..CCCCC  C              C C CCCCCCCCCCCC:::::..:..::::::::CCCCCCCC''                                      CCCCC''C''CCCCCCCCXX                                           XX XXCC                                           CC CC
---"::::::M:MM::MMMMMMMM:::::::::::::::::""""""-"-------"""""::":::..:CCCCCC C  CC        CCCCCCCCCCCCCCCCC::::::.:.......:::::CC:CCC''C                                     CCCCCC'C'''''''CCCCC  CXX                                            X XXXXXXXCC                                            C CCCCCCC
----":::::M::MM::MM:MMMM::::::::::::::::::":"""-----------""":::"::...:CCCCC CC  CC  C    CCCCCCCCCCCCCCCCCC:C:::...........:::CCC:CC'''C                                     C CCC'''''''''''CCC   CXXX                                           XXXXXXXXXXXCCC                                           CCCCCCCCCCC
-----"::::::::M:::MM:::M:::::::::::::::::::""----"--------"""""""::....:CCCCCCCC CCC  CCC CCCCCCCCCCCCCCCCCCC::....:........:::::::CC''''C                                     CC''''C''''''''CCCCCCCXXXX                                        XXXX XXXXXXXXCCCC                                        CCCC CCCCCCCC
------:::::::::M:M:M:M:M:MM:-:::::::::::::::"""""""""-"""""""::":::.....CCCCCCCCC C C C C C  CCCCCCCCCCCCCCCCC:::::::::.:::::::CC:CCC'''''                                      CCCCCCCCC'CCCCCCC  CXXXXX                                               XCCCCC                                               C
-------":::::::::M:M:M:MMMM:M::::::::::::::"""-"""""""""""":"::::::......:CCCCCCCCC C C C    C CCCCCCCCCCCCCC:::.::::::::::::C:CCCCCC''''''C                                   CCC'CCCCCCCCCCCC CXXXXXX                                       XCCCCCC                                       C
-------":::::::::::MMM::M:MM:::::::::::::::""--""""""""""""::::::::......:CCCCCCCCCCC   CC C  CCCCCCCCCCCCCCC::..::::::::::::CCCCCCCC''''''C                                   CC''CCCCCCCCCCCCXXXXXX                                      XXCCCCCC                                      CC
---------:::::::::::::M::::::::::::::::::"""---""""""""""""::::::::........CCCCCCCCCCCCC CCCCCCCCCCCCCCCCCC:::...::::::::::::CCCCCCCC''''''''                                CCC'''CCCCCCCCCCCCXXXXXXXX                                   XXXCCCCCCCC                                   CCC
--"------"::::::::::::MM:M:::::::::::::":""""-:""":":""::::::::::::.:......:CCCCCCCCCCCC  C CCCCCCCCCCCCC:C::::.C:::C:C::CCCCCCCCCCCC'C''''''C                             C CCCC' CCC C CCX XXXXXX                                    XC CCCCCC                                    C
----------"::::::::::::::::::::::::::::":"""""""""""":"":::::::::::.........:CCCCCCCCCCCCCCCCCCCCCCCCCCCC:C::::::::::::C::CCCCCCCCCCC'''''''''C                            C CCCCCCCCCCCC CCXXXXXXXXXCCCCCCCCC
-----------":::::::::::::::::::::::::::""""":"""""""::"::::::::::::..........:CCCCCCCCCCCCCCCCCCCCCCCCCCC:::::C:::::::CC:CCCCCCCCCCCC''''''''''C                           CCCCC CCCCCCC  CXXXXXXXXXXCCCCCCCCCC
-----------"":::::::::::::::::::::":"":"""":"-""""":":"":::::::::::..........::CCCCCCCCCCCCCCCCCCCCC:C::C::::C:.:::::C:C::CCCCCCCCCCC''''''''''CC                     C CC CCCC C'CCCCC C CCXXXXXXXXXX                                  XCCCCCCCCCC                                  C
-------------::::::::::::::::::-::"::"""""""-""""""::::::::::::::::............CCCCCCCCCCCCCCCCCCCCC:CC:::::::.::::::CCCCCCCCCCCCCCCC''''''''''''                     C  CCCCCCC'CCCCCCXXXXXXXXXXXX                               XCCCCCCCCCCCC                               C
-------------":::::::::::::::::M:""""""""""""-":"""":::::::::::::::............:CCCCCCCCCCCCCCCCC C::::::::::::.:C::::CCCCCCCCCCCCCCC''''''''''''C                   CCCCCCCCCCCC'C CCCCXXXXXXXXXXXX                                XCCCCCCCCCCCC                                C
--------------:""::::::::"":"::""""""""-":----"""""::":::::::::::::.............C::CCCCCCCC::C:CC::::::::.:C....:::::CC:CCCCCCCCCCCCC''''''''''''' CC        CC C  CCCCCCCC'C ''''CCCCC  CXXXXXXXXXXXXX                         X  XXXXCCCCCCCCCCCCC                         C  CCCC
--------------""::::":::""::":""""""""""""----:""""::::::::::::::::.............::CCCC:CCC::CC:C::::::::::::....C::::CCCCCCCCCCCCCCCC'''''''''''''CC    C   CC  C CCCCCCCCCCCC'''' CCCCXXXXXXXXXXXXX                            XXXXCCCCCCCCCCCCC                            CCCC
--------------"":"""""":""::""""""""::"""-----"""""::::":::::::::::.............::C::::::C::CC::::::::CC:::.....:::::CCCC:CCCCCCCCCCC'''''''''''''CC CCCCCC CC  CCCCCCCC  CCC'''''CCCCC    CXXXXXXXXXXXXX                           XXXXXCCCCCCCCCCCCC                           CCCCC
----------------""""::""""":"""""""""""-"--"--"""""":":::::::::::::...............::::CC:::::C:::::::::::.:..:..::::::C:CCCCCCCCCCCCC'''''''''''''''CCCC  CCCCC CCCCCCCCCCC'C''C''CCCCCC CXXXXXXXXXXXXXXX                       X XX XXCCCCCCCCCCCCCCC                       C CC CC
---------------"-""::"""""":"""""""""""--"-"--"""""":::::::::::::::..............:.::CC::::::C:::::::::::..:.:..::::::CCCCCCCCCCCCCCC''''''''''''''C'CC  CCCCCC CCCCCCCCCCC''C'C''CCCCCCXXXXXXXXXXXXXX X                      XX X XXCCCCCCCCCCCCCC C                      CC C CC
-
-
-
-LARGE MISS SEP PANEL 2 PART 4 (116 LINES)
-FROM A COMPUTER GRAPHICS ORIGINAL MARCH 1972. FORMATTED FOR
-5 LEVEL RTTY BY DALE, AG9H, LOCKPORT, ILLINOIS, MAR 1990
-
-

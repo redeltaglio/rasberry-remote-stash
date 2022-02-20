@@ -1,129 +1,0 @@
-
-                                                              I
-      I                                                      XI
-      XI                                                    XX
-      IX                                                    XI
-       XI                                                  XX
-       IX                                                  XX
-        XX                                                IXX
-        IXX          HHH   HHH   HHH   HHH   HHH   HHH    XXI                     XXX   XXX   XXX   XXX   XXX   XXX
-         XXI         HHH   HHH   HHH   HHH   HHH   HHH   IXX                     XXX   XXX   XXX   XXX   XXX   XXX
-         XXX         HHH   HHH   HHH   HHH    HHH HHH   IXXX                     XXX   XXX   XXX   XXX    XXX XXX
-          XXX        HHH   HHH   HHH   HHH     HHHHH    XXX                     XXX   XXX   XXX   XXX     XXXXX
-          XXXI       HHH   HHH   HHH   HHH      HHH    XXXX                     XXX   XXX   XXX   XXX      XXX
-           XXXI      HHH   HHH   HHH   HHH      HHH    XXXX                     XXX   XXX   XXX   XXX      XXX
-           XXXX      HHH   HHH   HHH   HHH      HHH   XXXX                     XXX   XXX   XXX   XXX      XXX
-            XXXX  HHHHHH    HHHHHHH    HHHHHH   HHH  IXXXX                  XXXXXX    XXXXXXX    XXXXXX   XXX
-            XXXXI HHHHH      HHHH      HHHHHH   HHH  XXXX                  XXXXX      XXXX      XXXXXX   XXX
-            IXXXX                  :::::::          XXXXX
-             XXXXX               .:       .:        XXXXX
-             IXXXXX            .::  HHHHH ::..     XXXXX                                    XXXXX
-              XXXXXI         .::  .HHHHHH ::..    XXXXXX                                   XXXXXX
- .$           XXXXXX       .::  .HHHHHHHH ::..    XXXXXI                                 XXXXXXXX  : $      $ ::  XXX     .:: .HHHHH HHHH ::..   XXXXXX                              XXXXX XXXX
- :  $    $  :: IXXXXXX     .HHHHH   HHHH ::..  XXXXXXX           ...          .                  XXXX   XXXX
- .   $  $    : IXXXXXXI .:: HHHHHHHHHHHHH ::..  XXXXXX. HH$$   $$$   .                            XXXXXXXXXXXXX .
-  .  $   $   .  XXXXXXX .:: HHHHHHHHHHHHH ::.. XXXXXXX .  $   $  .$   .                            XXXXXXXXXXXXX
-.:$$$!!H!$$::    XXXXXXX :: HHHHHHHHHHHHH ::..IXXXXXXI  .  $ $     $   .                            XXXXXXXXXXXXX
-  $  $$!H$$  :   XXXXXXXX . :::::::: HHHH ::. XXXXXXX   . $!!$ !!   .                                     XXXX
- $  $ .$ H $  :  IXXXXXXXI        :: HHHH ::.XXXXXXXX..  HH!$ !. $   :                                     XXXX
- : $  .$  H $$ :. XXXXXXXX        :: HHHH :.XXXXXXXXI   H  !$ $!. $  .:.                                     XXXX
- .$   .$ . H  $$ .XXXXXXXXX          ::::   XXXXXXXX   H :  $ . $. $  :
- .$  : $  .  H  $  XXXXXXXXXIIIIIIIIIIIIIIIIXXXXXXXX  H   :  $. .$  $  ..
- .$  . $   .  H :: IXXXXIIIII.::OOOOOOOOOOOO::IIIIVI H     :  $. .$
- $     $       H :  XIII.:OOOO:HHHOOOOHHHHOOOOOOOOO:.H     .  .$  ..                               XXX    XXXX
- $   . :    .   H III.OOOOOOOHHHHHHOOHHHHHHOOHHHHOOOOO:.  .   .   .    XX                H            XXXXXX  XXXXXX  XXXX
- :: .  :   .    II.:OOOHHHHIOOHHHHHOOIHHHHHOOHHHHHOOOOOOOO.     .    .HHXX                       XXXX   XXXXX   XXXXX  XXXXX
- :     .      IIOOOOOOHHHHHHOOHHHHHIOOHHHHHOOHHHHHOOHHHHOOOO.      :XXXXXX                      XXXXXX  XXXXX   XXXXX  XXXXX
-XXX.   .    IIOOHHHHIOOHHHHHIOIHHHHHOOHHHHHOOHHHHHOOHHHHHOOOOO  .XXXXXXXXX                XXXX   XXXXX   XXXXX  XXXXX  XXXXX  XXXXX
-XXXXXI    III:OOHHHHHOOIHHHHHOOHHHHHOOOHHHHIOHHHHHOOHHHHIOOHOOOIXXXXXXXXXX                XXXXX   XXXXX  X XXX   XXXX  XXXXX  XXXX
-XXXXXXXXXIIOOOOOOHHHHHOOHHHHHIOHHHHHHOOHHHHHOHHHHHOOHHHHOOHHHIOOOXXXXXXXI                 XXXXX  XXXXX  XXXXXX  XXXXX XXXXX  XXXX  XXX
-XXXXXXXVIOOHHHHIOOHHHHHOOHHHHHOO............OO.HHHOOHHHHOOHHHHOOOOXXXXT           XXXX   XXXXX  XXXXX                 XXX  XXXX  XXXX
-XXXXXXVIOOOHHHHHHOOHHHHHOOOO ../.././../..../.../.OO YHHOOHHHHOOOOOXX           XXXXXX  XXXXX                              XX  XXXX
-IXXXXVIOOOOOHHHHHHOOH..././../././/./..//...//.//../....OIHHHIOHHIOO            XXXXXX  X                                     XXX  XX
-   XVOOOHHIOOYHHHHHOO..////.//././../../..../../.../..//....HIOHHHOOO        XX    XXXXX                                         X  XXX
-   IIOOHHHHHOOOHH...../../../.././../.://:::/:://.//../././/.O.HHHOOOO       XXXXX   XX                                              XXX
-::IOOOOHHHHHHHOO...//././..//.//:/::/::/:IIHHHHHHHH/::/././././.HHOOOO       XXXXXXX                             IIIIIIII             XX
-:::OOPPOOHHHHHOO../.././/../.:/II::/:IHHH... ..    III/:/:/././/.OOPPOO         XXXXX                        III
-::POHHHHHOOHH...../.././.::/II/IIIHHH.:::. .       . .I/I/:/:/:....HHOO    XXXXX  XX                     III                              XX
-::OOHHHHHHHOO..././...IIIIIIIIIII::::.. .            . .I//:/:://:::HOOO    XXXXXXX                  HHHH                                   X
-::OOOOHHHHH///://:/:::IIII:III::::. . ..  ...         .. .I/II/://::IOOO      XXXXX                HHH
-::HHHIOHHI./././../IIIIIIII.: . ..:::::IIIIHHH             III:/::/:IXXXX  XXX  XX               HHH
-::HHHHHIOO././../I/IIIIII: :.    ....:IIIIIIII           . .II/::/:/:IXXX  XXXXX               HHH                  XXX
-:OOHHHHOO.YYY..:IIIIIII        .IIIIIIIIIIIIII     ..      ..II:/:/::/IXXI   XXXX            HHHH         HHHHHH HHHXXXX
-:XOOOHOO.....YYYYIII.:::..   :IIIIIIIIIIIIXXXX . .... XXXI:.  III/::/:IXXI     X            HH           HHHHHHHHHHHIIII         II     X
-:HHHOOOYYYY...IIIII::: ..   :IIIIY.    IIIIII  . ... IIIIIIII: III////IIXI XXX            HHH           HHH        HXXX        XXXXXXXX  X
-:HHHOOYYY..YY:IIIIII.. .    IIII:..::::IIIII  .. ....IIIIIIIIII IIIL::IXXI XXX           HHH           HH         HHXX         XXX XXXXXX X
-:OHOO....YY:IYHHIII . ..   .:IIII::::::IIII     ...  III::IIIII:II/:/:I  X           HH              HH         XX          XX    XXXX X
-:OOO YYY...YYIIIIII::.. .     ::::::::::.           .II. . :IIIIII//::/I             HH                                      XX      XXX X
-//O.....Y::IIIIIII : :...          ....             ..II. .  IIIII/::/:             HH                                       XX     XXXX
-///YYYY..YYIIIII: . : .. .                   .:: .....IIII:.IIIIII::/::            HH                                        XX       XX
-//.YY::Y:IYHIII:: :. .....                 .:::III...:.   IIIII:II:/:::           I                                   HHH              H
-//...Y::YIIIIII:::. . .. ..    . .  .      .::IIII::III     :IIIII:::::          HH                                  HHH   HHH      XX H
-///.::Y:IYIIIII:::. .. ...                 ....IIIIIIII        III/::::          H                                ::::HHH  HH         H
-:://:::YIIIIIIII :.::.. ..        . ..               II        III:/:::        HH                                           HH        H
-::::X::IIIIIII: : ::... ...                 :IIIIIII:.        :II//://        HH                                   HHHH              H
-/:::::IIIIIIII::: . :: ....       . ..    IIIIIIIIIIIII    . .. III:/:/:      HHH                                 HHHHHHHHHHHHH         H
-I//:::YIIIIIIIII:: : :......              H       H IIII     . II/::/:::       HHHHHHH                            I       I  HHH        H
-II//:.:..IIIIIII::::::...... .              .:III:.   III    . .I:/::/:.XX       HHHHH                                HHH     HH        H
-X//:.I/:..IIIIIII::::::... ..                . .IIHHHI:HH  .. .III:///:.          ###HH                 HHHHH                                  XXXX  XX      H
-XX/:./..::::IIIIII:::::... ...      .                III    .. III//:::II          HHHH                                     HHH       H
-//II//::.....IIIII:::::.. ... .                       .     . III//:/::  XX         HHH                                              H
-XXX:..I/::.. . IIIII:::... ... .                       .   .. IIII:///:III            HHH                                            H
-IIII/ //..I//...IIIII::::. .. ..... ... IIII:I        ..     IIIII/:/::                HHH                                          H
-III/.I/..II//... .IIIIII:::: .. ..IIIIIIIIIIIIIII:     ..  IIII:::/:///                   HHH              HHHHHHHHHHHH            H
-I//.I//.II///. . .IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:::II:IIIIIII        XX        HHHHHHHHH  HH  HHHHHHHHHHHHHHHHH        HHHHHH
-//.II//III/I/.. .IIIIIIIIIIIIIIIHHHHHHHHHHHHHHHHHHHHHHHHH:::::HH       XXX X     XXHHHHHHHHHHHHH           I IIIIIIIIIIII
-.. II//II/I//. .. IIIIIIIIIIIIIIHHIIHHHHHHHHHIIIIIIIIIII:::::::I       XX        XXHHHHHHHHHHHHHH            HHHHHHHHHHH
-..II//II//I//.. .II  IIIIIIIIIIIIIIHHHIHHHHHHHHHHIIIIIII:::::::I      XX         XX  HHHHHHHHHHHHHHH  H          HHHHHHH
-..II//II//II//...II// IIIIIIIIIIIIIIIIIHHHHHHHHHHHIIIIII:::://:I      XX  XX     XX   HHHHHHHHHHHHHHHHH           HHHHH
-II///II//III//...III//..IIIIIIIIIIIIIIHHHHHHHHHHHIIIII::::::/::I     XX   XX      XX    HHHHHHHHHHHHH            HHHHH
-II//III//III//...II//. .. IIIIIIIHHIIIHHHHHHHHHHIIIIII:::::::/:I     XX   XX      X       HHHHHHH  HHH          HHHHHH
-I///XX//IIII//...II//. .II///IIIIIHIIIIIHIIHHHIHIHIIII::/::://:I    II    XX      X          HHHHH HHHHH HH   H H HHHH
-///III//.II//.. III//...III// IIIHIIIIIIHIHHHHIIHIHIII:I/:::I/::I   XX    XX      XX            HH HHHHHH H    HH H HHH
-//III//..II//...III//. .III//.IIIIIHHIIIIIIIHHHHIIIIII:I/::::/:::I  XX     XX      XX      XX   HHHHH  HHHHHHH    HHHHHH
-/III///. II/.. III//.  III//.. IIIIIIIIHIIIIHHHHIIIHII:I//::I/:::I  XX     XX     XX      XX     HHHHHHHH HHHH    HHH HH
-III/// MIII/..IIII/.  ..II//.   IIIIIIHIIHIIHHHIIIIII::I//::I/::::I XX    XXXX     XX      XX      HHHHHH HH HH   HHHHHH
-III///  II/    II//     I//...   YIIIIIIIHIIHHHHIIIII::I//::I/::::I  X     XX     XX       X         HHHHHHH HH    HHHHH
-II///   II//   II/  . II//.. ..M  IIIIIIHIIHHHHIIIII::I///:II//::: X       X      X              XI HHHHHH HH    HHHHH
-III//  II//    I   .  II/.. . .   ...YIIIIIIHHHIIIIII:::://:III/::::I               X       X              HHHHHH   HHHHHH
-I//    II       I  .  I/.. .  . .  ....IIIIIHHHIIIIII::II//::III/:::I                      X                HHHHH   HHHHHH
-///    .I        .. II/.. . .   .  .  ...YIIIHHHIIIII::II//:::II/::::I                     X                    HHH    HHHH
-///    ..      ...  I//. ..   ./   ... .....IIIIIIIII::II///::.II/:::                    X                       HHHHHHHHH
-///    .    . .. III// . ..  I//. II/.. .  ...IIIIIII::III//::III/:                   X                          HHHHHHH
-//    .. . ..    II//.. .. III//. I//. .    . ..YIIIII::II//:::IIY                 XX                              HHHHH
-//    .   ..   IIII/ .  .  III/ .II/. M MM   . ....III::II//:::III                 XX          X       IXXXXI
-     . ...    II//.  .    IIXX II// . ..    .. ../////::://:::II:IXI   .. ...    II//.  .
-    .. ..     II//. .   ..II///.I// . .     ...//II I  III//:::IIII              XX                                       XXX
-      ..     II//. .   . .II//.II/// .    ..//II      ////III::IIII                                                          XXX
-    .. .   II//.. .  ....II// II/// . .. /III    .  /IIIIII//:III: I            X                                                XXXX
-            II/. .   . .III//II////.////II    ..   /IIIIIIIIIIIIII            XX           XX  X                                   X
-     ..      I           II    I           ...   /IIIIIIIIIIIII
-                          I    I         . ..   ////II///I//I
-
-
-           HHH  HHH   HHHHHH   HHHHHHH   HHHHHHH   HHH   HHH           XXX  XXX   XXXXXX   XXXXXXX   XXXXXXX   XXX   XXX
-           HHH  HHH  HHHHHHHH  HHHHHHHH  HHHHHHHH  HHH   HHH           XXX  XXX  XXXXXXXX  XXXXXXXX  XXXXXXXX  XXX   XXX
-           HHH  HHH  HHH  HHH  HHH  HHH  HHH  HHH   HHH HHH           XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXX XXX
-           HHHHHHHH  HHHHHHHH  HHHHHHHH  HHHHHHHH    HHHHH           XXXXXXXX  XXXXXXXX  XXXXXXXX  XXXXXXXX    XXXXX
-           HHHHHHHH  HHHHHHHH  HHHHHHH   HHHHHHH      HHH           XXXXXXXX  XXXXXXXX  XXXXXXX   XXXXXXX      XXX
-           HHH  HHH  HHH  HHH  HHH       HHH          HHH           XXX  XXX  XXX  XXX  XXX       XXX          XXX
-           HHH  HHH  HHH  HHH  HHH       HHH          HHH           XXX  XXX  XXX  XXX  XXX       XXX          XXX
-           HHH  HHH  HHH  HHH  HHH       HHH          HHH           XXX  XXX  XXX  XXX  XXX       XXX          XXX
-           HHH  HHH  HHH  HHH  HHH       HHH          HHH           XXX  XXX  XXX  XXX  XXX       XXX          XXX
-
-HHHHHHH   HHH  HHHHHHH   HHHHHHH  HHH  HHH  HHHHHHH    HHHHHH   HHH    HHHXXXXXXX   XXX  XXXXXXX   XXXXXXX  XXX  XXX  XXXXXXX    XXXXXX   XXX    XXX
-HHHHHHHH  HHH  HHHHHHHH  HHHHHHH  HHH  HHH  HHHHHHHH  HHHHHHHH  HHH    HHHXXXXXXXX  XXX  XXXXXXXX  XXXXXXX  XXX  XXX  XXXXXXXX  XXXXXXXX  XXX    XXX
-HHH  HHH  HHH  HHH  HHH    HHH    HHH  HHH  HHH  HHH  HHH  HHH   HHH  HHHXXX  XXX  XXX  XXX  XXX    XXX    XXX  XXX  XXX  XXX  XXX  XXX   XXX  XXX
-HHHHHHH   HHH  HHHHHHHH    HHH    HHHHHHHH  HHH  HHH  HHHHHHHH    HHHHHXXXXXXX   XXX  XXXXXXXX    XXX    XXXXXXXX  XXX  XXX  XXXXXXXX    XXXXX
-HHHHHHH   HHH  HHHHHHH     HHH    HHHHHHHH  HHH  HHH  HHHHHHHH     HHHXXXXXXX   XXX  XXXXXXX     XXX    XXXXXXXX  XXX  XXX  XXXXXXXX     XXX
-HHH  HHH  HHH  HHH  HHH    HHH    HHH  HHH  HHH  HHH  HHH  HHH     HHHXXX  XXX  XXX  XXX  XXX    XXX    XXX  XXX  XXX  XXX  XXX  XXX     XXX
-HHH  HHH  HHH  HHH  HHH    HHH    HHH  HHH  HHH  HHH  HHH  HHH     HHHXXX  XXX  XXX  XXX  XXX    XXX    XXX  XXX  XXX  XXX  XXX  XXX     XXX
-HHHHHHHH  HHH  HHH  HHH    HHH    HHH  HHH  HHHHHHHH  HHH  HHH     HHHXXXXXXXX  XXX  XXX  XXX    XXX    XXX  XXX  XXXXXXXX  XXX  XXX     XXX
-HHHHHHH   HHH  HHH  HHH    HHH    HHH  HHH  HHHHHHH   HHH  HHH     HHHXXXXXXX   XXX  XXX  XXX    XXX    XXX  XXX  XXXXXXX   XXX  XXX     XXX
-
-
-
-                           LIBERTY CENTENNIAL
-
-          ORIGINAL BY WA2OQJ, AL LA VORGNA, HICKSVILLE, N.Y.
-

@@ -1,89 +1,0 @@
-
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MM                                                                  MM
-MM                                                                  MM
-MM                                                                  MM
-MM       .                                                          MM
-MM       IH.                                                        MM
-MM      /IHH.   .               .A                                  MM        .                        I
-MM      IIIHH  IH.              AM          .                       MM                                IB
-MM      IIIHH..IHH.            AMM.       .A'                       MM                               IFF         I
-MM      IIIHHHIIIHH           .MMMA     .AMV                        MM                               FFFI      IFI
-MM      IIIHHHIIIHH.  .       AMMMM   .AMMM'                        MM                              IFFFF    IFFF
-MM      IIIHHHHIIHHI .A.     .MMMMM..AMMMMV                         MM                              FFFFF  IFFFFI
-MM      'IIHHHHIIHH.IIHH     AMMMMMMMMMMMM'                         MM                             IFFFFFFFFFFFF
-MM       IIIHHHIHHHHIIHH.   .MMMMMMMMMMMMV                          MM                             FFFFFFFFFFFFI
-MM       IIIHHHIHHHHIIHHH I.AMMMMMMMMMMMM'                          MM                            IFFFFFFFFFFFF
-MM       'IIHHHIHHHHIHHHHIIHMMMMMMMMMMMMV                           MM                            FFFFFFFFFFFFI
-MM        IIHHHIHHHIIHHHHIIHMMMMMMMMMMMM'                           MM                            FFFFFFFFFFFF
-MM        IIHHHIHHHIIHHHHIIHMMMMMMMMMMMV                            MM                            FFFFFFFFFFFI
-MM        IIHHHIHHHIIHHHIIHHVMMMMMMMMMM'                            MM                            IFFFFFFFFFF
-MM        IIHHIIHHHIHHHHIIHHHVMMMMMMMMM                             MM                             IFFFFFFFFF
-MM        IIHHIIHHHIHHHHIIHHHHVMMMMMMMM                             MM                              IFFFFFFFF
-MM        IIHHIIHHIIHHHIIHHHHHHVMMMMMMM.                            MM                               IFFFFFFF
-MM        IIHHIIHHIIHHHIIHHHHHHHVMMMMMMMA.                          MM                                IFFFFFFFI
-MM        IIHHIIHHIIIHHIIHHIHHHHHHVMMMMMMMMA.                       MM                                  IFFFFFFFFI
-MM        IIHHHIHHIIIHHIIHHIHHHIHHHHVMMMMMMMMMA.                    MM                                    IFFFFFFFFFI
-MM       .AIHHHIHHHIIHHIIHIIHHIHHHHHHHVMMMMMMMMMMA.                 MM                                      IFFFFFFFFFFI
-MM       .  HHHIHHHIIHHIHHIIHHIHHIHHHHHHVMMMMMMMMMMA.               MM                                        IFFFFFFFFFFI
-MM       .  HHHHIHHIIHHHIIHIHIHIHHHHIIHHIHHVMMMMMMMMMA.             MM                                           IFFFFFFFFFI
-MM       '  HHHHIHHHIHHHIHHHIIIHHHIIHHHIHHHIIHVMMMMMMMM.            MM                                              IFFFFFFFF
-MM        , 'HHHIHHHIHHHIHHHIIHHHHHIHIIIHHHHIHHVMMMMMMMMA           MM                                               IFFFFFFFFI
-MM         . 'HHHIHHV"   "VIIHHHIIHHIHHHHHHHIIHHVMMMMMMMM.          MM                                                IFFFFFFFF
-MM          . 'VHV" . '' '".HHIIHHHHHHHHHHHHIHIHIVMMMMMMMA          MM                                                 IFFFFFFFI
-MM           '. ' .'       '.VIHHHIIIIIIHHH::H:HIIVMMMMMMM.         MM                                                  IFFFFFFF
-MM             '-'           IHHHIIIHHHIHHHH:I:H:IIMMMMMMMM         MM                                                   FFFFFFFF
-MM                    . -'HH:.AHIIIIIHIIIHHHIIII:HIVMMMMMMM         MM                                                   IFFFFFFF
-MM                  .:HIIIIIHMMMIIIII:IIH::H:II"HHHHMMMMMMM         MM                             BBB                    FFFFFFF
-MM                .AHIHH::HHHHMMHIHHIII:HHHHHHHH ".HMMMMMMV         MM                             "BB.                   FFFFFFI
-MM               .AHIIHHIIHHHHHHMHHHIHIIIH::IIIH."." VMMMM'         MM                               "B.                   IFFFF
-MM               .HIHHIHH:HHIHHHHMH:IIIIIHHHH::I.".". "VMV          MM                                 B                     IFI
-MM               .HI:IHHHHIHHIIHIHMII:HHHHHHHIH".".". . V'          MM                                  B                     I
-MM               .HHII:HHIHHHMMMMMIMIHHIHHHHH .".".". HA .          MM                             BBBBB B                  II
-MM               ' H:HHHIIHHHI:MI"VMIHIIHHHH ".".".". MMA .         MM                             H B  IB                  FFI
-MM                ."HHMMMMMMMM''VA  VIIHHH:: ".".".". VMMA .        MM                     .:BB""BBB  II  I                 IFFI
-MM                 .IMHHMHHHMM.  VA  VHHH:::H"."."." . VMMA .       MM                    /B" B   BB   II  I                 IFFI
-MM                  VHIMHHHHHM'   V.  VHH::HH"."."." A. VMM.:       MM                    I  B     B    I   I              I  IFF
-MM                  IHHMHHHHHHA .   .  VH::HH".".". AMMA VMA        MM                       B      I        I            IFFI IFI
-MM                   VMHHHHHHHM  .     MHHHHH".".". VMMAA'MA .      MM                      B       B        B            IFFMI FM
-MM       .'''''-.    .'VHHHHHHM .'.   .MIIH:HH "." A VMMA VM .      MM                              B        B           I IFFI IF
-MM      .        ".   ..AHHHHHM.: ..   MH::IIHHH.'VMA VMM MM .      MM                              B        B          IFI IFF FF
-MM     .   .AH.    "." VHHHHIIHA:AMA   'VIHHHHHH:.'VM.'MM MM .      MM                               I .      I          IF  FF FF
-MM    .  AHIIHHIA.     'VHHHIHHHA"W"  ':"HIIIHHHH:H VA VM MM '      MM                                I "                 II IF FF
-MM    I.AHHIHHHIIHHA.    VIHHIHHHMA-' ':"HHHIIIHHHHH'VA'M MV.       MM                                 BI                  II F FI
-MM    IIIHHIHHHIHHHIIHHHIHHIIHHHHHM.  ':"HHHHIIHHHHH.'V M M'.       MM                                  B                   M F F
-MM    IIIHHIHHHIHHHHIHHHIIHHIHHHHHHM. ':"HIIHHIHHHHHH.M M V         MM                                   B                  F F I
-MM    IIIHHIHHHIIHHHHIHHHIHHHIHHHHHHA----IIV:IHHH:IIH"".IA''        MM                                     I....              V
-MM    IIIHHIHHHHIHHHHIHHHHIHHIIHHII"."."IH:IIHHH::HH"'':::..        MM
-MM    III:HHIHHHHIHHHIIHHHIHHIIIII."."."HIHIHHHHHH" .-.  './.       MM
-MM    'VI:HHHI:HH:II:IIHHIIIHHIII".".".HHIHIHHHH"  ../''X""'        MM
-MM     II::HH:HHHII::IIHHIIIIIII.".".".HHI:IIHHH::.'".X' ..         MM
-MM     'VI:HHH:HHHIHHHIHHIIII"."."."."HHHH"-:/HH.".: / .'-'         MM
-MM      IIHH::IHHHIHHHAM."."."."."."AHIHH:.':" .A'.'-.:.            MM                      IF
-MM      'VIHHHIHHHIHHHMA."."."."."."HHIIHHH.": ...'                 MM                      FI
-MM       IIHHHIHHHHIHAMMA".".".".".IIHHIIHHIIHHIHHI                 MM                     IFFI
-MM       IIHHHHIHHHIHAMMMA."."."   IIHHIIHHHIHHIIHH.                MM                     IFFFI
-MM        VIHHHIHHHIHMMMMV ".       IIHHIIHHIIHHIHHH.               MM                     FFFFI
-MM        'IHHHIHHHIHMMMMMA         IIHHIIIHHIIHHIHHH.              MM                     FFFFFI
-MM         IIHHIHHHIHVMMMMMA         IIHHIIHHHIHHHIHHH.             MM                     IFFFFFI
-MM         IIHHIHHHHIHVMMMMMA.       'IIH'IIHHIIHHHIHH.             MM                      IFFFFFI
-MM         IIHHIHHHHIHHVMMMMMA.        "'  'IH IIHH'IH              MM                       IFFFFFI
-MM         IIHHHIHHI"V'"MMMMMMMA             "  'IH  "              MM                        FFFFFFFI
-MM         IIHHIIHH'    VMMMMMMMA.                "                 MM                        IFFFFFFFI
-MM        IIHHHIIHA      VMMMMMMMA.                                 MM                         IFFFFFFFI
-MM       IIHHHH'IH'       VMMMMMMMMA                                MM                          IFFFFFFFFI
-MM      :IIHHH'  "         VMMM  "VMM.                              MM                           IFFF   IFF
-MM       IIHH"              VMM       '                             MM                            IFF
-MM        IH'                'V                                     MM                              I
-MM         "                                                        MM
-MM                                                                  MM
-MM                                                                  MM
-MM                                                                  MM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-
-
-
-              ORIGINATED BY NEIL/K9WRL/CHICAGO/ILL
-

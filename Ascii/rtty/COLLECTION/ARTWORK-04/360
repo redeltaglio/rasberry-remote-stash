@@ -1,131 +1,0 @@
-
-                              .' '. .  .  ..
-                            .::  .' '.;. '.:'.     ..
-                         .:'...:'  .:.:'.:HH:.: .   ::'..
-                      .:'  .I":'. .:H:.:H'"""':///;.I: .",.
-                    .'.    :HH'..,HMMM"    .::////I:??:?./.
-                   :'    ..'""     '    .::II///II:???:??//'.
-                 .:".   :.  .  .  .   ..:III://?I::???????/-.
-               .''   '. .AHHIHIII::. .:III"   //I/:?"'"'???"
-            .          .AHMMHMHHHIHHIIIIIHIA.  ///X::?:.:?".'
-         .'           :IHMMMMMMMMHMHHHIHIIIIHA///XX'"'?. ????
-      .'            .:IHMMMMMMMMMMMMHHIHHIIIIHN//X/..??I  '-'
-   .:'            .:IMMMMHHHHHIHIHHHHIHIHIIIIIH//I// ""'
-.'             . :IHMHI::.:..:.::IHIHHIIIHIHHIH//H//A
-              .:IHMMHI::.:... : . .:IHHIIHHHHIIHHII//HA
-           . :IHMMMHII::. .  . .. : .:HHIHHHHIIIHHH//HHA
-          . .:IHMMHHII::. . :..     . .IHIHHHIIIHHHH/HHIA
-        . .:HHMMMHHIHI::. .   .        :HIHHHIIIHHHH/HHIIA
-     .: ::IAHMMMMHHII::. . .           :HIHIHIIIIHHHAAHHIIA
-     .::I" HMMMMHIHHHHHHH. .  .     .  .HHHIHIIIIHIIIHIHHIIA
-  . .::'   MMMMMHMHI:.:IHHA. .  .AIHHIIHHHHHIHIIIHHHIHIIIHII.
- . .:"    AMMXMMHHIAMMA;:III: . .:::. . IHHHIHHIIHHIIHHIHIII.
-.:."     .MHHMMHIHHMHMMM":I:.  ..::AMA, IHMHHHIHIHIIHHHIIIIII
-.:'      AMHHMMHHII::.:..::.  . .:I.MVMMHHHHIHIIHHIIHHHIHHIHII
-"       .MMHHMMHI. ..::..:'  .:   ':.. :IHHHHIHHHIHIHHHHHHIHII.
-        AMMHMMMII:.:.. :I:. .:'  .:    :IHHMMHHHHMHHMHHIIHMHIII
-       AMMMHMMMII:.:.:IIII:"IHI .:.     :HIHMMHHMMHHIHMHIHHIHII.
-       MMMMMMMHII:.:.IIII:I:  " .::.     HHHMHHMMMHIHHMMHHIIHIII
-      .MMMMMMMHIII:IIII:I""'     .:.:.   IHHMMMMHMHIHHHHHHIIHHIII
-      AMMMMMMMMII::IAHHHHII:::.   ::.:.. IHMMMMHHMHHIHHHHMHIHHIII
-      MMMMMMMMMIII.:IHHHI:::;;IIHA::' .. :HHMMMMHHHHIIIHHHHIIHIII.
-     .MMMMMMMMMIIIIIIII:I:III"'' .:::..:.:HMMMMHHIIHIHHHIHHIIIIIIH.
-     AMMMMMMMMMHIIIII:I:.:.       .::..: :HMHHHIHIIHIHHHIHHIHHIIHI.
-     MMMMMMMMMMMIHHIHHI:.:.       .::.. .AHMMHHIHIIHIHHMMMHHIIIIHIHA.:.
-     MMMMMMMMMMMMAHHIHHIHI:.       .:.:::HHMMHHIIIIHHHHMMHMHIIHHIHHHIHIHH
-     MMMMMMMMMMMMMMMAHHIHII::..    .::IHHMMMMMIIHIHHMMHHHIHHIIHHHIIHIH::I
-.    VMMMMMMMMMMMMMMMMMAHHHHHIHIIIIHHHHMMMMMMMMHIHMMMMMMMHHMHHHIIHI:.:  "
-:.   'MMMMMMMMMMMMMMMMMMMHMHHHMHHHHHHMHMMMMMMMMMMMHHMMMMMMMMHHHHHI:'
-.:.   VMMMMMMMMMMMMMMMMMMHMHHMHMHHMHIHMMMMMHHHMMMMHHHMMMMMMMHHHI".:.
- '::. 'MMMMMMMMMMMMMMMMMMHHMHMMMHHIIIHIHMMMHHHMHHHIIHHMMMMHMHH::.:...
-   ":IA VMMMMMMMMMMMMMMMMMMHHMMHMMHHMHIIHHMMHIHHHIHIVUHHMMMMHMH::::.:..
-  .:IHAAMMHHMMMMMMMMMMMMMMMHHHHIHIHHIIIHMMH HHIIIHMMHMMMMHMMI:::II::..
-  .:I:IHHMHHMMMMMMMMMMMMMMMMMHHHHMHMMHHMMMHIHMMMMMMHHMHMHHHH::.:II;:. .
-  ::IHHHHIIHHHMMMMMVMMMMMMMMMMMHHHMMHMMMMHHHMMHMMMMHMMHHHHH: :,:II;:. .
-. :HIHHHHHIHIIHMMMHMMMMMMMMMMMMMHHMHMMMMMHMMMHHMMMMHHIHHHH:.:. .:II;: .
-V  :IHHHHHHIIIHHMMHMMMMMMMMMMMMMMHMMMMMMMMMHMMMHHMMMMMHHHHI. :.. :II;:.
-:.:HHIHIHIHHHHIHIIHMMMMMMMMMMMMMMHMMMMMMMMMMHMHHIIHMHII:I..:: .  :II;:.
-;;HHIHHHMMMMMHIIIIHMMMHMMHHHMHMMMMMMMMMMMMMMHIIIHHHHHII". :..:.  :HI;:.
-I:IHHMHMMMMMMHHHIHIHHMMMHHHIIHHHHHHMMMMMMHHHIIHIHHHHII:.:. .. :. 'HI::..
-IHHMMMMMMMMMMHMHIIIHHIIH:::IHHIIIHHMMMMMMMHIHIIHHIHHHI.. .. ...  :I;:.
-H MHMMVMVVMMMHMHIIIIHIH:;:UHMMHIIIHHHMMMMHHHIHIIIHHHHH ... ...  .:I;: .
-HMHMMMMMMMMMMMMMHHIIHH:::IHMMMHHIIHHHMMMMHHHHHIHIHIHII .. .  . .' ;:..
-HMHMMMMMMMMMMMMMMHHIH:::::IHIHHHHIIHIIIHMMMMMMHIHIIIII'.  .. .. . .I;:.
-HMMMMMHHHHHMMMMMMMHI:::::HIIIHMMMHHIIHMMMMMHHHHHIHII".  .  . .  . .I::.
-MMMMMMMHHIIIMMMMMMI:::::::::HHHMMMMHMMHMMHHIIHHMHMHV.    .   .. .  I;:.
-MMMMMMMMHHIIHMMMMV::.:::.:::IHHMMMMMHMMMHHIIIHMMHV".    .  .   .. 'HI:.
-MMMMMMMMMMHIHMMMM;I:I:;;:::..HMMMMMMMMMMMMHHHMMMV"              . .HI:.
-HHMMMHHMHMHIIIHM;II;I;I;IIHIHMMMMMMMMMMMMMMHMMMV .              . .IHI:
-"-HIIHMMMMMHIIMHI;;II;I:I;;HIHMMMMMMMMMMMMMMMHV .                  'HI.
-  :IHMMMMMMHMHHII;;;::..::::IHHMMMMMMMMMMMMMM" . .     ..         . HI;:
-  .HHMMMMMMMMHHH;;:.:..:..::;:;HMMMMMMMMHHHHV:  .   .:::::.         'HI;.
-      "VMMMMHHHI;. .:. .  .::;IHHHHHHHHHHHHI: :..  .:::;;::.        .HI;:
-       AMMMMMHHI;...     :.::IIIIIHIHHHHMMHHI;::.: .::I;:::.       . II;;
-      "VMMMHHHHM;:::.        .:.: .:.:IHMMHHHII;;:.':;::::'     . . :HI;;
-        "'VHHHMH:":::             .. :IIHMMHIHIIIHII ':::'. .     . .IHI;
-           VHHMHMH::.               .:I:HMMHIIII;IHI:.:.  .    .  .. IHI:
-            VMMHHII:                ..:IIHHMHIIIHI;I:::. ..  .  . .:.'HI:
-             VMHMHI;:               ..::IHIMHIHIIIHI::.:.. .   . .::. HII
-             :MMHHI:. .             .::;:IIHHMHII:I:I::.:::..:...::I.:HII
-              VHHIHI;:. .          .::;;:IIHHMMIHII;:::::::.:..::.I:..IHI
-              'MHHIHII:. .       .:.:::I:;IIHHMHHIHIIIIII:;;:::.I.:..:HII
-               VHIHIIII;:..:...':.:.:::;:::IHHHMHHHIIIHI:::.:I::.:...:HII
-                VHHHII;I;::..;.;;.;;I..; ::.IIHIIHH;I;III..:..;::;;.:: I;
-                 'VII;;:I;;IIIHIII:I.:.. ;;:.:I::II:I:::..:.:.:..::.:.:IH
-                  'HHIHHIHHIIHI:I:::.::.:::..:::.:I.::..::..:..:.:..:.HI:
-                   VHIHIHIIHII:I:I:::.::.:::.:::....:.::::::...::.::::HII
-                   'HHHHHIHIII:::I:::.:::..:.::::..::.:::::::..:::::.II;:
-                    VHHHHHHIHII:::::::.:::..::::::...:..:::::::..:.::HI::
-                    'HHHHIHHHII::::.:::..:..::::::..:..::.:::::::..:HII:.
-                     'HHHIHIII:I:::::.::..::.:::::.:::.:..:::::::.:;HI:..
-                     HHHHIHHII:II:I:::..:..:.;;::..:.::.::.::;;:;;IHII::.
-                    .HHHHHIHHII:II:I::.:....::;;:::..:.:::.::;;IIVIHII.::
-                    AHHHHHIHHIII:II:I:::..:.:::::::.:.:::;:;;IIHMHI::: .
-                   .HHHHHIHIII:II::I::I::...:::::::::.::;:;;I;IIHYXYI:. .
-                 .AHHHHHHIHHIHIII:III::...:..::::::.:.::;;:;I;IH/YXXY/: .
-              AHHHHHHHIHHIIHIII:II::II::.:::::::.::.::;:;;IHYY//YXXYY//Y
-             AHHHHHHIHIHHIHHIIHII:II::II::.:::::.:..::::;:I:YY/////YYYXXY
-           AHHIHHHHIHIIIHHIHHIIII:I:::II:.I::I:;::.:..::YYYYXYYYYY//////Y
-         .AHHIHHHHIHHIIIHHIIHI:II::I:::::;:;;::;::.:::XY/XYXY///Y///////Y
-       .AHHIIHIHIIHIIHIIHHI:IHII::I::::::;;;:::::::.::XXY/YXXYYY////////Y
-      .AMMIHIIHHIIIHHI::III::I::I::::..::;;:;::::;.::XXYY//YYYYYY//////YY
-     AMMHMHHIIHII::II:::I:::::::..:..:.::;;;:::.::;YYYXXYYYY/////////////
-   AMMHHHMHIIHIHHIII::II:::::.:::..:..::;;;;:..::;XYXMMMMXXYYY///////////
- .AMVHHIIHHIIHHIHHIII::I::::::.:::.:.:..::;;:::.::;IXMMMMXXMMMMMMXY/YYYYY
-AMMYIHHIIHHIHHHIHHII:II:::::.::..:..:. ';::.:..:;IXMMMMXMMXXMMMY//XXYYY/Y
-M(.//HHIHIHHHHHHHIHIII:II::::.:..:..:AH::..::;;IHHMMXMMMY/YXXYXXY///YY/Y/
-MXXXY/ HIIHIHHHHHIHII::I:::..::..::. "T:..:.::;IHHMMX/VMMA//YXXYXMY//Y//Y
-MMXXYY/::IIHIHHHHIHHII::I::.:::.::.:. :::.:..:;IMMMXMY/XMMX///YYY/XX//YY/
-MXMXXYYX/:I:IIHIHHHHIHII::I::.:.:::.:..:::.:::;IMMMMMXX/YMMX/Y/YXY/YXY//Y
-MMMXXYYYYX/:IIHIHHHHHIHHIII:I::::.:.::::..::::;HMMMMMMXX//YYY/X/YX///YYYY
-/YYXXYXYYYXY/:IHIHHHHHHIHII:I::::.:.::::::..::;IHMMMMY/YYXYYYY/Y///YYY///
-YXY/YYXXXYYYXY/IHHHHHHIHIII::I::::.:..:::::::;HYXYYMX/X    .XDZIIIIIII                XX
-                DIIIIIIIII                VX
-                IIIIIIIIIV                X
-                VIIIIIIII.
-                VIIIIIIII.
-                VIIIIIIII.
-                "VIIIIIII.
-                 VIIIIIIV
-                 "XIIIIIA
-                  XIIIXIII.
-                 DDIIIDZIIIA
-                 ZMXIIDXZZXII.                 XX
-                .IDDXIIIZXIIIB                 DZX
-                .IIIDDIIZXIIIB                  DDX
-                .IIIIIIXZIXI"                    DX
-                .ZZIIIIID""                       DZ D
-                .DDIIIXZD                 ZM     D
-                .DDMIIDD                 ZX   V
-                .DDDIV                 XXX
-                .DDDIV                 XXI
-                .IIIIX                 ID
-                .IIIID                     X
-                (III"I
-                 III"                    X
-                 IIB
-                 ""
-
-
-                          MISS NOVEMBER 1967
-

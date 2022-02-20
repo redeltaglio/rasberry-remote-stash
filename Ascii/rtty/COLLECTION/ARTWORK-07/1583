@@ -1,135 +1,0 @@
-
-                                     X                                     M
-                                   XX                                   MM
-   XXXXXXXXX///XX/  XX      XXXXX XX         XXXXXXXXXX/  XXXXX   MMMMMMMMM   MM   MM      MMMMM MM         MMMMMMMMMM   MMMMM
- XXXXXXXXXXXXXX//XX  X    /XXXXXXXXX        X XXXXXXXXX/  XXXXXX MMMMMMMMMMMMMM  MM  M     MMMMMMMMM        M MMMMMMMMM   MMMMMM
-M         1M   MMMMMM     M    MMMMMM      M        1MM    MMM MMX          X   XXXXXX     X    XXXXXX      X         XX    XXX XX
-M  / MMM  1M     MMM      MM    MMMMMM     M  / MMM 1MM   MMMX    XXX   X     XXX      XX    XXXXXX     X    XXX  XX   XXX
-MM/  MMM  1M    MMM             MMMMMMM    MM/  MMM 1MM   MMMXX   XXX   X    XXX             XXXXXXX    XX   XXX  XX   XXX
-     MMM  1M   MMMM       MMMMMM  MMMMMM        MMM 1MM   MMM     XXX   X   XXXX       XXXXXX  XXXXXX        XXX  XX   XXX
-     MMM  1M  MMM        MMMMMMMMMMMMMMM/       MMM 1MM   MMM     XXX   X  XXX        XXXXXXXXXXXXXXX        XXX  XX   XXX
-     MMMMMMMMMMMM       M   MMMMMMMMMMMMM       MMM  MM   MMM     XXXXXXXXXXXX       X   XXXXXXXXXXXXX       XXX 1XX   XXX
-     MMM  1M   MMM          M------MMMMMMM      MMM 1MM   MMM     XXX   X   XXX          X      XXXXXXX      XXX  XX   XXX
-     MMM  1M    MMM      MMMMM     /MMMMMMM    M MMMMMMMMMMMM     XXX   X    XXX      XXXXX      XXXXXXX    X XXXXXXXXXXXX
-     MMM  1M     MMM   MMMMMMMMMMM/    MMMMMM  M MMMMMMMMMMMM     XXX   X     XXX   XXXXXXXXXXX     XXXXXX  X XXXXXXXXXXXX
-  MMMMMM  1M    MMM  /MMMMMMMMMMM/     MMMMMMM  MMM       MMM  XXXXXX   X    XXX   XXXXXXXXXXX      XXXXXXX  XXX       XXX
- /   MMM  1M    MVM  MM     MMMM/       MMMMM   MMM 1     MMM     XXX   X    XXX  XX     XXXX        XXXXX   XXX       XXX
- MMMMMMM  MMM/MMMM M M        M/         MMM    MMM 1 MM  MMM XXXXXXX  XXX XXXX X X        X          XXX    XXX   XX  XXX
-MM     MM/ //MMMM /    M    /          M   MMMMM 1M/    1 MMMXX     XX    XXXX      X               X   XXXXX  X       XXX
-MM  /             MMM/                  /MMMMMMMM/      1 MMMXX                XXX                    XXXXXXXX         XXX
- MMM                                       M   M   M      MM XXX                                       X   X   X      XX
-                                             MMM     M                                             XXX     X
-
-  MMMMMMMMMM/  MMMMM  XXXXXXXXXX   XXXXX
- M MMMMMMMMM/  MMMMMM X XXXXXXXXX   XXXXXX
-M        1MM    MMM MMX         XX    XXX XX
-M  / MMM 1MM   MMMX    XXX  XX   XXX
-MM/  MMM 1MM   MMMXX   XXX  XX   XXX
-     MMM 1MM   MMM     XXX  XX   XXX
-     MMM 1MM   MMM     XXX  XX   XXX
-     MMM 1MM   MMM     XXX  XX   XXX
-     MMM 1MM  MMM     XOM  XX  XXX
-     MMMMMMMMMMMM     XXXXXXXXXXXX
-     MMMMMMMMMMMMM     XXXXXXXXXXXXX
-     MMM 1     MMM     XXX       XXX
-     MMM 1     MMM     XXX       XXX
-     MMM 1 MM  MMM     XXX   XX  XXX
-   MMMMM 1M/    1MM  M   XXXXX  X      XX  X
- /MMMMMMMM/     1 MMM  XXXXXXXX        XXX
- M   M   M      MM X   X   X      XX
-  MMM     M  XXX     X
-                        1       MM                                XX
-        MM MMMM      MMMMM MMM M        XX XXXX      XXXXX XXX X
-          M MMMM   MM   1  MM M          X XXXX   XX      XX X
-         M  MMMM  M     1 MMM  MM         X  XXXX  X       XXX  XX
-         M  MMMM M      1 MMM MMM         X  XXXX X        XXX XXX
-             MMMM       1 MMM             XXXX         XXX
-             MMMM   1   1MMMM             XXXX        XXXX
-             MMMM /MM   1MMM             XXXX  XX    XXX
-             MMMM/ MM   1MMM             XXXX  XX    XXX
-             MMMM  1    1MMM             XXXX        XXX
-             MMMM    1  1MMM             XXXX        XXX
-             MMMM   /1  1MMM             XXXX        XXX
-            /MMMMM / 1  1MMM             XXXXX       XXX
-           /MMMMMMMM M M/MMM            XXXXXXXX X X XXX
-        M /MM/ MMMM//MM/MMMMM        X  XX  XXXX  XX XXXXX
-       M /MM     MMMMMMMMM MMMM             M       X  XX     XXXXXXXXX XXXX             X
-       M/ /        /        MMM            M M       X                    XXX            X X
-        MM                                MM        XX                                XM
-                       MMMMM   /MMM    MMMMM                       XXXXX    XXX    XXXXX
-                      MM  1MM MM/MMM  MMM/MMM                      XX   XX XX XXX  XXX XXX
-                     M    1 MMMM MMM  MMM MMM                     X      XXXX XXX  XXX XXX
-                          1 MMMM  MM /MM/ MMMM                            XXXX  XX  XX  XXXX
-                          1 MMM    MMM 1  MMMM                            XXX    XXX    XXXX
-                          1 MMM   /    1  MMMM M                            XXX           XXXX X
-                          1 MMM  /  /  1  MMMM  M                            XXX           XXXX  X
-                         /1MMMM   /    1  MMMM/                           XXXX           XXXX
-                       M/MMMMMM---M----1--1MMMM                       X XXXXXX   X        XXXX
-                       M  1 MMM  MM    1  1MMM                       X    XXX  XX        XXX
-                          1 MMM /      1  1MMM                            XXX            XXX
-                          1MMMM/       1  1MMM                           XXXX            XXX
-                          MMMM/        1 /MMMM                          XXXX            XXXX
-                          MMMMM    M   MMM MMM   MM                          XXXXX    X   XXX XXX   XX
-                   MM   /M MM M    M  MM   MMM  M M                   XX    X XX X    X  XX   XXX  X X
-                  M    /M MMM       MMM     MM M                  X     X XXX       XXX     XX X
-                  MMM/M                      M                  XXX X                      X
-                     /
-                                   MMMMMMMMM///MM/  MM                                   XXXXXXXXX   XX   XX
-                                 MMMMMMMMMMMMMM//MM  M                                 XXXXXXXXXXXXXX  XX  X
-                                M         1M   MMMMMM                                X          X   XXXXXX
-                                M  / MMM  1M     MMM                                X    XXX   X     XXX
-                                MM/  MMM  1M    MMM                                XX   XXX   X    XXX
-                                     MMM  1M   MMMM                                     XXX   X   XXXX
-                                     MMM  1M  MMM                                     XXX   X  XXX
-                                     MMMMMMMMMMMM                                     XXXXXXXXXXXX
-                                     MMM  1M  MMM                                     XXX   X  XXX
-                                     MMM  1M    MMM /                                     XXX   X    XXX
-                                     MMM  1M     MMM                                     XXX   X     XXX
-                                  MMMMMMM 1M    MMM                                  XXXXXXX  X    XXX
-                                 /   MMM  1M    MMM                                     XXX   X    XXX
-                                MMMMMMM  MMM/MMMM M                                XXXXXXX  XXX XXXX X
-                                MM     MM/ //MMMM /                                XX     XX    XXXX
-                                MM  /                                XX
-                                 MMM                      1       MM                                 XXX                              XX
-                                          MM MMMM      MMMMM MMM M                                          XX XXXX      XXXXX XXX X
-                                            M MMMM   MM   1 /MM M                                            X XXXX   XX      XX X
-                                           M  MMMM  M     1 MMM  MM                                           X  XXXX  X       XXX  XX
-                                           M  MMMM M      1 MMM MMM                                           X  XXXX X        XXX XXX
-                                               MMMM       1 MMM                                               XXXX         XXX
-                                               MMMM   1   1MMMM                                               XXXX        XXXX
-                                               MMMM /MM   1MMM                                               XXXX  XX   1XXX
-                                               MMMM/ MM   1MMM                                               XXXX  XX    XXX
-                                               MMMM  1    1MMM                                               XXXX        XXX
-                                               MMMM    1  1MMM                                               XXXX        XXX
-                                               MMMM   /1  1MMM                                               XXXX        XXX
-                                              /MMMMM / 1  1MMM                                               XXXXX       XXX
-                                             /MMMMMMMM M M/MMM                                              XXXXXXXX X X XXX
-                                          M /MM/ MMMM//MM/MMMMM                                          X  XX  XXXX  XX XXXXX
-                                         M /MM     MMMMMMMMM MMMM                                         X  XX     XXXXXXXXX XXXX
-                                         M/ /        /        MMM                                         X                    XXX
-                                          MM                MM                                          XX                XX
-                                                      M/   MMM                                                      X    XXX
-                                                      MM   MMMM     M/                                                      XX   XXXX     X
-                                                     MM   M MMMMMMMM                                                     XX   X XXXXXXXX
-                                                    MM  /M    MMMMM                                                    XX   X    XXXXX
-                                                   MMMMMM      MMMM                                                   XXXXXX      XXXX
-                                                  MMMM                                                  XXXX
-                                                  MMMMM                                                  XXXXX
-                                                  MMMMMM    MMMMMMMM                                                  XXXXXX    XXXXXXXX
-                                                  MMMMMMM  MM/ MMMMM                                                  XXXXXXX  XX  XXXXX
-                                                  MMMMMMMM       MM                                                  XXXXXXXX       XX
-                                                   MMMMMMMMM    /M                                                   XXXXXXXXX     X
-                                                    MMMMMMMMMMMMM                                                    XXXXXXXXXXXXX
-                                                     MMMMMMMMMM                                                     XXXXXXXXXX
-                                                       MMMMMMM                                                       XXXXXXX
-                                                        MMMMM  MM/                                                        XXXXX  XX
-                                                          MM    M                                                          XX    X
-                                                           MM  M                                                           XX  X
-                                                             MM                                                             XX
-
-
-
-                          --E. SCROOGE, ESQ.
-                      RTTY ART BY RUGGS, WB8RGZ
-                          CINCINNATI, OHIO
-

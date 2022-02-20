@@ -1,114 +1,0 @@
-
-M       :            :               :               :             :W
-M       :            :               :              :             :W
-M       :            :              :              :             :W
-M       :            :              :             :             :W
-M       :           :              :             :             :W
-M       :           :              :             :            :W
-XM      :           :             :             :            : W
-XM      :           :            :             :            : W
-XM      :           :           :             :            : W
-XM      :       MMM :           :            :            : W              WWW
-XXM      :     MMXM :          :            :            :  W            WW W
-XXM      :     MXXM :          :           :            :  W            W  W
-XXXM     :     MXXM :         :           :            :   W           W  W
-XXXXM    :     MXXM :         :          :            :    W          W  W
-XXXXXM   :     MXXM:         :           :           :     W         W  W
-XXXXXXM  :     MXXM:        :           :           :      W        W  W
-XXXXXXXMM:     MXXM        :           :           :       WW      W  W
-XXXXXXXXXMM    MXXM        :         :           :               :         WW    W  W
-XXXXXXXXXXMMMMMMXXXM      :         :          :               :          WWWWWW   W
-XXXXXXXXXXXXXXXXXXXM     :         :          :              :                   W
-XXXXXXXXXXXXMMMMXXXM     :        :          :             :            WWWW   W
-XXXXXXXXXXXM   MXXXM    :        :          :            :           W   W   W
-XXXXXXXMMMM:   MXXM     :       :          :           :       WWWW    W  W
-MXXXXMM    :   MXMM    :       :          :          :W    WW        W WW
-MMMMM :    :     :     :       :        :           :              :WWWWW          MM               WW
-XMM   :    :   M :    :       :        :          :               : WW            W
-XXXMMMM    :     :    :      :        :         :               :   WWWW
-XXXXXXXMMMMMMM  :    :      :       :         :               :       WWWWWWW
-XXXXXXXXXXXXXXM :    :      :      :         :             :              W
-XXXXXXXXXXXXXXM :   :      :      :        :             :              W
-XXXXXXXXXXXXXXM :   :     :      :        :            :              W
-XXXXXXXXXXXXXXM :  :     :      :        :           :               W
-XXXXXXXXXXXXXXM :  :    :      :      :           :                :              W
-XXXXXXXXXXXXXXM.:  :    :    :       :          :                ::              W
-XXXXXXXXXXXXXXM.. :    :    :      :         :               ::::              W
-XXXXXXXXXXXXXXM...:   :    :     :         :            ::::              W
-XXXXXXXXXXXXXXM.....  :   :     :        :           :::              W
-XXXXXXXXXXXXXXM......:   :     :       :          :::              W
-XXXXXXXXXXXXXXXM....... :    :      :         :::                  :               W
-XXXXXXXXXXXXXXXM.......:    :    :         :::                   ::               W
-XXXXXXXXXXXXXXXM......... :    :      ::::                   ::::               W
-XXXXXXXXXXXXXXXM.........: ::     ::::                :::::::               W
-XXXXXXXXXXXMMMMM..........:   ::::            ::::::::           WWWWW
-XXXXXXXXMMM................::         ::::::::        WWW
-XXXXXXXMM...................    ::::::       WW
-XXXXXXM......................::      W
-XXXXXM.......................:::::::::::::::::::::::::::::::::::::::     W
-XXXXM........................    W
-XXXMMMM.....................:::::::   WWWW
-XXMXXXXMMMMMMMMMM..........:::    :::::  W    WWWWWWWWWW
-XXMXXXXXXXXXXXXXM.........:    :::      :::::::  W             W
-XMXXXXXXXXXXXXXXM.........   :    ::::         :::::::::: W              W
-MXXXXXXXXXXXXXXMM........::    :      :::                ::::::::W              WW
-XXXXXXXXXXXXXXMM.........  :      :      ::::                   ::::              WW
-XXXXXXXXXMMMMMM....M....     :       :       ::::         WWWWWW    W
-XXXXXXXXMMXMM.....MM... :     :         :         :::        WW WW     WW
-XXXXXXXMMXXXMMMMMMXM..    :     :         :          :::       WW   WWWWWW W
-XXXXXMMMXXXXXXXXXXXM.:     :      :         :           ::::     WWW           W
-XXXMMXXXXXXXXXXXXXXM  :     :  M   :          :             :::::   WW              W           W
-XXMMXXXXXXXXXXXXXXMM   :     :MM     :          :                ::  WW              WW          WW   
-MMXXXXXXXXXXXXXXXXM :   :    MXM      :           :                :WW                W          W W
-MXXXXXXXXXXMMMMMMXM :    :   MXM        :           :W          WWWWWW W          W W
-MXXXXXXXXMM :   MMM :     :  MXM:        :            :W        WW     WWW          W W
-XMMMMXXXM   :    :M  :     : MXM :         :            : WWWW   W         W          W W
-XXXXXMMM    :    :   :      :MXM  :          :            :     WWW                     W W
-XXXXXXXMMMMMMMMMMMMMMMMMMMMMMXXM   :          :             :       WWWWWWWWWWWWWWWWWWWWWW  W
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXM    :           :             :                               W
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXM     :           :              :                               W
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXM      :            :              :                               W
-XXXXXXXXXXXXXXXXXXXXXXXMMMM    M        :            :             :                       WWWWXXXXW
-XXXXXXXXXXXXXXXXXMXMMMM:   MXXXM          :            :                 WWWWWW    W   W
-XXXXXXXXXXXXXXMMM       :   MXXM :          :            :              WWW           W  W
-XXXXXXXXXXXXMM  :        :   MXM  :           :           :            WW               W W
-XXXXXXXXXXMM    :         :  MXM   :           :            :          WW                 W W
-XXXXXXXXXXM:     :        :  MXM    :           :            :          W                  W W
-XXXXXXXXXM:      :         : MXM     :           :             :         W                   W W
-XXXXXXXXM :      :         : MXM      :            :            :        W                    W W
-XXXXXXXM  :      :          :MXM       :            :            :       W                     W W
-XXXXXXM   :      :          : MM        :            :            :      W                       WW
-XXXXXMXMM:       :           : M         :            :            :     W WW                      W
-XXXXMXXXXMMM     :            :           :            :    W    WWW     
-XXXMXXXXXXXXM    :            :            :            :   W        W
-XMMXXXXXXXXXXM    :            :            :            : WW          W
-MMXXXXXXXXXXXXMM  :            :             :             :WW            WW
-MXXXXXXXXXXXXXXM  :             :             :             :W              W
-XXXXXXXXXXXXXXXM  :             :              :             :               W
-XXXXXXXXXXXXXXXM  :              :              :              :               W
-XXXXXXXXXXXXXXXM  :               :              :              :               W
-XXXBXXXXXXXXXXXM  :               :              :               :               W
-XXXXXXXXXXXXXXM   :                :              :               :              W
-XXXXXXXXXXXMMM    :                :               :               :           WWW
-XXXXXXXXXMM        :                :               :         WW
-XXXXXMMMM          :                :                :     WWWW
-XXXMM  :           :                 :                :   WW
-XXXM  :            :                 :                 :   W
-XXM   :            :                  :                 :  W
-XXM  :             :                  :                  :  W
-MM   :             :                   :                  :WW
-MM   :             :                   :                   :WW
-MM  :              :                    :                   :WW
-MM  :              :                     :                   :WW
-MM :               :                      :                   :WW
-M :                :                       :                   :W
-M:                 :                        :                   :W
-M                  :                         :                   :W
-M                  :                          :                   :
-
-                        T E Q U I L A  S U N S E T
-
-                 ORIGINATED BY KEVIN VE7EGD, VERNON, B.C.
-
-                      1981 WORLD WIDE RTTY ART CONTEST
-

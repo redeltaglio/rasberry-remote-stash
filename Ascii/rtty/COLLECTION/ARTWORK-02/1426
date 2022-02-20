@@ -1,58 +1,0 @@
-
-                        .:MMMMO;(YM.                          WWWWW ///
-                      ! 'NMMMMO-(YMMA'                         /WWWWB  ,WW/
-                     '' ITMMMMT'HYMMMY!                        XWWWWX /,WWW,
-                     ''IIMMMMINXMMMMMY'                          WWWW /WWWWWW,
-                  I'! 'I'MMMOM MYMMMMMMT'                         /WWBW./,WWWWWWX
-                 '(!!JII MNAIMMMMMMMMMMMB                     /   /R/ WWWWWWWWWWW"
-                 J".:NMI:BX  MMMMMMMMMMMM'                 /   /W  O/  WWWWWWWWWWWW
-                UNABYBN"OM(HMMMMMMMMMMMMMM'                  R/","//BW /WWWWWWWWWWWWW
-                MM.MM..MYB:NIYMMMMMMMMMMMM:                 WW/WW//W," R ,WWWWWWWWWWW
-                IMONOMJMMBTM"MMMMMMMMMMMMMMT                 WBRB//WW"XW/WWWWWWWWWWWWWW
-                OMMOJNNOIXMOTNMMMMMMMMMMMMMM                BWWB//RB WWBXRWWWWWWWWWWWWWW
-                MMMM HY JMMOMMOYYMMMMMMMMMMM'                WWWW./,./WWBWWB,,WWWWWWWWWWW/
-               NMMMNXNMTTMMMMM"XYMMMMMMMMMMMM               /WWWRWRWXXWWWWW/W,WWWWWWWWWWWW
-               OMMMO MMMMMMMOY'.TMMMMMMMMMMMM'               BWWWB.WWWWWWWB,//XWWWWWWWWWWWW
-                MMMTMMMMMMMMOX.NTMMMMMMMMMMMMM               .WWWXWWWWWWWWBW /XWWWWWWWWWWWW/
-               XMMMOMMMMMMMMMX.:YMMMMMMMMMMMMN               WWWWBWWWWWWWWWW  ,WWWWWWWWWWWW
-               'MMMMMMMMMMMMTH'IXMMMMMMMMMMMMMYX               /WWWWWWWWWWWWX/  WWWWWWWWWWWWWW,WB
-               JMM MMMMMMMMMM !'JMMMMMMMMMMMMMNNOTB               /WW.WWWWWWWWWW.  /WWWWWWWWWWWWWRRBX"
-               IYBOOMMMMMMMMO.' IMMOTOMMMMMMMMMNMNTB                ,"BBWWWWWWWWB/   WWBXBWWWWWWWWWRWRX"
-               -MMOMMMMMN.''( (  NY'A"BMMMMMMMOMMMOO                WWBWWWWW/        R,///"WWWWWWWBWWWBB
-                MMTOMMO'' '   !  ABIIHMXMMMMMMMMMMMMN                WWXBWWB          /"  //WWWWWWWWWWWWWR
-                MM "MMI'.-'      I":-  NMMMMMMMMMMMMOMT                WW./WW                 RWWWWWWWWWWWWBWX
-                MMMOMOI-.''-  (' MA. 'MBMMMMMMMMMMMMMMYN                WWWBWB           //    "WWWWWWWWWWWWWW,
-                MMTMMMI -(!'    '.T"I   MMMMMMMMMMMMMMNNY                WWXWWW           /X    .WWWWWWWWWWWWWWRR,
-                MMMMMMH(  ('    !I"AIM.TMMMMMMMMMMMMMMMMNB                WWWWWW/                XWWWWWWWWWWWWWWWWR"
-                YOMMMMA!!-!'(!(:IN"BNH'NMMMMMMMMMMMMMMMMO.                ,BWWWW/          //"///RWWWWWWWWWWWWWWWWB/
-                OOMOMMY!'I' !-'-'IAX.MX MMMMMMMMMMMMMMMMT'M                BBWBWW,           /W//W.WWWWWWWWWWWWWWWWX//
-                NMMOMMMN! ' '(!-(NJA"AXNMMMMMMMMMMMMMMMMT A                 RWWBWWW/         /////WRWWWWWWWWWWWWWWWWX.
-               I:YMMMMMMI '  ' (-.IX'A"MMMMMMMMMMMYJM"MMN "                 ,WWWWWW           W///WWWWWWWWWWW,///WWR./
-               :'TMMMMMMO:.  -  -':A"XMMMMMMMMMMNHI(I:BMMOX                 XWWWWWWB          //WWWWWWWWWWWR/    "WWBW
-               M BMMMMMMMB:. '.!!IN MMMMMMMMMM I..!(:XNMMM               / "WWWWWWW"         /.WWWWWWWWWW.      WRWWW
-               J!.MMMMMMMYI''I:I(IANMMMMMMMMMMB:!'''IBNMM               / /WWWWWWW,        /RWWWWWWWWWW"       "RWW.
-               I(XMMMMMMMON''.IIIBMMMMMMMMMMMT:((   !N OMM                 WWWWWWWWB/      "WWWWWWWWWWWX       /.BWW.
-                IAMMMMMMMON'''I:NNMMMMMMMMMMON(-'   -H MMMX                 /WWWWWWWB/     /RWWWWWWWWWWB/       /.WWWW
-                 MMMMMMMMMM(:I.I.OMMMMMMMMMM I(   (-IH OMM"                 WWWWWWWWW/     /BWWWWWWWWWW.        /.BWW/
-                .MMMMMMMMOHI!..:HBOMMMMMMMMM:( '-(.IIJ TOM.                 WWWWWWWWB/     /"BWWWWWWWWW         /.XBW/
-                IMOMMMMMMY..'!'I'ITMMMMMMMM".' --:I:N.BYTMM                 WBWWWWWW,        XWWWWWWWW/        //",XW/
-                . 'SMMMMM"'.:'!'.'Y MMMMMMO'.'  III:HXYBYMN                /./WWWWWW/        ,.WWWWWWB         /W,",W/
-                XIBMMMMMMI''!'-''JI MMMMMNI    -':::HBXYTMM                W "WWWWWW        / .WWWWWR          /"W,XW/
-                JI"OMMMY!'- -- -'-IMB"MO I    --'INIMXBYTMN                / /BWWW,           /"/WB.         / /W",XW/
-                :BMNMMT!         '' (IHI:!     I(I'INBB BON                 "WRWWX               /           / /""."B/
-                !MMMMM"(            -'-.I'    '!(IB'MX   OH                 /WWWW/                           "//W...B/
-                ''MNMMA       -      ! '       (:: BA"TTNNH                 /WRWW/                           ."//XXRR/
-                'IMNTMI              '        '!(MYTJXOOOOH                  WRXW                           /,X/WBBBB/
-                 ' NMOH  '                    .'IN MAMOTTTH                  .RWB/                          /.W//BXXX/
-                   HNM.                        .(J'MBJNOTTH                   /RW/                          //W"/RBXX/
-                     :(                      -'.!J"MB.NO NH                                                 //W"/RB.R/
-                                               ':MYOT'TTNTI                                                 /,BX/XXRX
-                                          '' !I I.NJM"A'BXH                                                 ///W///"W/
-
-
-                        " P A T T I "
-
-PATTI IS GALLERY'S GIRL NEXT DOOR FOR OCTOBER 1981
-
-ORIGINATED FOR THE 1981 ART CONTEST BY MONTY, WB7REA, EUGENE, ORE.
-

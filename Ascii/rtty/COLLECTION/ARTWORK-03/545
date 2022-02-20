@@ -1,79 +1,0 @@
-
-BBBBBBBBBBBNNNNNNNNNNNNBN NBBBB BBBBBBBBBBB  BBBBBBBBBBBBBB BBBBBN NXXXXXXXXXXX            X   XXXX XXXXXXXXXXX  XXXXXXXXXXXXXX XXXXX
-BBBBBBBBBBBNNNNNNNNNNNNBN NBBBBBBBBBBB BBBBBBBBBBBB  BBBBBBBBBBBBN NXXXXXXXXXXX            X   XXXXXXXXXXX XXXXXXXXXXXX  XXXXXXXXXXXX
-BBBBBBBBBBBNINIINNNNNNNBN NB BBBBB BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBN NXXXXXXXXXXX            X   X XXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-BBBBBBBBBBBNINIIININNNNBN NBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBN NXXXXXXXXXXX            X   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-BBBBBBBBBBBNIIIIINIINNNBN NBBBBBBBB. BBBBBBBBBBBBB( .BBBBBBBBBBBBN NXXXXXXXXXXX            X   XXXXXXXX  XXXXXXXXXXXXX   XXXXXXXXXXXX
-BBBBBBBBBBBNNIIIINIINNNBI NBBB  BBBBBBBBBBBB  BBBBBBBBBBBBB  BBBBN NXXXXXXXXXXX            X   XXX  XXXXXXXXXXXX  XXXXXXXXXXXXX  XXXX
-BBBBBBBBBBBNNIIIIINNNNNBI NBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBN NXXXXXXXXXXX        //  X   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-BBBBBBBBBBBNNNIINNNNNNNBI NBBBBBBBBBBBBBBBBBBBBB BBBBBBBBBBBBBBB'N NXXXXXXXXXXX       ///  X   XXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXX
-BBBBBBBBBBBNNNNINNNNNNNBI NBB BBBBBBBBBBB  BBBBBBBBBBBBB''''B''  N NXXXXXXXXXXX       ///  X   XX XXXXXXXXXXX  XXXXXXXXXXXXX-  -X-
-BBBBBBBBBBBNNNNNNNNNNNNN. NBBBBBB  BBBBBBBBBB BBBBBBBB'          N NXXXXXXXXXXX       ///  /   XXXXXX  XXXXXXXXXX XXXXXXXX
-BBBBBBBBBBBNNNNNNNNNNNNN. NBBBBBBBBBBB BBBBBBB'''BBB'            N NXXXXXXXXXXX      ////  /   XXXXXXXXXXX XXXXXXX- -XXX
-BBBBBBBBBBBNNNNNNNNNNNNN. N'BBBBBBBBBBBBBBBB'                    N NXXXXXXXXXXX       ///  /    XXXXXXXXXXXXXXXX
-BBBBBBBBBBBNNNNNNNNNNNNN. N ''''BBBBBB'''''                      N NXXXXXXXXXXXX        /   /  /  - -XXXXXX-  -
-BBBBBBBBBBBNNNINNNNNNNIN  B;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;N NXXXXXXXXXXX            /  X       '
-BBBBBBBBBBBNNIIINNNNNIIN  .......................................  NXXXXXXXXXXX            /
-NNNNNNNNNBBNNIIIIINNIIIN  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN  N/////////XX            /
-NNNNNNNNNBBNNNIIIIII''''''''BBB BBBBBBBBBBBBBBBBBBBBB BBBBBBBBBBB. I/////////XX         .--    -XXX XXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXX
-NNNNNNNNNBBNNNII''NN' ( ''-. 'BBBBB BBBB. BBBBBBBBBBBBBBBBBBB BBB. ./////////XX      .//          XXXXX XXXX  XXXXXXXXXXXXXXXXXXX XXX
-NNNNNNNNNBBNNN/.NN'  .-'''-.'.)BBBBBBBBBBBBB BBBB BBBNNNNNNNNNNNNN/////////XX     //             XXXXXXXXXXXXX XXXX XXX////////////
-NNNNNNNNBBBN' ''N'  '  .'''.' BBBBBBBBBBBBBBBBBBBNNNNNNNN(((())))NN////////XXX -  -/       ---   XXXXXXXXXXXXXXXXXXX//
-NNNNNNNBB'(((((  ((( - .    'B)BB BBB .BBBBBBBBNNNNN((((((((()))))))///////XX-                   X XX XXX  XXXXXXXX//
-NNNNNBB'(( (    ((   . ))    'BBBBBBBBBBBBB. BNNNN(((((.'.'.'.'.'.')/////XX-                      XXXXXXXXXXXXX  X/
-NNNNBB'((.. .   (     ' ))    BBBBBB BBBBBBBNNNN((((...  .  ' ' . '////XX                        XXXXXX XXXXXXX//
-NNNBB'(.'/ (           ) )-   BBBBBBBBBB BBNNNN((((.. .            '///XX                         XXXXXXXXXX XX//
-NNNB'( '  (.          )) )  ( 'BBBBBBBBBBBBNNN((((.. .       )///X                           XXXXXXXXXXXX/
-NNNB(    (        ))) )) )  ('.   BBBBBBBBNNNN(((.. .        )///X                              XXXXXXXX/
-NNNB   '(((   .    ))))) )         /BBB BBNNN((((.. .       /)///X                               .XXX XX/
-NNNB( ( (((   (.'()))))           '(BBBBBBNNN((((.. .       )))  /X                                XXXXXX/
-NNNB( ('N((( (((((((((( /          (BBBBBBNNN((((.. .      ((B)  /X    /                           XXXXXX/                  X
-NNNB. ( 'N(( ((((((((((.            BBBBB NNN((((.. .      (BB/  /X     /                          XXXXX /                 XX
-NNNNB. N.NN((.((((((((((           .BBBBBBNNNN((((.. .      I   /X  / '/                         XXXXXX/
-NNNNNB.'NNNN)).N(N((N((      .....BBBBBBBBNNNN((((.. .     ...B    /X  ////   /                 -XXXXXXXX//                - X
-NNNNNNB. 'NNN).(N(N(NN(.'     (BBBBBB. BBBB NNN((((... .   BBBB)     /X   ///   /              XXXXXX  XXXX                XXXX
-NNNNNNNN.  'NN) (N(NNNN(.).--.-BBBBBBBBBBBBNNNNN((((... .  BBBB      //    //   /            'XXXXXXXXXXXX//              XXXX    .
-NNNNNNNNN.)  )N . N((NNN(...---....BBB .BBBBNNNNNN((((...  IBBB   ..       //     /     -             'XXX  XXXX//              XXX
-NNNNNNNNN) )  )  N )N))NN)   .   BBBBBBBBBBB BNNNNNN((((BBB.....BB/       //            -           XXXXXXXXXXX X//        XXX-----XX
-NNNNNNNNN/ N )N . N )N)))))-'      'BBBBBBBBBBBBNNNN/')BB'BBBBB/       //               --          XXXXXXXXXXXX//  '  XX-XXXXX
-NNNNN.''' N) )N N NN )N))))          NB'''BBBBBBB''  /BB   )BBB    /  -                              X..-XXXXXXX-   .XX    XXX(
-NNNNNN. NN' )N .N NN )N))/       '))))NBN'B. ''N.      'BBBBBBBBBBBB    //                                 X  X             XXXXXXXXXXXX
-NNNNNNN'   )N .N .N )N)'   .        ))NBN NB   'N.       'BBBBBBB'''                                       X   X              XXXXXXX-
-NNNNNN....N .'N .N ./    (.B.       )NBN  NB    N.    '''NNNNNNN N N      -  -                 X          X    X            ./
-NNNNNNNNNN..N.-'(B......(NNNB.    .)..'  .NB     B....BNNNN'NN'  N N          -    . X          X       ''     X     X-  -X////-//
-NNNNNNNNNN///B .(B/B/B/B/B/BNB.         .)NN)    BBBBBB'''       N N             X   X X X X X X X             /     XXXXXX--
-NNNNNNNNNN///B / .(BN)B.B) //NB.       .))NN)    B''BB/          N N             X     X  X X     X                  X- XX
-NNNNNNNNNN/N/B' .(BN)BB.B) .B/NB.     .))')'     );;;;;;;;;;;;;;;N N             X    X  XX X   X  X
-NNNNNNNNNNNN'  .(BN)(B'.N..B'///NB.              BNN//............//////////       X   X     X     X               X/
-NNNNNNNNNNN'   (BN)(BN .(.B'   .BBNB.           /BBBBBBBBBBBBBBBBBBB//////////      X   X     X     XX X             XXXXXXXXXXXXXXXXXXX
-NNNNNNNNNN'   (NB)(NB) .(.B.  .B'B///NB.       /BNNNN///////....//////////      X   X     X    X X    X         X/
-NNNNNNNNN'   (NB)(NBN) .(..BBB'  B  /B//N'.....BNNNNNNN///.../////////      X   X       XXX   X   X    --   X/
-NNNNNNNN'   (((N)(NBN) .(.       B   /B    BBNNNNNNN//////....////////           X             X    X    XX//
-NNNNNNNN    ((N)((NNN) .(.       B    B     'BBBBBBBBBBBBBBBBBBBBBBB////////                         X    X      XXXXXXXXXXXXXXXXXXXXXXX
-BBBBBBB    ((N))((NN)) .(.       B    /B     'NNNNNNBBBBBBBBBBBBBBBBXXXXXXX                          X     X      //////XXXXXXXXXXXXXXXX
-BBBBBB'   .((()..(NN)) ...       B     B      'NNNNBBBBBBBBBBBBBBBBBXXXXXX                           X     X       ////XXXXXXXXXXXXXXXXX
-BBBBBB    (((....(N))) ...       B     /B      'NNNNBBBBBBBBBBBBBBBBXXXXXX                           X      X         //XXXXXXXXXXXXXXXX
-BBBBB'   .(((....())). ...      (B)     B       'NNNNBBBBBNNNNNNBBBBXXXXX                            X      X           /XXXXX//////XXXX
-BBBBB    .((. . .()))   .        B      /B       'NNNNBBNNNNNNNNNBBBXXXXX                            X       X           /XX/////////XXX
-BBBB'   ...(. . ..)).          .BBB.     B    .BB.'NNNNNBNNNNNBBBBBBXXXX                            XXX      X     XX      /X/   /XXXXXX
-BBBB    ..(.    ...).          (BBBB     /B   BBBB NNNNNBNNNNNBBBBBBXXXX                            XXXX      X   XXXX    //X//   XXXXXX
-BBB'    ..(.    ....           B(BBB      B   'BB' 'NNNNNNNNNBBBBBBBXXX                            X XXX      X    XX      //   /XXXXXXX
-BBB     ....     ...           B(BBB'     /.        NNNNNNNNNNNBBBBBXXX                            X XXX.                    //  //XXXXX
-BB' .BB.....      .            B(BBBB .BB. B        'NNNNNNNNNNBBBBBXX   XX                        X XXXX  XX  X                 //XXXXX
-BB  BBBB....              .BB. B(BB)) BBBB B         )NNNNNNNNNNNNNNXX  XXXX                   XX  X XX   XXXX X               /////////
-B'  'BB'....   .BB.       BBBB ((/))  'BB'(B)      .NNNNNNNNNNNNNNNNX    XX.        XX        XXXX         XX  X               /////////
-B      ....    BBBB       'BB'            .B.    .NNNNNNNNNNNNNNNNNNX              XXXX        XX              X                ////
-(       ...    'BB'                       BBBB..NNNNNNNNNNNNNNNNNNNN                XX                        XXXX               /
-//....-  .                               (BB)BBNNNNNNNNNNNNNNNNNNNNN  '--'                                    XX XX  /////////
-///////(                                .(BB)BB)NNNNNNNNNNNNNNNNNNNN                                          XX XX   //////////////////
-////////(.                     ..NNN''B//(BB)BB)NNNNBBBBBBBBBBBBBBBB                                -// - X   XX XX   //XXXXXXXXXXXXXXXX
-/////////B'-....            ..N ( ( (.B///BB)BBNNNNNNNNNNNNNNNNNNNNN         X                   -        X   XX XX
-/////////N ) ).).'NNNNBBNN '-...-' )B(//////////////////////////////         /       -   /XX            X
-//////////'.( ( (  ..NB) )( ( ( ( (B  NBB)//////////////////////////          -         -/X            X  /XX
-//////////.('';;;'' N( (  ) ) ) ) ).N  -.N//////////////////////////                                   -/    /
-/////////NNNB........BB) '-..-'( (.N   .NN//////////////////////////            X     ---XX           -/    /
-///NNNNNNNBBBBBBBBBBBBB.NNN N;;''   ..NN////////NNNNNNN LOCKHEED ///         /XXXXXXXXXXXXX /// /         /
-NNNNNNNNNNNNNNNBBBBBBBBBB.........BNNN///////NNNNNNNNNNNNN////NNNNNN     //   /////XXXXXXXXXX--      -X/
-NNNNNNNNNNNNNBBBBBBBBBBBBBBBBBBBBBNN///////NNNNNNNNNNNNNNNNNNNNNNNNN/////  //////XXXXXXXXXXXXXXXXXXXXX
-NNNNNNNNNNNBBBBBBBBBBBBBBBBBBBBNNN///////////NNNNNNNNNNNNNNNNNNNNNNN///  //////XXXXXXXXXXXXXXXXXXXX
-

@@ -1,84 +1,0 @@
-
-                   Z    Z  ZZZZZZ  Z     Z  ZZZZZZ                   M    M  MMMMMM  M     M  MMMMMM
-                   Z    Z  Z    Z  ZZ   ZZ  Z                   M    M  M    M  MM   MM  M
-                   ZZZZZZ  Z    Z  Z  Z  Z  ZZZZZ                   MMMMMM  M    M  M  M  M  MMMMM
-                   Z    Z  Z    Z  Z     Z  Z                   M    M  M    M  M     M  M
-                   Z    Z  ZZZZZZ  Z     Z  ZZZZZZ                   M    M  MMMMMM  M     M  MMMMMM
-
-
-
-                                Z                                N                                W
-                                ZZ      ZZ                                NN      NN                                WW      WW
-                                 ZZZZ  ZZZZ                                 NNNN  NNNN                                 WWWW  WWWW
-                                 ZZZZZZZZ                                 NNNNNNNN                                 WWWWWWWW
-                                   ZZZ Z                                   NNN N                                   WWW W
-                                    Z                                    N                                    W
-                  ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ                  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN                  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-                 Z ZZ ZZZ ZZZZ ZZZZ ZZZZ ZZZZ ZZZZ ZZZ                 N NN NNN NNNN NNNN NNNN NNNN NNNN NNN                 W WW WWW WWWW WWWW WWWW WWWW WWWW WWW
-                ZZZ ZZZZ ZZZZ ZZZZ ZZZZ ZZZZZZZZZZZZZZZ                NNN NNNN NNNN NNNN NNNN NNNNNNNNNNNNNNN                WWW WWWW WWWW WWWW WWWW WWWWWWWWWWWWWWW
-               ZZZZ  ZZ ZZZZ ZZZZ ZZZZ ZZZ            ZZ               NNNN  NN NNNN NNNN NNNN NNN            NN               WWWW  WW WWWW WWWW WWWW WWW            WW
-              ZZZ ZZ  ZZZZZ ZZZZ ZZZZ ZZZZ            ZZZ              NNN NN  NNNNN NNNN NNNN NNNN            NNN              WWW WW  WWWWW WWWW WWWW WWWW            WWW
-             ZZZ Z ZZ  ZZZ ZZZZ ZZZZ ZZZZZZ Z Z Z Z  ZZZZZ             NNN N NN  NNN NNNN NNNN NNNNNN N N N N  NNNNN             WWW W WW  WWW WWWW WWWW WWWWWW W W W W  WWWWW
-            ZZZ ZZ   Z  Z ZZZZ ZZZZ ZZZZ ZZZ Z Z Z  ZZZZZZZ            NNN NN   N  N NNNN NNNN NNNN NNN N N N  NNNNNNN            WWW WW   W  W WWWW WWWW WWWW WWW W W W  WWWWWWW
-           ZZZ ZZ     Z  ZZZZ ZZZZ ZZZZ ZZZZ   Z    ZZZZ ZZZ           NNN NN     N  NNNN NNNN NNNN NNNN   N    NNNN NNN           WWW WW     W  WWWW WWWW WWWW WWWW   W    WWWW WWW
-          ZZZ ZZ       Z  ZZ ZZZZ ZZZZ ZZZZZ Z Z Z  ZZZZZZ ZZ          NNN NN       N  NN NNNN NNNN NNNNN N N N  NNNNNN NN          WWW WW       W  WW WWWW WWWW WWWWW W W W  WWWWWW WW
-         ZZZ ZZ   ZZZ   Z  ZZZZZ ZZZZ ZZZZZZ   Z    ZZZZZ ZZZ Z         NNN NN   NNN   N  NNNNN NNNN NNNNNN   N    NNNNN NNN N         WWW WW   WWW   W  WWWWW WWWW WWWWWW   W    WWWWW WWW W
-        ZZZ ZZ   ZZZZZ   Z  ZZZ ZZZZ ZZZ ZZZ Z Z Z  ZZZZ ZZZZ ZZ        NNN NN   NNNNN   N  NNN NNNN NNN NNN N N N  NNNN NNNN NN        WWW WW   WWWWW   W  WWW WWWW WWW WWW W W W  WWWW WWWW WW
-       ZZZ ZZ   ZZZ ZZZ   Z  Z ZZZZ ZZZ ZZZZ   Z    ZZZ ZZZZ ZZZZ       NNN NN   NNN NNN   N  N NNNN NNN NNNN   N    NNN NNNN NNNN       WWW WW   WWW WWW   W  W WWWW WWW WWWW   W    WWW WWWW WWWW
-      ZZZ ZZ   ZZZ   ZZZ   Z  ZZZZ ZZZ ZZZZZZZZZZZZZZZ ZZZZ ZZZ ZZ      NNN NN   NNN   NNN   N  NNNN NNN NNNNNNNNNNNNNNN NNNN NNN NN      WWW WW   WWW   WWW   W  WWWW WWW WWWWWWWWWWWWWWW WWWW WWW WW
-     ZZZ ZZ   ZZZ  Z  ZZZ   Z  ZZ ZZZ ZZZZZ ZZZZZ ZZZ ZZZZ ZZZ ZZZZ     NNN NN   NNN  N  NNN   N  NN NNN NNNNN NNNNN NNN NNNN NNN NNNN     WWW WW   WWW  W  WWW   W  WW WWW WWWWW WWWWW WWW WWWW WWW WWWW
-    ZZZ ZZ   ZZZZZZZZZZZZZ   Z  ZZZZ ZZZZZ ZZZZZ ZZZ ZZZZ ZZZ ZZZZZZ    NNN NN   NNNNNNNNNNNNN   N  NNNN NNNNN NNNNN NNN NNNN NNN NNNNNN    WWW WW   WWWWWWWWWWWWW   W  WWWW WWWWW WWWWW WWW WWWW WWW WWWWWW
-   ZZZZ ZZ     Z  Z  Z  Z     Z  ZZ ZZZZZ ZZZZZ ZZZ ZZZZ ZZZ ZZZZ ZZZ   NNNN NN     N  N  N  N     N  NN NNNNN NNNNN NNN NNNN NNN NNNN NNN   WWWW WW     W  W  W  W     W  WW WWWWW WWWWW WWW WWWW WWW WWWW WWW
-  ZZZZZ ZZZ                    Z  ZZZZZZ ZZZZZ ZZZ ZZZZ ZZZ ZZZZ ZZZZZ  NNNNN NNN                    N  NNNNNN NNNNN NNN NNNN NNN NNNN NNNNN  WWWWW WWW                    W  WWWWWW WWWWW WWW WWWW WWW WWWW WWWWW
- ZZZZZ  ZZ       ZZZZZZZ        Z  ZZZZ ZZZZZ ZZZ ZZZZ ZZZZZZZZZZZZZZZZ NNNNN  NN       NNNNNNN        N  NNNN NNNNN NNN NNNN NNNNNNNNNNNNNNNN WWWWW  WW       WWWWWWW        W  WWWW WWWWW WWW WWWW WWWWWWWWWWWWWWWW
-  ZZZ   ZZZ    ZZZZZZZZZZZ       Z  ZZ ZZZZZZZZZZZZZZZZZZ             ZZ  NNN   NNN    NNNNNNNNNNN       N  NN NNNNNNNNNNNNNNNNNN             NN  WWW   WWW    WWWWWWWWWWW       W  WW WWWWWWWWWWWWWWWWWW             WW
-        Z Z  ZZZZ       ZZZZ     ZZ  ZZZZZZZZ            ZZZZZZZZZZZZZZZ        N N  NNNN       NNNN     NN  NNNNNNNN            NNNNNNNNNNNNNNN        W W  WWWW       WWWW     WW  WWWWWWWW            WWWWWWWWWWWWWWW
-        ZZZ  ZZ    ZZZ    ZZZ     ZZ         ZZZZZZZZZZZZ        Z  Z        NNN  NN    NNN    NNN     NN         NNNNNNNNNNNN        N  N        WWW  WW    WWW    WWW     WW         WWWWWWWWWWWW        W  W
-        ZZ    Z   ZZ ZZ    ZZ   ZZZZZZZZZZZZZZ                    ZZZ        NN    N   NN NN    NN   NNNNNNNNNNNNNN                    NNN        WW    W   WW WW    WW   WWWWWWWWWWWWWW                    WWW
-        ZZ    Z ZZ Z Z Z   ZZ   Z Z ZZZ          ZZZ         ZZ    ZZ        NN    N NN N N N   NN   N N NNN          NNN         NN    NN        WW    W WW W W W   WW   W W WWW          WWW         WW    WW
-        ZZZ   Z  Z Z Z ZZ ZZZ   Z ZZZ   ZZ     ZZ Z ZZ     ZZZZ   ZZZ        NNN   N  N N N NN NNN   N NNN   NN     NN N NN     NNNN   NNN        WWW   W  W W W WW WWW   W WWW   WW     WW W WW     WWWW   WWW
-        Z Z   Z  Z Z Z Z   ZZ   Z ZZ    ZZZ   ZZZ Z  ZZ   ZZ ZZ   Z Z        N N   N  N N N N   NN   N NN    NNN   NNN N  NN   NN NN   N N        W W   W  W W W W   WW   W WW    WWW   WWW W  WW   WW WW   W W
-        ZZZ   Z  Z Z Z Z  Z Z   Z Z Z   ZZZZ Z    Z    Z ZZZZZZ   ZZZ        NNN   N  N N N N  N N   N N N   NNNN N    N    N NNNNNN   NNN        WWW   W  W W W W  W W   W W W   WWWW W    W    W WWWWWW   WWW
-        Z Z   Z  Z Z Z    Z Z   Z ZZ    ZZ Z Z    Z    Z ZZZZZZ   Z Z        N N   N  N N N    N N   N NN    NN N N    N    N NNNNNN   N N        W W   W  W W W    W W   W WW    WW W W    W    W WWWWWW   W W
-        ZZZ   Z  Z Z Z    Z Z   ZZZZ    ZZZZ Z    Z    Z ZZZZZZ   ZZZ        NNN   N  N N N    N N   NNNN    NNNN N    N    N NNNNNN   NNN        WWW   W  W W W    W W   WWWW    WWWW W    W    W WWWWWW   WWW
-        ZZ    Z  Z Z Z Z  Z Z   Z Z Z   ZZZZ Z    Z    Z ZZZZZZ   Z Z        NN    N  N N N N  N N   N N N   NNNN N    N    N NNNNNN   N N        WW    W  W W W W  W W   W W W   WWWW W    W    W WWWWWW   W W
-        ZZZ   Z  Z Z Z Z  Z Z   Z ZZZ   ZZZZ ZZZZZZZZZZZ ZZZZZZ   ZZZ        NNN   N  N N N N  N N   N NNN   NNNN NNNNNNNNNNN NNNNNN   NNN        WWW   W  W W W W  W W   W WWW   WWWW WWWWWWWWWWW WWWWWW   WWW
-        Z Z   Z  Z Z Z Z  Z Z   Z Z Z   ZZZZ Z    Z    Z ZZZZZZ   Z Z        N N   N  N N N N  N N   N N N   NNNN N    N    N NNNNNN   N N        W W   W  W W W W  W W   W W W   WWWW W    W    W WWWWWW   W W
-        ZZZ   Z  Z Z Z Z  Z Z   ZZZZ    ZZZZ Z    Z    Z ZZZZZZ   ZZZ        NNN   N  N N N N  N N   NNNN    NNNN N    N    N NNNNNN   NNN        WWW   W  W W W W  W W   WWWW    WWWW W    W    W WWWWWW   WWW
-        ZZ    Z  Z Z Z Z  Z Z   Z Z Z   ZZZZ ZZZZZZZZZZZ ZZZZZZ   ZZZ        NN    N  N N N N  N N   N N N   NNNN NNNNNNNNNNN NNNNNN   NNN        WW    W  W W W W  W W   W W W   WWWW WWWWWWWWWWW WWWWWW   WWW
-  Z  Z  ZZZ   Z  Z Z Z Z  Z Z   Z ZZZ                             Z Z  Z  N  N  NNN   N  N N N N  N N   N NNN                             N N  N  W  W  WWW   W  W W W W  W W   W WWW                             W W  W
-Z  Z  Z Z Z ZZZ  Z Z Z Z  Z Z   ZZZZ                              ZZZZZZN  N  N N N NNN  N N N N  N N   NNNN                              NNNNNNW  W  W W W WWW  W W W W  W W   WWWW                              WWWWWW
- Z Z Z ZZZZ ZZ     Z Z Z  Z Z   ZZZZ                             ZZZ  Z N N N NNNN NN     N N N  N N   NNNN                             NNN  N W W W WWWW WW     W W W  W W   WWWW                             WWW  W
-  Z Z Z ZZZZZ        Z Z  Z Z ZZZZZ   ZZ  ZZ  Z  Z  ZZ  Z  ZZ  Z ZZZZZ  N N N NNNNN        N N  N N NNNNN   NN  NN  N  N  NN  N  NN  N NNNNN  W W W WWWWW        W W  N W WWWWW   WW  WW  W  W  WW  W  WW  W WWWWW
-     ZZZZ ZZ         Z Z  Z  ZZ ZZ  ZZ ZZ Z  ZZ Z  ZZ  ZZ Z  Z  Z   Z     NNNN NN         N N  N  NN NN  NN NN N  NN N  NN  NN N  N  N   N     WWWW WW         W W  W  WW WW  WW WW W  WW W  WW  WW W  W  W   W
-   Z Z Z ZZ            Z   ZZZZZ Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z   N N N NN            N   NNNNN N N N N N N N N N N N N N N N N N N N   W W W WW            W   WWWWW W W W W W W W W W W W W W W W W W W W
-    Z  ZZZ               ZZZZ ZZZ Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z ZZ    N  NNN               NNNN NNN N N N N N N N N N N N N N N N N N NN    W  WWW               WWWW WWW W W W W W W W W W W W W W W W W W WW
- Z Z Z Z ZZ            ZZZ ZZZZ ZZ Z Z Z Z Z Z ZZZ Z Z Z Z Z Z Z Z ZZZ N N N N NN            NNN NNNN NN N N N N N N NNN N N N N N N N N NNN W W W W WW            WWW WWWW WW W W W W W W WWW W W W W W W W W WWW
- ZZZ ZZZZ ZZ            ZZ  ZZZ ZZZ ZZ ZZ     ZZ ZZ   Z ZZZ  ZZZ  Z Z Z NNN NNNN NN            NN  NNN NNN NN NN     NN NN   N NNN  NNN  N N N WWW WWWW WW            WW  WWW WWW WW WW     WW WW   W WWW  WWW  W W W
-  Z Z Z Z Z               Z Z Z  Z  Z ZZ Z Z Z       Z Z Z  Z Z    Z ZZ  N N N N N               N N N  N  N NN N N N       N N N  N N    N NN  W W W W W               W W W  W  W WW W W W       W W W  W W    W WW
-     Z Z Z                 Z Z Z Z   Z    Z Z Z Z         Z Z Z Z Z Z Z     N N N                 N N N N   N    N N N N         N N N N N N N     W W W                 W W W W   W    W W W W         W W W W W W W
-      Z Z Z                   Z Z Z         Z Z  Z Z           Z Z Z ZZ      N N N                   N N N         N N  N N           N N N NN      W W W                   W W W         W W  W W           W W W WW
-                               Z Z        Z ZZ Z Z         Z Z Z Z                               N N        N NN N N         N N N N                               W W        W WW W W         W W W W
-                                Z          Z  Z             Z Z                                N          N  N             N N                                W          W  W             W W
-                                            Z                Z                                            N                N                                            W                W
-
-
-
-     ZZZZZZ  Z     Z  ZZZZZZ  ZZZZZZ  ZZZZZZZ     MMMMMM  M     M  MMMMMM  MMMMMM  MMMMMMM
-     Z       Z     Z  Z       Z          Z     M       M     M  M       M          M
-     ZZZZZZ  Z  Z  Z  ZZZZZ   ZZZZZ      Z     MMMMMM  M  M  M  MMMMM   MMMMM      M
-          Z  ZZ   ZZ  Z       Z          Z          M  MM   MM  M       M          M
-     ZZZZZZ  Z     Z  ZZZZZZ  ZZZZZZ     Z     MMMMMM  M     M  MMMMMM  MMMMMM     M
-
-
-                   Z     Z  ZZZZZZ  Z     Z  ZZZZZZ                   M     M  MMMMMM  M     M  MMMMMM
-                   Z     Z  Z    Z  ZZ   ZZ  Z                   M     M  M    M  MM   MM  M
-                   ZZZZZZZ  Z    Z  Z  Z  Z  ZZZZZ                   MMMMMMM  M    M  M  M  V  MMMMM
-                   Z     Z  Z    Z  Z     Z  Z                   M     M  M    M  M     M  M
-                   Z     Z  ZZZZZZ  Z     Z  ZZZZZZ                   M     M  MMMMMM  M     M  MMMMMM
-
-
-
-
-      ART WORK FOR RTTY BY HARRY, N2DQQ, BROOKLYN, NEW YORK.
-

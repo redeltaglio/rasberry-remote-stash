@@ -1,123 +1,0 @@
-
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I                                            MM                                             WW
-I                                          MMMM                                           WWWW
-I        MMMMMMMMMMM                     MMMMMM         WWWWWWWWWWW                     WWWWWW         SSSSSSSSSSS
-I        MMMMMMMMMMM                   MMMMMMMM         WWWWWWWWWWW                   WWWWWWWW         SSSSSSSSSSS
-I        WWWWWWWWWW  MMMMMMMMM       MMMMMMM MM         MMMMMMMMMM  WWWWWWWWW       WWWWWWW WW         SSSSSSSSSS  SSSSSSSSS
-I        MMMMMMMMM   MMMMMMMM     MMMMMMMM  :MM         WWWWWWWWW   WWWWWWWW     WWWWWWWW   WW         SSSSSSSSS   SSSSSSSS
-I        MMMMMMMM    MMMMMMM   MMMMMMMMM  :: MM         WWWWWWWW    WWWWWWW   WWWWWWWWW     WW         SSSSSSSS    SSSSSSS
-I       MMMMMMMMM    MMMMMM   MMMMMMMM  ::   MM        WWWWWWWWW    WWWWWW   WWWWWWWW       WW        SSSSSSSSS    SSSSSS
-I       MMMMMMMMMMMMM         MMMMMM  ::     MM        WWWWWWWWWWWWW         WWWWWW         WW        SSSSSSSSSSSSS
-I       MMMM                  MMM   ::     MMMM        WWWW                  WWW          WWWW        SSSS
-I       MMMM         V       VMM  ::     MMMM        WWWW                  WW         WWWW        SSSS
-I       MMMM         V       VM ::     MMMM        WWWW                  W        WWWW        SSSS
-I       MMMM         V       V::     MMMM        WWWW                         WWWW        SSSS
-I       MMMM         V       V     MMMM        WWWW                       WWWW        SSSS
-I       MMMM         V       V   MMMM        WWWW                     WWWW        SSSS
-I       MMMM          V     V  MMMM        WWWW                   WWWW        SSSS
-I       MMMM           VVVVV MMMM        WWWW                 WWWW        SSSS
-I       MMMM        ::::::IMMMM        WWWW               WWWW        SSSS
-I   MMMMMMMM        :     IMM    WWWWWWWW               WW    SSSSSSSS    ZZZZ
-I   MMMMMMMM   UUUU :     I    WWWWWWWW    SSSSSSSS    ZZZZ
-I   MMMMMMMM  U     :     I    WWWWWWWW    SSSSSSSS    ZZZZ
-I A MMMMMMMM  U     :     I  X WWWWWWWW  S SSSSSSSS    ZZZZ
-IOOOMMMMMMMM   UUUU :     I                   NNNNNNNNNNNNNNNNNNN X XWWWWWWWW S SSSSSSSSS    ZZZZ
-I V MMMMMMMM        :     I                   NNNNNNNNNNNNNNNNNNN  X WWWWWWWW  S SSSSSSSS    ZZZZ
-I   MMMMMMMM  S SSS ::::::I                   NNNNNNNNNNNNNNNNNNN    WWWWWWWW    SSSSSSSS    ZZZZ
-I   MMMMMMMM  S S S :     I                               NNNNNN    WWWWWWWW    SSSSSSSS    ZZZZ
-I   MMMMMMMM  S S S :     I                             NNNNNN    WWWWWWWW    SSSSSSSS    ZZZZ
-I       MMMM  SSS S :     I                           NNNNNN        WWWW        SSSS
-I       MMMM        :     I                         NNNNNN        WWWW        SSSS
-I       MMMM  AAAA  :     I                       NNNNNN        WWWW        SSSS
-I       MMMM    A A :     I                     NNNNNN        WWWW        SSSS
-I       MMMM    A A ::::::I                   NNNNNNNNNNNNNNNNNNN        WWWW        SSSS
-I       MMMM  AAAA  :     I                   NNNNNNNNNNNNNNNNNNN        WWWW        SSSS
-I       MMMM        :     I                    NNNNNNNNNNNNNNNNNNN        WWWW        SSSS
-I       WWWW        :     I                   AAA        MMMM        SSSS
-I       MMMM        :     I                   AAAAAA        WWWW        SSSS
-I       MMMM        :     I                    AAAAAAAAA        WWWW        SSSS
-I       MMMM        :     I                       AAAAAAAAAAA        WWWW        SSSS
-I       MMMM        ::::::I                          AAAAAAAAAAA        WWWW        SSSS
-I       MMMM        :     I                              AAAAAAAA        WWWW        SSSS
-I       WWWW        :     I                               AAAAAAA        MMMM        SSSS
-I       MMMM        :     I                              AAAAAAAA        WWWW        SSSS
-I       MMMM        :     I                          AAAAAAAAAAA        WWWW        SSSS
-I       MMMM        :     I                       AAAAAAAAAAA        WWWW        SSSS
-I       MMMM        :     I                    AAAAAAAAA        WWWW        SSSS
-I       MMMM        ::::::I                   AAAAAA        WWWW        SSSS
-I       MMMM              I                   AAA        WWWW        SSSS
-I       MMMM              I                   SSS      SSSSSSSSS        WWWW        SSSS
-I       MMMM              I                   SSSS    SSSSSSSSSSS        WWWW        SSSS
-I       MMMM         MMM  I                   SSSS    SSSSSSSSSSS        WWWW         WWW        SSSS         SSS
-I       MMMMMMMMMM   MMM  I                   SSSS    SSSS   SSSS        WWWWWWWWWW   WWW        SSSSSSSSSS   SSS
-I       MMMMMMMMM    MMM V                    SSSS    SSSS   SSSS        WWWWWWWWW    WWW        SSSSSSSSS    SSS
-I       MMMMMMMM     MMMV                     SSSS    SSSS   SSSS        WWWWWWWW     WWW        SSSSSSSS     SSS
-I       MMMMMMM      MMV                      SSSS    SSSS   SSSS        WWWWWWW      WW        SSSSSSS      SS
-I       MMMMMMM      MV                       SSSS    SSSS   SSSS        WAWWWWW      W        SSSSSSS      S
-I       WWWWWWW      V                        SSSSSSSSSSSS   SSSS        MMMMMMM        SSSSSSS
-I       MMMMMMM     V                         SSSSSSSSSSSS   SSSS        WWWWWWW        SSSSSSS
-I    MMMMMMMMMM    V                           SSSSSSSSSS     SS     WWWAWWWWWW     SSSSSSSSSS     ZZZ
-I A  MMMMMMMMMM   V                           AAA  X  WWWWWWWWWW  Z  SSSSSSSSSS     ZZZ
-IOOO-MMMMMMMMMM  V                            AAAAAA X X WWWWWWWWWW S S SSSSSSSSSS     ZZZ
-I V  MMMMMMMMMM V                              AAAAAAAAA  X  WWWWWWWWWW  Z  SSSSSSSSSS     ZZZ
-I    MMMMMMMMMMV                                  AAAAAAAAAAA     WWWWWWWWWW     SSSSSSSSSS     ZZZ
-I       MMMMMMM                                      AAAAAAAAAAA        WWWWWWW        SSSSSSS
-I        MMMMM                                           AAAAAAAA         WWWWW         SSSSS
-I         MMM                                             AAAAAAA          WWW          SSS
-I                                                        AAAAAAAA
-I                                                    AAAAAAAAAAA
-I                                                 AAAAAAAAAAA
-I                                              AAAAAAAAA
-I                                             AAAAAA
-I                                             AAA
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-I
-
-
-
-                               COLUMBIA
-
-               ORIGINATED BY KEVIN VE7EGD VERNON, B.C.
-
-                    FOR THE 1981 RTTY ART CONTEST
-

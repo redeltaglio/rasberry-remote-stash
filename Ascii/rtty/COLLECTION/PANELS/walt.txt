@@ -1,0 +1,27 @@
+    November 25, 1991
+
+    Walt (K8LC):
+
+    I hope all of the pix nuts enjoy these huge pictures. I figured it would
+    be better to get good copies to you since you will put them on your BBS.
+    At least the starting point has no hits. I have included N9CSAs "Worlds
+    Largest Crossword Puzzle" just because it is so large. You may have seen
+    the Mountain Climber and Einstein before as I translated them six or
+    seven years ago. The rest of them were translated in 1989 & 1990.
+
+    The nomenclature that I used for the picture file names is:
+         ffffff.nx
+    where ffffff is the general pix name, n is the panel number, and x is
+    the part number in the panel. I tried to keep the panels sized to less
+    than an hour at 60wpm.
+
+    I have noticed that the last 10 down clues parts to the crossword puzzle
+    seem to be missing. My notes state that there are 19 down parts and I
+    can only find 9. I'm going to have to check around to see what happened.
+    I didn't want to hold up this diskette because of that.
+
+    There is a subdirectory named 2ndcopy which has a second copy of each
+    .zip file. Just in case...
+
+    Dale (AG9H)
+

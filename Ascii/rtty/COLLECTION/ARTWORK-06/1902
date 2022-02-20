@@ -1,0 +1,137 @@
+
+                           XXXXXXXXXXXXXXXXXXXXX
+                    XXXXXXX                     XXXXXXX
+                XXXX        .....XXXXXXXXX.....         XXXX
+            XXXX      ......   XX         XX   ......        XXXX
+         XXX     .....        XX           XX                    XXX
+      XXX     ...             XX           XX             ...      XXX
+    XX     ...                 XX         XX                         XXX
+  XX     ..                      XXXX XXXX                      ..     XX
+ X    ..                          XXXXX                          ..     X
+X   ..                        .  W  X  W  .                        ..   X
+XXX                          .  W       W  .                          XXX
+XXXXX                        .  W       W  .                        XXXXX
+X..XXXXX                    .  W        W  .                      XXXXX.X
+X....XXXXXX                 .  W        W  .                  XXXXXX....X
+X.......XXXXXXX             .  W         W  .             XXXXXXX.......X
+X  ........XXXXXXXX        .  W           W  .        XXXXXXXX........  X
+X    ..........XXXXXXXXXXX   W             W   XXXXXXXXXXX..........    X
+X       ...........XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX...........       X
+X          ...............XXXXXXXXXXXXXXXXXXXXX...............          X
+X              ...........................................              X
+X                  ...................................                  X
+X                         .....................                         X
+X                                                                       X
+X                                                                       X
+X                                                                       X
+X                                                                       X
+X                                                                       X
+X                                                                       X
+X                                                                       X
+X                                                                       X
+X                                 WWWWW             WWWWWWW             X
+X             WWWWWW           WWW   WWWWW         W       W            X
+X            W      W         W       WWWWW       W         W           X
+X           W        W       WW       WWWWWW      W     WW  W        .  X
+X          W         W      WWWW     WWWWWWWW     WWW   WWWW        ..  X
+X          W       WWWW    WWWWW   WWWWWW    W    WW W  W W        ...  X
+X          WWWW   W W  WW  WWWWWWW W      Z  W   W    WWW W WW    ....  X
+X          WW  W  WW    W  WWW      L I T    W   W       WWW W  ......  X
+X          W W W         W W S C H        WWWW   WWWW    WWWW ........  X
+X          W  W          W W        WW     WWW   WW  W  W  W .........  X
+X      WWW  W W     WWW  W W   WWWWWWW     WWW  W  WWW W    ....XX....  X
+X      W  W WW     W   WWW  WWWWWWWWWW    WWW   WW    W   ....XXXX....  X
+X       WWWW  W     WWWWW    WWWWWWWWWW  WWW  WW   WWW  .....XXXXX....  X
+X           W  WW        W    WWWWWWWW  WWW  WWWWWW   ......XXXXXX....  X
+X           W    WWW  WWWWW   WWWWWWW WWW    WWW   .......XXXXXXXX....  X
+X            W      W     W W     WWWWW          .......XXXXXXXXXX....  X
+X            W       WWW   WW   W             ........XXXXXXXXXXXX....  X
+X          WWWWWWWWW    WWW WWWW           ........XXXXXXXXXXXXXXX....  X
+X         W    W    W                  ..........XXXXXXXXXXXXXXXXX....  X
+X          WWW  WWWW               ...........XXXXXXXXXXXXXXXXXXXX....  X
+X                            ..............XXXXXXXXXX  XXXXXXXXXXX....  X
+X  ....................................XXXXXXXXXXXXXX  XXXXXXXXXXX....  X
+X  ................................XXXXXXXXXXXXXXXXXX    XXX   XXX....  X
+X  ..........................XXXXXXXXXXXXXXXXXX  XXX    XXX     XX....  X
+X  ....XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XX    X     XX      XX....  X
+X  ....XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXX  XXXX  XXX  XX  XX....  X
+X  ....XXXXXXXXXXXXXXXXXXXXXXYXXXXXXXXXXXX  XXXXXXXXX  XXX  XX  XX....  X
+X  ....XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXX  XXX  XX  XX....  X
+X  ....XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXX  XX  XXX XXX....  X
+X  ....XXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXX  XXXX XXXX  XX  XX  XXX....  X
+X  ....XXXXXXXXXXXXXXXX    XXXXX  XXXXXXXX  XXX  XXXX  XX        X....  X
+X  ....XXXXXXXXXXXXXXX  XX  XXXX  XXXXXXXX  XXX  XXXX  XX X    X X....  X
+X  ....XXXXXXXXXXXXXXX XXXX XXXX  XXXXXXXX  XXX  XXXX     XXX    X....  X
+X  ....XXXXXXXXXXXXXX XXXXX  XXX  XXXXXXXX  XXX  XXXX     XX X  XX....  X
+X  ....XXXXXXXXXXXXXX XXXXX  XXX  XXXXXXXX  XXX  XXX      XX    XX....  X
+X  ....XXXXXXX    XXX XXXXX  XXX  XXXXXXXX  XXX          XX     XX....  X
+X  ....XXXXXXX  XXXXX XXXXX XXXX  XXXXXXXX  XXX      XX X    X  XX....  X
+X  ....XXXXXX  XXXXX  XXXX  XXXX  XXX XXXX  XX      XXXX  X  X  XX....  X
+X  ....XXXXXX  XXXXX  XXXX XXXXX  X     XX  XX  XXXXXXX  XX  X  XX....  X
+X  ....XXXXXX  XXXXX  XXX  XXXXX  X     XX      XXXXX   XXX  X  XX....  X
+X  ....XXXXXX  XXXXX  XX  XXXXXX    XX  XX     XXXXX    XXX    XXX....  X
+X  ....XXXXXX  XXXXX     XXXXXXX   XXXX XX    XXXX     XXXX   XXXX....  X
+X  ....XXXXXXX          XXX   XX   XXXX     XXXXX     XXXXXXXXXXXX....  X
+X  ....XXXXXXXX       XXX     XX  XXXXX   XXXXXX      XXXXXXXXXXXX....  X
+X  ....XXXXXXXXXXXXX  XX X  XX    XXXXXXXXXXXXX      XXXXXXXXXXXXX....  X
+X  ....XXXXXXXXXXXXX  XX  XXXXXX  XXXXXXXXXXXX       XXXXXXXXXXXXX....  X
+X  ....XXXXXXXXXXXXX  XX  XXXXX   XXXXXXXXXXX        XXXXXXXXXXXXX....  X
+X  ....XXXXXXXXXXXX   XX   XXXX   XXXXXXXXXX        XXXXXXXXXXXXXX....  X
+X  ....XXXXXXXXXXX    XX   XXX  X XXXXXXXXX         XXXXXXXXXXXX....    X
+X  ....XXXXXXXXXX    XXXX       XXXXXXXXXX          XXXXXXXXXX.....     X
+X  ....XXXXX XXX     XXXXX     XXXXXXXXXX          XXXXXXXXXX.....      X
+X  ....XXXX          XXXXXXXXXXXXXXXXXXX           XXXXXXXXX....        X
+X  ....XXXXX         XXXXXXXXXXXXXXXXXX            XXXXXXX....          X
+X  ....XXXXX        XXXXXXXXXXXXXXXXXX          XXXXXXXX.....     -     X
+X  ....XXXXX        XXXXXXXXXXXXXXXXX         XXXXXXXX......            X
+X  ....XXXX         XXXXXXXXXXXXXXXX      XXXXXXXXX.......        -     X
+X  ....XXXX        XXXXXXXXXXXXXXXX    XXXXXXXXXX.......                X
+X  ....XXXX       XXXXXXXXXXXXXXXXXX XXXXXXXXX........                  X
+X  ....XXX       XXXXXXXXXXXXXXXXXXXXXXXXXX........                     X
+X  ....XXX    XXXXXXXXXXXXXXXXXXXXXXXXX..........                       X
+X  ....XXXXXXXXXXXXXXXXXXXXXXXXXXXX...........                          X
+X  ....XXXXXXXXXXXXXXXXXXXXXX..............                             X
+X  ....................................                                 X
+X  ................................                                     X
+X  ..........................                                           X
+X                                                                       X
+X                                                                       X
+X                                                                       X
+X                  XXXXX                                                X
+X                 X   X  X           XXXXX                              X
+X                   X X  X          X X  X         XX                   X
+X                     X  X    X       XXX   X   X  XX                   X
+X X  X              X X  XXX X X     XXX   X X X X XX                   X
+XXXX X              X   X X  X  X   X  X   X     XX         X           X
+X X  X                   X XXXXXX    XXX  XXXXXXXXX         X        X  X
+X X  XX      X                                              X    X  X X X
+X X XX X X  XXX                                             XXX X X  X  X
+X XX X X XXX X              X      X   X   X                X X   X  XXXX
+X      XX                   X      XX XX   XX           X X XX  XXXX    X
+X         XXXX  XX XX       X  X   X X X   XX      XXXX X X X XX        X
+X            XX X X X XXX XXXX  X   X X XX X   X X X XXXX               X
+X            X X X   X X  X   X   X X  X X X X XXXX                     X
+X                    XXXXXXXXXXXXX X   XXXXXXXXXXXX                     X
+X                                                                       X
+X                                                                       X
+X                      XXXXX                                            X
+X                      X   X                                            X
+X..                     X XXX                                         ..X
+X....                     X   XXX XX XX XXXXX X  X                  ....X
+X.......                X X   X X X X X X X X X XX               .......X
+ XX........             XX    XXXXX   XXXXX XXXXXXX             .......XX
+ XXXX..........                                           ..........XXXX
+   XXXXX...........                                   ...........XXXXX
+     XXXXXX...............                     ...............XXXXXX
+        XXXXXXX...........................................XXXXXXX
+           XXXXXXXX...................................XXXXXXXX
+               XXXXXXXXXXX.....................XXXXXXX
+                   XXXXXXXXXYXXXXXXXXXXXXXXXXXXXXXXXXX
+                          XXXXXXXXXXXXXXXXXXXXX
+
+
+                                " SCHLITZ "
+
+               ADAPTED FOR RTTY BY AL, KB9DO, MILAN, ILLINOIS
+                                  NOV 1989
+

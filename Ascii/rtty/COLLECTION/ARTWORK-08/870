@@ -1,0 +1,316 @@
+
+.......................................
+XXXXI..X
+XXXXI..X
+XXXXI..X
+    I..X
+    I..X
+    I..X
+    I..X
+XXXXI..X
+XXXXI..X
+XXXXI..X
+    I..X
+    I..X
+    IMMX
+    I..X
+XXXXI..X
+XXXXI..X
+XXXXI..X
+    I..X  ::     HHHH          --     &&&&
+    I..X  XX::   HHHH            --   &&&&
+    ..X  XX.X::  HH              --  &&
+    I..X  XX.X.X.XHH                  &&
+XXXXI..X  XX.X.X.X.X::                    --
+XXXXI..X  XX.X.X.X.X.X::                      --
+XXXXI..X  ::::::::::::::          -----        -
+    I..X       :::::::::            ---H               -       -
+    I..X        :::::::::::            H                --     ---
+    I..X         ::::::::::::----------H                 --        --
+    I..X           :::::::::::::       H                   -          --
+XXXXI..X            :::::::::::::::    H                    --          ---
+XXXXI..X              :::::::::::::::  H                      --          ---
+XXXXI..X               ::::::::::::::::H            :                       --            --             -
+    I..X               H:::::::::::::::::::       HHH                       &--              ---       &&&
+    I..X      OOOOO    HHH:::::::::::::::::::     HHH                       &&&-                --     &&&
+    I..X    OOOOOOOOO   HHH::::::::::::::::::::   HHH                        &&&-                 --   &&&
+    I..X   OO6666666OOO HHHH::::::::::::::::::::::HHH                        &&&&-                  ---&&&
+XXXXI..X OOO6666666666OO HHHH:::::::::::::::::::::::H                         &&&&-                   ---&
+XXXXI..XOO6666666666666OOHHHHH:::::::::::::::::::::::               SSS       &&&&&-                     -
+XXI..XOO6666666666666OOHHHHHH:::::::::::::::::::::               SSS     &&&&&&-
+    I..X OOO6666666666OOHHHHHHHH:::::::::::::::::::::                        &&&&&&&&-
+    I..X  OOO66666666OO HHHHHHHHH::::::::::::::::::::                        &&&&&&&&&-
+    I..X    OOOOOOOO   HHHHHHHHHH:::::::::::::::::::                       &&&&&&&&&&-
+    I..X     NNOOONN    HHHHHHHHHHH::::::::::::::::::             &     &    &&&&&&&&&&&-
+XXXXI..X     HHHHHHHHHHHHHHHHHHHHHHH:::::::::::::::::             &&&&&&&XXXXXXXXXXXXXXXX-
+XXXXI..X     HHHHHHH6666666666666666::::::::::::::::             XXXXXXXX                -
+XXXXI..X     HHHHHHHH66666666666666666:::::::::::::::             &&&&&&&&                 -
+    I..X     HHHHHHHH666666666666666666::::::::::::::             &&&&&&&&                  -
+    I..X     HHHHHHHH666666666666666666H:::::::::::::             &&&&&&&&                  &-
+    I..X     HHHHHHHH666666666666666666HH::::::::::::             &&&&&&&&                  &&-
+XXXXI..X     HHHHHHHH666666666666666666HHH:::::::::::             SSOMMMMMMOOMS&&&&&                 X&&-
+XXXXI..X     HHHHHHHH666666666666666666HHHH::::::::::             EEE&&&&&                  &&&&-
+XXXXI..X     HHHHHHHH666666666666666666HHHHH:::::::::             &&&&&&&&                  X&&&&-
+    I..X     HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH:::::::::             &&&&&&&XXXXXXXXXXXXXXXXXXXX&&&&-
+    I..X     HHOOOOHHHHHHHHHXXXHHHXXXHHHHHHH:::::::::             &&    &&&&&&&&&   &&&   &&&& &&-
+    I..    OOOOOOOOOHHHHHHHXXXHHHXXXHHHHHHH:::::::::                    &&&&&&&   &&&   &&&& &&-
+    I..X  OOO6666666OOOHHHHOOOOOOOXXXHHHHHHH:::::::::                       &&&&          &&&& &&-
+XXXXI..X OOO666666666OOOHHHOOOOOOOXXXHHHHHHH:::::::::                        &&&          &&&& &&-
+XXXXI..XOO66666OOO66666OOHHOOOOOOOXXXHHHHHHH:::::::::               SSS       &&          &&&& &&-
+XXXXI..XOO66666OOO6666OOHHOOOOOOOXXXHHHHHHH::::::::               SSS      &&          &&&& &&-
+    I..X OOO666666666OOOHHHHSSSHHHXXXHHHHHHH:::::::::                        &&&&   &&&   &&&& &&-
+    I..X  OOO6666666OOOHHHHHSSSHHHXXXHHHHHHH:::::::::                       &&&&&   &&&   &&&& &&-
+    I..X    OOOOOOOOOHHHHHHSSSHHHHXXXHHHHHHH:::::::::                     &&&&&&   &&&&   &&&& &&-
+    I..X      OOOOOKKKKOOOOSSS::::::::HHHHHH:::::::::                   AAAA       ////////&&& &&-
+XXXXI..X          OOOOOOOOSSSOOOOOHHH:::HHHH:::::::::                                  &&&///& &&-
+XXXXI..X       OOOOOO666XXSSS666OOOOOOO:::HH:::::::::                                      M///&&-
+XXXXI..X     OOOOOX6TTT6XSSSTTT6XXXOOOOHHHH:::::::::                                       &&&&-
+    I..X    OOO666XXTTTTXSSSTTTT6XXX6XOOOOHH:::::::::                                          &&-
+    I..X   OOO66TTLXXYYYXKSSTTTXX666XXXHHHHH:::::::::                                       &&&&&-
+    I..X  OOOXXXTTTTXXTTXSSS6XX666XXXXXHHHHH:::::::::                                       &&&&&-
+    I..X OOO6XXXX....X6XSSSOOOXX66X66XXHHHHH:::::::::                                       &&&&&-
+XXXXI..XOOO66TTTSOOOS...SSSSOOXXTTTTTXXHHHHH:::::::                                       &&&&&-
+XXXXI..XOOOXXXXXSSSSS...SSSOOOXXXXXXXXX&&&&&:::::::::                                     HHHHHHH-
+XXXXI..XOOOXXXXXSSSS...SSS.OOOXXXLTTTHHHHHOO:::::::::                                     XXXXX  -
+    I..X OOO666XSSSSXXXSSSOOOOXXXXXTTHHHHOOO:::::::::                                     XXXX   -
+    I..X  OOOXX6SSSS6XSSSS666XXXLLXXHHHHHOOH:::::::::                                    XXXXX  &-
+    I..X   OOO66SSSS66SSSS66LLXXLLLHHHHHOOOH:::::::::                                   XXXXX   &-
+    I..X    OO66SSSS66SSSX6XTTTXXTTHHHHOOOHH:::::::::                                    XXXX  &&-
+XXXXI..X    OOOOSSSSOOSSSXOXTTTOXXOHHOOO    :::::::::                                   XX       -
+XXXXI..X    H OOSSSS6SSSXX6XX6X6XOOOOO      :::::::::                                  XX        -
+XXXXI..X    H   SSSS6SSSOOOOOOOOOOO         :::::::::                                            -
+    I..X    H   SSSSSSSSOOOOOOOOHHHH        :::::::::                                &&&&        -
+    I..X   HHHHHSSSSSSSSHHHHHHHHHHHH        :::::::::           &&&&&        &&&&&&&&&&&&        -
+    I..X    H   SSSSSSSSOOOOOOOHHHHH        :::::::::                               &&&&&        -
+    I..X    H   SSSSSSSSOOOOOOOOOOOO        :::::::::                                            -
+XXXXI..X    H OOSSSSSSSS66XX6666XHHOOO      :::::::::                                 XX         -
+XXXXI..X    HOOOSSSSSSS666XX6LL66HHHHOOO    :::::::::                                 XXXX       -
+XXXXI..X   OOOOXSSSSSSOOOOXXTTTTXX:::::OOOHH:::::::::                                  /////   &&-
+    I..X  OOO666SSSSSS6R6XXTTIXX66HHHHHHOOO :::::::::                                  &&&&&&    -
+    I..X OOO6XX6SSSSS666XXX66XX66XHHHHHHHOOO:::::::::                                  &&&&&&&   -
+    I..X OOO666XSSSSS6XOOOOOOX6X6XHHHHHHHHOO:::::::::                                  XXXXXXXX  -
+    I..XOOO66LTTSSSSS...OOOOOX6X6XXXXXXXXXOO:::::::::                                  HHHHHHHH  -
+XXXXI..XOOOXXXXXSSSS....O:OOOXXXXXXXXXXXXXOO:::::::::                 OOO     -        HHHHHHHH  -
+MXXXI..XOOO6LTT.SSSS....OOOOOX6X6XXXXXXXXXOO:::::::::                                  HHHHHHHH  -
+XXXXI..X OOO666XSSSS6XOOOOOOOX6X6XXXXXXXXXOO:::::::::                                  HHHHHHHH  -
+    I..X  OOOXXOSSSSXOOLPXXLLXXPPXXXXXXXXOOO:::::::::                                 HHHHHHHH   -
+    I..X   OOO66SSSS6LTT6XXLTLXX6XXXXXXXOOO :::::::::                                 HHHHHHH    -
+    I..X    OOOXSSSS6TTT6XX6TTLXXXXXXXOOOHHH:::::::::                                HHHHHH   &&&-
+    I..X    HOOOSSSS66666XX6LL66XXXXOOOO    :::::::::                                HHHH        -
+XXXXI..X    H  OSSSSO6666XX6666XOOOOOO      :::::::::                                            -
+XXXXI..X    H   SSSSOOOOOOOOOOOOOOOO        :::::::::                                            -
+XXXXI..X    H   SSSSEEOOOOOOOOOHHHHH        :::::::::                               &&&&&        -
+    I..X   HHHHHSSSSHHHHHHHHHHHHHHHH        :::::::::           &&&&&    &&&&&&&&&&&&&&&&        -
+    I..X    H   SSSSEEOOOOOOOOOHHHHH        :::::::::                               &&&&&        -
+    I..X    H   SSSSOOOOOOOOOOOOOOOO        :::::::::                                            -
+    I..X    H OOSSSSOO666XX666666OOOOO      :::::::::                                            -
+XXXXI..X    HOOOSSSS6LLL6XX6LLL6X6HHOOOO    :::::::::                                  XX        -
+XXXXI..X   OOOP6SSSS6LLLLXXXLLTXX66HHHOOOHHH:::::::::                                   XXX   &&&-
+XXXXI..X  OOOX66SSSS66LTTXX TTXXLLXXHHHOOO  :::::::::                                    XXX     -
+    I..X OOO6666SSSSXX666XX66XXLTXX6XHHHOOO :::::::::                                     XXX    -
+    I..XOOO66X66SSSSXXXOOOOOOX6XX666HHHHHOOO:::::::::                                    XXXXX   -
+    I..XOOOPPTTTSSSS6OO.OOOOOXXXLLTT6HHHHHOO:::::::::                                     XXXXX  -
+    I..XOOOXXXX.SSSSXXOOO:OOOXXXXXXXXHHHHHOO:::::::::                         -           XXXXX  -
+XXXXI..XOOOP6LLLSSSS6OO.OOOOOXXTTLLL6HHHHHOO:::::::::                                     XXXXX  -
+XXXXI..X OOO6TTXSSSS66XOOOOOO66XXX66HHHHHOOO:::::::::                                    XXXXX   -
+XXXXI..X OOOXXXXSSSS6XX66XX6XXLLLXX6HHHHOOO :::::::::                                    XXXX    -
+    I..X  OOOXX6SSSSXX6LLXX66XX6T66HHHHOOOHH:::::::::                                   XXXX   &&-
+    I..X   OOOO6SSSSX6LTTXXLT6XX66HHHHOOOHHH:::::::::                                  XXXX   &&&-
+    I..X    HOOOSSSS66TT6XX6LL6XXHHHOOOOHHHH:::::::::                                 XXX    &&&&-
+    I..X    H OOSSSS66666XX66666OOOOOO      :::::::::                                XX          -
+XXXXI..X    H   SSSSOOOOOOOOOOOOOOOO        :::::::::                                        -
+XXXXI..X    H   SSSS OOOOOOOOOOOOHHH        :::::::::                                 &&&        -
+XXXXI..X   HHHHHSSSSHHHHHHHHHHHHHHHHHHHHHHHH:::::::::           &&&&&    &&&&&&&&&&&&&&&&&&&&&&&&-
+    I..X    H   SSSS  OOOOOOOOOOOHHHHHHHHHHH:::::::::                                 &&&&&&&&&&&-
+    I..X    H   SSSSOOOOOOOOOOOOOOOOHHH  HHH:::::::::                                    &&&  &&&-
+    I..X    H  OSSSSO666AXXX666XX6OOOOHHHHHH:::::::::                                      &&&&&&-
+    I..X    HOOOSSSS66LL66XLTT6XXXXHHOOOHHHH:::::::::                                   &&   &&&&-
+XXXXI..X   OOOO6SSSS6TTT6XXLTTXX666HHHOOOO  :::::::::                                   XXX      -
+XXXXI..X  OOOOX6SSSS66TT6XXLTXX666XXHHHHOOO :::::::::                                    XXXX    -
+XXXXI..X OOO66XXSSSSXX66XXX6XX66XX666HHHHOOO:::::::::                                     XXXX   -
+    I..X OOO66L6SSSS6XXOOOOOO6XX6LLL6HHHHHOO:::::::::                                     XXXXX  -
+    I..XOOO66TTTSSSS.OOOOOOOXX66TTTT6HHHHHOO:::::::::                                     XXXXX  -
+    I..XOOOXXXXXSSSSLLLLO-OOXXXXXXXXXXHHHHOO:::::::::                         :            XXXX  -
+    I..XOOO66LTTSSSS.OO.OOOOOX66LLLL6XHHHHOO:::::::::                                      XXXX  -
+XXXXI..X OOO6TTTT....66OOOOOO6XX66TT6XHHHHOO:::::::::                                      XXXX  -
+XXXXI..X OOO666XXXX666X6XXX666X66XXXHHHHHOO :::::::::                                    XXXXX   -
+XXXXI..X  OOO6XXX66XXXXX66X6L6XX66XHHHHHOOO :::::::::                                   XXXXX    -
+    I..X   OOOO666XXX6TT6XXXTTL66XHHHHHOOO  :::::::::                                  XXXXX     -
+    I..X     OOOOXX66XTTTXX6LTT666HHHOOOHHHH:::::::::                                  XXX   &&&&-
+    I..X       OOOOO66666XX6666X6OOOOO      :::::::::                                            -
+    I..X          OOOOOOOOOOOOOOOOO         :::::::::                                            -
+XXXXI..X              OOOOOOOOO             :::::::::                                            -
+XXXXI..X        HHHH::HHHHHH             ::::::::::::                RRRR--&&&&&&             ----
+XXXXI..X        HHHH::HHHHHH     ::::::::::::::::::::                RRRR--&&&&&&     ------------
+    I..X      :HHHHH::HHHHHH   ::XXXXXXXXXXX:::::::::              -RRRRR--&&&&&&   --           -
+    I..X      HHHHHHH::HHHHH ::XX:XXX:XXX:XX:::::::::              RRRRRRR--&&&&& --  -   -   -  -
+    I..X      HH   HH::HHHH::XXX:XX:XXX:XXX::::::::::              RRRRRRR--&&&&--   -  -   -   --
+    I..X      HH    HH::H::XXX:XX:XXX:XXX:XX:::::::::              RRRRRRRR--&--   -  -   -   -  -
+XXXXI..X      HH     HH::XXX::X:XXX:XXX:XXX::::::::::              RRRRRRRRR--   -- -   -   -   --
+XXXXI..X      HH      HH::XXX8;//:XXX:XXX:XX:::::::::              RRR..RRRRR--   -   -   -   -  -
+XXXXI..X      HH       HHXXXX:::XXX:XXX:XXX::::::::::              RRRRRRR.RRR    ---   -   -   --
+    I..X   OOOHH         HH::::XX:XXX:XXX:XX:::::::::              RRRRR..RRRRRR----  -   -   -  -
+    I..X  OO66HH           HH:::XXX:XXX:XXX::::::::::              RRRRRRRRR.RRRRR---   -   -   --
+    I..X OO666XXXXRRRRRRRRRHH:::X:XXX:XXX:XX:::::::::                           RR--- -   -   -  -
+    I..XOO6666XXXXRRROORRRRRR:X::XX:XXX:XXX::::::::::                     ZZ    HH- --  -   -   --
+XXXXI..XOO6666XXXXRRROORR.RRR:X:::XXX:XXX:XX:::::::::                     ZZ    HH- ---   -   -  -
+XXXXI..X OO666HH     OO    HH:XX::X:XXX:XXX::::::::::              RRRR.RRZZXRRRRR-  -- -   -   --
+XXXXI..X   OOOHH     XOO.  MHHXX::XXX:XXX:XX:::::::::              RRRRRRR ZZ RRRRR  --   -   -  -
+    I..X      HH6666XOOORRRHH:XXX:::XXX:XXX::::::::::              RR     ZZZ   RR-   ---   -   --
+    I..X      HH   OOOOOO  HH:  :::XX:XXX:XX:::::::::              RRRRRZZZZZZRRRR-  ---  -   -  -
+    I..X      HH   OOOOOO  HH:  : ::XXX:XXX::::::::::              RRRRRZZZZZZRRRR-    --   -   --
+    I..X      HH.  OOOOOO  HH:  : ::X:XXX:XX:::::::::              RR.RRZZZZZZ.RRR-    -- -  -   -
+XXXXI..X      HH   OOOOOO  HH:  :  ::XX;XXX::::::::::              RRR.RZZZZZZRRRR-     --  -   --
+XXXXI..X      HH   OOOOOO  HH:  :  :::XXX:XX:::::::::              RRRRRZZZZZZRRRR-     ---   -  -
+XXXXI..X      HH   OOOOOO  HH:HH:   ::XX:XXX:::::::::              RR.RRZZZZZZRRRR-&&    --  -   -
+    I..X      HH    OOOO   HH:HHH:  ::XXX:XX:::::::::              RRRRRRZZZZRRRRR-&&&   --X  -  -
+    I..X      HH     OO    HH:HHH:   :::XXX::::::::::              RRRRRRRZZRRRRRR-&&&    ---   --
+    I..X      HH     OO    HH:HHH:   ::XX:XX:::::::::              RRR..RRZZRRRRRR-&&&    --  -  -
+    I..X    OOHH     OO    HH:HHH:  MM::XXX::::::::::              RRRRRRRZZRRRRRR-&&&     --   --
+XXXXI..X   OO6HH     OO    HH:HHH: M M:::::::::::::              RRR.R.RZZRRRRRR-&&&     -------
+XXXXI..X OO666XXXXRRROORRRRRR:HHH:M MMM::::::::::::::                     ZZ    HH-&&&      ------
+XXXXI..XOO6666XXXXRR.RRR.RRRR:HHH:MMMMMMMMMM:::::::::                           HH-&&&           -
+    I..XOO6666XXXX.RRRRRRRRRR:HHH:KKKKKKKKKK:::::::::                           HH-&&& AAAAAAAAAA-
+    I..X OOO66HH          HH:HHHH:::KKKKKKKK:::::::              RRRRRRRR.RRRRR-&&&&   AAAAAAAA-
+    I..X    OOHH        HH::HHHHH  :        :::::::::              RR.RRRRRRRRR--&&&&&           -
+    I..X      HH       HH::HHHHHHII:        :::::::::              RRR.RRRRRRR--&&&&&&           -
+XXXXI..X      HH     HH::  HHHHHHHH:KKKKKKKK:::::::::              RR.RR.RRR--  &&&&&&&& AAAAAAAA-
+XXXXI..X      HHHHHHHH:  : HHHHHHHH:KKKKKKKK:::::::              RRRRRRRR-  - &&&&&&&& AAAAAAAA-
+XXXXI..X      HHHHHHH-   : HHHHHHHH::::::::::::::::::              RRRRRRR:   - &&&&&&&&         -
+    I..X       HHHHHHHHHH: HHHHHHHHHHHHHHHHH:::::::::               &&&&&&&&&&- &&&&&&&&&&&&&&&&&-
+    I..X       HHHOOOOOOO:HHHHHHHHHHHHHHHHHH:::::::::               &&&       -&&&&&&&&&&&&&&&&&&-
+    I..X       HOOOOOOOOO:UUUUUUUUUUUUUUUUUU:::::::               &         -                  -
+    I..X       OOO          RRRRIIIIIRIRIRII:              ---------------------------------------
+XXXXI..X      IOOOIKKKIKKKIEEEIEEEIEEEIEEEIE:I:::::::                   AAA AAA SSS SSS SSS SSS S-
+XXXXI..X      IOOOI   IKK IKKKIKKKIKKKIKKKIK:I:::::::                       AA  AAA AAA AAA AAA A-
+XXXXI..X      IOOOI   IKK IKKKIKKKIKKKIKKKIK:I:::::::                       AA  AAA AAA AAA AAA A-
+    I..X       OO      XX  XXXMMMM          :              ---------------------------------------
+    I..X       OOO     HHHH  HHHHH          :::::::::                       XXXX  &&&&&          -
+    I..X         OOOHHHHHHHHHHHHHH                    &&&&&&&&&&&&&&
+    I..X            HHHHHHHHHHHHHHHHHHHHHHHH:::::::::                    &&&&&&&&&&&&&&&&&&&&&&&&-
+XXXXI..X            HHH::HHHHHHHHHHHHHHHHHHH:::::::::                    &&&  &&&&&&&&&&&&&&&&&&&-
+XXXXI..X   ......:: HHH::HHHHHHHHHHHHHHHHHHH:::::::::                 -- &&&--&&&&&&&&&&&&&&&&&&&-
+XXXXI..X   X . .:HH:HHH::HHHHHHHHHHHHHHHHHHH:::::::::                -&& &&&--&&&&&&&&&&&&&&&&&&&-
+    I..X  XXXOO :HH:HHH::HHHHHHHHHHHHHHHHHHH:::::::::                -&& &&&--&&&&&&&&&&&&&&&&&&&-
+    I..X  OOOOO:H-H:HHH::HHHHHHHHHHHHHHHHHHH:::::::::               -&-& &&&--&&&&&&&&&&&&&&&&&&&-
+    I..X O6666:HH H:HHH::HHHHHHHHHHHHHHHHHHH:::::::::              -&&-& &&&--&&&&&&&&&&&&&&&&&&&-
+    I..XO666HHHHHHH:HHH::HHHHHHHHHHHHHHHHHHH:::::::::            &&&&&&& &&&--&&&&&&&&&&&&&&&&&&&-
+XXXXI..XO666HHHHHHH:HHH::HHHHHHHHHHHHHHHHHH::::::::::            &&&&&&& &&&--&&&&&&&&&&&&&&&&&&--
+XXXXI..X O66H6HHHHH:HHH::HHHHHHHHHHHHHHHHHH::::::::::            & &&&&& &&&--&&&&&&&&&&&&&&&&&&--
+XXXXI..X  OOHHHH66HH:HH::HHHHHHHHHHHHHHHHH:D:::::::::            &&&&  && &&--&&&&&&&&&&&&&&&&&- -
+    I..X  :HHHH666HH:HH::HHHHHHHHHHHHHHHH:DD:::::::::           &&&&   && &&--&&&&&&&&&&&&&&&&-  -
+    I..X  :HHHHHHHHH:HH::HHHHHHHHHHHHHHH:DDD:::::::::          -&&&&&&&&&-&&--&&&&&&&&&&&&&&&-   -
+    I..X  :HXXXXXXHHH:H::HHHHHHHHHHHHHH:DDDD:::::::::          -&      &&&-&--&&&&&&&&&&&&&&-    -
+    I..X  :HXXXXXXHHH:H::HHHHHHHHHHHHH:DDDDD:::::::::          -&      &&&-&--&&&&&&&&&&&&&-     -
+XXXXI..X   -HHHH:::HH:H::HHHHHHHHHHHH:DDDDDD:::::::::           -&&&&---&&-&--&&&&&&&&&&&&-      -
+XXXXI..X   ::::HHM:HH:H::HHHHHHHHHHH:DDDDDDD:::::::::           ----&& -&&-&--&&&&&&&&&&&-       -
+XXXXI..X  OOO:6H:H:HH:H::HHHHHHHHH:DDDDDDDDD:::::::::             - &-&-&&-&--&&&&&&&&&-         -
+    I..X O66:H6H:HH:H:H::HHHHHHHH:DDDDDDDDDD:::::::::            -& &-&&-&-&--&&&&&&&&-          -
+    I..XO666HHHH:HHH::H::HHHHHH:DDDDDDDDDDDD:::::::::            XXXX-&&&--&--&&&&&&-            -
+    I..XO666HHHH:HHEH:H::HHHH:DDDDDDDDDDDDDD:::::::::            XXXX-&& &-&--&&&&-              -
+    I..X OO6:H6H:HHEH:H::HH:DDDDDDDDDDDDDDDD:::::::::            -X X-&& &-&--&&-                -
+XXXXI..X  OOO:H:HHHHH:H::DDDDDDDDDDDDDDDDDDD:::::::::             -X-&&&&&-&--                   -
+XXXXI..X    ::HHHOOHH:H::DDDDDDDDDDDDDDDDDDD:::::::::            --&&&  &&-&--                   -
+XXXXI..X   :HHHHIXXHH:H::DDDDDDDDDDDDDDDDDDD:::::::::           -&&&&   &&-&--                   -
+    I..X  :HXXXHXHIHH:H::DDDDDDDDDDDDDDDDDDD:::::::::          -&   & & &&-&--                   -
+    I..X  :HXXXHXHIHH:H::DDDDDDDDDDDDDDDDDDD:::::::::          -&   & & &&-&--                   -
+    I..X  :MHHH:::IHH:H::DDDDDDDDDDDDDDDDDDD:::::::::          - &&&--- &&-&--                   -
+    I..X   ::HHXXXIH:HH::DDDDDDDDDDDDDDDDDDD:::::::::           --&&    &-&&--                   -
+XXXXI..X  OOO:HXXXIH:HH::DDDDDDDDDDDDDDDDDDD:::::::::             -&    &-&&--                   -
+XXXXI..X OO66:HHHHIH:HH::DDDDDDDDDDDDDDDDDDD:::::::::             -&&&& &-&&--                   -
+XXXXI..XO666XXXXHHI:HHH::DDDDDDDDDDDDDDDDDDD:::::::::                && -&&&--                   -
+    I..XO666XXXXHHI:HHH::DDDDDDDDDDDDDDDDDDD:::::::::                && -&&&--                   -
+    I..X O6666:HH I:HHH::DDDDDDDDDDDDDDDDDDD:::::::::              -&&- -&&&--                   -
+    I..X  OOOOOO:-I:HHH::DDDDDDDDDDDDDDDDDDD:::::::::                -  -&&&--                   -
+    I..X   XXX:::HI:HHH::DDDDDDDDDDDDDDDDDDD:::::::::              ---& -&&&--                   -
+XXXXI..X   .....:HI:HHH::DDDDDDDDDDDDDDDDDDD:::::::::                -& -&&&--                   -
+XXXXI..X          ::HHH::DDDDDDDDDDDDDDDDDDD:::::::::                  --&&&--                   -
+XXXXI..X            HHH::DDDDDDDDDDDDDDDDDDD:::::::::                    &&&--                   -
+    I..X            VHH::DDDDDDDDDDDDDDDDDDD:::::::::                    &&&--                   -
+    I..X            HHH::DDDDDDDDDDDDDDDDDDD:::::::::                    &&&--                   -
+    I..X     ::::::HHHH::DDDDDDDDDDDDDDDDDDD:::::::::             ------&&&&--                   -
+    I..X     :HHHHHHHHH::DDDDDDDDDDDDDDDDDDD:::::::::             -&&&&&&&&&--                   -
+XXXXI..X     :HHHHHHHHH::DDDDDDDDDDDDDDDDDDD:::::::::             -&&&&&&&&&--                   -
+XXXXI..X     :HXXXXXXHH::DDDDDDDDDDDDDDDDDDD:::::::::             -& ---- &&--                   -
+XXXXI..X     :HXXXXXXHH::DDDDDDDDDDDDDDDDDDD:::::::::             -&      &&--                   -
+    I..X     :HXXXXXXHH::DDDDDDDDDDDDDDDDDDD:::::::::             -&      &&--                   -
+    I..X     :HXXXXXXHH::DDDDDDDDDDDDDDDDDDD:::::::::             -&      &&--                   -
+    I..X     :HXXXXXXHH::DDDDDDDDDDDDDDDDDDD:::::::::             -&      &&--                   -
+    I..X     :HXXXXXXHH::DDDDDDDDDDDDDDDDDDD:::::::::             -&      &&--                   -
+XXXXI..X     :HXXXXXXHH::DDDDDDDDDDDDDDDDDDD:::::::::             -&      &&--                   -
+XXXXI..X     :HXXXXXXHH::DDDDDDDDDDDDDDDDDDD:::::::::             -&      &&--                   -
+XXXXI..X     :HXXXXXXHH::DDDDDDDDDDDDDDDDDDD:::::::::             -&      &&--                   -
+    I..X     :HXXXXXXHH::DDDDDDDDDDDDDDDDDDD:::::::::             -& ---- &&--                   -
+    I..X     :HHHHHHHHH::DDDDDDDDDDDDDDDDDDD:::::::::             -&&&&&&&&&--                   -
+    I..X     ::::::HHHH::DDDDDDDDDDDDDDDDDDD:::::::::             ------&&&&--                   -
+    I..X           :HHH::DDDDDDDDDDDDDDDDDDD:::::::::                   -&&&--                   -
+XXXXI..X           :HHH::DDDDDDDDDDDDDDDDDDD:::::::::                   -&&&--                   -
+XXXXI..X         :::HHH::DDDDDDDDDDDDDDDDDDD:::::::::                 ---&&&--                   -
+XXXXI..X   .....:HH:HHH::DDDDDDDDDDDDDDDDDDD:::::::::                -&&-&&&--                   -
+    I..X   XXX:::HH:HHH::DDDDDDDDDDDDDDDDDDD:::::::::              ---&&-&&&--                   -
+    I..X  OOOOOO:-I:HHH::DDDDDDDDDDDDDDDDDDD:::::::::                -  -&&&--                   -
+    I..X O66666:HHI:HHH::DDDDDDDDDDDDDDDDDDD:::::::::               -&& -&&&--                   -
+    I..XO666XXXXHHI:HHH::DDDDDDDDDDDDDDDDDDD:::::::::                && -&&&--                   -
+XXXXI..XO666XXXXHHI:HHH::DDDDDDDDDDDDDDDDDDD:::::::::                && -&&&--                   -
+XXXXI..X OO66:HHHHIH:HH::DDDDDDDDDDDDDDDDDDD:::::::::             -&&&& &-&&--                   -
+XXXXI..X  OOO:HXXXIH:HH::DDDDDDDDDDDDDDDDDDD:::::::::             -&    &-&&--                   -
+    I..X   ::HHXXXIH:HH::DDDDDDDDDDDDDDDDDDD:::::::::           --&&    &-&&--                   -
+    I..X  :HHHHXXXIH:HH::DDDDDDDDDDDDDDDDDDD:::::::::          -&&&&    &-&&--                   -
+    I..X  :HXXXHXHIH:HH::DDDDDDDDDDDDDDDDDDD:::::::::          -&   & & &-&&--                   -
+    I..X  :HXXXHXHIH:HH::DDDDDDDDDDDDDDDDDDD:::::::::          -&   & & &-&&--                   -
+XXXXI..X   :HHHHHHIXX:H::DDDDDDDDDDDDDDDDDDD:::::::::           -&&&&&&   -&--                   -
+XXXXI..X     ::HHHOOH:H::DDDDDDDDDDDDDDDDDDD:::::::::             --&&&  &-&--                   -
+XXXXI..X    OO:H:HHHH:H::DDDDDDDDDDDDDDDDDDD:::::::::              -&-&&&&-&--                   -
+    I..X OO6:HHH:HHEH:H::DDDDDDDDDDDDDDDDDDD:::::::::            -&&&-&& &-&--                   -
+    I..XO666XXXX:HHEH:H::DDDDDDDDDDDDDDDDDDD:::::::::                -&& &-&--                   -
+    I..XO666XXXX:HHH::H::DDDDDDDDDDDDDDDDDDD:::::::::                -&&&--&--                   -
+    I..X O66:H6H:HH:H:H::DDDDDDDDDDDDDDDDDDD:::::::::            -& &-&&-&-&--                   -
+XXXXI..X  OOO:6H:H:HH:H::DDDDDDDDDDDDDDDDDDD:::::::::             - &-&-&&-&--                   -
+XXXXI..X   ::::HHH:HH:H::DDDDDDDDDDDDDDDDDDD:::::::::               &&&-&&-&--                   -
+XXXXI..X  :HHHHH:::HH:H::DDDDDDDDDDDDDDDDDDD:::::::::          -&&&&&---&&-&--                   -
+    I..X  :HXXXXXXHHH:H::DDDDDDDDDDDDDDDDDDD:::::::::          -&      &&&-&--                   -
+    I..X  :HXXXXXXHHH:H::DDDDDDDDDDDDDDDDDDD:::::::::          -&      &&&-&--                   -
+    I..X  :HHHHHHHHH:HH::DDDDDDDDDDDDDDDDDDD:::::::::          -&&&&&&&&&-&&--                   -
+    I..X  :HHHH666HH:HH::DDDDDDDDDDDDDDDDDDD:::::::::          -&&&&   &&-&&--                   -
+XXXXI..X  OOHHHH6HH::HH::DDDDDDDDDDDDDDDDDDD:::::::::            &&&& &&--&&--                   -
+XXXXI..X O66HHHHHHH:HHH::DDDDDDDDDDDDDDDDDDD:::::::::            &&&&&&&-&&&--                   -
+XXXXI..XO666HHHHHHH:HHH::DDDDDDDDDDDDDDDDDDD:::::::::            XXXX&&&-&&&--                   -
+    I..XO666HHHHHHH:HHH::DDDDDDDDDDDDDDDDDDD:::::::::            XXXX&&&-&&&--                   -
+    I..X O6666:HH-H:HHH::DDDDDDDDDDDDDDDDDDD:::::::::              -&& &-&&&--                   -
+    I..X  OOOOO:H-H:HHH::DDDDDDDDDDDDDDDDDDD:::::::::               -& &-&&&--                   -
+    I..X  XXXOO :HH:HHH::DDDDDDDDDDDDDDDDDDD:::::::::                -&&-&&&--                   -
+XXXXI..X   X .H.:HH:HHH::DDDDDDDDDDDDDDDDDDD:::::::::                -&&-&&&--                   -
+XXXXI..X   .....::::HHH::DDDDDDDDDDDDDDDDDDD:::::::::                ----&&&--                   -
+XXXXI..X         HHHHHH::DDDDDDDDDDDDDDDDDDD:::::::::                 &&&&&&--                   -
+    I..X         HHHHHH::DDDDDDDDDDDDDDDDDDD:::::::::                 &&&&&&--                   -
+    I..X         HHHHHH::DDDDDDDDDDDDDDDDDDD:::::::::                 &&&&&&--                   -
+    I..X         HHHHHH::DDDDDDDDDDDDDDDDDDD:::::::::                 &&&&&&--                   -
+    I..X         XXXXXX::DDDDDDDDDDDDDDDDDDD:::::::::           ------------------------------------------
+XXXXI..XH  I    IHHHIHH::IDDDIDDDIDDDIDDDIDDI::::I:::                 SSS SS--
+XXXXI..X   I    IHHHIHH::IDDDIDDDIDDDIDDDIDDI::::I:::                 SSS SS--
+XXXXI..X   I    IHHHIHH::IDDDIDDDIDDDIDDDIDDI::::I:::                 SSS SS--
+    I..X         XXXXXX::DDDDDDDDDDDDDDDDDDD:::::::::           ------------------------------------------
+    I..X      OHHHHHHHH::DDDDDDDDDDDDDDDDDDD:::::::::               XX&&&&&&--                   -
+    I..X   OOOO  HHH ::::::::::::::::::::::::::::::::                 &&& --------------------------------
+    I..X  OO    HHHHH                XXXXX
+XXXXI..X        HHHHH                XXXXX
+XXXXI..X        OOOOO                -----
+XXXXI..X
+    I..X
+    I..X
+    I..X
+    I..X
+XXXXI..X
+XXXXI..X
+XXXXI..X
+    I..X
+    I..X
+    I..X
+    I..X
+XXXXI..X
+XXXXI..X
+XXXXI..X
+.....................................................
+
+ADAPTED FOR RTTY BY JOE, WA9CVD, RICHMOND INDIANA
+

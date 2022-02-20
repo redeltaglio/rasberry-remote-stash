@@ -1,0 +1,387 @@
+
+---------------------------------------------------------------------
+
+
+
+
+                               M MMIM
+                               MIMMIM
+                               MIMM M
+                                MIMIM
+                                IMMIM
+                                 MMMI
+                                IIMMM
+                                 MMMM    .-'-"".               .'.
+                                IMMMM  .'      MM.               '.'.
+                                I MMM  ..-'     'MMMM.       ' .-'
+                                I MMM  .' .      'MMMMMM-........'
+                                I  MM.' .- ''. .-MM'  'MMMMMMMMMM
+                                I  MM .''   'MMMMM'    'MMMMMMMMM..-'
+                                IMIMI .        .          'MMMMM'
+                                I IMMM.        .             "
+                                I IMM        . .'            .'
+       MMMMMMMMMMMMMMMMMMM      I MMM     .'  .  '.         .
+       M                 M        MMM  .'-'    '.  '.               .
+       M                 M      MI MM.'      .MMM'''. '.         .'
+       M MMMMMMMMMMMMMMM M      MI MM., ..'..MMM'''..'.  '.....'
+       M                 M      MI M'.'''   .MM'       'MMMMMMMM'  MM
+       M                 M      MI M M      'MMM         'MMM''   MM'
+       M                 M      MI M I .''''MM .         . .     MMM.
+       M                 M      IM M '  .    M  .         .       MMM
+       M           MMMM  M      IMM  .'      '.  '.       .         '
+       M       MMMMM     M      IMMI.         .MMM'.               .-
+       M   MMMMM         M      IIMI..'''''. .MM'   '.         .-'
+       M MMM             M     .  I.       MMM'       '......-' .
+       M   MM            M      .. ""'.     MM""        ..        '-
+       M    MMM          M           ' '.     MM.         .'      .M'
+       M      MMM        M      IIM   .II.     'MM         .    .'IIM
+       M    MMM          M      IMM  . I' .--''.  MM    ..----''IIII
+       M   MM            M        M  I-II'          """IIIIMMMMMMMMM
+       M MMM             M      I M.-  II.                   .IMM'
+       M   MMMMM         M      I  . .IMI'                  .IMM'
+       M       MMMMM     M      I  I IM' M                 .MM'
+       M           MMMM  M      I  IMI'                   .IM'
+       M                 M      I I  MMMMM.             .IMMM
+       M                 M        I' .I     '. .-''-.   .IMM.
+       M      MMMM       M       IM.'      IMMMMMMMM...IM""I        .'
+       M    MMM  MMM     M        I      .   "        "IM  '      .'
+       M  MM        MM   M      .I    .-' '..'          M       .'
+       M MM          MM  M      IM  .'      '            '    .'
+       M M            M  M       M '         ''--.         .-'
+       M MM          MM  M       I                 '---..-'
+       M  MM        MM   M       IM
+       M    MMM  MMM     M          MM
+       M      MMMM       M          M
+       M                 M       I  I
+       M                 M       I.'I'''-
+       M                 M       I  I    ''.' '.
+       M                 M       IIII '.   .    '..
+       M                 M       I IM    'I         '.
+       M                 M       I IM      'M        . '. .
+       M                 M         I I      'MM.            '-.
+       M                 M       I I I.        'MMM.              '-.
+       M MMMMM        M  M       III II          'MMM.             .
+       M M            M  M         III I            'MMM.       .
+       M M            M  M         IM  I              'MMM.    M
+       M M            M  M         MMI                   'MMM. MI
+       M MMMMMMMMMMMMMM  M         MMI IM                  'MMMMII
+       M              M  M          MM MM                    'MMMI
+       M              M  M          MI M  "".                  'MI
+       M              M  M          MI.I. .  ""-               MMM
+       M                 M          MIMI""I    I '.         .' IMM
+       M                 M          I M    I    I '.      .'//. IMMI
+       M                 M           M I'. I ""II"M..   .'//.-" MMI.
+       M MMMMMMMMMMMMMM  M          MI M   MII  I M 'M .//.'     IMM
+       M                 M           IM I I IM I M  MMI .'      IMMI
+       M                 M            M  IM MI  M I IMMI.       IIMMMI
+       M  M              M            M I M MM IM M IMMM.       .IIMM
+       M MMMM            M             M  M  I MI MIIMI I       I MMMI
+       M    MMMM         M              MMI M  IM MIIMMMMI.      MMMII
+       M       MMMMM     M               MMIMI MMIM IMMIMM'  .'-. IMII
+       M           MMMM  M               IMMMMIMMMMIIMM.....'     'IMM
+       M          MM     M                 IMMMI IMII IMIIII         M
+       M        MMM      M                  MMMMIIMMI I    I
+       M          MM     M                    I IMMIM I  ' -- .
+       M           MMMM  M                    IIMM IMM      '    '''
+       M       MMMMM     M                      IMMIMMI
+       M    MMMM         M                       IMMMMI
+       M MMMM            M                         IMM
+       M                 M                          MMM
+       M                 M                           IMM
+       M MMMM            M                             M
+       M    MMMM         M                             I
+       M       MMMM      M
+       M       M   MMM   M
+       M       M     MM  M
+       M       M   MMM   M
+       M       MMMM      M
+       M    MMMM         M
+       MNMMMM            M
+       M                 M
+       M                 M
+       MMMMMMMMMMMMMMMMMMM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+  ...
+     ...- '.
+        '-. '.
+  ..-'''   '-'....---''''''''.
+     .'',   '.              '..'.           .
+    IM  .     '-.          ...---''.    .MMMMM.
+    IM  I      .-      .-'      '-.'.'MMMMMM'  '.
+    IMM...   ..'MM. .I.-.          MMMMM''       '.
+    IMMMMMM'MM'. MMMM''MMM''.          '.         '
+   .'   '-  .-'MMMMM''''''''.           '.       '
+  .-------MMM.'""""""'.'.'.''''.  .       '.     .
+   MMM.......'               '. '.-.        '.  .'
+       """" .      .   .   .   '.-'MMM..      '.
+   '      '--       .    .   '..'MMMMM""""      '.
+   .      .-'    .          .   MMM"     "MM      '.
+  .........'                  . ""         ""      .
+  M     M   .                    M          I     .'.
+   M'..----'...  .     .  .      "M        .' '--'.  '.
+               """""""' .".       "MM     .'        .   '.
+                      .'  '.       "I.  .'.''.       '.  .
+   .'.'.               'MMMM.'      'MM'   'MMMM-'      ...
+      ' '''           .MMMMMM.'     '     .MMMMM.              .'/
+         '. .'         'M.'M'.'.      .     "'MMM"           .'//
+          .'.   '.      ' .'.'.  .    ..'.'    "M          .'//.'
+          .'       '.    '.'.'.   .   ..' . '-.          .'//.'
+  ''''''  .           '.   '.'.'MM .   .         ''..  .'//.'
+      '  .               '-.'.'.'.'..             .    .  .'  MMM
+     .'.' '                    M.M.M.M.M.       ..' .'  ''    MMM
+      ..  .   .                 .""""""""  '. '. ..'.  .'       M
+    .'     '. M                 .            '.    .'''         "
+  .'         '.""                .           .'   .-'
+               'M.M.              .M.MM .  .'//.''
+                . ""M             .M  """".//.'
+                 .  """""       "MM'       "M.
+              '.  '. M"M'     ' "MMM         M
+                     'M" '.     .MMMM         M
+                    .M.M      . "MMM         .
+                   .'  .         MMI        .
+                   .M'      '//.-' M      .
+                  .MM"    .'/.      '.---
+                 .M.M"  . /.'
+                 .M.'    .'
+                .M.  '//.'
+                MM   /.'
+                .M'./.
+              .'//.'
+            .'/.'
+         .'//.' . '.
+ .     .'//.'     '.
+   .  .'//.'  .      '.
+     . ..'     '.      '.
+        . '.     '.      '.
+        .   '.     '-.  .'.
+        .     '.     .    '
+        ..      '.    .   '.
+        ..        '.  '.   '.
+        ..          '.'.
+     .   .             '.   '.
+    .   ..               .   '.
+   . ' .                      .
+   .-'''.                    .
+  .'  .. .-                 .  MM.
+    ,  . 'M                . ' MMM"
+    '. ..'MM"                .     "
+     ..'  MM MI              .       .
+    '   '                  ' .        .
+  M     .                  ..         .
+  M      ....             ..'.       .'
+   M    .    """"MM--  .-'   I     .'
+       .             ""       ''''
+    ''''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     ORIGINATED FOR RTTY BY HARRY, K0GSO, WARSAW, MO.      03/30/82
+
+
+                               FOR  THE
+
+
+     1 9 8 2  H E N R Y  C O U N T Y  R T T Y  A R T  C O N T E S T
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     .'.
+                                   .'//.'
+                                 .'//.'
+                               .'//.' .
+                             .'//.' .  .
+                           .'//.'  ''' .
+                         .'//.'    ..  .
+                       .'//.'  ''  ''' .
+                    .'//.'    '''  ''' .
+                  .'//.'      '''  ''' .
+                .'//.'    '''   ''' '  .
+              .'//.'M     '''  '''  '  .
+            .'//.'MMM '''  ''  ''  ''' .
+          .'//.'   MM  ''  '''         .
+        .'//.' M   MM       '' '''  '  .
+      .'//.'MMMM    M  '''''   ''  ''' .
+    .'//.'   MMM.    M  ''  '''     '' .
+    //.'     MMMM     M '''    '''     .
+    /'         MMM    MM  ''   ''  '  .
+    'MMM        MMM    MM   '''   ''' .
+      MMMM       MMM    MM     '''   .
+         MM      MMMM   MMM    '''   .
+          MM      MMMM    MM    ''   .
+    M    MMMM       MMMM    MM  '''  .
+    MM    MMMM       MMMMM   MM     .
+     MMM    MMM      'MMMMMM.  MM   .
+      MMM    MMM       MMMMMMM   MM.'
+       MMM    MMM         MMMMMM  .
+       MMMM    MMMM          MMMMM   .
+        MMM    MMMMM          MMM'.  .
+         MMM        MMM         MMM  .
+         MMMM          MMMMMM    MM  .
+             MMMMM        MMM   MMM .
+                   MMM      MM   MM.
+                 MMMMMMM MMM   MM"
+                  MMM    MMMM '
+               M MMMM   .'M
+               M MMMM  .'
+              MM  MM .'
+              MM. .'
+              MM  .'
+               MM.'
+               M.'                              OOOOOOOOOOOO
+                                                      O    O
+                                                      O    O
+                                                      O    O
+                                                           O
+
+                                                OOOOOOOOOOOO
+                                                O     O    O
+                                                O     O    O
+                                                O     O    O
+                                                O          O
+
+                                                OOOOOOOOOOOO
+                                                O     O    O
+                                                O     O    O
+                                                O     O    O
+                                                 OOOOOOOOOO
+
+
+                                                OOOO       O
+                                                O   O      O
+                                                O    O     O
+                                                O     O    O
+                                                O      OOOO
+
+                                                O     O    O
+                                                O     O    O
+                                                O     O    O
+                                                O     O    O
+                                                 OOOOOOOOOO
+                                             O
+                                              OO
+
+
+                                                OOOOOOOOOOOO
+
+                                                      OOOOO
+                                                      O    O
+                                                      O    O
+                                                      O    O
+                                                OOOOOOOOOOO
+
+                                                      O
+                                                      O O
+                                                      O   O
+                                                      O    O
+                                                OOOOOOOOOOOO
+                                                      O
+
+                                                O     OOOOOO
+                                                O     O    O
+                                                O     O    O
+                                                O     O    O
+                                                OOOOOOO    O
+
+                                              OO
+
+
+
+
+
+
+-----------------------------------------------------------------------
+

@@ -1,0 +1,442 @@
+
+----------------------------------------------------------------------
+
+
+                                                                    II                                                                    HH
+                                                                  II                                                                ::HH::
+                                                               IIIIII                                                             .:HHHHHH
+                                                               III                                                              .HHH::::
+                                                                 IIIII                                                               .:HHHHH
+                                                              IIIIIIII                                                            .:HHHHHHHH
+                                                             IIIII                                                           .:HHHHH::::
+                                                           III   IIIII                                                         .:HHH:::HHHHH
+                                                    IIIIIIIIII  IIIIII                                                  .:HHHHHHHHHH::HHHHHH
+                                                      IIII  IIIIIIIIII                                                  ..::HHHH::HHHHHHHHHH
+                                                IIIIIIIIIIIIIIIIIIIIII                                              .:HHHHHHHHHHHHHHHHHHHHHH
+                                              IIIIIII IIIIIIIIIIIIIIII                                            .:HHHHHHH:HHHHHHHHHHHHHHHH
+                                            II IIIIIIIIIIIIIIIIIIIIIII                                          .:HH:HHHHHHHHHHHHHHHHHHHHHHH
+                                            IIIIIIIIIIIIIIIIIIIIIIIIII                                          .:HHHHHHHHHHHHHHHHHHHHHHHHHH
+                                             IIIIIIIIIIIIIIIIIIII    I                                          .::HHHHHHHHHHHHHHHHHHHH::::H
+                                          IIIIIIII   IIIIIIIIIIIIII                                        .:HHHHHHHH:: HHHHHHHHHHHHHH ::
+                                          IIIIII  IIIIIIIIIIIIIIIIIIII                                      ..::HHHHHH::HHHHHHHHHHHHHHHHHHHH
+                                     IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                                  ..:HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                                       IIIIIIIIIIIIIIIIIIIIII II     I                                   ..::HHHHHHHHHHHHHHHHHHHHHH:HH:::::H
+                                  IIII    IIIIIIIIIIIIIIII IIIIIIIIIII                                .:HHHH::: HHHHHHHHHHHHHHHH:HHHHHHHHHHH
+                                IIIIIIII  IIIIIIIIIIIIIIII    IIIIIIII                               .HHHHHHHH::HHHHHHHHHHHHHHHH::::HHHHHHHH
+                                  II  I     IIIIIIIIIIIIIIIIII IIIIIII                                .:HH::H:::::HHHHHHHHHHHHHHHHHH:HHHHHHH
+                                      II  III IIIIIIIIIIIIIIIIIIIIIIII                                 ..:::HH::HHH:HHHHHHHHHHHHHHHHHHHHHHHH
+                                          IIIIIIIIIIIIIIIIIIIIIIIIIIII                                  ...:::::HHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                                  III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                                .:HHH:HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH:
+                              IIII   IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                            .:HHHH:::HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+                              IIII IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                            .:HHHH:HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH::::
+                                  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                             .::::HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH::::
+                               IIIIIIIIIIII  IIIIIIIIIIIIIIII I                             .:HHHHHHHHHHHH::HHHHHHHHHHHHHHHH:H:::::
+                            IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                         .: HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH::::::
+                             IIIIIIIIIIIIIIIIIIIIIIIIIIIIII                          ..:HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH ::::
+                            IIIIIIIIIIIIIIIIIIIIIIIIIIII                         ..:HHHHHHHHHHHHHHHHHHHHHHHHHHHH::::::::::
+                             IIIIIIIIIIIIIIII IIIIIIIIIII                          ..:HHHHHHHHHHHHHHHH:HHHHHHHHHHH:::::::::
+                              IIIIIIIIIIIIIIIIIIIIIIIIIIII                          ..::HHHHHHHHHHHHHHHHHHHHHHHHHHHH::::::
+                              IIIIIIIIIIIIIII    IIIIIIIII                           ..:HHHHHHHHHHHHHHH::::HHHHHHHHH::::::
+                              IIIIIIIIIIIIIIII  II III  II                           .::HHHHHHHHHHHHHHHH::HH:HHH::HH:::::
+                               IIIIIIIIIIIIIIIIIIIIIIIIIII                           ..::HHHHHHHHHHHHHHHHHHHHHHHHHHH:::::::::
+                        II IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                      .:HH HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH:::::::::
+                           IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                         .:HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH:::
+                          IIIIIIIIIIIIIIII   IIIIIIIIIIIIII                        .:HHHHHHHHHHHHHHHH:: HHHHHHHHHHHHHH:::::::
+                              IIIIIIIIIIIIII  IIIIIIIII                         ...::HHHHHHHHHHHHHH::HHHHHHHHH:::::::::
+                              IIIIIIIIIIIIIIIIIIIIIIIIII                           ..:HHHHHHHHHHHHHHHHHHHHHHHHHH:::::::
+                           IIIIIIIIIIIIIIIIIIIIIIIIIIIIII                         ..HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH::::
+                             I IIIIIIIIIIIIIIIIIIIIIIIIII                           .:H:HHHHHHHHHHHHHHHHHHHHHHHHHH::::::
+                             IIIIIII      IIIIIIIIIIIII                           .:HHHHHHH::::::HHHHHHHHHHHHH:::::
+                             IIIIIIIIIIIIIIIIIIIIIIIIII                          .: HHHHHHHHHHHHHHHHHHHHHHHHHH:::::::::::
+                              IIIIIII IIIIIIIIIIIIIIII       I                           ..:HHHHHHH:HHHHHHHHHHHHHHHH:::::::H::::::::
+                                III  IIIIIIIIIIIIIIIII        II                              .:HHH::HHHHHHHHHHHHHHHHH::::::::HH::::::
+                                  IIIIIIIIIIIIIIIIIII                               ..:HHHHHHHHHHHHHHHHHHH:::::      ::::::
+                                  IIIIIIIIIIIIIIIIIII                               ..:HHHHHHHHHHHHHHHHHHH:::::::::  ::::::
+                                  IIIIIIIIIIIIIIIIIIII                               .::HHHHHHHHHHHHHHHHHHHH:::::::::::::
+                                  IIIIIIIIIIIIIIIIIIIII                               .::HHHHHHHHHHHHHHHHHHHHH:::::::::::::::
+                                II IIIIIIIIIIIIIIIIIIII                               .HH:HHHHHHHHHHHHHHHHHHHH:::::::::::::::
+                                 IIIIIIIIIIIIIIIIIIIIIII      I    I                              .: HHHHHHHHHHHHHHHHHHHHHHH::::::H::::H::
+                               III  IIIIIIIIIIIIIIIIIIII     I III  II                              .HHH::HHHHHHHHHHHHHHHHHHHH:::::H.HHH::HH
+                              IIIIIIIIIIIIIIIIIIIIIIIIII        II                           ..:HHHHHHHHHHHHHHHHHHHHHHHHHH::::::::HH::::
+                                IIIIIIIIIIIIIIIIIIIIIII                              .:HHHHHHHHHHHHHHHHHHHHHHH::::::: :::::::
+                              IIIII   IIIIIIIIIIIIIIII                            .:HHHHH:::HHHHHHHHHHHHHHHH:::: :::::::::
+                             I    IIIIIIIIIIIIIIIIIII                           . H::::HHHHHHHHHHHHHHHHHHH::::     :::::::
+                                  IIIIIIIIIIIIIIIIIII                              ..::HHHHHHHHHHHHHHHHHHH::
+                                  IIIIIIIIIIIIIIIIII                               .::HHHHHHHHHHHHHHHHHH::
+                              IIIIIIIIIIIIIIIIIIIIII                            .:HHHHHHHHHHHHHHHHHHHHHH::
+                              IIIIIIIIIIIIIIIIIIIII                           .::HHHHHHHHHHHHHHHHHHHHH:::
+                              IIIIIIIIIIIIIIIIIIIIII                            .:HHHHHHHHHHHHHHHHHHHHHH:::
+                              IIIIIIIIIIIIIIIIIIIII                            .:HHHHHHHHHHHHHHHHHHHHH ::::
+                              IIIIIIIIIIIIIIIIIIIIII                            .:HHHHHHHHHHHHHHHHHHHHHH:::::
+                             IIIIIII  IIIIIIIIIIIIII                           .:HHHHHHH::HHHHHHHHHHHHHH:::::::::
+                           IIIIIIIIIIIIIIIIIIIIIIIII                         .:HHHHHHHHHHHHHHHHHHHHHHHHH:::::::::
+                             IIIIIIIIIIIIIIIIIIIIIII                           .:HHHHHHHHHHHHHHHHHHHHHHH :::::::::::::
+                           IIIIIIIIIIIIIIIIIIIIII II                         .:HHHHHHHHHHHHHHHHHHHHHH:HH :::::::::::::
+                           IIIIIIIIIIIIIIIIIIIIIIIIII                         .:HHHHHHHHHHHHHHHHHHHHHHHHHH:::::::::::::
+                           IIIIIIIIIIIIIIIIIIIIIIIIII                         ..HHHHHHHHHHHHHHHHHHHHHHHHHH::::::::::
+                          IIIIIIIIIIIIIIIIIIIIIIIIIIIII                        .:HHHHHHHHHHHHHHHHHHHHHHHHHHHHH:::::::::::::
+                              IIIIIIIIIIIIIIIIIIIIIIII                       .::::::HHHHHHHHHHHHHHHHHHHHHHHH :::::::::::
+                             IIIIIIIIIIIIIIIIIIIIIIIIII                     ..::::::HHHHHHHHHHHHHHHHHHHHHHHHHH::::::::::::
+                          IIIIIIIIIIIIIIIIIIIIIIIIIIIIII                      .:::HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH::::::::::
+                             IIIIIIIIIIIIIIIIIIIIIIIIIIII                        .::: HHHHHHHHHHHHHHHHHHHHHHHHHHHH:::::::::::
+                          IIIIIIIIIIII  IIIIIIIIIIIIIIII                       ..:HHHHHHHHHHHH::HHHHHHHHHHHHHHHH :::::::::::
+                           III IIIIIIIIIIIIIIIIIIIIIIIIII                       .:::HHH:HHHHHHHHHHHHHHHHHHHHHHHHHH:::::::::::::
+                             IIIIIIIIIIIIIIIIIIIIIIIIIIIII                           .:HHHHHHHHHHHHHHHHHHHHHHHHHHHHH :::::::::::
+                            II   IIIIIIIIIIIIIIIIIIIIIIIIII                          ::HH:: HHHHHHHHHHHHHHHHHHHHHHHHHH:::::::::::
+                       II IIII  IIIIIIIIIIIIIIIIIIIIIIIIIII                    .::HH:HHHH::HHHHHHHHHHHHHHHHHHHHHHHHHHH:::::::::::
+                        II IIIIIIIIIIIIII II  IIIIIIIIIIIIII                     ..:HH:HHHHHHHHHHHHHH HH::HHHHHHHHHHHHHH::::::::::
+                                  II  IIIIIIIIIIIIIIIIIIIIII                         ....:::::HH::HHHHHHHHHHHHHHHHHHHHHH::::::::::
+                             I  IIIIIIIIIIIIIIIIIIIIIIIIIIII                         ..::H::HHHHHHHHHHHHHHHHHHHHHHHHHHHH::::::::::
+                              IIIIIIIIIIIIIIIIIIIIIIIIIIIIII                           .::HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH::::::::::
+                             I  IIII  II  IIIIIIII  IIIIIIIIII                         ..: H: HHHH::HH::HHHHHHHH: HHHHHHHHHH::::::::
+                              IIIIIII IIIIIIIIIIIIIIIIIIIIIII                           ..:HHHHHHH:HHHHHHHHHHHHHHHHHHHHHHH:::::::::
+                              IIIIII  IIIIIIIIIIII    IIIIIIII                            .:HHHHHH::HHHHHHHHHHHH::: HHHHHHHH::::::::
+                                 IIIIIIIIIIIIIIII IIIIIIIIIIIII                               .:HHHHHHHHHHHHHHHH:HHHHHHHHHHHHH:::::::
+                                      IIIIIIII IIIIIIIIIIIIIIII                                  ..::HHHHHHHH:HHHHHHHHHHHHHHHH:::::::
+                                        IIIIIIIII IIIIIIIIIIIIII                                   ..:: HHHHHHHHH:HHHHHHHHHHHHHH::::::
+                                                 IIIIIIIIIIIIIII                                          ....:::HHHHHHHHHHHHHHH :::::
+                                          I         IIIIIIIIIIIII                                       ..:H:::::::::HHHHHHHHHHHHH:::::
+                                                  IIIIIIIIIIIIIII                                            ...:::HHHHHHHHHHHHHHH ::::
+                                                      IIIIIIIIIIII                                              ....::::HHHHHHHHHHHH :::
+                                                   III IIII                                                ..:HHH:HHHH:::::::::::
+                                               II      III                                             .:HH::::::HHH:::::::::  :
+                                          ::::::::::::::::::::::
+                                        ::::::::::::::::::::::
+                                      ..::::::::::::::::::         :::
+                                    ..:::::: :::::::::::::  ::    ::::
+                                  ..::::::::::::::::::::::::::::::::::
+                                 .:::::::::::::::::::::  ::::::::::::
+                                .:::::::::::::::::::     :::::::    ::
+                               .:::::::::::::::::::       ::::      ::
+                             ..:: ::::::::::::::::          :::    :::
+                                     I                           ..::::::::H::::::::::::           :::::  ::
+                                   II                          ..:::::::HH::::::::::::                 ::::
+                         .::::::::::::::::::::                   :   :
+                      ..::::::::::::::::::::::                       :
+                     .:::::::::::::::::::::::                       ::
+                   ..:::::::::::::::::::::::                       :::
+                              I                 ..:::::::::::H:::::::::::::                        ::
+               ..:::::::::::::::::::::::::                          ::
+              ::::::::::::::::::::::::::::                           :
+                      II             .::::::::HH:::::::::::::::::                            :
+           ..::::::::::::::::::::::::::::                           ::
+                            II III        ..::::::::::::::::::HH:HHH                                  ::
+  I                       II :H:::::::::::::::::::::::HH : :                                   :::
+  II  III  III    III II::HH::HHH::HHH::::HHH HH:                                          :::
+           III III:::::::::::HHH:HHH:                                                :::
+  IIIIIIII::HHHHHHHH                                                        ::::
+  II::HH:  :                                                           :::
+IIHH                            :                                    :::
+                                                                   :::
+                                                                  ::::
+                                                                   :::
+  ::::::::                           :::    ::                     :::
+
+
+
+----------------------------------------------------------------------
+
+
+
+                              SALLY 
+
+                              PANEL 1/3
+
+ORIGINATED FOR RTTY BY GENE, WA7RCR, LONGVIEW, WASH. 10/3/87
+
+
+
+
+---------------------------------------------------------------------
+
+::::::::IIII::::::::I::IIIIIIII::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIII::        HHHH        H  HHHHHHHH        HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::III::II::::III:IIIIIIIII::::II::::IIIIIIIIIIIIIIIIIIIIIIIIIII::       HHH  HH    HHH HHHHHHHHH    HH    HHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::::::::III::IIIIIIIIIIIIIII::III:III: IIIIIIIIIIIIIIIIIIIIIIII::             HHH  HHHHHHHHHHHHHHH  HHH HHH  HHHHHHHHHHHHHHHHHHHHHHHH
+I::::IIIIIIIIIIIIIIIIIIIIIIIII::IIIIIIIIIIIIIIIIIIII:::IIIIIIIIIIIIIIIH    HHHHHHHHHHHHHHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHH   HHHHHHHHHHHHHHH
+::::::::::::::::IIIIIIIIIIIIIIIIIIIIIIII::: :IIIII:::::IIIIIIIIIIIIIII                HHHHHHHHHHHHHHHHHHHHHHHH     HHHHH     HHHHHHHHHHHHHHH
+IIII:::II::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII::::::::::II::IIIIIIIIIIIHHHH   HH  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH          HH  HHHHHHHHHHH
+::::::::::::IIIIIIIIIIIIIIIIIIIIIIII::IIIIIIIIII::::IIIIIIIIIIIIIIIIII            HHHHHHHHHHHHHHHHHHHHHHHH  HHHHHHHHHH    HHHHHHHHHHHHHHHHHH
+::IIIIIIIIIIIIIIIIIIIIII: IIIIIIIII:IIIIIIIIIIIIIIIIIIII:::::II:IIIIII  HHHHHHHHHHHHHHHHHHHHHH  HHHHHHHHH HHHHHHHHHHHHHHHHHHHH     HH HHHHHH
+:IIIIIIIII::IIIIIIIII::::::IIIIIIIIIII::::::IIIIIIIIIII::IIIIIIIIIII I HHHHHHHHH  HHHHHHHHH      HHHHHHHHHHH      HHHHHHHHHHH  HHHHHHHHHHH H
+IIIIIIIIIIIIIIIIIIIIIIIIIIII::IIIIIIIIII::::IIIIIIIIIIIIIIIIIIIIIIIIIIHHHHHHHHHHHHHHHHHHHHHHHHHHHH  HHHHHHHHHH    HHHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIII::II::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHHHHHHHHHHHHHHHH  HH        HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIII:::: :::IIII::IIIIIIIIIIIIIIIIIIII:IIIIIIIIIIIIIIIIIIII::HHHHHHHHHHHH        HHHH  HHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII::HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+III:::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHHH   HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:IIIIIIIIIIIIIIIIIIIIIIIIII:::HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIII:::IIIIIIIIIIIIII::IIIIIIIIIIII:::IIIIIIIIIIIIIIIIIIIIIHHHHHHHHHHHHH   HHHHHHHHHHHHHH  HHHHHHHHHHHH   HHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIII::IIIIIIIIIIIIIIIIIIIIIIIIIIII::::I:::III::::I: IIIIIIIIIIIIHHHHHHHHHH::HHHHHHHHHHHHHHHHHHHHHHHHHHHH::::H:::HHH::::H: HHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                   IIIIIIIIIIIIIIIIHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH:::::::: ::::::::::HHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIII IIIIII  II                III   II  III IIIIIIHHHHHHHHHHHHHHHHHHHHHHH:HHHHHH::HH::::::::::::::: HHH ::HH::HHH:HHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII               IIIIII           IIIIIIHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH:::::::::::: ::HHHHHH ::::::::::HHHHHH
+II  IIIIIIIIIIIIIIII    IIII               IIIIIIIIIIIIIIIIIIII      IHH::HHHHHHHHHHHHHHHH::::HHHH:::::::::::::::HHHHHHHHHHHHHHHHHHHH::::::H
+III IIIIIIIIIIIIIIIIIIIIII           IIIIIIIIIIIIIIIIIIIII      III IIHHH:HHHHHHHHHHHHHHHHHHHHHH:::::::::::HHHHHHHHHHHHHHHHHHHHH::::::HHH:HH
+IIIIIIIIIIIIIIIIIIIII                       IIIIIIIIIIIIII  IIIIIIIHHHHHHHHHHHHHHHHHHHHH ::::::::::::::::::::: HHHHHHHHHHHHHH::HHHHHHH:::
+IIIIIIIIIIIIIIIIIIII                     IIIII  IIIIIIIIIIII   II  IIIHHHHHHHHHHHHHHHHHHHH:::::::::::::::::::::HHHHH::HHHHHHHHHHHH:::HH::HHH
+IIIII   II  I                             IIIII IIIIIIIIIIIIIIIIIIIIIIHHHHH:::HH::H:::::::::::::::    ::::::::::HHHHH:HHHHHHHHHHHHHHHHHHHHHH
+IIIII                                           III IIIIIIIIIIIIIIIIIIHHHHH:::::::::::::::::::              ::::::::::HHH HHHHHHHHHHHHHHHHHH
+                                                  II  IIIIIIIIIIIIIIII::::::::::::   :::                             :::HH: HHHHHHHHHHHHHHHH
+                                                   I   IIIII IIIIIIIII                                               ::: H:::HHHHH:HHHHHHHHH
+                                                        IIII IIIIIIIII                                                  ::::::HHHH:HHHHHHHHH
+                                                          IIIIIIIIIIII                                                     :::::HHHHHHHHHHHH
+                                                            IIIIIIIIII                                                      ::::::HHHHHHHHHH
+                                                             IIIIIIIII                                                        :::::HHHHHHHHH
+                                                             II  IIIII                                                        :::::HH::HHHHH
+                                                              II IIIII                                                        ::::::HH:HHHHH
+                                                                  II I                                                          ::::::::HH:H
+                                                        :::::::::::::
+                                                         :::::::::::::
+                                                          ::::::::::::
+                                                          ::::::::::::
+                                                          ::::::::::::
+                                                           : :::::::::
+                                                           : :::::::::
+                                                               :::::::
+                                                               :::::::
+                                                           :    ::::::
+                                                                ::::::
+                                                          ::::::::::::
+                               :  ::::  ::::    :        :::   :::::::
+:::                      ::::::::::::::::::     ::::::::::   :::::::::
+IH::::                    :::::::::::::: :               ::::::::::::::
+:::::::                 ::::::::::::::::::: ::              ::::::::::
+                                    I::::::::                 :::::::::::H::::::::::::          :::::::::::
+:  : ::::                :::::::::::::::::       :::::     : :::::::::
+    :::::                 ::::  ::::           ::         ::::::::::::
+IH:::    :                       ::::::::::  ::: ::::::::::::  ::::::::
+                                        III II::::::::                      ::::::::::HHH:HH::::::::::::::::::::::::
+I                                 II  IIII       IIIH:: ::::                    ::::::HH::HHHH:    ::HHH::::::::::::::::::
+::      :                   ::  ::::::::::::     :::::::::: :   ::::::
+:::                                  :::::::      ::::
+::::                                    :    ::::::::
+:                                       ::::    :
+
+
+
+
+
+                                                                    ::
+                                                                ::::::
+                                                                ::::::
+                ::                                      ::::::::::::::
+  ::            :                                           ::::::::::
+:::::                                                    :::::::::::::
+             III :::::::  :::HHH:                                     ::::::::::::::::
+                III    ::::::::::::HHH:::::                             :::::::::::::::::
+    ::::::::::  :::::::::                            ::::::: :::::::::
+       ::::::                                     :: :::::::::::::::::
+        :::                                     ::::      ::::::::::::
+ ::                                              :::  ::::::::::::::::
+                                                   :  ::  ::::::::::::
+::::                                              :: :::::::::::::::::
+::::                                           :::::::::::::::::::::::
+::::::::                                  ::  ::::::::::::::::::::::::
+:::::::::   ::::                           :    ::::::::::::::::::::::
+::::::::::::::::::::::::               ::       ::::::  ::::::::::::::
+   II  IIII IIII    I:::HH::HHHH:HHHH::::H:::::::::        :::::     ::::::::::::::::::::::
+        IIIIIIIIIIIII          I:::::   HHHHHHHHHHHHH  ::::::::H:::::           ::::::: ::::  ::::::::
+::::::: :::::   ::      :::::::: :::        ::::::::::::::::   : :::::
+::::::::::::::::    ::      ::::                :::  :::        ::::::
+::::::::::::  ::::::   :::::::::::          :::::::::::   ::  ::::::::
+::::::::::::::::   :::::::::              :::::: :::      ::  ::::::::
+            IIII::::::::::::HHHH::::::::::              ::::::::::::       :  ::::::::
+           I:::: ::::::H    ::::                ::::::::::::::::      ::   :::::::
+::::                            ::::::: ::::    ::::        ::::::::::
+::::                             :::      ::            ::::::::::::::
+::::                              ::                    ::::::::::::::
+:::                                                    :::::::::::::::
+::::    :                                               ::::::::::::::
+::::                                               :::::::::::::::::::
+:::                                             ::::::::::::::::::::::
+::::::                        ::  ::::::::  ::::::::::::::::::::::::::
+ :::::                        ::::::::::::::::::::::::::::::::::::::::
+:::::::::::: ::: :::   :::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+IIIIIIIHHHHHHH:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+          I                                I::::::::::H::::::::::::::::::::::::::::::: H::::::::::::::::::::::::::
+         IIIIIII    I:::::::::HHHHHHH :::H:::::::::::::::::::::::::::::::::::::::::::::::::
+   I    IIII      II    III        I               I:: H::::HHHH::::::HH::::HHH::::::: H:::::::::::::::H::::::::::::::::::
+           I    III     III I:::::::::::H::::HHH:::::HHH:H ::::::::::::::::::::::::::::::::::::::::
+                IIII           I::::::::::::::::HHHH:::::::::::H::::::::::::::::::::::::::::::::::::::
+                             III:::::::::::::::::::::::::::::HHH:::::::::::::::::::::::::::::::: :::::
+                 II                     I::::::  :::::::::HH:::::::::::::::::::::H:::::::::::::::::      ::::::
+                 III::::::  ::  :::: HHH::::::::::::::::::::::::::::::::::       :::::::::
+::::::: :   :::::::::::::::::::::::::::::::::::::::::        :::::::::
+::::::::      ::::::::::::::::::::::::::::::::::::             :::::::
+                        I::::::         :::::::::H:::::::::::::::::::::: :            :::::::::
+::::::   :       :::::::::::::::::::::::::                      ::::::
+:::::                ::::::::::::::::   :                       ::::::
+:::::                                                           ::::::
+::::                             ::                            :::::::
+:::                                                            :::::::
+::::                                                         :::::::::
+ ::                                                         ::::::::::
+::                                                          ::::::::::
+::                                                         :::::::::::
+:                                                        :::::::::::::
+::                                                      ::::::::::::
+::                                                       :::::::::::
+::                                                      :::::::::::
+:                                                      ::::::::::    :
+::                                                    :::::::::    :::
+
+
+
+----------------------------------------------------------------------
+
+
+
+                              SALLY
+
+                             PANEL 2/3
+
+ORIGINATED FOR RTTY BY GENE, WA7RCR, LONGVIEW, WASH, 10/3/87
+
+
+
+
+------------------------------------------------------------------
+
+:IIIIIIIIIIIIIIIIIIIIIIIII:. HHHHHHHHHHHHHHHHHHHHHHHHH
+:IIIIIIIIIIIIIIIIIIIIIII I:. HHHHHHHHHHHHHHHHHHHHHHH H
+IIIIIIIIIIIIIIIIIIIIIIIIIIHHHHHHHHHHHHHHHHHHHHHHHHHH
+IIII::IIIIIIIIIIIIIIIIIII:.HHHH  HHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIII:..HHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIII:.HHHHHHHHHHHHHHHHHHHHHH
+II   IIIIIIIIIIIIIIIIIIII:.HH:::HHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIII :.HHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIII::.HHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIII:::::IIIIIIII:.HHHHHHHHHHHHHHH     HHHHHHHH
+IIIIIIIIIIIIIIIIII::IIIIIIIIIII:.HHHHHHHHHHHHHHHHHH  HHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIII::II::II:.HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  HH  HH
+::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:::::II.  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH     HH
+::IIIIIIIIIIII:IIIIIIIIIIIIIII::::::::::::..  HHHHHHHHHHHH HHHHHHHHHHHHHHH
+:IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII::::::II:::.. HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:::::::::..  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+III::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII::::::I:.HHH  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH      H
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII::::IIIII:.HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH    HHHHH
+::II::IIIIIIIIIIIIIIIIIIIIIIIIIIIIII::II::IIIIIIIIIIIIII:.  HH  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  HH  HHHHHHHHHHHHHH
+IIIIII:IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:.HHHHHH HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIII: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:..HHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::IIIIIIIIIIIIIII:IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:IIII:::::III:..  HHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH HHHH     HHH
+IIIIIIIIIIIIII ::IIIIIIIIIII::II::IIIIIIIIIIIIIII:IIIII::::::::..HHHHHHHHHHHHHH   HHHHHHHHHHH  HH  HHHHHHHHHHHHHHH HHHHH
+IIIIIII:::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:::::::I::.HHHHHHH   HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH       H
+::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:I:.  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH H
+IIIIIIIII: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:IIIIIIIIIIIIIIII:::IIIIIIIHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHH   HHHHHHH
+IIIIII::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII::IIIIIIIIIIIIII ::II::IIIIIIIIHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  HHHHHHHHHHHHHH   HH  HHHHHHHH
+IIIIIIIII:IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:IIIIIIIIIIIIIIIIIIIIIIIIII:HHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIII:IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIIIIIIIIIIIIHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHH
+IIIIIII:::IIIIIIIIIIIIIIIIIIIIIIIIIIIII::IIIIIIIIIIII:: IIIIIIIIIIIIIIHHHHHHH   HHHHHHHHHHHHHHHHHHHHHHHHHHHHH  HHHHHHHHHHHH   HHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIII::IIIIIIIIIIIIIIIIIIIIIIIIIIIIII::IIIIIIIIIIIIIIIIIIIIIIIIHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:IIIIIIIII:IIIIIIIIIIIIIII:::IIIIIIIIIIIII:IIIIIIIIIIIIIIII::IIIIIIIII HHHHHHHHH HHHHHHHHHHHHHHH   HHHHHHHHHHHHH HHHHHHHHHHHHHHHH  HHHHHHHHH
+::::II::::I:::IIIIIIIIIIIIIIIIIIIIIIIIIIII::IIIIIIIIIIIIIIIIIIIIIIIIII    HH    H   HHHHHHHHHHHHHHHHHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:::IIIIIIIIIIIIIIIIIIIIIIIIIIII        HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH   HHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII          HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:IIIIIIIIIIIIIIIIIIII          HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHH
+::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:IIIIIIIIIIIIIIIIIIII          HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHH
+::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:IIIIIIIIIIIIIIIIIIIII          HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHH
+::::::IIIIIIIIIIIIIIIIIIII:::::III::::IIII :::IIIIIIIIIIIIIIIIIIIIIIII      HHHHHHHHHHHHHHHHHHHH     HHH    HHHH    HHHHHHHHHHHHHHHHHHHHHHHH
+::::::::IIIIIIIIIIIIIIIIIIII::IIIIIIIIIIIIIIIIIIIIIIIIIIIIII::IIIIIIII        HHHHHHHHHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  HHHHHHHH
+:::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::: :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII          HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: II           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  HH
+::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII            HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIII:::I:IIIIIIIIIIIIIIIIIII                 HHHHHHHHHHHHHHHHHHHHHHHHHHHHH   H HHHHHHHHHHHHHHHHHHH
+::::::::::::IIII::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:::IIIIIIIIIIIIIIIIII            HHHH  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH   HHHHHHHHHHHHHHHHHH
+::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII            HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII              HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+: :::::::::::III::IIIIIIIIIIII:IIIIIIIIIIIIIIIIII:IIIIIIIIIIIIIIIIIIII             HHH  HHHHHHHHHHHH HHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHH
+::::::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+    :::::::::::: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+   :::::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+   ::: :::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:::                  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+   :::::::::::::::IIIIIIII::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                  HHHHHHHH    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+      :  ::::::::IIII::::::III:: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                 HHHH      HHH   HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+      :::::::: ::::I::::::::::I::II:IIIIIIIIIIIII::IIIIIIIIIIIIIIIIIII                   H          H  HH HHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHH
+  ::::::::::::::::::II:::::::::::::::IIIIIIIIIII::IIIIIIIIIIIII:::IIII                    HH               HHHHHHHHHHH  HHHHHHHHHHHHH   HHHH
+ :::::::::::::::::::::::::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                                    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::::::::::::::::::::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                                   HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::::::::::::::::::::::::IIIIIII:IIIIIIIIIIIIIIIIIIIIIIIIIIII                                  HHHHHHH HHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::::::::::::::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                                  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::::::::::::::II::::::::IIIIIII:III:IIIIIIIIIIIIIIIIIIIIIIII                        HH        HHHHHHH HHH HHHHHHHHHHHHHHHHHHHHHHHH
+:::::::::::::::::::::::  :::::::: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                                  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::::::::::::::::    ::::::IIIIII:IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                               HHHHHH HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::::::::::::::::: :::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                              HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::::::::::::::::::: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                              HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::::::::::::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::::::::::::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::::::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                          HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::::II::::: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII              HH      HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::::III ::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII              HHH     HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::II::::IIIIIIII::IIIIIIIIIIIIIIIII IIIIIIIIIIII:::I:IIIIIII            HH    HHHHHHHH  HHHHHHHHHHHHHHHHH HHHHHHHHHHHH   H HHHHHHH
+::::::::::::::    :IIIIIIIIIIIIIIIIIII:::IIIIIIIIIIIIIIIIIIIIIIIIIIIII                   HHHHHHHHHHHHHHHHHHH   HHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::::::      :::::::IIIIIIIIII:::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                        HHHHHHHHHH   HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::IIIIII:::I:IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:::            HHHHHH   H HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::::IIII::: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:IIII              HHHH    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH HHHH
+::::::::::::::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:::::III                    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH     HHH
+:::::::::::::::::: ::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                     HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::        ::::IIIIIIIIIIIIIIIIIIIIIIII::IIIIIIIIIIIIIIIIIIIIII                      HHHHHHHHHHHHHHHHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHH
+:::::::::         :::IIIIIIIIIIIIIIIIIIIIIIII:IIIIIIIIIIIIIIIIIIIIIIII                     HHHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHH
+::::::::I:    ::::::::IIIIIIIIIIIIIIIIIIIIIII:IIIIIIIIIIIIIIIIIIIIIIII        H             HHHHHHHHHHHHHHHHHHHHHHH HHHHHHHHHHHHHHHHHHHHHHHH
+::::::::::::      ::: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII                      HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::IIIIII::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII        HHHHHH    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:        HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII         HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::: IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII        HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:::I: IIIIII: IIIIIIIIIIIIIIIIII       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH   H  HHHHHH  HHHHHHHHHHHHHHHHHH
+:::::::IIIIIIIIIIIIIIIIIIIIIIIIIIII::IIIIIIIIIII::IIIIIIIIIIIIIIIII:::       HHHHHHHHHHHHHHHHHHHHHHHHHHHH  HHHHHHHHHHH  HHHHHHHHHHHHHHHHH
+:::::::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+::::::IIIIIIIIII::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:::::::II      HHHHHHHHHH  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH       HH
+:::::IIIIIIIIII:::  ::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII::: :::I ::     HHHHHHHHHH       HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH       H
+:::::I:IIIIII::      ::IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:I::::IIIIII:     H HHHHHH          HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH H    HHHHHH
+::::::IIIII::         :::::::::::::::::::::::::::III:II ::::::::::::::      HHHHH                                      HHH HH
+:::::IIIII:            ::::::::::::::::::::::::::II:::::::::::II:::::I     HHHHH                                       HH           HH     H
+::::: IIII::            :::::::::::::::::::::::::IIIIIIII::::::::::::      HHHH                                       HHHHHHHH
+::::IIIIII::            :::::::::::: I:::::::::::III::::::::::::II::II    HHHHHH                           H           HHH            HH  HH
+:::IIIII::               ::::::::::::::::::::III::::::::::::::::::::::   HHHHH                                     HHH
+::IIIIIII:                :::::::::::::::::II:::::III:::::: I:::::::::  HHHHHHH                                  HH     HHH       H
+:::IIIII::                  :::::::::::::::II:::::III:::::::::::::::::   HHHHH                                   HH     HHH
+::::IIII::                  ::::::::::::::::::::::::::::::::::::::::::    HHHH
+::: II ::                    :::::::::::::::::::::::::::::::::::::::::    HH
+:IIIII::                     ::::::I:::::::::::::::::::: I:::::: III:: HHHHH                             H                     H       HHH
+::::I::                       :::::: I::::::::::II:::I::::::::::::::II    H                                H          HH   H              HH
+:::::::                        :::::::::::::::::::I:::I:::::::::::::::                                                  H   H
+::::::                         :::::::::::::::::::I:::::::::::::::::::                                                  H
+::::::                          :::::::::::::::::II:::::::::::::::::::                                                 HH
+:::::                           :::::::IIIIII::::::::::II ::::I:::::::                                       HHHHHH          HH     H
+:::::                            ::::   :::::III:::::::::::::::::::: I                                             HHH                     H
+::::                                :          ::::IIII:::::::::::::::                                                   HHHH
+::::                                                 :III:IIII::::::::                                                      HHH HHHH
+:::                                                             :: :::
+::                                    :
+::                                     :
+:                                     ::
+                                        ::
+                                       :::
+                                        ::::
+   :::                                  ::::                       ::
+::::::::::IIIIIIIIIII:                   :::              ::::::          HHHHHHHHHHH
+::::::::::IIIIIIIIIIIII:: ::               ::           ::          HHHHHHHHHHHHH
+::::::::: :IIIIIIIIII:::::::::IIIIIIII::::II:::   :::::           HHHHHHHHHH         HHHHHHHH    HH
+
+
+-----------------------------------------------------------------------
+
+
+
+                                   SALLY
+
+                                 PANEL 3/3
+
+         ORIGINATED FOR RTTY BY GENE, WA7RCR, LONGVIEW, WASH.  10/3/87
+

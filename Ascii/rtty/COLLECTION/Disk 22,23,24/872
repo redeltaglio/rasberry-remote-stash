@@ -1,0 +1,83 @@
+
+    .-----.                   .-"III"-.
+    :XXXXX:              /   .IIIIHIIII.         /   /                /
+    :XXXXX:   .--.       /   :IIIIHIIII:         /   /    .---.       /
+    :XXXXX:.-'XXXXX'.    /   :IIIIHIIII:         /   /   .IIIII.      /
+    :XXXXX:.XXXXXXXXX    /   :IIIIHIIII:   /     /   /   :HIHIH:      /
+    :XXXXX'XXXXXXXXXX:   /   :IIIIHIIII:   /     /   /   HIIHIIH      /
+    :XXXXXXXXXXXXXXXX:   /   :IIIIHIIII:   /     /   /  .HIIHIIH      /
+    :XXXXXXXXX.XXXXXX:   /   :IIIIHIIII:   /    /   / .'HHIIHIIH      /
+    :XXXXXXX.  .XXXXX:   /   :IIIIHIIII:   /        .'HHHIIIHIIH      /
+    .XXXXXXX.  :XXXXX:   /   :-'""H"-.I:   /     .'HHHHHHIIIHIIH      /
+     '.XXXX.   :XXXXX:   /  'HHIIIIHHII:      .'HHHHHHHHIIIIHIIH      /
+        ''     :XXXXX:  /   HHII.HHHHHH.  .'HHHHHHHHHHHHIIIIHIIH     /
+               :XXXXX:      HHII.HHIIHH.-'HHHHHHHHHHHHHHIIIIHIIH    /
+    .----------'XXXXX:      'HHIIIIIHHIIIHIHHHIIIIIIIHHHIIIIHIIH    /
+    :XXXXXXXXXXXXXXXX:      'HHHHHIIHIIIHIIHIIIIIIIIIHHHIIIIHIIH    /
+    :XXXXXXXXXXXXXXXX:      'HHHHHHIIIIHHIIIIIIIIIIIIHHHIIIIHIIH    /
+    :XXXXXXXXXXXXXXXX:      .HHHHHHIIIIHHHIIIIIIIII.-'':I.-.IIH'    /
+    '----------:XXXXX:      'HHHHHIIIIIHHIIIIIIII.'    :HHHIH'      /
+    .          :XXXXX:      .HHHHIIIIIIIIIIIIII.'     HHIHIHH'
+    :X'-.      :XXXXX:      :HHHIIIMIMIIIIIII.'       HIIIHH'
+    :XXXXX'-.  '-----'      :HHHIMIMIMI:IIIIII:       'HHHH.
+    :-.XXXXXXX'-.        /  :HHIIMIMIMI.IIIII.H
+      :XXXXXXXXXXX'      /  :HHIIMIMIMI.IIII.HH.
+      :XX.-.XXXXXXX':    /  :HIIIMIMIMI:IIII:HIH
+      :X:-.'XXXXXXXX:    /  :HIIIMIMIMI:IIII:HIH.
+    :'XXXXXXXXXXXXXX:    /  :HIIMMIMMI.IIIII.IIHH
+    :XXXXXXXXX.-'  '     /  :HIIMMMMMI.IIII'IIIIHH.
+    :X.-'                /  :HIIMMMMMI:IIII:IIIIHHH
+    .                       :HIIMMMMMI:IIII:III HHH    / /
+    :XXXXXXXXXXXXXX.        :HIIMMMMI'IIIII:IIIIIIHH   / /
+    :XXXXXXXXXXXXXX:        :HIIMMMMI:IIIII:IIIIIIIH   / /
+    :XXXXXXXXXXXXXX:        HHIMMMMMI:IIIII:IIIIIIIH   / /
+    '-.XXXX.--.XXXX:       .HIIMMMMII:IIII.IIIIIIIIH   / /
+    .-XXXXX:  :XXXX:       HIIHMMMMI'IIIII:IIIIIIIHH   / /
+    :XXX.XX'--'XXXX:       HIIHMMMMI:IIIII:IIIIHHHHH     /
+    :XX. .XXXXXXXX.        HIIHMMMMI:IIIII:IIHHHHHHH     /          .-'.
+    :XX:   '.XXXX.         HIIHMMMMI:IIIII:IIHHHHHHH           .-'XXXXX:
+    :XX:    '---'          HIIHMMMMI:IIIII:IIHIHIHH'    .-'XXXXXXXXXXXX:
+    :XX:                  HIIIHMMMHI:IIIII:IIIIIHH.     :XXXXXXXXXXX.-''
+    '--'                  HIIIHMMMMI:IIIII:IIIIIH'      '-.XXXXXXX;-,
+                   /      HIIIHMMMHI:IIIHH:IIII.           '.XXXXX'-.
+                   //     HIIIHMMMII:IIHHH:HH.'         .-' XXXXXXXX'
+               /   //    .HIIHMMMMII:IHHHH:.'           :XXXXXXXXX:-'
+                  //     HIIHHMMMIII:IHIH.'             :XXXXXXXXXXX'-.
+               /  //    .HIIHHMMMIII:IIH.'              '-.XXXXXXXXXXX:
+               /  //    HHIIHHMMMIII:IIH'                    '-.XXXXXX:
+               / ///    HIIHHHMMMIII:IIH:              .         '-.XX:
+               / ///    HIIHHMMMMII:IIIH:              :XXX
+               ////     HIIHHMMMMII:IIIH:              :XXXXXXXX
+                ///     HIIHHMMMMI.IIIIH:              .XXXXXXXXXXXXX:
+                ///     HIIHHMMMII:IIHHH:               :XXX.-XXXXXXXX:
+                 //     HIIHHMMMII:IHHHH:               :XXX:  '-.XXXX:
+               ////    .HIIHHMMMII:IHHHH               .'XXX.-'XXXXXXX:
+               ////    HIIIIIIIIII:IHHH'               :XXXXXXXXXXXXX:
+               ///     HIIIIIIIIII:IHH.                :XXXXXXXX
+               ///     HIIIIIIIIII:IH'                 .XXX
+            /   //     HIIIIIIIIIII.-'
+            /   //     HIIIIIIIIIII.'                  .--------------:
+            /   /      HIIMMMMIIII.                    :XXXXXXXXXXXXXX:
+                       'HIMMMMIIII                     :XX.XXXXXXXXXXX:
+                        'IMMMMII.                         .XXX:--.XXXX:
+                         'MMMM.'                       .'XXXXX:  :XXXX:
+                           '-'                         :XXXXXX'--'XXX.
+                                                       :XXX.XXXXXXXX.
+                                                       :XXX: '.XXX.'
+                                                       :XXX:    '
+                                                       :XXX:
+                                                       :XXX:    .-'-.
+                                                       :XXX: .-'XXXXX'.
+                                                       :XXX:-XXXXXXXXXX
+                                                       :XXX.XXXXX.XXXXX
+                                                       :XXXXXXX.':XXXXX
+                                                       :XXXXXX.  :XXXXX
+                                                       '.XXXX.   :XXXXX
+                                                         '-'     '----'
+
+                          "LAND SPEEDER"
+
+                   FROM THE MOVIE " STAR WARS "
+
+        ORIGINATED BY RICKY ARTHUR AND DICK K7YNC IN PHOENIX
+

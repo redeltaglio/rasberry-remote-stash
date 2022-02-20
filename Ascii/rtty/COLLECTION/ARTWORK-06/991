@@ -1,0 +1,237 @@
+
+:::::::::::::::::::::::::------ PUZZLE ------::::::::::::::::::::::::
+
+
+THE FOLLOWING MAZE WAS DESIGNED BY A FIRST YEAR ELECTRONIC ENGINEERING
+STUDENT AS AN EXERCISE IN COMPUTER PROGRAMMING AT PURDUE UNIVERSITY.
+THE ORIGINAL MAZE WAS COMPOSED IN 16 PAGES OF WHICH THE FOLLOWING
+EFFORT INCLUDES ONLY THE FIRST THREE PAGES.
+
+ONCE DESIGNED, COPIES OF THE MAZE WERE GIVEN SIX OTHER STUDENTS TO
+SOLVE. IT WAS REPORTED THAT THEY WORKED ON THE PROBLEM FOR SEVERAL
+WEEKS WITHOUT ARRIVING AT A SOLUTION. IT WAS THEN FED TO THE COMPUTER
+WHICH PROCEEDED TO SOLVE IT IN A MATTER OF SECONDS!
+
+THIS MAZE WILL BE SENT OVER RTTY IN TWO PARTS. UPON RECEIVING BOTH
+PARTS, CUT PART TWO ALONG THE DOTTED LINE OF THE LEFT MARGIN AND
+ATTACH TO PART ONE, MATCHING THE DOTTED LINES AT THE TOP AND AT THE
+BOTTOM OF THE MAZE. 
+
+FROM THEN ON IT'S UP TO YOU. G O O D  L U C K !!!!!!!!
+
+.....................................................................
+
+
+
+
+
+
+
+
+
+I-----------I--------------------I-----------------I-----------I-----I
+I           I                    I                 I           I     I
+I  I--I  I--I  I--I---------  I  I  ---------------I  I---  I  I  I  I
+I  I  I  I     I  I           I  I                    I     I  I  I  I
+I  I  I  I  I--I  I  I--------I  I-----I---------  ---I-----I  I  I  I
+I     I     I        I           I     I              I        I  I
+I-----I---  I--------I  I-----I--I  I  I  I-----------I  I  I--I--I  I
+I     I     I        I  I     I     I     I              I  I        I
+I  I  I  I--I  ---I  I  I  I  I  I  I-----I  ------I-----I--I  I-----I
+I  I     I        I  I  I  I  I  I        I        I           I
+I  I--I--I------  I  I  I  I  I--I-----I  I-----I  I  ---I  ---I  ----
+I  I  I           I  I     I           I        I  I     I     I
+I  I  I  I-----I  I--I-----I--I  ------I---  I--I  I  I  I--I  I-----I
+I  I     I     I              I        I     I     I  I     I        I
+I  I-----I  I  I  ---I  ------I------  I  I--I  I--I  I--I  I-----I  I
+I  I        I  I     I                 I  I     I  I  I  I  I     I  I
+I  I  I-----I  I-----I  I-----I--I  I  I--I  I--I  I  I  I  I  I  I  I
+I     I     I        I  I     I  I  I        I     I     I  I  I     I
+I  I--I--I  I------  I  I  I  I  I  I---  I--I--I  I-----I  I  I--I--I
+I  I     I           I  I  I     I  I     I     I           I     I
+I  I  I  I--I  ---I--I  I  I---  I--I  I--I  I  I-----I-----I--I  I  I
+I     I     I     I     I  I     I     I     I        I        I  I  I
+I-----I---  I-----I  I  I--I  ---I  I  I  I--I------  I  I---  I  I  I
+I           I        I     I        I  I  I  I           I     I     I
+I  I--------I  ------I--I  I--------I--I  I  I  I-----I  I-----I  ---I
+I  I        I        I  I              I     I  I     I  I     I     I
+I  I  I---  I--I  I  I  I-----I------  I-----I  I  I  I--I  I  I  I--I
+I  I  I     I  I  I  I  I     I              I  I  I        I  I  I
+I  I--I  I  I  I  I  I  I  ---I  ------------I  I  I--------I  I  I  I
+I     I  I     I  I  I  I     I                 I  I        I     I  I
+I---  I  I--I  I--I  I  I  I  I-----I-----------I  I  ---I  I-----I  I
+I     I     I        I     I  I     I              I     I        I
+I  I  I-----I  I-----I-----I  I  I  I  I--------I--I---  I  ------I  I
+I  I        I  I                 I  I  I        I  I     I           I
+I  I---  I  I--I  ------I-----I  I--I  I  ---I  I  I  I--I-----------I
+I  I     I     I        I     I     I  I     I  I  I  I  I           I
+I  I-----I--I  I--I  I  I---  I--I  I  I--I  I  I  I  I  I  I---  I--I
+I           I     I  I  I        I  I     I  I  I     I     I     I
+I--I  I-----I--I  I  I  I  ---I--I  I  I  I--I  I-----I  ---I  ---I  I
+I  I  I     I  I     I  I     I     I  I        I     I     I     I  I
+I  I  I  I  I  I  ---I  I---  I  ---I  I--------I  I  I---  I---  I  I
+I     I  I     I     I  I     I        I           I  I     I        I
+I  I--I--I---  I---  I  I  ---I-----I--I  I--I-----I  I  ---I--------I
+I  I           I     I  I     I     I     I  I     I  I     I
+I  I  ------I--I--I  I  I---  I  I  I  I--I  I  I  I  I  I  I  I------
+I  I        I     I  I        I  I  I  I     I  I     I  I  I  I
+I  I------  I  I  I--I--I  ---I--I  I  I  I  I  I-----I  I  I  I  I---
+I           I  I        I           I     I  I  I        I     I  I
+I  I--------I  I------  I-----------I-----I  I  I  I--I--I-----I  I  I
+I  I           I        I           I     I  I  I  I  I              I
+I  I  I---  I--I------  I  I------  I  ---I  I  I  I  I  I  I--I  I--I
+I  I  I     I              I        I     I  I  I     I  I  I  I  I
+I--I  I  ---I  ------I-----I--I-----I--I  I  I  I  I--I  I  I  I  I  -
+I     I     I        I        I        I  I  I     I     I  I     I
+I  I--I--I  I-----I  I  I  I  I  ---I  I  I  I-----I  I--I  I--I--I--I
+I  I     I        I     I  I        I  I     I        I        I     I
+I  I  I  I--I---  I---  I--I------  I--I  I--I-----I--I--I  I  I  I  I
+I     I     I     I     I           I     I        I     I  I  I  I  I
+I-----I---  I  I--I-----I  ---------I  I--I  ---I  I  I  I--I  I  I---
+I           I  I  I     I              I  I     I  I  I     I  I
+I  ------I  I  I  I  I  I-----------I  I  I--I  I  I  I---  I--I------
+I        I  I     I  I              I  I     I  I  I  I     I
+I-----I  I--I-----I  I--------I  I--I  I---  I  I  I  I  ---I  I--I---
+I     I              I        I  I     I     I  I  I  I     I  I  I
+I  I  I-----I--------I  I---  I  I  I  I  ---I  I  I  I--I  I  I  I  -
+I  I        I           I     I  I  I  I        I     I  I  I     I
+I  I-----I--I  I  I-----I  I--I  I  I--I--------I--I  I  I  I--I  I---
+I        I     I  I     I  I  I  I              I  I     I     I  I
+I  ---I  I  I--I--I  I  I  I  I  I  ------I  I  I  I--I  I--I  I--I  I
+I     I     I        I  I  I     I        I  I  I     I     I     I  I
+I--I  I--I--I  I  I--I--I  I  I--I-----I  I--I  I  I  I---  I---  I  I
+I  I     I     I  I     I     I        I     I  I  I        I     I
+I  I  I  I  ---I  I  I  I--I  I  ---I  I--I  I--I  I--I  I--I-----I  I
+I     I  I     I  I  I     I  I     I     I     I     I  I           I
+I-----I  I--I  I  I  I--I  I--I---  I---  I  I  I---  I  I  I--------I
+I        I  I  I  I     I     I     I     I  I  I     I     I        I
+I  ---I--I  I  I  I---  I  I  I  I--I  ---I--I  I  I  I---  I  ------I
+I     I     I  I  I     I  I     I  I           I  I  I     I        I
+I  I  I  ---I  I  I  ---I--I--I  I  I  ---------I  I--I  I--I-----I  I
+I  I  I        I  I           I  I  I           I     I  I        I
+I--I  I-----I--I  I  ------I  I--I  I  ---I-----I--I  I  I  ---I  I--I
+I     I     I     I        I  I     I     I     I  I  I  I     I     I
+I  I--I  I  I  ---I--I---  I  I  ---I--I  I  I  I  I  I  I  I  I-----I
+I  I     I  I        I     I  I        I     I     I  I     I
+I  I  I--I--I  ---I  I  I--I--I  I---  I-----I-----I  I-----I--I------
+I     I     I     I     I     I  I     I           I           I
+I-----I  I  I--I  I-----I  I  I  I  ---I  I--I-----I---------  I  I  -
+I     I  I     I           I  I  I     I     I                 I  I
+I  I  I  I--I  I-----------I  I--I---  I  I  I  ---I--I--------I  I---
+I  I     I  I  I           I     I     I  I  I     I  I        I
+I  I-----I  I  I--I  ---I  I---  I  ---I  I  I--I  I  I  ---I  I------
+I        I  I     I     I  I     I        I     I  I  I     I  I
+I-----I  I  I  I  I-----I  I  ---I  I  I  I-----I  I  I---  I  I  I--I
+I     I     I  I           I     I  I  I           I        I     I  I
+I  I  I-----I  I-----------I---  I  I--I  ---------I--I-----I-----I  I
+I  I           I           I     I     I           I  I     I
+I  I--------I--I  I  I---  I  I--I--I  I--I-----I  I  I  I  I  I  ----
+I           I     I  I     I  I     I     I     I  I     I  I  I
+I  I--I---  I  ---I  I  I  I  I---  I---  I  I  I  I--I--I  I  I--I---
+I  I  I     I     I  I  I     I     I     I  I        I     I     I
+I  I  I  ---I--I  I  I  I-----I  I--I  I--I  I-----I--I  I--I--I  I  I
+I     I        I  I  I        I  I     I     I     I     I     I  I  I
+I-----I-----I  I  I  I------  I  I  ---I  ---I  I  I  I--I  I  I  I  I
+I     I     I     I  I        I  I     I     I  I     I     I  I  I
+I  I  I  I  I--I--I--I  ------I  I--I  I--I  I  I-----I  ---I  I  I  I
+I  I  I  I     I     I        I     I     I     I     I     I     I  I
+I  I  I--I---  I  I  I-----I  I  I--I---  I-----I  I  I---  I-----I  I
+I  I     I        I        I     I        I     I  I        I        I
+I  I--I  I  I--I--I--I---  I-----I  ---I  I---  I  I--------I---  I--I
+I     I     I  I     I     I     I     I  I     I  I              I
+I---  I-----I  I  I  I  I--I  I  I---  I  I  ---I  I-----I  I-----I  -
+I     I     I  I  I  I  I     I  I     I  I     I  I     I  I     I
+I  I  I---  I  I  I  I  I  I  I  I  I--I--I---  I  I  I  I  I  I--I--I
+I  I        I     I     I  I  I  I  I           I     I  I     I     I
+I  I--------I--I--I---  I--I  I  I  I  I-----I  I-----I  I-----I  I  I
+I  I           I  I     I     I  I     I     I        I  I        I  I
+I  I  I-----I  I  I  I  I  I  I--I--I--I  I  I-----I  I  I  ---I--I  I
+I  I  I     I     I  I     I        I     I        I  I  I     I     I
+I  I  I  I  I--I  I--I--I--I--I---  I  ---I-----I  I  I  I---  I  I  I
+I     I  I     I        I     I     I           I     I        I  I  I
+I-----I  I---  I-----I  I  I  I  ---I--I------  I-----I-----I  I  I--I
+I        I     I     I  I  I  I        I        I     I     I  I  I
+I  I--I--I  I--I  I  I  I  I--I-----I  I  I-----I  I  I  I  I  I  I  I
+I  I  I     I     I     I           I     I     I  I  I  I  I  I  I  I
+I  I  I  ---I  I  I-----I--I-----I  I-----I  I  I  I  I  I  I--I  I  I
+I     I        I           I     I           I  I  I     I     I  I  I
+I  ---I--I-----I-----I---  I  I  I  ---I-----I--I  I-----I--I  I  I  I
+I        I           I     I  I  I     I     I     I        I  I  I
+I-----I  I---  I---  I  I--I  I  I---  I  I  I  I  I  I-----I  I  I---
+I     I        I     I  I     I        I  I  I  I  I  I     I     I
+I  ---I--I  ---I  ---I--I  I  I--I---  I  I  I--I  I  I  I  I-----I  I
+I        I     I        I  I     I        I        I  I  I  I     I  I
+I-----I  I---  I-----I  I  I--I  I--I-----I--I-----I  I  I  I---  I  I
+I     I  I     I     I     I  I     I        I     I     I           I
+I  I  I  I  ---I  ---I-----I  I  I  I  I--I  I---  I  I--I-----I  ---I
+I  I     I     I           I     I     I  I  I     I  I        I     I
+I  I-----I---  I  ---I  I--I-----I-----I  I  I  I  I  I  I-----I  I  I
+I              I     I  I              I  I     I  I     I     I  I
+I  ------I-----I-----I  I  I--------I  I  I-----I  I---  I  I  I--I  -
+I        I     I     I     I        I  I        I  I     I  I     I
+I--------I  I  I  I  I  ---I  ---I  I  I-----I  I  I  ---I--I---  I--I
+I           I     I  I     I     I  I        I  I  I     I           I
+I  ---I--I--I-----I  I-----I  I  I  I-----I  I  I  I--I  I  I  I---  I
+I     I  I        I           I  I        I  I  I     I     I  I     I
+I---  I  I  I---  I--I-----I--I  I-----I  I  I  I-----I  I--I--I  I--I
+I     I     I        I     I     I     I        I     I  I        I
+I  ---I  ---I  ---I  I---  I-----I  ---I  I-----I  I  I  I  I-----I---
+I     I     I     I  I     I     I     I  I        I  I  I  I     I
+I---  I--I--I  I  I  I  I--I  I  I--I  I  I-----I  I  I  I  I  I  I  I
+I     I  I     I  I     I     I     I  I  I     I  I     I  I  I  I  I
+I---  I  I  ---I  I  I--I-----I--I  I  I  I  I  I  I---  I  I  I  I  I
+I     I  I     I  I  I        I  I     I     I     I     I     I     I
+I  ---I  I  I  I  I--I  I  I  I  I---  I-----I-----I  I--I-----I--I--I
+I     I     I  I     I  I  I     I     I              I           I
+I--I  I-----I  I--I  I  I  I--I  I  I--I--I-----I  ---I  I-----I  I  I
+I  I           I  I     I     I  I  I     I     I     I  I     I     I
+I  I--I--------I  I-----I  I  I--I  I  I  I  I  I--I  I  I--I  I  ---I
+I     I           I        I     I     I  I  I     I  I     I  I     I
+I  I  I------  I--I  I-----I---  I---  I  I--I--I  I  I--I  I  I  I  I
+I  I           I     I     I     I     I  I     I     I  I     I  I
+I  I--I--------I  ---I  ---I  I  I  I--I  I  I  I---  I  I-----I--I--I
+I     I        I     I        I  I  I     I  I        I        I     I
+I  I  I-----I  I---  I--I-----I  I  I  ---I  I--------I------  I  I  I
+I  I        I           I        I  I     I  I                    I  I
+I  I-----I  I--------I  I--I-----I  I  ---I  I  ---I--------I-----I  I
+I        I           I     I     I  I        I     I        I        I
+I-----I  I-----I---  I--I  I  I  I  I-----I--I---  I---  I--I  I  I--I
+I     I        I     I  I     I  I  I     I        I     I     I  I
+I  I  I--------I  I  I  I  ---I--I  I  I  I  I  ---I  I--I  I--I--I  I
+I  I           I  I     I     I     I  I  I  I        I     I        I
+I--I-----I---  I--I--I  I  I  I  ---I  I  I  I--------I  I  I--I-----I
+I        I     I     I  I  I  I        I     I        I  I     I
+I  I  I--I  I  I  I  I  I  I  I--I-----I-----I  I--I  I  I---  I  ---I
+I  I  I     I  I  I     I  I     I     I        I  I  I  I     I     I
+I  I  I  I--I--I  I--I  I--I  I  I  I  I  ---I--I  I  I  I  I  I-----I
+I  I     I        I  I        I  I  I  I     I     I     I  I        I
+I  I-----I  I  ---I  I--I-----I--I  I  I  I--I  I  I-----I  I------  I
+I  I     I  I     I     I        I  I     I     I           I        I
+I  I  I  I  I--I  I---  I  I--I  I  I-----I  ---I-----------I  I  ---I
+I     I  I     I        I  I  I     I     I     I           I  I     I
+I-----I  I---  I--I---  I  I  I  I--I---  I--I  I  ---I--I  I  I--I--I
+I        I     I  I     I  I  I  I           I  I     I  I  I     I
+I  ------I---  I  I  ---I  I  I  I  I  I---  I--I--I  I  I  I--I  I  I
+I              I        I     I  I  I  I     I     I     I     I  I  I
+I  ------I-----I  ---I  I-----I--I  I--I  ---I  I  I---  I---  I  I  I
+I        I     I     I  I        I     I        I  I     I     I  I  I
+I-----I  I  I  I--I  I  I  I  I  I--I  I--------I  I  ---I  ---I  I  I
+I     I     I     I  I     I  I     I           I        I        I  I
+I  ---I-----I  I  I  I--I--I--I--I  I--------I  I-----I--I--------I  I
+I              I  I     I        I  I        I        I              I
+I-----I  I-----I  I--I  I  ---I  I  I-----I  I--I  I  I  I-----------I
+I     I  I     I     I  I     I     I     I     I  I     I
+I  ---I  I  I  I--I  I  I--I  I-----I  I  I--I  I  I-----I  I-----I---
+I     I  I  I  I  I  I     I  I        I     I  I  I     I  I     I
+I  I  I  I  I  I  I  I  I  I  I------  I---  I  I  I  I  I  I  I--I  -
+I  I     I  I  I     I  I  I  I        I        I  I  I     I  I
+I--I-----I--I--I-----I--I--I--I--------I--------I--I--I-----I--I--I---
+
+
+
+
+
+
+        ADAPTED FOR RTTY BY JOE, WA9CVD, RICHMOND, INDIANA
+......................................................................
+

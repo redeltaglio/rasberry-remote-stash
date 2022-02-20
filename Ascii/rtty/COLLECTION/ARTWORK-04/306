@@ -1,0 +1,146 @@
+
+                                .  .: '.  .  :. .
+                            .  .:.  .   :.. .  . : .
+                          .  :  .:.   :..:   .  .:.   .
+                        . .:  .     .:..  ::  .  .:. .. .
+                       . .:.:. .  ':.'.   .. ': .:..:. .  .
+                     . :. .:  ..::...  :.:  :.:.  .:..:. . .
+                     .'  ':.::..::.'  .:::. .:..'  .:..:.. ..
+                    .  . ..::..::...:...:I:.. .:. .:".::.  .'.
+                   .'..  ::.::II/I:IHH:IIHHI::.:I/..:/:.......:
+                   ..//I:./:III:/IIHH:/IHHHII:/.::../:.... .. /:
+                  .I.:I/://:IIHHMHMMMHMHI/IHHII:.:I.I.:.:.. .....:
+                   .I./:.:I::IHMHMHIII///:/::://:.:..:.:..:. .. ..
+                   .:.:/::IIIHMHMMHMHHI::I::/IMI:I:..:..:..:  . ..
+                   /I..:.:IIHMHIMMMMHHMMHIMIIIIM//I:/:I:.:.:.: .   .
+                  :I.IIII:IIMMHMMMMHMMMMMMHIMIIIIIII::.I:.:.:.: . .
+                 :I:I:IIIMHMMMMMMMMHMMMMMMMIMMHMHI:I:I::I/I:..:...:
+               .:..I:II:IMMMMMMMMMMHHMMMMMMMMMMMIIIHII:I:I/I:.:.  .  .
+               ::I:III:IMMMMMMMMMMMHHMMMMMMMMMMMMIHIIHI:I:/:/.:..  .
+               .:.:I:IHIMMMMMMMMMMMI:H//MMMMMMMMHMHVHI:I:I:.:/::. .
+                /I:IHMMHHMMMMMVHII::.:".:MMHMHHI:I:.::./:I.II:. .  .
+                 .::IIMH;HMMMV:.::.:I:.."HMHMMHIHIHIHIH:I:I:II .  .  .
+                  :IHHMMIIMMV.:....:::AMIHMMMHIIHHMMH:III:I:I :  .  .
+                  :HHMMMMHMV::. . ..:.IHIMMII:IHHHMIMHIIII:I::  .  .
+                  ':HMMHMM: :... ..::AV:AMVMIAAIHHHMMHHIIII:II:  .
+                  'VMMMMHVII:. .. .'':AHV"V":AHAI:.::.:II:I: . .  .
+                   IHMMHI::I: .. :IIIV:V"AHHV.'""'    :I:I:.  .  .
+                    VMMMHMAI::... .. ..AV".AIIIA:.     .:II:.'  .
+                     "MMMMMH:.  .. ... ' .AV:MA"/'       :I:I: .
+                     .AMHMMV /"VA . ..  . :,,I:"          :II:.
+                  ..:;IMHHV.::.AMA'.:.          . .    .::.:..'
+                 .:.:IHMMHM.VA 'V/'::.        .  .  .  .::::.
+                  ..:.IHH:I.V::   .::          .   .  .  "::"
+                   '' VIHIHI::.   .::.        . .   .  .  .:
+                       VIIHHI:.   .I:   ..     .  .   .   ..
+                       'VIMMHI:.  .I:.  ""       .  .      :.
+                        'IMHHII:.  .:I:'..                 ::
+                         'VIHI.'I.  'I: :'..   .           ::.
+                            ..I.'I: .:AHHHV"'AHV          . :..
+                             'I:.'I. :VA...AHIV         ..  :. .
+                              ''' 'I: :VHHHHV'         .:    : .
+                                   'I: .:""  .        :'       :.
+                                      ':::..:.  .   .:'        . :AV
+                                        ':::. .   .::'.  .   .   AV ';
+                                           ":::.::.::'    .    .AV .
+                                              ':::.::.  . .  ..AV:"'
+                                . '  ''.       ::::::.. .  .:AG".' .
+                            .'   .  .  . .   :.:::::::: .:.:AV.:  . .
+                          .   ..:.:..:.:...''..AG::::"VI::.GV.  .  .
+                        .    .:.:...:..:V"'.:AGV:V'. .AI::AG'.   . .
+                      .  ..:.:..:..:.:V"  .AGV";'  '.:::::GG.:. ..
+                    . ..:.:..:.:.:.:V'  '.AG:" '. .A::V"-:GG:.:. .
+                  ...:..:..:..:.:V"  . .':GG    .A:V" .  .GG::.:. .
+                .:...:..:...:.:V"  '""-. :GG." AV"   :.:A:GG::..:. .
+              .;...:.:...:.:V".'       '  VG.  '   '.:A:::GG::::.. .
+            ..:.:.:.:..:.:V'.'. '.   '..  "VG    .AHV:""-:GG:::.... .
+          .:...:..:....:V"     .:.::.   '.-"''.-''"  ( ./:GG::::.. ..
+       .:.:...:..:.::.V' .  . . . .:..  ..:.   '    ..A:::GG:"::.. .
+     .:.:..:..:.:.V":" .:.  .:. .  . ..:  "..  .:.:-::::..GG:":::.. .
+  ..::....:.:.:V"  . .'. .  .. .  .      'AGV::::.::.. . :GG'.'::.:.
+.....:..:..V" .. .: .:"      . .   ..  :.   ":VA:::.:.:. .GG.' ::.: .
+ ..:. .V"  .. ..:.:..    .  .:''    ':. '.    (  ): . .   GG  .::.:.
+III.::.. . . . ..:'' .. .. :.:.. ..::AGGGV:::::'AV . .    GG  ':::. .
+. .:....: .:..::'. . .':::.AV:;;::'"AGGGV::::.:. . .      GG  .:;::.
+ . .:...:..::" . . .:..VIT:::.:.   AGGGV:::.:. . .        VG. .;::. .
+...:...:..:... ... ..V.:. .  .    AGGGV:::.:.  . . .      'GA  .;::..
+... .:.. ... . . ..V.:.:.:. .    AGGGV:::.:..   . .        GG   .;::.
+.. ..:...:. . ..V"." . .:.  .   AGGGV::.:..  .  .          "GA  .;::.
+... .. ....:..V .::   . .      .GGGV:::"  . . .  .          VG.  .;:.
+.. .:.:.  .'. .:::.  . .     .:AGGV::.:.  .  .  .           "GA   ;..
+...  :.  :'   ::::'    .    .:AGGV"::. . .  .  .             GG   .;.
+. . . . '     .:::     . . .:AGGV::' .  .  .  .  .           GG    ;.
+ ... .'       :::'    . .  .AGGG::'         .   .            GG    .;
+...'          ':'     . . .:GGGG::'           .   .          GG    .;
+'              .       . .::GGGV::'   ...                    GG    .;
+                .     . ..:IGGG::.  :::::..                  GG   . :
+                 .  . .:.:I:GGG:.:.::::.:...                 GG    .;
+                  ".:.:::II:GGG::.::I"::.:..                .GG  . .:
+                    '"::"::IGGG::.;;I".:....                 GG    .:
+                         ::AVVA:::::I::....                . GG  . .:
+                         ::GVHIVA:::::.:.                 .  GG . .::
+                        .:IGGHIIVA::::. .                '   GG  ..::
+                        ::IAVIIIGGA::::. .              '   .GV . .::
+                        IIAVHHIHGGIIII:::.:.  .  .    .'    AG'.:.:'
+                        IAGIHHIHGGIIII:::.. . . ..'.  . .  .G". .:'
+                        :GVIHIIHGGHI:I::.:..::..:.   . .   AV .:.'
+                        AG:IHHIHGG:II:II:I:..::. .  . .   AV  .:';
+                        GG:IIIIIGGI:IIHI:I..::.  .  .  . AV  .:'
+                       GG:IIIIIGG:II:I:I:I.:.    .  . .AV  .:'
+                       AV:IIIIIGGA:II:I:I:.        . .AV  .::
+                      AV::IIIIIGGG:I:I.: .          .AV  .:..
+                     .G::I:IIIIVGGA:I.::. .        AGV  .:'::
+                     AV:I:IIIIIIGGGA:.::.. .     AGGV .:"  ::
+                    AV:I:IIIIIIIGGVVA:. .     .AGGV' .'    :.
+                   AV::II:IIIIIIGG:.VGGA..AGGGGGV'         ::
+                  AV ::II::IIIIIGG:..:"VGGGGV"             ::
+                 AV .::I::I:IIIIGG::.:                     .:
+                AV .::I.HI:IIIIIIGA:..                      :.
+               AV  ::I..:II:II:IIGG.                        .:
+              AV  ::..:HI:III:I:IGG .                       :.
+             AV  ..::IHIIIII:I:IIGG.                         :.
+.. ..   .:.: AV::.::.I:IIIII:I:I::GG  .                       :.
+.   ..   .:.AV:.:::I:I:IIIII:I:I::VG    .                     ::
+. .   .   .AV:..::: .::IIII:II:I::IGA  .                      .:
+ . .    . AV.:.::I..::IIII:II:I:.:IVA.  .                     .:.
+   .     .AV ..:..AH..::I:II:II::.:..GG                        .:.
+     .   AV.:.:.:IMH..::III:II::.:..:GG .                      .::
+       .AV  ..:.:AMH:..::I:I::.:.. ..GG                        ..:.
+     . AV  .:.::AHMMH:.::I:I::.. . .:VA.                      .:.:.
+      AV  .:.:.AHMMMMH:..:I:. :.:.  ..GG                       ..:.
+     AV.  .:..:AMMMMMHV:.. . ..  . .  VG.                      .:.:.
+    AV  . .::.IHMVT:.: ..:.....  . ''..GA                     . .::.
+   AV..::.V::". .:..:..:. . .. .       "G.                     ..:::.
+ .AV.  :V"' .:. ...::..  .:. . .        GA                    ..:::.:
+ AV:"'  .:.:.:...:. .. .:..   .         GG                     ..:::.
+ "  .:.:...   .. . .:..:.. .   .        "V:                   . .:.::
+ :.::. ..    .. . .:.....  .             GA                    . :.::
+ :..:.  .:. :.:.  .:.. :. . .            GG                    :.::.A:
+ .: .. ..:.   .:.. ..:.. ..              VG                   .:.::A::
+ .. :... .:. ... ... ... .               "G.                  ..:AI::
+ ... :... . :.. . .. .... .               VA                  ..AI..::
+ ..   ...  .. ..   ... .                   VA               .:.AI::.::
+ .:: ..  ... ...  .. . .  .                 VA              ..A':::'.:
+ ..:. ... . . .. .... . .                    VA             .I I.:  .:
+ ...  ...  .... ..  ..   .                    VA           .:  I:. .:.
+ ...:. . .. .  .. . .. .                       ()          .   I:" .:.
+ ... ..  .. .  . . ....  .                      VA        :.:.AV:. .:'
+ .  ..  ..  . . .. . . .                         VA      .. AVI" ' .'
+ .. .  ..  .  .. . ... .                        . VA .  ''.AM"  '. .
+ ..  .: . .. .:.  ..  .. . .               . ... . VA..:.AGV.    '/'''
+ .:.  ...  ..  .:. . .. ..  .           .  . :. .:  VA.AGV: ..  ' .
+ .::.. .:.  .:  .::.  .: . ...  . .. . .:. ..::::'AGMMMGV '  ..' ..
+ GA.:..:..:.. .:. .::..:..:. .:.. .:..:.:.AGGGMMMMGV"'::VA '..'   ' ..
+ VGGGGA..:::..::...:..::.:.:.AGGGGMMMMGGGGGGGGV"'    ./' VA:'    '   '
+ :.:VGGGGGGA.:.:::..:AGGMMMMGGMGGGV"'                :   .'     .   :.
+ ::.::::VGGGMGGMMMMMMGGGGV"'                          ''       ..  : :
+ :::.::..::::"  """"                                          ..-./ .'
+ :::::II:"                                                   '/..' ''
+ :II'                                                        :  :' :/
+                                                             '.'   ':.
+
+
+                            MISS JANUARY 1973
+
+             ORIGINATED BY NEIL, K9WRL, MOUNT PROSPECT, ILL.
+

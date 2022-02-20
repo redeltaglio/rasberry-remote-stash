@@ -1,0 +1,53 @@
+                /----X      /----X
+               / ---- X    / /--X X
+              / /    X X  / /    X X
+             / /  /---X I-I IX   I I
+             I I /
+             I I /OOOOI I-I IOX  I I
+             I I/OOOO/ /OOOX XOX / /
+             I X/OOO/ /O/---X X-X /
+              X X--/ /O/     X---/
+             /SX--/-XO/          X
+           /XSS/OOOOO/            X
+          /  X/OOOOO/              X
+         /    XOOOOI      //X   //X X
+         I     XOOOI     //  X //  X X------++++---X
+         I      IOOI      (8)   (8)                 X
+         I  +   IO(/)                                X
+         I      IOOI                                  X
+         X     /OOOI                                   X
+          X   /OOOOI                                    X
+           X-/OOOOOX                            X-X     )
+            XOOOOOOOX                          (+++)    )
+             XOOOOOOOX                         (+++)    )
+              XOOOOOOOX--X                       X-X     )
+               XOOOOOOOOOOX       ***                   )
+                X---------X          *                  /
+                         XX           *                /
+                           X           *--X           /
+                            I       /***   X---------/
+  *=*=*=*-------*           I      /
+   *I           I*-----*    I      I          --
+  *I           I*     I*=*)*=*=*=*)         )OO)
+   *I           I*   *=*   (OOOOOOO)      -  (OO)
+   *I           I-----**=*(*=*=*=*)+++++/ XX,+++++
+*=*=*-----------*---*      I       I+++--)      (   )
+                          /                      ) (
+                         /                      ) (
+                        /                  -    ) (
+                       /*         /+++I++++/ /++/++/
+                      /++             I        XX
+                     /+++             I /+++)  XX
+                    /+++             /+++)  I  XX
+     -             /++++            /++++I  /  XX
+       -          /****             I    /  X  XX
+      - -       /***               X    X   ) XX
+       -   - -  (           /+++++X X    )  I XX
+         - **** (          +       X     I  I XX
+            - - -X                       I  I XX
+                  X                      I  I XX
+                   X                     I  I XX
+                    X      /+++++++X     I++I/XX
+                     X++++/         X++++)  /XX/
+       XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+       XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

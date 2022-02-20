@@ -1,0 +1,214 @@
+
+ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+ I
+ I
+ I
+ I                                 -------------
+ I                              ---..... ..- I..I..
+ I                            H-....... .. .- I..I...
+ I                         HHH...........   .- I.I.IIII
+ I                       HHH....HHHHHHH.. .. .-.III.---...
+ I                      :HHH.HHHIIIIIIIHHH... .-.I.-....III
+ I                     HHHHHH.I IIIIIII   -.. ..-.-..III..II
+ I                    -HHHHH.I I       II  -.. .--..I..----..
+ I                   :HHHH..I   .......  I  -...-.II.--..IIIII
+ I                   -HHH..I I IIIIIHHHH  I HHHHHHHHHIIII     I
+ I                  :HHHH.. I .........HH   HHHHHHHHHH....-----
+ I                  -HHHH.   ..HH.........HHHHHHHHHHHHH.......-
+ I           H     :HIIII.  .HHHHHHHHHHHHH.....HHHHHH..    ....I
+ I           H     HIIIII.  .HHH...             ..-HHHHH    ...I
+ I           HH   HHIIIII.  .H                  ...HHHH.    ...I
+ I           H-HHHHIIIII-.  .H.III-.             ...HHHH(    .((I
+ I           H-IIIIIIII--.  .H.    II:    -III-. ...HHH(.    .((I
+ I           HII.IIIII--H.  .H. -HHH-       (I-II-..HH-(.    ..I
+ I            H-------H-HI--IH   II      . -IHHHI-.HHH-.   ...II
+ I            HHHHHHHHIHHHHHH            -   I   ..HHI(.   ...I
+ I             HIIIIIIIHHHHH             I        .HH..  ...I
+ I                H----HHHHH(..      .   ::       HHI   ...I .
+ I                H----HHHHH((.... . : ((HH   ....HH  ..--II..
+ I                 HHHH--HHH....  .          ..((HH   HHIII..
+ I                  H-----HH(.   --.I--I-.   ..((H(..HHIII..
+ I                   HHHHH   .     I-HHHHI-   .(HH((HHHHH.
+ I                    HHH    -.             ....HHH((((HH.
+ I                           -H-.          .(HHHHHHHHHHH
+ I                          -HHH-         HHHHHH HHHHH
+ I                        -I((((H((I.HHHHHHHHHHHHHHHHI
+ I               -HHHHHHHH......I..I..HHHHHHHHHHHHH(((HHHHHHHHI-
+ I          -IIIHHHHHHHH(((......I..I((..IHHHHHH(((HHHHHHHHHHHHHHHHIII
+ I       -IIHHHHH.... .IHHI((((((I..I(((HHHH .... HHH....IHHHHHHHHHHTH
+ I     IHHHH.....H....   .IHHI....-..-. II..IHHHHI...........HHHHHHHH
+ I    -... ..(((IHI(..       (IHI.-.....IHHI.     ..................HH
+ I   I(.      ..........     ...........      ........................
+ I   I.       ....................... .... .............. ... ........
+ I   I.   ....::......... ...........................................H
+ I   I.......:IHI:.................................    .-IIIIIIIIIIIIH
+ I   I.......IHHHI...................................           .IIIIH
+ I   --......IHHHH.. ............... .......................       IIH
+ I   -I......IHHHH:.  ............................ .....
+ I   -H......IHHHHI.   ........::....... ..................-
+ I   .I......IHH-HI..    ...-IIHHII.. ................
+ I    --.....IHHH-H-.    ..-IIHHHHI:...  .............------
+ I    -I.....IHHH-H...   ...-IIHHHII:.   ...................-      ...
+ I    -I.....IIHH-H.-     ...:IIIIIII:  .......  ........        .....
+ I    -I......-IIHH...   ....-IIIIIII-.   ............................
+ I    -II.....-II-H..    .....-IIIIIII-    ...............:IIIIIIIIIII
+ I     -I.....-II-H.     .....-IIIIIIII-.   ..................I------H
+ I     -II.....II-H.     .....-IIIIIIII-..    ...         .....-I----H
+ I      HI.....-IH..     .....-IIIIIIIII-..                .....-IIIIH
+ I      -II....I..       .........IIIIIII-..            :H:.....-IIIIH
+ I       -I....--..      ...........IIII--....        .:HIH:...-IIIIIH
+ I       -I....--..        .........IIIIII-:.....   ..-IIHHH:.-IIIIIHH
+ I        -I...--..          ........IIIIIHHIH.........HIHIII-IIIII-HH
+ I         --...-...           .....IIIIIIHHHIIII........HIIIIIIIIHHHH
+ I         -I...--.......:HI:.....-IIIII-HHHHHHIII-       IIIIIIIHHHHH
+ I          HI...--.....:IHHI....-IIIIIIHHHHHHHHHH-IIIIIIIIII-HHHHHHHH
+ I           -I...H:.....HIHI..--IIIII-HHHHHHHHHHHHH------HHHHHHHHH-II
+ I            --...HHH-..HIIIIIIIIII-HHHHHHHHHHHHHHHHHHHHHHHHHHH-III.I
+ I            I......HH-I-IIIII-HHHH................   ..HHHHHH-I.....
+ I             -.......I-HHHHHHH-H.............         .......HI.....
+ I              II....                                 ..........HHHHH
+ I               III-...                       .....................
+ I                IIIIH. ........         ............................
+ I                 IIIIII..................-IIIIII-...................
+ I                  IIIIII.....IIIIIIIIIIIIIHHHHHHHHH--......... ..HH.
+ I                    IIIIIIIIIIIIIHHHHHHHHHHHHHHHHHHH--..........-..H
+ I                      IIII       HHHHHHHHHHHHHHHHHHHHH--.......-HH..
+ I                                  HHHHHH................--..HHII.HHH
+ I                                   HHH-I. ...        ....---.HH....H
+ I                                   HH-III.....            ---HHHH...
+ I                                   H-IIIII-.....            -HH   ..
+ I                                   HH-IIIII--..............
+ I                                  HHH-II...-IIII-........ .....
+ I                                  HHHH-II................     ...
+ I                                  HHHHH-II.............         ::
+ I                                  HHHHHH-I-............          H
+ I                                  HHHHHH-II.....  ..... .
+ I                                  HHHHHHH-I.................
+ I                                  -HHHHHH-III--....-IIII-......
+ I                                   HHHHHH-II-...... .....-I-.....
+ I                                   HHHHH-III........ ...... III.....
+ I                                    HHHH-II-.................-III-..
+ I                                    HHHHH-I-. ....    ..... . --IIII
+ I                                     HHHHH-I.......    ........IIIIH
+ I                                     HHHHH-II .....     .......-IIII
+ I                                      HHHHH-II. ...      .....  -III
+ I                                      HHHHH--I-. ...      ......-III
+ I                                       HHHH--II.... .      ......III
+ I                                       HHHH--III.....        ..  -II
+ I
+ I
+ I
+ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+                                  " ELLEN "
+
+                    CREATED FOR RTTY BY KB9DO, AL, MILAN, ILLINOIS
+
+
+
+
+
+
+
+
+ IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+                              I"
+ II-                          I"
+ HHH-                         I"
+ HHHII                        I"
+ HHHHII                       I"
+ HHHHHII                      I"
+ .HHHHHII                     I"
+ HHHHHHHH:                    I"
+ HHHHHHHHI                    I"
+ HHHHHHHHHI                   I"
+ HHHHHHHHHHI                  I"
+ H.H.HHHHHHI                  I"
+      H.HHHHHI                I"
+    ...H-HHHHHI               I"
+     ...H--HHHHI              I"
+ ........H---HHII             I"
+ ......-I-H--IIIII            I"
+ .-III----HH---II:            I"
+ IIII-------HH---II:          I"
+ HHHHH--------H---II:         I"
+ HH HH---------H----I:        I"
+ HHH HH---------HH----I:      I"
+ HHH HHH-----------H----:     I"
+ HHH  HH----------------I     I"
+ HH    H------------------    I"
+ HHHH   H---------------II    I"
+ HHH     H----------------    I"
+ HHHHH    ----------------    I"
+ HHHHHH     -------------I    I"
+ HHHHHHH      ----------I     I"
+ II--HHHH         ----I       I"
+ ...IIHHHHHH                  I"
+   ...III-HHHHH               I"
+     ....I--HHHHH             I"
+   .   ...-III-HHH            I"
+    .    ...IIII-HH           I"
+ .  .     ..-IIIII-H          I"
+ ...  .     ...IIII-H         I"
+ H... ..     ...IIII-H        I"
+ ..HH....    ...-III-H        I"
+  ...  ..     ...IIII-H       I"
+ H...  ...    ....IIIIHH      I"
+ HHH   ...    .....IIII-H     I"
+ .      ..     .....IIIHH     I"
+ . ... ...     ......IIIH     I"
+  ........     ......-IIHH    I"
+   .......     ......-IIHH    I"
+   ........   .......-IIHH    I"
+    .......  . ......IIIHH    I"
+     .....  .  ....--I--HH    I"
+    ...... .   ....--I--HH    I"
+   . ......   .....--I--HH    I"
+  ........    .....-II--HH    I"
+ ....-..      .....-II--HH    I"
+ . --)....     .....III--HH    I"
+ I-......    ......III--HH    I"
+ H-.......   ......III--H     I"
+ HI. .....   ......III---     I"
+ -HH.......  .....-II--H-     I"
+ -HI.......  .....-II--HH     I"
+ -HHII . ..  .....II---HH     I"
+ -HHHI .. .........II--HH     I"
+                              I"
+                              I"
+                              I"
+ IIIIIIIIIIIIIIIIIIIIIIIIIIIIII"
+

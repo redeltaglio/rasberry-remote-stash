@@ -1,0 +1,92 @@
+
+       MMMMMMMMMMMMHMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM       WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+       M    M    M    M    M    M    M    M    M    M    M    M M       W    W    W    W    W    W    W    W    W    W    W    W W
+       M MM M MM M MM M MM M MM M MM M MM M MM M MM M MM M MM M M       W WW W WW W WW W WW W WW W WW W WW W WW W WW W WW W WWW W
+       M M  M M  M M  M M  M M  M M  M M  M M  M M  M M  M M  M M       W W  W W  W W  W W  W W  W W  W W  W W  W W  W W  W W  W W
+       M MMMM MMMM MMMM MMMM MMMM MMMM MMMM MMMM MMMM MMMM MMMM M       W WWWW WWWW WWWW WWWW WWWW WWWW WWWW WWWW WWWW WWWW WWWW W
+       M ...................................................... M       W                                                        W
+       MMMMMM ........... CD ............... CD .......... MMMM M       WWWWWW                                              WWWW W
+       M    M ......... CXXD ... ... ... . . CXXD ........ M  M M       W    W                                              W  W W
+       M MM M ....... CXXXXD .. O   O   O O  CXXXXD ...... M MM M       W WW W                                              W WW W
+       M M  M ...... CXX XD .. OOO OOO OO OO. CXXXXD ..... M    M       W W  W                                              W    W
+       M MMMM ...... CX XXD ... O  O O  O O . CXXXXD ..... MMMMMM       W WWWW                                              WWWWWW
+       M      ..... CX XD  ..  O   O O  OOO .. CXXXD .....      M       W                                                        W
+       MMMMMM .... CXX  XD .  O O  O O   O ... CXD XXD ... MMMM M       WWWWWW                                              WWWW W
+       M    M ... CXX CXXD . O  O  OOO   O  .. CXXD XXD .. M  M M       W    W                                              W  W W
+       M MM M ... CXX CXXD .. OO    O   OOO .. CXXD XXD .. M MM M       W WW W                                              W WW W
+       M M  M ... CXX CXXD ........   ........ CXXD XXD .. M    M       W W  W                                              W    W
+       M MMMM ... CXX CXXD ......       ...... CXXD XXXD . MMMMMM       W WWWW                                              WWWWWW
+       M      ... CXXX CXXD .... :QQQQQ: .... CXXD XXXD ..      M       W                                                        W
+       MMMMMM ... CXXX CXXD ... QQQQQQQQQ ... CXXD XXXD .. MMMM M       WWWWWW                                              WWWW W
+       M    M .. CXCXX CXXD .. QQQQQQQQQQQ .. CXXD XXDXD . M  M M       W    W                                              W  W W
+       M MM M ..CXXCXXX CXXD . QQ"     "QQ . CXXD XXXDXXD. M MM M       W WW W                                              W WW W
+       M M  M . CXXCXXXX CXXD QQQ A   A QQQ CXXD XXXXDXXD. M    M       W W  W                                              W    W
+       M MMMM   CXX CXXX CXXD QQQ   !   QQQ CXXD XXXD XXD. MMMMMM       W WWWW                                              WWWWWW
+       M      . CXX CXXX CXXXD QQQ     QQQ CXXXD XXXD XXD.      M       W                                                        W
+       MMMMMM . CXX CXXXX CXXXD "". - ."" CXXXD XXXXD XXD. MMMM M       WWWWWW                                              WWWW W
+       M    M . CXXX CXXXX CXXXD "M" "M" CXXXD XXXXD XXXD. M  M M       W    W                                              W  W W
+       M MM M .. CXXX CXXXX CXXXZZMMMMMZZXXXD XXXXD XXXD.. M MM M       W WW W                                              W WW W
+       M M  M .... CXX CXXXX CXV ZZMMMZZ VXD XXXXD XXD ... M    M       W W  W                                              W    W
+       M MMMM ... CXX XXXXXXX VVV ZZZZZ VVV XXXXXXX XXD .. MMMMMM       W WWWW                                              WWWWWW
+       M      .. CX CXXXXXXX VVVVV ZZZ VVVVV XXXXXXXD XD .      M       W                                                        W
+       MMMMMM .. CXXCXXXXXX S VVVVV   VVVVV S XXXXXXDXXD . MMMM M       WWWWWW                                              WWWW W
+       M    M .. CXXXCXXXXXSSS VVVVVVVVVVV SSSXXXXXDXXXD . M  M M       W    W                                              W  W W
+       M MM M .. CXXXXCXXX  SSS VVVVVVVVV SSS  XXXDXXXXD . M MM M       W WW W                                              W WW W
+       M M  M .... CXXXCX    SSS VVVVVVV SSS    XDXXXD ... M    M       W W  W                                              W    W
+       M MMMM ...... CXX      SSS VVVVV SSS       XXD  ... MMMMMM       W WWWW                                              WWWWWW
+       M      ....... C      S SSS     SSS         D .....      M       W                                                        W
+       MMMMMM ....... SS        SSSSSSSSS         SS ..... MMMM M       WWWWWW                      OO                      WWWW W
+       M    M ...... VVSS        SSSSSSS         SSVV .... M  M M       W    W                                              W  W W
+       M MM M ..... M VVSS                      SSVV M ... M MM M       W WW W                                              W WW W
+       M M  M .... WWM VVSS                    SSVV MWW .. M    M       W W  W                                              W    W
+       M MMMM ...."  WM VVSS                  SSVV MW  ".. MMMMMM       W WWWW                                              WWWWWW
+       M      ...."   WM VVSS                SSVV MW   "..      M       W                                                        W
+       MMMMMM .....: ..WM VVS                SVV MW.. :... MMMM M       WWWWWW                                              WWWW W
+       M    M ....:-"...WM VV                VV MW...:-".. M  M M       W    W                                              W  W W
+       M MM M ...........WM V                V MW......... M MM M       W WW W                                              W WW W
+       M M  M ............WM SSSS          SSSS MW........ M    M       W W  W                                              W    W
+       M MMMM .............W SSSSSSSSSSSSSSSS W........... MMMMMM       W WWWW                                              WWWWWW
+       M      .............. VVVVSSSSSSSSVVVV ............      M       W                                                        W
+       MMMMMM .............. VVVVVVVVVVVVVVVV ............ MMMM M       WWWWWW                                              WWWW W
+       M    M ..............     VVVVVVVV     ............ M  M M       W    W                                              W  W W
+       M MM M ........... SSSS            SSSS ........... M MM M       W WW W                                              W WW W
+       M M  M ............. SSSSSSSSSSSSSSSSSS ........... M    M       W W  W                                              W    W
+       M MMMM ............. VVVVSSSSSSSSSSVVVV ........... MMMMMM       W WWWW                                              WWWWWW
+       M      .............     VVVVVVVVVV     ...........      M       W                                                        W
+       MMMMMM ............ VVVVV          VVVVV .......... MMMM M       WWWWWW                                              WWWW W
+       M    M ............ SSSSSVVVVVVVVVVSSSSS .......... M  M M       W    W                                              W  W W
+       M MM M ............ SSSSSSSSSSSSSSSSSSSS .......... M MM M       W WW W                                              W WW W
+       M M  M ............ ZZZZZSSSSSSSSSSZZZZZ .......... M    M       W W  W                                              W    W
+       M MMMM ............ ZZZZZZZZZZZZZZZZZZZZ .......... MMMMMM       W WWWW                                              WWWWWW
+       M      ............      ZZZZZZZZZZ      ..........      M       W                                                        W
+       MMMMMM ........... Z                    Z ......... MMMM M       WWWWWW                                              WWWW W
+       M    M .......... SZZZZZ            ZZZZZS ........ M  M M       W    W                                              W  W W
+       M MM M .......... SZZZZZZZZZZZZZZZZZZZZZZS ........ M MM M       W WW W                                              W WW W
+       M M  M ........... SSSSSZZZZZZZZZZZZSSSSS ......... M    M       W W  W                                              W    W
+       M MMMM ................ SSSSSSSSSSSS .............. MMMMMM       W WWWW                                              WWWWWW
+       M      ............................................      M       W                                                        W
+       MMMMMM .......... OOO OOO ... OOO O O OOO ......... MMMM M       WWWWWW                                              WWWW W
+       M    M ........... O  O O .... O  OOO OO .......... M  M M       W    W                                              W  W W
+       M MM M ........... O  OOO .... O  O O OOO ......... M MM M       W WW W                                              W WW W
+       M M  M ............................................ M    M       W W  W                                              W    W
+       M MMMM ...... O   O ............................... MMMMMM       W WWWW                                              WWWWWW
+       M      ..... OOO OOO  OOO  OOOO   OOO    OOO ......      M       W                                                        W
+       MMMMMM .....  O   O   O O   O OO   O      O O ..... MMMM M       WWWWWW                                              WWWW W
+       M    M .....  O O O   O O   OOO    O      O O ..... M  M M       W    W                                              W  W W
+       M MM M .....  OOOOO   O O   O  O   O  O   O O ..... M MM M       W WW W                                              W WW W
+       M M  M .....   O O    OOO  OO  OO OOOOO  OOO ...... M    M       W W  W                                              W    W
+       M MMMM ............................................ MMMMMM       W WWWW                                              WWWWWW
+       M                                                        M       W                                                        W
+       M MMMM MMMM MMMM MMMM MMMM MMMM MMMM MMMM MMMM MMMM MMMM M       W WWWW WWWW WWWW WWWW WWWW WWWW WWWW WWWW WWWW WWWW WWWW W
+       M V  M M  M M  M M  M M  M M  M M  M M  M M  M M  M M  M M       W W  W W  W W  W W  W W  W W  W W  W W  W W  W W  W W  W W
+       M M MM M MM M MM M MM M MM M MM M MM M MM M MM M MM M MM M       W W WW W WW W WW W WW W WW W WW W WW W WW W WW W WW W WW W
+       M M    M    M    M    M    M    M    M    M    M    M    M       W W    W    W    W    W    W    W    W    W    W    W    W
+       MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM       WWWWWWWWVWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+
+                   "J O Y  T O  T H E  W O R L D"
+
+          FROM DEC. REMARK MAGAZINE AND REWORKED FOR RTTY BY
+
+                    N2DQQ HARRY BROOKLYN, N.Y.
+

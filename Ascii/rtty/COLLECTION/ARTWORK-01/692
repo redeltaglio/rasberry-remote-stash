@@ -1,0 +1,72 @@
+
+       !                       M M                               W W
+       !                     M M  M                             W W  W
+       !                   M  M M M                           W  W W W
+       !                    M M MMM            !          MM                            W W WWW                       WW
+   !   !                    MMMMM M          !!!        MM                            WWWWW W                     WW
+   !   !                    M M M M          !!!      MM                            W W W W                   WW
+   !   !                    M M MMM          !!      MM                            W W WWW                  WW
+   !   !                    MMMMMMM          !MMMMMMMMM.....                            WWWWWWW           WWWWWWWWW
+   !   !                    MMMMM M         !!MMMMMMMMMMMMMMMMMM                            WWWWW W           WWWWWWWWWWWWWWWWWW
+   !   !                    M M M MM        !!!      MMM                            W W W WW                 WWW
+   !   !                    MMM M MM        !!!       MMM                            WWW W WW                  WWW
+   !   !                     MMMM MM        !!         MMM                             WWWW WW                   WWW
+   !   !                     MMMM MM       !!           MMM                             WWWW WW                    WWW
+                              MMM MM                              WWW WW
+     M                       MMMM MM     W                       WWWW WW
+  M  M                        MMM MM  W  W                        WWW WW
+   M M                         MM MM   W W                         WW WW
+ !  MM                        MMM MMM    WW                        WWW WWW
+!!  MMM                     M  MM MMM    WWW                     W  WW WWW
+  ! M MM                     M MM MMM    W WW                     W WW WWW
+   M    MM                MM M M M MM   W    WW                WW W W W WW
+  M      MMM               M M MMMM MM  W      WWW               W W WWWW WW
+           MMM             MMMMMMMM MM           WWW             WWWWWWWW WW
+            MMMM          M MMMMMM  MMM            WWWW          W WWWWWW  WWW
+   !     !    MMMMM      M  MMMMMMM MMM              WWWWW      W  WWWWWWW WWW
+   !     !     M    MMMM    M MMM MMMMM               W    WWWW    W WWW WWWWW
+   !   !!       M     M     M MM MMMM M                W     W     W WW WWWW W
+   !!   !         M   M     M M  M  MM M                  W   W     W W  W  WW W
+   !    !           M M      MM MM  MM M                    W W      WW WW  WW W
+   !    !            M       MMMMMM M MM    !                     W       WWWWWW W WW
+   !    !            M       MM MM MM MM  ! !               .....                     W       WW WW WW WW
+   !    !            M       M   M MM MM  ! !              .MMMM                     W       W   W WW WW                    WWWW
+   !    !            M       M M   MM MM  !  !           .MMMMM                     W       W W   WW WW                  WWWWW
+   !    !           MM        MMM M    M  ! !            MMMM                    WW        WWW W    W                 WWWW
+   !    !            MM       MMM MM   M !!............MMMM                     WW       WWW WW   W               WWWW
+   !    !           M  M      MMM MM MM !!!MMMMMMMMMMMMMMM.......                    W  W      WWW WW WW    WWWWWWWWWWWWWWW
+   !    !         M    MM     M MMMMMMM !!!MMMMMMMMMMMMMMMMMMMMMMMMMM.                  W    WW     W WWWWWWW    WWWWWWWWWWWWWWWWWWWWWWWWWW
+   !    !         M   M  M     M MM MMM  ! !            MMM                  W   W  W     W WW WWW                 WWW
+   !    !        M   M    M    M MM MMM  !!!             MMM                 W   W    W    W WW WWW                  WWW
+   !    !       M  M       M   M  M  MM   !!              MMM                W  W       W   W  W  WW                   WWW
+   !    !      MM M         M  M MMMMMM   ! !             MMM               WW W         W  W WWWWWW                   WWW
+   !    !      MMM           M M MMMM MMM                  MMM               WWW           W W WWWW WWW                  WWW
+   !    !     MMM             MM MM  M MM      M M           MMM              WWW             WW WW  W WW      T T           WWW
+   !    !    MMM               MM    MM MMM    M  M  M             WWW               WW    WW WWW    T  T  T
+   !    !   MMM                  MM   MM  MM  M  M M M            WWW                  WW   WW  WW  T  T T T
+   !    !  MMM                     MMMM M  MMMM MM MM M   M           WWW                     WWWW W  WWTT TT TT T   T
+          MMM                       M  MM MMM  MMMMMM M  M          WWW                       W  WW WWW  TTTTTT T  T
+         MMM                          MMM MMMMM  MMMMM  M         WWW                          WWW WWWWW  TTTTT  T
+  M     MMM                             MM MMMM    MMMMM  M  W     WWW                             WW WWWW    TTTTT  T
+  M    MMM                               MM MMM MM MMMMM M  W    WWW                               WW WWW TT TTTTT T
+   M  MMM                                 MM MM MM MMMMMM   W  WWW                                 WW WW TT TTTTTT
+   MMMMM            !                     MMMMM....MM   WWWWW                                  WWWWW    TT
+   MMM              ! !                   MMMMMMMM   WWW                                    TTTTTTTT
+!  MMM            ! ! !     MMM            MMMM   WWW                      WWW            TTTT
+ ! MMM            !  !!    MMMM            MMM   WWW                     WWWW            TTT
+  M  M            ! ! ! MMM MMM MM         MMM  W  W                  WWW WWW WW         TTT
+ M   M            ! ! !MMMMMMMMMMMMM       MMM W   W                 WWWWWWWWWWWWW       TTT
+     M            ! ! MMMMMMMMMMMM         MM     W                WWWWWWWWWWWW         TT
+     M            !!!! MMMMMMMM M          MM     W                 WWWWWWWW W          TT
+                  ! ! !MMMMMMMMMMMMM       MM                       WWWWWWWWWWWWW       TT
+   !               ! !  MMMMMMMMM          M                        WWWWWWWWW          T
+  ! !              !! !  .MMMMMMMMM                          WWWWWWWWW
+  ! !              ! !      MMMM                            WWWW
+
+
+
+
+                   THE ARIZONA ROAD RUNNER
+
+      PREPARED FOR RTTY BY CLEM, WA7WCH, GRANITE FALLS, WA.
+

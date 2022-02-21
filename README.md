@@ -16,9 +16,12 @@
 
 - Set `locale`:
 
-  - ```bash
+  - `raspi-config`: Localization Options [`en_US.UTF-8`, `es_ES.UTF-8`] ; Timezone [`Europe/Madrid`]; 
+
+    ```bash
     # cat > /etc/default/locale
     LANG=en_US.UTF-8
+    LANGUAGE=en_US.UTF-8
     LC_NUMERIC=es_ES.UTF-8
     LC_TIME=es_ES.UTF-8
     LC_MONETARY=es_ES.UTF-8
@@ -32,9 +35,13 @@
     # locale-gen
     ```
 
+  - set keyboard with: `localectl set-keymap es`
+
+  - Reboot.
+
 - update it with `sudo apt update && sudo apt upgrade`
 
-- `sudo raspi-config`
+- set the hostname: `sudo raspi-config`
 
 In case you are updating the hackrf one by remote remember that you can remove USB power using:
 
@@ -173,6 +180,70 @@ and check to make sure that only the key(s) you wanted were added.
 taglio@trimurti:~/Bin$
 ```
 
+Configure ssh to forward agent, identities and X11 to the HAM raspberry. Verify it:
+
+```bash
+taglio@trimurti:~$ cat /etc/ssh/ssh_config.d/ham.conf 
+Host ham*
+	AddKeysToAgent ask
+	IdentityFile ~/.ssh/id_ed25519
+	ForwardAgent yes
+	ForwardX11 yes
+	
+taglio@trimurti:~$  ssh-add -L
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDGNNdXk7F17jGtt8xN51bR8toCET/my2mjQX4FkBVt8AwqEFoZg7AQcI9QReIyIOskiG7PXKD6YFk2bE5lc8QoHPeJCD1NHN/V0iflteeP4ZhtG/HH6NIGwEMsTsoxM8Uk4gU+kBWfFnmpRixXlCZjgKmRK0QdBdqX/0CVIDA0Z8ZO7W6dzXo+aje/kd/hD/T9jdAom0B+keXjaWRuZtIZ75v7hSBrG8K1azG9rvMX9zJHUwq8NXc7/ut90UGFFKvGgBt1kwc/Q1NiRbZujJ31+eKJJVXCp+IYl9SwVchl0FFQeR6ylWSO/rpt75yDgZYqpiTcdQ3lTbhX+rfUNX9veC7XJ6qTIoqP9kzUDZocSdNpLFOloor9LciGMJ1E7DJtqs7ZizlQVPRfOyP0EeO8Y9+JGUfQWOgb7w1OIsmJU54dFPVM20cxzsq71KOGS/LCvnqHl+UAhD6V+HSKkWpQCNbhk8q7IhjDqKEJ2LhfW2FHCANQJ7GyWRbVK/keHLk= taglio@telecom.lobby
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIZfNTAqRcC2VizgFX++yZLRAWaZi9iRMHuoVis4T38w taglio@telecom.lobby
+taglio@trimurti:~$ 
+```
+
+Configure pam_ssh_agent_auth onto the HAM raspberry for password less operations with sudo:
+
+```bash
+# apt install libpam-ssh-agent-auth
+# cp /home/taglio/.ssh/authorized_keys /etc/ssh/authorized_keys
+# chown root:root /etc/ssh/authorized_keys ; chmod 0644 /etc/ssh/authorized_keys
+```
+
+Configure pam.d sudo file:
+
+```bash
+# cat /etc/pam.d/sudo
+auth sufficient /usr/lib/arm-linux-gnueabihf/security/pam_ssh_agent_auth.so file=/etc/ssh/authorized_keys
+
+@include common-auth
+@include common-account
+@include common-session-noninteractive
+#
+```
+
+Configure and restart sshd:
+
+```bash
+# cat /etc/ssh/sshd_config
+Include /etc/ssh/sshd_config.d/*.conf
+AddressFamily inet
+PermitRootLogin no
+PubkeyAuthentication yes
+PasswordAuthentication no
+ChallengeResponseAuthentication no
+UsePAM yes
+AllowAgentForwarding yes
+AllowTcpForwarding yes
+X11Forwarding yes
+PrintMotd no
+AcceptEnv LANG LC_*
+Subsystem	sftp	/usr/lib/openssh/sftp-server
+# /etc/init.d/ssh restart
+Restarting ssh (via systemctl): ssh.service.
+#
+```
+
+Add ssh-add to login file read by bash shell:
+
+```bash
+$ echo ssh-add >> .profile
+```
+
 Delete pi user:
 
 ```bash
@@ -180,7 +251,60 @@ Delete pi user:
 # rm -rf /home/pi
 ```
 
+Add fortune and uprecords to motd:
+
+```bash
+# cat /dev/null> /etc/motd
+# apt install fortune uptimed
+# rm /etc/profile.d/{sshpwd.sh,wifi-check.sh}
+# echo 'echo " "'  > /etc/profile.d/00uptimed.sh
+# echo "uprecords" >> /etc/profile.d/00uptimed.sh
+# echo 'echo " "'  > /etc/profile.d/01fortune.sh
+# echo "/usr/games/fortune -a" >> /etc/profile.d/01fortune.sh
+```
+
+
+
 #### External SB X-Fi Surround 5.1 Pro
+
+![](https://github.com/redeltaglio/rasberry-hackrf/raw/main/Images/thumb_d_gallery_base_b4cdacc3.jpg)
+
+
+
+Blacklist the board card:
+
+```bash
+# echo blacklist snd_bcm2835 > /etc/modprobe.d/bcm2835.conf
+# rmmod snd_bcm2835
+```
+
+Disable vn4 driver audio:
+
+```bash
+# sed -i "s|dtoverlay=vc4-kms-v3d|dtoverlay=vc4-kms-v3d,audio=off|" /boot/config.txt
+# reboot
+```
+
+Verify:
+
+```bash
+taglio@HAM-01-RASPB:~ $ aplay -l
+**** List of PLAYBACK Hardware Devices ****
+card 1: Pro [SB X-Fi Surround 5.1 Pro], device 0: USB Audio [USB Audio]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+card 1: Pro [SB X-Fi Surround 5.1 Pro], device 1: USB Audio [USB Audio #1]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+taglio@HAM-01-RASPB:~ $ 
+```
+
+Install pulseaudio:
+
+```bash
+# apt install pulseaudio
+# usermod -a -G pulse,pulse-access taglio
+```
 
 
 

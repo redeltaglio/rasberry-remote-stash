@@ -1,0 +1,301 @@
+upload=true&script=true&cardinfo=
+!!################################
+!!ALSA Information Script v 0.4.65
+!!################################
+
+!!Script ran on: Mon Feb 21 16:45:02 UTC 2022
+
+
+!!Linux Distribution
+!!------------------
+
+ID_LIKE=debian
+
+
+!!DMI Information
+!!---------------
+
+Manufacturer:      
+Product Name:      
+Product Version:   
+Firmware Version:  
+System SKU:        
+Board Vendor:      
+Board Name:        
+
+
+!!ACPI Device Status Information
+!!---------------
+
+
+
+!!Kernel Information
+!!------------------
+
+Kernel release:    5.15.24-v7+
+Operating System:  GNU/Linux
+Architecture:      armv7l
+Processor:         unknown
+SMP Enabled:       Yes
+
+
+!!ALSA Version
+!!------------
+
+Driver version:     k5.15.24-v7+
+Library version:    1.2.4
+Utilities version:  1.2.4
+
+
+!!Loaded ALSA modules
+!!-------------------
+
+snd_usb_audio
+
+
+!!Sound Servers on this system
+!!----------------------------
+
+Pulseaudio:
+      Installed - Yes (/usr/bin/pulseaudio)
+      Running - Yes
+
+
+!!Soundcards recognised by ALSA
+!!-----------------------------
+
+ 1 [Pro            ]: USB-Audio - SB X-Fi Surround 5.1 Pro
+                      Creative Technology Ltd SB X-Fi Surround 5.1 Pro at usb-3f980000.usb-1.2, full 
+
+
+!!PCI Soundcards installed in the system
+!!--------------------------------------
+
+
+
+!!Modprobe options (Sound related)
+!!--------------------------------
+
+snd_pcsp: index=-2
+snd_usb_audio: index=-2
+snd_atiixp_modem: index=-2
+snd_intel8x0m: index=-2
+snd_via82xx_modem: index=-2
+snd_bcm2835: enable_compat_alsa=0
+snd_bcm2835: enable_hdmi=1
+
+
+!!Loaded sound module options
+!!---------------------------
+
+!!Module: snd_usb_audio
+	autoclock : Y
+	delayed_register : (null),(null),(null),(null),(null),(null),(null),(null)
+	device_setup : 0,0,0,0,0,0,0,0
+	enable : Y,Y,Y,Y,Y,Y,Y,Y
+	id : (null),(null),(null),(null),(null),(null),(null),(null)
+	ignore_ctl_error : N
+	implicit_fb : N,N,N,N,N,N,N,N
+	index : -2,-1,-1,-1,-1,-1,-1,-1
+	lowlatency : Y
+	pid : -1,-1,-1,-1,-1,-1,-1,-1
+	quirk_alias : (null),(null),(null),(null),(null),(null),(null),(null)
+	quirk_flags : 0,0,0,0,0,0,0,0
+	skip_validation : N
+	use_vmalloc : Y
+	vid : -1,-1,-1,-1,-1,-1,-1,-1
+
+
+!!USB Mixer information
+!!---------------------
+--startcollapse--
+
+USB Mixer: usb_id=0x041e3263, ctrlif=0, ctlerr=0
+Card: Creative Technology Ltd SB X-Fi Surround 5.1 Pro at usb-3f980000.usb-1.2, full 
+--endcollapse--
+
+
+!!ALSA Device nodes
+!!-----------------
+
+crw-rw---- 1 root audio 116, 32 Feb 21 17:12 /dev/snd/controlC1
+crw-rw---- 1 root audio 116, 36 Feb 21 17:12 /dev/snd/hwC1D0
+crw-rw---- 1 root audio 116, 56 Feb 21 17:12 /dev/snd/pcmC1D0c
+crw-rw---- 1 root audio 116, 48 Feb 21 17:44 /dev/snd/pcmC1D0p
+crw-rw---- 1 root audio 116, 49 Feb 21 17:12 /dev/snd/pcmC1D1p
+crw-rw---- 1 root audio 116,  1 Feb 21 17:12 /dev/snd/seq
+crw-rw---- 1 root audio 116, 33 Feb 21 17:12 /dev/snd/timer
+
+/dev/snd/by-id:
+total 0
+drwxr-xr-x 2 root root  60 Feb 21 17:12 .
+drwxr-xr-x 4 root root 220 Feb 21 17:12 ..
+lrwxrwxrwx 1 root root  12 Feb 21 17:12 usb-Creative_Technology_Ltd_SB_X-Fi_Surround_5.1_Pro_000000BM-00 -> ../controlC1
+
+/dev/snd/by-path:
+total 0
+drwxr-xr-x 2 root root  60 Feb 21 17:12 .
+drwxr-xr-x 4 root root 220 Feb 21 17:12 ..
+lrwxrwxrwx 1 root root  12 Feb 21 17:12 platform-3f980000.usb-usb-0:1.2:1.0 -> ../controlC1
+
+
+!!Aplay/Arecord output
+!!--------------------
+
+APLAY
+
+**** List of PLAYBACK Hardware Devices ****
+card 1: Pro [SB X-Fi Surround 5.1 Pro], device 0: USB Audio [USB Audio]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+card 1: Pro [SB X-Fi Surround 5.1 Pro], device 1: USB Audio [USB Audio #1]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+
+ARECORD
+
+**** List of CAPTURE Hardware Devices ****
+card 1: Pro [SB X-Fi Surround 5.1 Pro], device 0: USB Audio [USB Audio]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+
+!!Amixer output
+!!-------------
+
+!!-------Mixer controls for card Pro
+
+Card hw:1 'Pro'/'Creative Technology Ltd SB X-Fi Surround 5.1 Pro at usb-3f980000.usb-1.2, full '
+  Mixer name	: 'USB Mixer'
+  Components	: 'USB041e:3263'
+  Controls      : 3
+  Simple ctrls  : 0
+
+
+!!Alsactl output
+!!--------------
+
+--startcollapse--
+state.Pro {
+	control.1 {
+		iface PCM
+		name 'Playback Channel Map'
+		value.0 0
+		value.1 0
+		comment {
+			access read
+			type INTEGER
+			count 2
+			range '0 - 36'
+		}
+	}
+	control.2 {
+		iface PCM
+		device 1
+		name 'Playback Channel Map'
+		value.0 0
+		value.1 0
+		comment {
+			access read
+			type INTEGER
+			count 2
+			range '0 - 36'
+		}
+	}
+	control.3 {
+		iface PCM
+		name 'Capture Channel Map'
+		value.0 0
+		value.1 0
+		comment {
+			access read
+			type INTEGER
+			count 2
+			range '0 - 36'
+		}
+	}
+}
+--endcollapse--
+
+
+!!All Loaded Modules
+!!------------------
+
+8021q
+backlight
+bcm2835_codec
+bcm2835_isp
+bcm2835_mmal_vchiq
+bcm2835_v4l2
+cdc_acm
+cec
+cfg80211
+drm
+drm_kms_helper
+drm_panel_orientation_quirks
+fb_sys_fops
+fixed
+ftdi_sio
+fuse
+garp
+i2c_bcm2835
+ip_tables
+ipv6
+llc
+mc
+pps_ldisc
+raspberrypi_hwmon
+rfkill
+sha256_generic
+snd
+snd_compress
+snd_hwdep
+snd_pcm
+snd_pcm_dmaengine
+snd_rawmidi
+snd_seq_device
+snd_soc_core
+snd_timer
+snd_usb_audio
+snd_usbmidi_lib
+stp
+syscopyarea
+sysfillrect
+sysimgblt
+uio
+uio_pdrv_genirq
+usbserial
+v4l2_mem2mem
+vc4
+vc_sm_cma
+videobuf2_common
+videobuf2_dma_contig
+videobuf2_memops
+videobuf2_v4l2
+videobuf2_vmalloc
+videodev
+x_tables
+
+
+!!ALSA/HDA dmesg
+!!--------------
+
+[    0.000000] Built 1 zonelists, mobility grouping on.  Total pages: 240555
+[    0.000000] Kernel command line: coherent_pool=1M 8250.nr_uarts=1 snd_bcm2835.enable_compat_alsa=0 snd_bcm2835.enable_hdmi=1 video=Composite-1:720x480@60i vc_mem.mem_base=0x3ec00000 vc_mem.mem_size=0x40000000  console=ttyAMA0,115200 console=tty1 root=PARTUUID=fbd6cd84-02 rootfstype=ext4 fsck.repair=yes rootwait
+[    0.000000] Dentry cache hash table entries: 131072 (order: 7, 524288 bytes, linear)
+--
+[   10.510783] random: 7 urandom warning(s) missed due to ratelimiting
+[   10.802410] usbcore: registered new interface driver snd-usb-audio
+[   10.825582] checking generic (3eaa9000 151800) vs hw (0 ffffffff)
+--
+[   10.871538] input: vc4 as /devices/platform/soc/3f902000.hdmi/rc/rc0/input0
+[   10.888454] vc4_hdmi 3f902000.hdmi: 'dmas' DT property is missing or empty, no HDMI audio
+[   10.888620] vc4-drm soc:gpu: bound 3f902000.hdmi (ops vc4_hdmi_ops [vc4])
+
+
+!!Packages installed
+!!--------------------
+
+ii  alsa-topology-conf                   1.2.4-1                          all          ALSA topology configuration files
+ii  alsa-ucm-conf                        1.2.4-2                          all          ALSA Use Case Manager configuration files
+ii  alsa-utils                           1.2.4-1+rpt1                     armhf        Utilities for configuring and using ALSA
+

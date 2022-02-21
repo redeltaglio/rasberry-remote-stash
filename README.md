@@ -299,6 +299,143 @@ card 1: Pro [SB X-Fi Surround 5.1 Pro], device 1: USB Audio [USB Audio #1]
 taglio@HAM-01-RASPB:~ $ 
 ```
 
+And from `alsa-info`:
+
+```bash
+!!Loaded sound module options
+!!---------------------------
+
+!!Module: snd_usb_audio
+	autoclock : Y
+	delayed_register : (null),(null),(null),(null),(null),(null),(null),(null)
+	device_setup : 0,0,0,0,0,0,0,0
+	enable : Y,Y,Y,Y,Y,Y,Y,Y
+	id : (null),(null),(null),(null),(null),(null),(null),(null)
+	ignore_ctl_error : N
+	implicit_fb : N,N,N,N,N,N,N,N
+	index : -2,-1,-1,-1,-1,-1,-1,-1
+	lowlatency : Y
+	pid : -1,-1,-1,-1,-1,-1,-1,-1
+	quirk_alias : (null),(null),(null),(null),(null),(null),(null),(null)
+	quirk_flags : 0,0,0,0,0,0,0,0
+	skip_validation : N
+	use_vmalloc : Y
+	vid : -1,-1,-1,-1,-1,-1,-1,-1
+
+
+!!USB Mixer information
+!!---------------------
+--startcollapse--
+
+USB Mixer: usb_id=0x041e3263, ctrlif=0, ctlerr=0
+Card: Creative Technology Ltd SB X-Fi Surround 5.1 Pro at usb-3f980000.usb-1.2, full 
+--endcollapse--
+
+
+!!ALSA Device nodes
+!!-----------------
+
+crw-rw---- 1 root audio 116, 32 Feb 21 17:12 /dev/snd/controlC1
+crw-rw---- 1 root audio 116, 36 Feb 21 17:12 /dev/snd/hwC1D0
+crw-rw---- 1 root audio 116, 56 Feb 21 17:12 /dev/snd/pcmC1D0c
+crw-rw---- 1 root audio 116, 48 Feb 21 17:44 /dev/snd/pcmC1D0p
+crw-rw---- 1 root audio 116, 49 Feb 21 17:12 /dev/snd/pcmC1D1p
+crw-rw---- 1 root audio 116,  1 Feb 21 17:12 /dev/snd/seq
+crw-rw---- 1 root audio 116, 33 Feb 21 17:12 /dev/snd/timer
+
+/dev/snd/by-id:
+total 0
+drwxr-xr-x 2 root root  60 Feb 21 17:12 .
+drwxr-xr-x 4 root root 220 Feb 21 17:12 ..
+lrwxrwxrwx 1 root root  12 Feb 21 17:12 usb-Creative_Technology_Ltd_SB_X-Fi_Surround_5.1_Pro_000000BM-00 -> ../controlC1
+
+/dev/snd/by-path:
+total 0
+drwxr-xr-x 2 root root  60 Feb 21 17:12 .
+drwxr-xr-x 4 root root 220 Feb 21 17:12 ..
+lrwxrwxrwx 1 root root  12 Feb 21 17:12 platform-3f980000.usb-usb-0:1.2:1.0 -> ../controlC1
+
+
+!!Aplay/Arecord output
+!!--------------------
+
+APLAY
+
+**** List of PLAYBACK Hardware Devices ****
+card 1: Pro [SB X-Fi Surround 5.1 Pro], device 0: USB Audio [USB Audio]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+card 1: Pro [SB X-Fi Surround 5.1 Pro], device 1: USB Audio [USB Audio #1]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+
+ARECORD
+
+**** List of CAPTURE Hardware Devices ****
+card 1: Pro [SB X-Fi Surround 5.1 Pro], device 0: USB Audio [USB Audio]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+
+!!Amixer output
+!!-------------
+
+!!-------Mixer controls for card Pro
+
+Card hw:1 'Pro'/'Creative Technology Ltd SB X-Fi Surround 5.1 Pro at usb-3f980000.usb-1.2, full '
+  Mixer name	: 'USB Mixer'
+  Components	: 'USB041e:3263'
+  Controls      : 3
+  Simple ctrls  : 0
+
+
+!!Alsactl output
+!!--------------
+
+--startcollapse--
+state.Pro {
+	control.1 {
+		iface PCM
+		name 'Playback Channel Map'
+		value.0 0
+		value.1 0
+		comment {
+			access read
+			type INTEGER
+			count 2
+			range '0 - 36'
+		}
+	}
+	control.2 {
+		iface PCM
+		device 1
+		name 'Playback Channel Map'
+		value.0 0
+		value.1 0
+		comment {
+			access read
+			type INTEGER
+			count 2
+			range '0 - 36'
+		}
+	}
+	control.3 {
+		iface PCM
+		name 'Capture Channel Map'
+		value.0 0
+		value.1 0
+		comment {
+			access read
+			type INTEGER
+			count 2
+			range '0 - 36'
+		}
+	}
+}
+--endcollapse--
+```
+
+
+
 Install pulseaudio:
 
 ```bash

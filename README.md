@@ -395,6 +395,8 @@ taglio@HAM-01-RASB:~ $
 
 A **pcm** folder represent a device. **pcm[0-9]c** represent a capture device.  **pcm[0-9]p** represent a playback device. Be careful because in my understanding connected to a capture or playback device there could be more that one jack, female connector. 
 
+![](https://bootlin.com/wp-content/uploads/2020/04/audio-input-1.png)
+
 The acronym pcm refers to [pulse-code modulation](https://en.wikipedia.org/wiki/Pulse-code_modulation).
 
 Our card has got 3 ALSA Devices, to identify the devices id do:
@@ -521,10 +523,6 @@ taglio@HAM-01-RASB:~ $
 
 ```
 
-
-
-![](https://bootlin.com/wp-content/uploads/2020/04/audio-input-1.png)
-
 [ALSA Plugins](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html) that can be programmed are:
 
 - [adpcm](https://en.wikipedia.org/wiki/Adaptive_differential_pulse-code_modulation): software encoder, quadrature encoding, from analog to digital.
@@ -532,9 +530,10 @@ taglio@HAM-01-RASB:~ $
 - [asym](https://alsa.opensrc.org/Asym):  combines half-duplex PCM plugins like dsnoop and dmix into one full-duplex device.
 - [copy](https://alsa.opensrc.org/Copy_(plugin)): copy [samples](https://en.wikipedia.org/wiki/Sampling_(signal_processing)) from a master PCM to a slave PCM.
 - [dmix](https://alsa.opensrc.org/Dmix): provides for direct mixing of multiple streams.
-- [dshare](https://alsa.opensrc.org/Dshare)
-- [dsnoop](https://bootlin.com/blog/audio-multi-channel-routing-and-mixing-using-alsalib/)
-- file
+- [dshare](https://alsa.opensrc.org/Dshare): provides sharing channels.
+- [dsnoop](https://bootlin.com/blog/audio-multi-channel-routing-and-mixing-using-alsalib/): splits one capture stream to more.
+- [file](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_file): stores contents of a PCM stream to file or pipes the stream to a command, and optionally uses an existing file as an input data source.
+
 - hooks
 - hw
 - iec958

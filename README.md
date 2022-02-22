@@ -303,6 +303,143 @@ taglio@HAM-01-RASPB:~ $
 
 Card id is `1`.
 
+Verify the kernel driver that manage the [SB X-Fi Surround 5.1 Pro](https://us.creative.com/p/archived-products/sound-blaster-x-fi-surround-5-1-pro):
+
+```bash
+taglio@HAM-01-RASB:~ $ cat /proc/asound/modules
+ 1 snd_usb_audio
+taglio@HAM-01-RASB:~ $
+```
+
+Verify module options:
+
+```bash
+taglio@HAM-01-RASB:~ $ modinfo snd_usb_audio | grep -v alias
+filename:       /lib/modules/5.15.24-v7+/kernel/sound/usb/snd-usb-audio.ko
+license:        GPL
+description:    USB Audio
+author:         Takashi Iwai <tiwai@suse.de>
+srcversion:     E73A30484EDD3D310F8DAB2
+depends:        mc,snd-usbmidi-lib,snd-pcm,snd,snd-hwdep
+intree:         Y
+name:           snd_usb_audio
+vermagic:       5.15.24-v7+ SMP mod_unload modversions ARMv7 p2v8 
+parm:           index:Index value for the USB audio adapter. (array of int)
+parm:           id:ID string for the USB audio adapter. (array of charp)
+parm:           enable:Enable USB audio adapter. (array of bool)
+parm:           vid:Vendor ID for the USB audio device. (array of int)
+parm:           pid:Product ID for the USB audio device. (array of int)
+parm:           device_setup:Specific device setup (if needed). (array of int)
+parm:           ignore_ctl_error:Ignore errors from USB controller for mixer interfaces. (bool)
+parm:           autoclock:Enable auto-clock selection for UAC2 devices (default: yes). (bool)
+parm:           lowlatency:Enable low latency playback (default: yes). (bool)
+parm:           delayed_register:Quirk for delayed registration, given by id:iface, e.g. 0123abcd:4. (array of charp)
+parm:           implicit_fb:Apply generic implicit feedback sync mode. (array of bool)
+parm:           quirk_flags:Driver quirk bit flags. (array of uint)
+parm:           use_vmalloc:Use vmalloc for PCM intermediate buffers (default: yes). (bool)
+parm:           skip_validation:Skip unit descriptor validation (default: no). (bool)
+taglio@HAM-01-RASB:~ $ 
+```
+
+ALSA creates concepts about **ALSA Card** and **ALSA Device**. Card refers to the hardware that can have multiple capabilities like sending sound to a speaker or receiving sound from a microphone or from another source, in our case our stash.  
+
+Therefore an ALSA Card will have one ALSA device to send sound and another to receive sound. This is why in the output of `aplay -l` we see that the program call `subdevices`. 
+
+One system could have more than one card this is why ALSA use what is called the **ALSA Card id**. An id could by identified by an integer or a name.
+
+A device is identified by the couple **ALSA Card id, ALSA Device id**; device id is always numeric.
+
+ALSA applications works only at device level. Applications are also adressed with:
+
+**ALSA interface:ALSA Card id, ALSA Device id**
+
+ALSA interface is an access protocol that come with to interfaces built that are:
+
+- **hw**, provides direct communication to the hardware device.
+- **plughw**, provides translation from a standardized protocol to one which is supported by the device.
+
+To find the ALSA Card id:
+
+```bash
+taglio@HAM-01-RASB:~ $ cat /proc/asound/cards
+ 1 [Pro            ]: USB-Audio - SB X-Fi Surround 5.1 Pro
+                      Creative Technology Ltd SB X-Fi Surround 5.1 Pro at usb-3f980000.usb-1.2, full 
+taglio@HAM-01-RASB:~ $ 
+```
+
+In our case of study we find the two numeric and letters ids:
+
+- `1`
+- `Pro`
+
+To find the Devices created by ALSA kernel module:
+
+```bash
+taglio@HAM-01-RASB:~ $ ls -l /proc/asound/card*
+-r--r--r--  1 root root 0 feb 21 22:33 /proc/asound/cards
+
+/proc/asound/card1:
+total 0
+-r--r--r-- 1 root root 0 feb 21 22:41 id
+dr-xr-xr-x 4 root root 0 feb 21 22:33 pcm0c
+dr-xr-xr-x 4 root root 0 feb 21 22:33 pcm0p
+dr-xr-xr-x 4 root root 0 feb 21 22:33 pcm1p
+-r--r--r-- 1 root root 0 feb 21 22:41 stream0
+-r--r--r-- 1 root root 0 feb 21 22:41 stream1
+-r--r--r-- 1 root root 0 feb 21 22:41 usbbus
+-r--r--r-- 1 root root 0 feb 21 22:41 usbid
+-r--r--r-- 1 root root 0 feb 21 22:41 usbmixer
+taglio@HAM-01-RASB:~ $ 
+
+```
+
+A **pcm** folder represent a device. **pcm[0-9]c** represent a capture device.  **pcm[0-9]p** represent a playback device. Be careful because in my understanding connected to a capture or playback device there could be more that one jack, female connector. 
+
+Our card has got 3 ALSA Devices, to identify the devices id do:
+
+```bash
+taglio@HAM-01-RASB:~ $ cat /proc/asound/card1/pcm0c/info 
+card: 1
+device: 0
+subdevice: 0
+stream: CAPTURE
+id: USB Audio
+name: USB Audio
+subname: subdevice #0
+class: 0
+subclass: 0
+subdevices_count: 1
+subdevices_avail: 1
+taglio@HAM-01-RASB:~ $ cat /proc/asound/card1/pcm0p/info 
+card: 1
+device: 0
+subdevice: 0
+stream: PLAYBACK
+id: USB Audio
+name: USB Audio
+subname: subdevice #0
+class: 0
+subclass: 0
+subdevices_count: 1
+subdevices_avail: 1
+taglio@HAM-01-RASB:~ $ cat /proc/asound/card1/pcm1p/info 
+card: 1
+device: 1
+subdevice: 0
+stream: PLAYBACK
+id: USB Audio
+name: USB Audio #1
+subname: subdevice #0
+class: 0
+subclass: 0
+subdevices_count: 1
+subdevices_avail: 1
+taglio@HAM-01-RASB:~ $ 
+
+```
+
+
+
 And from `alsa-info`:
 
 ```bash

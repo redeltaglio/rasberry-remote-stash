@@ -534,13 +534,13 @@ taglio@HAM-01-RASB:~ $
 - [dsnoop](https://bootlin.com/blog/audio-multi-channel-routing-and-mixing-using-alsalib/): splits one capture stream to more.
 - [file](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_file): stores contents of a PCM stream to file or pipes the stream to a command, and optionally uses an existing file as an input data source.
 
-- hooks
-- hw
-- iec958
-- jack
-- ladspa
-- lfloat
-- linear
+- [hooks](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_hooks): used to call some 'hook' function when this plugin is opened, modified or closed. Typically, it is used to change control values for a certain state specially for the PCM.
+- [hw](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_hw): communicates directly with the ALSA kernel driver. It is a raw communication without any conversions.
+- [iec958](https://en.wikipedia.org/wiki/S/PDIF)
+- [jack](https://alsa.opensrc.org/Jack_(plugin)): redirect sampling from pcm to [jack audio server](https://jackaudio.org/).
+- [ladspa](https://alsa.opensrc.org/Ladspa_(plugin)): use [ladspa](https://www.ladspa.org/) with ALSA applications. 
+- [lfloat](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_lfloat): converts linear to float samples and float to linear samples from master linear<->float conversion PCM to given slave PCM.
+- [linear](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_linear):  converts linear samples from master linear conversion PCM to given slave PCM.
 - mulaw
 - multi
 - null

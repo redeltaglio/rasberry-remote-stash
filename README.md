@@ -541,15 +541,15 @@ taglio@HAM-01-RASB:~ $
 - [ladspa](https://alsa.opensrc.org/Ladspa_(plugin)): use [ladspa](https://www.ladspa.org/) with ALSA applications. 
 - [lfloat](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_lfloat): converts linear to float samples and float to linear samples from master linear<->float conversion PCM to given slave PCM.
 - [linear](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_linear):  converts linear samples from master linear conversion PCM to given slave PCM.
-- mulaw
-- multi
-- null
-- plug
-- rate
-- route
-- share
-- shm
-- softvol
+- [mulaw](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_mulaw): converts [Mu-Law](https://en.wikipedia.org/wiki/%CE%9C-law_algorithm) samples to linear or linear to Mu-Law samples from master Mu-Law conversion PCM to given slave PCM.
+- [multi](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_multi): onverts multiple streams to one.
+- [null](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_null): discards contents of a PCM stream using `/dev/null` or creates a stream with zero samples. using `/dev/full`.
+- [plug](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_plug): converts channels, rate and format on request.
+- [rate](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_rate): converts a stream rate. The input and output formats must be linear.
+- [route](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_route): converts channels and applies volume during the conversion. The format and rate must match for both of them.
+- [share](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_share): converts multiple streams to one.
+- [shm](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_shm): communicates with aserver via shared memory. It is a raw communication without any conversions, but it can be expected worse performance.
+- [softvol](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_softvol): applies the software volume attenuation. The format, rate and channels must match for both of source and destination.
 
 And from `alsa-info`:
 

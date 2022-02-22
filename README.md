@@ -267,11 +267,11 @@ Add fortune and uprecords to motd:
 
 #### External SB X-Fi Surround 5.1 Pro
 
-![](https://github.com/redeltaglio/rasberry-hackrf/raw/main/Images/thumb_d_gallery_base_b4cdacc3.jpg)
+![](https://github.com/redeltaglio/rasberry-hackrf/raw/main/Images/12.png)
 
 
 
-Linux kernel driver and driver interface [API](https://en.wikipedia.org/wiki/API) is provided by [ALSA](https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture) software framework.
+Linux kernel driver and driver interface [API](https://en.wikipedia.org/wiki/API) is provided by [ALSA](https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture) software framework. It directly interact with hardware devices like our USB soundcard.
 
 Blacklist the board card:
 
@@ -300,6 +300,8 @@ card 1: Pro [SB X-Fi Surround 5.1 Pro], device 1: USB Audio [USB Audio #1]
   Subdevice #0: subdevice #0
 taglio@HAM-01-RASPB:~ $ 
 ```
+
+Card id is `1`.
 
 And from `alsa-info`:
 

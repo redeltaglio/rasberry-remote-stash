@@ -271,6 +271,8 @@ Add fortune and uprecords to motd:
 
 
 
+Linux kernel driver and driver interface [API](https://en.wikipedia.org/wiki/API) is provided by [ALSA](https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture) software framework.
+
 Blacklist the board card:
 
 ```bash
@@ -432,6 +434,27 @@ state.Pro {
 	}
 }
 --endcollapse--
+```
+
+Edit .asoundrc to specify a software mixer because this usb soundcard doesn't have one:
+
+```bash
+pcm.!default {
+    type            plug
+    slave.pcm       "softvol"   #make use of softvol
+}
+
+pcm.softvol {
+    type            softvol
+    slave {
+        pcm        "dmix"      #redirect the output to dmix (instead of "hw:0,0")
+    }
+    control {
+        name        "Master"       #override the PCM slider to set the softvol volume level globally
+        card        1
+    }
+}
+
 ```
 
 

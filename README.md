@@ -395,6 +395,8 @@ taglio@HAM-01-RASB:~ $
 
 A **pcm** folder represent a device. **pcm[0-9]c** represent a capture device.  **pcm[0-9]p** represent a playback device. Be careful because in my understanding connected to a capture or playback device there could be more that one jack, female connector. 
 
+The acronym pcm refers to [pulse-code modulation](https://en.wikipedia.org/wiki/Pulse-code_modulation).
+
 Our card has got 3 ALSA Devices, to identify the devices id do:
 
 ```bash
@@ -438,7 +440,117 @@ taglio@HAM-01-RASB:~ $
 
 ```
 
+Playback device is to send and Capture is receive. But ALSA create a series of concept devices called Virtual Device, the differences are that a physical device got an hardware behind and that got an hardware address. Virtual Devices are addressed by name and are created by plugins. 
 
+To list all hardware and virtual devices created by default use:
+
+```bash
+aglio@HAM-01-RASB:~ $ aplay -L
+null
+    Discard all samples (playback) or generate zero samples (capture)
+lavrate
+    Rate Converter Plugin Using Libav/FFmpeg Library
+samplerate
+    Rate Converter Plugin Using Samplerate Library
+speexrate
+    Rate Converter Plugin Using Speex Resampler
+jack
+    JACK Audio Connection Kit
+oss
+    Open Sound System
+pulse
+    PulseAudio Sound Server
+upmix
+    Plugin for channel upmix (4,6,8)
+vdownmix
+    Plugin for channel downmix (stereo) with a simple spacialization
+default
+softvol
+hw:CARD=Pro,DEV=0
+    SB X-Fi Surround 5.1 Pro, USB Audio
+    Direct hardware device without any conversions
+hw:CARD=Pro,DEV=1
+    SB X-Fi Surround 5.1 Pro, USB Audio #1
+    Direct hardware device without any conversions
+plughw:CARD=Pro,DEV=0
+    SB X-Fi Surround 5.1 Pro, USB Audio
+    Hardware device with all software conversions
+plughw:CARD=Pro,DEV=1
+    SB X-Fi Surround 5.1 Pro, USB Audio #1
+    Hardware device with all software conversions
+sysdefault:CARD=Pro
+    SB X-Fi Surround 5.1 Pro, USB Audio
+    Default Audio Device
+front:CARD=Pro,DEV=0
+    SB X-Fi Surround 5.1 Pro, USB Audio
+    Front output / input
+surround21:CARD=Pro,DEV=0
+    SB X-Fi Surround 5.1 Pro, USB Audio
+    2.1 Surround output to Front and Subwoofer speakers
+surround40:CARD=Pro,DEV=0
+    SB X-Fi Surround 5.1 Pro, USB Audio
+    4.0 Surround output to Front and Rear speakers
+surround41:CARD=Pro,DEV=0
+    SB X-Fi Surround 5.1 Pro, USB Audio
+    4.1 Surround output to Front, Rear and Subwoofer speakers
+surround50:CARD=Pro,DEV=0
+    SB X-Fi Surround 5.1 Pro, USB Audio
+    5.0 Surround output to Front, Center and Rear speakers
+surround51:CARD=Pro,DEV=0
+    SB X-Fi Surround 5.1 Pro, USB Audio
+    5.1 Surround output to Front, Center, Rear and Subwoofer speakers
+surround71:CARD=Pro,DEV=0
+    SB X-Fi Surround 5.1 Pro, USB Audio
+    7.1 Surround output to Front, Center, Side, Rear and Woofer speakers
+iec958:CARD=Pro,DEV=0
+    SB X-Fi Surround 5.1 Pro, USB Audio
+    IEC958 (S/PDIF) Digital Audio Output
+iec958:CARD=Pro,DEV=1
+    SB X-Fi Surround 5.1 Pro, USB Audio #1
+    IEC958 (S/PDIF) Digital Audio Output
+dmix:CARD=Pro,DEV=0
+    SB X-Fi Surround 5.1 Pro, USB Audio
+    Direct sample mixing device
+dmix:CARD=Pro,DEV=1
+    SB X-Fi Surround 5.1 Pro, USB Audio #1
+    Direct sample mixing device
+usbstream:CARD=Pro
+    SB X-Fi Surround 5.1 Pro
+    USB Stream Output
+taglio@HAM-01-RASB:~ $ 
+
+```
+
+
+
+![](https://bootlin.com/wp-content/uploads/2020/04/audio-input-1.png)
+
+[ALSA Plugins](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html) that can be programmed are:
+
+- [adpcm](https://en.wikipedia.org/wiki/Adaptive_differential_pulse-code_modulation): software encoder, quadrature encoding, from analog to digital.
+- [alaw](https://en.wikipedia.org/wiki/A-law_algorithm): an algorithm to optimize a limited channel, a limited hardware for digitalization of analog signals.
+- [asym](https://alsa.opensrc.org/Asym):  combines half-duplex PCM plugins like dsnoop and dmix into one full-duplex device.
+- [copy](https://alsa.opensrc.org/Copy_(plugin)): copy [samples](https://en.wikipedia.org/wiki/Sampling_(signal_processing)) from a master PCM to a slave PCM.
+- [dmix](https://alsa.opensrc.org/Dmix): provides for direct mixing of multiple streams.
+- [dshare](https://alsa.opensrc.org/Dshare)
+- [dsnoop](https://bootlin.com/blog/audio-multi-channel-routing-and-mixing-using-alsalib/)
+- file
+- hooks
+- hw
+- iec958
+- jack
+- ladspa
+- lfloat
+- linear
+- mulaw
+- multi
+- null
+- plug
+- rate
+- route
+- share
+- shm
+- softvol
 
 And from `alsa-info`:
 

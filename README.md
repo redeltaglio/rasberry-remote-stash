@@ -728,6 +728,8 @@ But you can ever build your personal toolchain using:
 - [Buildroot](https://buildroot.org/).
 - [Gentoo](https://www.gentoo.org/) [crossdev](https://wiki.gentoo.org/wiki/Cross_build_environment).
 
+And you can use, if present, containers or virtual machines programmed by the software teams of every project that we need if they have released.
+
 For now we choose to use package from workstation distribution:
 
 ```bash
@@ -795,7 +797,7 @@ taglio@trimurti:~$ sudo dpkg --add-architecture armhf
 # echo deb \[arch=armhf\] http://ports.ubuntu.com/ubuntu-ports impish-updates main restricted universe multiverse >> /etc/apt/sources.list
 # echo deb \[arch=armhf\] http://ports.ubuntu.com/ubuntu-ports impish-security main restricted universe multiverse >> /etc/apt/sources.list
 # apt update
-taglio@trimurti:~$  sudo apt install crossbuild-essential-armhf
+taglio@trimurti:~$  sudo apt install crossbuild-essential-armh
 ```
 
 Why we need cross compile?
@@ -811,6 +813,70 @@ So what we want to obtain is the sound from a stash connected from the headphone
 Some application will work with audio servers and not directly with ALSA so we have to archive streaming over IP network for various scenario. 
 
 We decide to use [ROC toolkit](https://roc-streaming.org/), because we've got different scenario and because we've found another [radio operator](https://grundstil.de/n3rd/ham) that use it.
+
+Install dependencies:
+
+```bash
+taglio@trimurti:~$  sudo apt install g++ scons ragel gengetopt
+```
+
+[SCons](https://scons.org/) is an interesting piece of software.
+
+Clone the git repository of the project a set an environment variable:
+
+```bash
+taglio@trimurti:~/Sources/Git$ git clone https://github.com/roc-streaming/roc-toolkit.git
+Cloning into 'roc-toolkit'...
+remote: Enumerating objects: 16836, done.
+remote: Counting objects: 100% (1189/1189), done.
+remote: Compressing objects: 100% (797/797), done.
+remote: Total 16836 (delta 501), reused 710 (delta 338), pack-reused 15647
+Receiving objects: 100% (16836/16836), 5.71 MiB | 4.95 MiB/s, done.
+Resolving deltas: 100% (11191/11191), done.
+taglio@trimurti:~/Sources/Git$ export ROC_DIR="${HOME}/Sources/Git/roc-toolkit"
+
+```
+
+To cross compile ROC, the simplest way is use the toolchain virtualized in a [docker](https://en.wikipedia.org/wiki/Docker_(software)) [container](https://hub.docker.com/r/rocproject/cross-arm-linux-gnueabihf/) published as open source:
+
+```bash
+taglio@trimurti:~/Sources/Git$ sudo apt install docker.io 
+taglio@trimurti:~/Sources/Git$ cd $ROC_DIR
+taglio@trimurti:~/Sources/Git/roc-toolkit$ docker run -t --rm -u "${UID}" -v "${PWD}:${PWD}" -w "${PWD}" \
+	rocproject/cross-arm-linux-gnueabihf \ 
+	scons -Q --enable-pulseaudio-modules --host=arm-linux-gnueabihf \
+    --build-3rdparty=libuv,libunwind,openfec,alsa,pulseaudio:$(ssh ham-01-rasb.red.ama pulseaudio --version | cut -d ' ' -f2),sox,cpputest
+```
+
+ Copy compiled binary to the raspberry host connected to the stash:
+
+```bash
+taglio@trimurti:~/Sources/Git/roc-toolkit/bin/arm-linux-gnueabihf$ ssh ham-01-rasb.red.ama mkdir -p Binaries/ROC
+taglio@trimurti:~/Sources/Git/roc-toolkit/bin/arm-linux-gnueabihf$ scp * ham-01-rasb.red.ama:/home/taglio/Binaries/ROC/
+libroc.so                            100%  484KB  10.5MB/s   00:00    
+libroc.so.0                          100%  484KB  10.5MB/s   00:00    
+libroc.so.0.1                        100%  484KB  10.6MB/s   00:00    
+module-roc-sink-input.so             100%   20KB   5.5MB/s   00:00    
+module-roc-sink.so                   100%   21KB   5.6MB/s   00:00    
+roc-conv                             100%  802KB  10.8MB/s   00:00    
+roc-example-receiver-sox             100%  249KB  10.3MB/s   00:00    
+roc-example-sender-sinewave          100%   13KB   4.1MB/s   00:00    
+roc-recv                             100% 1107KB  10.9MB/s   00:00    
+roc-send                             100% 1079KB  10.9MB/s   00:00    
+roc-test-address                     100%  658KB  10.9MB/s   00:00    
+roc-test-audio                       100%  985KB  10.9MB/s   00:00    
+roc-test-core                        100%  698KB  10.8MB/s   00:00    
+roc-test-fec                         100% 1120KB  10.9MB/s   00:00    
+roc-test-lib                         100%  682KB  10.9MB/s   00:00    
+roc-test-netio                       100%  714KB  10.9MB/s   00:00    
+roc-test-packet                      100%  803KB  10.8MB/s   00:00    
+roc-test-pipeline                    100% 1162KB  11.0MB/s   00:00    
+roc-test-rtp                         100%  847KB  10.9MB/s   00:00    
+roc-test-sndio                       100%  896KB  10.9MB/s   00:00    
+taglio@trimurti:~/Sources/Git/roc-toolkit/bin/arm-linux-gnueabihf$ 
+```
+
+
 
 #### Hackrf one
 

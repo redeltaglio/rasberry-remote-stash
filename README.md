@@ -263,8 +263,6 @@ Add fortune and uprecords to motd:
 # echo "/usr/games/fortune -a" >> /etc/profile.d/01fortune.sh
 ```
 
-
-
 #### External SB X-Fi Surround 5.1 Pro
 
 ![](https://github.com/redeltaglio/rasberry-hackrf/raw/main/Images/12.png)
@@ -551,7 +549,7 @@ taglio@HAM-01-RASB:~ $
 - [shm](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_shm): communicates with aserver via shared memory. It is a raw communication without any conversions, but it can be expected worse performance.
 - [softvol](https://www.alsa-project.org/alsa-doc/alsa-lib/pcm_plugins.html#pcm_plugins_softvol): applies the software volume attenuation. The format, rate and channels must match for both of source and destination.
 
-And from `alsa-info`:
+At least some output from `alsa-info`:
 
 ```bash
 !!Loaded sound module options
@@ -707,8 +705,6 @@ pcm.softvol {
 
 ```
 
-
-
 Install pulseaudio:
 
 ```bash
@@ -716,7 +712,105 @@ Install pulseaudio:
 # usermod -a -G pulse,pulse-access taglio
 ```
 
+#### Cross compile armv7l binaries using a x86_64 workstation
 
+Various options regarding toolchains to do cross compiling for obvious timing reasons and hardware performances of the little ARM device.
+
+- [Raspberry deprecated toolchain](https://github.com/raspberrypi/tools).
+- [ARM toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-a/downloads).
+- [Linaro toolchain](http://releases.linaro.org/components/toolchain/binaries/).
+- [Musl](https://musl.cc/), a toolchain develop from scratch focused into [static cross native compile](https://jensd.be/1126/linux/cross-compiling-for-arm-or-aarch64-on-debian-or-ubuntu). 
+- [Debian / Ubuntu packages](https://wiki.debian.org/CrossToolchains).
+
+But you can ever build your personal toolchain using:
+
+- [Crosstool-NG](https://crosstool-ng.github.io/).
+- [Buildroot](https://buildroot.org/).
+- [Gentoo](https://www.gentoo.org/) [crossdev](https://wiki.gentoo.org/wiki/Cross_build_environment).
+
+For now we choose to use package from workstation distribution:
+
+```bash
+taglio@trimurti:~/Work/redama/rasberry-hackrf$ cat /etc/lsb-release 
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=21.10
+DISTRIB_CODENAME=impish
+DISTRIB_DESCRIPTION="Ubuntu 21.10"
+taglio@trimurti:~/Work/redama/rasberry-hackrf$ 
+
+```
+
+That is as we just show the Ubuntu release, but not a [LTS](https://ubuntu.com/blog/what-is-an-ubuntu-lts-release) so that with the [Linaro](https://linaro.org/) we could have problems. 
+
+```bash
+taglio@trimurti:~/Work/redama/rasberry-hackrf$ sudo apt install gcc-arm-linux-gnueabi binutils-arm-linux-gnueabi
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following additional packages will be installed:
+  cpp-11-arm-linux-gnueabi cpp-arm-linux-gnueabi gcc-11-arm-linux-gnueabi gcc-11-arm-linux-gnueabi-base gcc-11-cross-base libasan6-armel-cross libatomic1-armel-cross libc6-armel-cross libc6-dev-armel-cross libgcc-11-dev-armel-cross libgcc-s1-armel-cross libgomp1-armel-cross
+  libstdc++6-armel-cross libubsan1-armel-cross linux-libc-dev-armel-cross
+Suggested packages:
+  binutils-doc gcc-11-locales cpp-doc gcc-11-doc flex bison gdb-arm-linux-gnueabi gcc-doc
+The following NEW packages will be installed:
+  binutils-arm-linux-gnueabi cpp-11-arm-linux-gnueabi cpp-arm-linux-gnueabi gcc-11-arm-linux-gnueabi gcc-11-arm-linux-gnueabi-base gcc-11-cross-base gcc-arm-linux-gnueabi libasan6-armel-cross libatomic1-armel-cross libc6-armel-cross libc6-dev-armel-cross libgcc-11-dev-armel-cross
+  libgcc-s1-armel-cross libgomp1-armel-cross libstdc++6-armel-cross libubsan1-armel-cross linux-libc-dev-armel-cross
+0 upgraded, 17 newly installed, 0 to remove and 2 not upgraded.
+Need to get 127 MB of archives.
+After this operation, 390 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Y
+...
+taglio@trimurti:~/Work/redama/rasberry-hackrf$
+```
+
+And we try to compile an "hello world" program in C language for the `armv7l` processor:
+
+```bash
+taglio@trimurti:~/Work/redama/rasberry-hackrf/C$ cat helloworld.c 
+#include<stdio.h>
+int main()
+{
+        printf("Hello World!\n");
+        return 0;
+}
+taglio@trimurti:~/Work/redama/rasberry-hackrf/C$ arm-linux-gnueabi-gcc helloworld.c -o helloworld-arm -static
+taglio@trimurti:~/Work/redama/rasberry-hackrf/C$ file helloworld-arm 
+helloworld-arm: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, BuildID[sha1]=55f5e32b52352bf9658ef8c48c05d6b257c02d54, for GNU/Linux 3.2.0, not stripped
+taglio@trimurti:~/Work/redama/rasberry-hackrf/C$ scp helloworld-arm ham-01-rasb.red.ama:/home/taglio
+helloworld-arm                                                                                                                                                                                                                                          100%  527KB   8.5MB/s   00:00    
+taglio@trimurti:~/Work/redama/rasberry-hackrf/C$
+
+taglio@HAM-01-RASB:~ $ ./helloworld-arm 
+Hello World!
+taglio@HAM-01-RASB:~ $ uname -m
+armv7l
+taglio@HAM-01-RASB:~ $ 
+
+```
+
+Next we prepare our workstation with the cross compile toolkit with the available packages:
+
+```bash
+taglio@trimurti:~$ sudo dpkg --add-architecture armhf
+# echo deb \[arch=armhf\] http://ports.ubuntu.com/ubuntu-ports impish-updates main restricted universe multiverse >> /etc/apt/sources.list
+# echo deb \[arch=armhf\] http://ports.ubuntu.com/ubuntu-ports impish-security main restricted universe multiverse >> /etc/apt/sources.list
+# apt update
+taglio@trimurti:~$  sudo apt install crossbuild-essential-armhf
+```
+
+Why we need cross compile?
+
+Because we want to follow the cutting edge speaking about ours radio ham programs. Because we want to use a lot of programs, some heavy, that aren't included into the package repository of [RaspiOS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS). Because, at least but not last, time compile directly into the arm device is very long and resources are limited. 
+
+#### ALSA PCM capture to network
+
+![](https://roc-streaming.org/logo.png)
+
+So what we want to obtain is the sound from a stash connected from the headphone jack to the line input jack, the blue one, transmitted to an IP network. We want to use X11 applications within an ssh remote session forwarding them and listen to them. To real scope of this document is build various radio ham remote stash, point of presence, and use the as we're directly interact with them.
+
+Some application will work with audio servers and not directly with ALSA so we have to archive streaming over IP network for various scenario. 
+
+We decide to use [ROC toolkit](https://roc-streaming.org/), because we've got different scenario and because we've found another [radio operator](https://grundstil.de/n3rd/ham) that use it.
 
 #### Hackrf one
 

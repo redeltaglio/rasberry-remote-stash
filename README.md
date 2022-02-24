@@ -936,7 +936,21 @@ A nice [software](https://dl1gkk.com/setup-raspberry-pi-for-ham-radio/) [list](h
 
 - [VOACAP](https://www.voacap.com/)
 
-- 
+- [Chirp](https://chirp.danplanet.com/projects/chirp/wiki/Home)
+
+- [Qtel](https://kd9cpb.com/qtel)
+
+- [D-Rats](https://iz2lxi.jimdofree.com/)
+
+- [CubicSDR](https://cubicsdr.com/)
+
+- [ADS-B](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast) Receiver.
+
+- [VirtualRadar](http://www.virtualradar.nl/virtualradar/desktop.html)
+
+- [XDX](https://sourceforge.net/projects/xdxclusterclient/) [dx-cluster](https://www.dxfuncluster.com/) client.
+
+- [Unixcw](http://unixcw.sourceforge.net/)
 
   
 

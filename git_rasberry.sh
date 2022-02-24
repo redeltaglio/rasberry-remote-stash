@@ -3,8 +3,8 @@
 DATE=$(date +%d%m%Y)
 DATE_RELEASE=$(date +"%d/%m/%Y %H:%m:%S")
 HOMEWRK="/home/taglio/Work/redama"
-REPO="/rasberry-hackrf"
-RELEASE="/rasberryhackrf$DATE.tar"
+REPO="/rasberry-remote-stash"
+RELEASE="/rasberry-remote-stash$DATE.tar"
 
 echo "creating tar release"
 rm -rf "$HOMEWRK$RELEASE"

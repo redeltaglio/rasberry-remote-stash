@@ -1,4 +1,4 @@
-# Rasberry pi, passive and active hamradio device.
+# ARM devices, passive and active remote hamradio stash.
 
 ![](https://www.distrelec.biz/Web/WebShopImages/landscape_large/3-/03/Raspberry%20Pi-RASPBERRY-PI-4-CASE-RW-30152783-03.jpg)
 
@@ -875,6 +875,18 @@ roc-test-rtp                         100%  847KB  10.9MB/s   00:00
 roc-test-sndio                       100%  896KB  10.9MB/s   00:00    
 taglio@trimurti:~/Sources/Git/roc-toolkit/bin/arm-linux-gnueabihf$ 
 ```
+
+Login into the HAM-01 remote stash device, that is my hostname, and copy binaries and launch `ldconfig`:
+
+```bash
+taglio@HAM-01-RASB:~/Binaries/ROC $ sudo cp roc-{recv,send,conv} /usr/bin/
+taglio@HAM-01-RASB:~/Binaries/ROC $ sudo cp libroc.so* /usr/lib
+taglio@HAM-01-RASB:~/Binaries/ROC $ sudo cp module-roc-{sink,sink-input}.so /usr/lib/pulse-14.2/modules/
+taglio@HAM-01-RASB:~/Binaries/ROC $ sudo ldconfig
+
+```
+
+#### Remote radioham stash, QSL software.
 
 
 

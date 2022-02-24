@@ -888,6 +888,58 @@ taglio@HAM-01-RASB:~/Binaries/ROC $ sudo ldconfig
 
 #### Remote radioham stash, QSL software.
 
+![](https://k7kez.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-25-at-11.37.43-PM-1024x588.png)
+
+A nice [software](https://dl1gkk.com/setup-raspberry-pi-for-ham-radio/) [list](https://github.com/km4ack/pi-build/blob/master/README.md) to use in remote X forwarding by ssh will be:
+
+- [gpsd](https://gpsd.gitlab.io/gpsd/)
+
+- [chronyd](https://chrony.tuxfamily.org/)
+
+- [xgps](https://gpsd.gitlab.io/gpsd/xgps-sample.html)
+
+- [hamlib](https://hamlib.github.io/)
+
+- [direwolf](https://github.com/wb2osz/direwolf)
+
+- [Xastir](https://github.com/Xastir/Xastir)
+
+- [LinPac](http://linpac.sourceforge.net/overview.php)
+
+- [FLRig](http://www.w1hkj.com/files/flrig/flrig-help.pdf)
+
+- [FLDigi](http://www.w1hkj.com/files/fldigi/fldigi-help.pdf)
+
+- [WSJT-X](https://physics.princeton.edu/pulsar/K1JT/wsjtx.html)
+
+- [JTDX](https://www.jtdx.tech/en/)
+
+- [GridTracker](https://gridtracker.org/)
+
+- [JS8Call](https://js8call.com/)
+
+- [PAT](https://getpat.io/)
+
+- [zyGrib](https://www.zygrib.org/)
+
+- [CQRLOG](https://www.cqrlog.com/)
+
+- [TQSL](http://www.arrl.org/tqsl-download)
+
+- [Gpredict](http://gpredict.oz9aec.net/)
+
+- [QSSTV](http://users.telenet.be/on4qz/qsstv/index.html)
+
+- [Gqrx](https://gqrx.dk/)
+
+- [Freedv](https://freedv.org/)
+
+- [VOACAP](https://www.voacap.com/)
+
+- 
+
+  
+
 
 
 #### Hackrf one

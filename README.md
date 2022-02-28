@@ -886,6 +886,33 @@ taglio@HAM-01-RASB:~/Binaries/ROC $ sudo ldconfig
 
 ```
 
+Now what we've first to configure is the receiving pulseaudio module in the workstation, so we've got to configure and install ROC into it:
+
+```bash
+taglio@trimurti:~/Sources/Git/roc-toolkit$ sudo apt install g++ pkg-config scons ragel gengetopt     libuv1-dev libunwind-dev libpulse-dev libsox-dev libcpputest-dev
+...
+taglio@trimurti:~/Sources/Git/roc-toolkit$ sudo apt install libtool intltool autoconf automake make cmake
+...
+taglio@trimurti:~/Sources/Git/roc-toolkit$
+```
+
+Next build it directly:
+
+```bash
+taglio@trimurti:~/Sources/Git/roc-toolkit$ scons -Q --build-3rdparty=openfec
+...
+taglio@trimurti:~/Sources/Git/roc-toolkit$ sudo scons -Q --build-3rdparty=openfec install
+  INSTALL   /usr/include/roc
+  INSTALL   /usr/lib/x86_64-linux-gnu/libroc.so.0.1
+  INSTALL   /usr/lib/x86_64-linux-gnu/libroc.so.0
+  INSTALL   /usr/lib/x86_64-linux-gnu/libroc.so
+  INSTALL   /usr/bin/roc-conv
+  INSTALL   /usr/bin/roc-recv
+  INSTALL   /usr/bin/roc-send
+taglio@trimurti:~/Sources/Git/roc-toolkit$ 
+
+```
+
 #### Remote radioham stash, QSL software.
 
 ![](https://k7kez.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-25-at-11.37.43-PM-1024x588.png)
@@ -927,11 +954,148 @@ A nice [software](https://dl1gkk.com/setup-raspberry-pi-for-ham-radio/) [list](h
 - ARDOPCGUI
 - [M0IAX](https://github.com/m0iax/JS8CallUtilities_V2)
 
-Despite others tutorials that use the ARM device to compile all those stuff, we will do it in our workstation for the same reasons than above. Next we wil upload to the devices and running onto them.
+Despite others tutorials that use the ARM device to compile all those stuff, we will do it in our workstation for the same reasons than above. Next we will upload to the devices and running onto them.
 
+Another time we speak about cross compiling. We speak about fast compile time and a single workstation to do it; in my toughs there is *"remote stash as a service"*, many point of presences. Compile have to be centralized. 
 
+Let's do it with [crosstool-NG](https://github.com/crosstool-ng/crosstool-ng) in a Debian based workstation an [Ubuntu 21.10](https://ubuntu.com/blog/ubuntu-21-10-has-landed), codename [impish](https://www.omgubuntu.co.uk/2021/04/ubuntu-21-10-codename-revealed).
 
+Install dependencies: 
 
+```bash
+$ sudo apt install -y gcc g++ gperf bison flex texinfo help2man make libncurses5-dev python3-dev autoconf automake libtool libtool-bin gawk wget bzip2 xz-utils unzip patch libstdc++6 rsync git
+```
+
+Download with git, launch `bootstrap` script and `configure`. Also find a free partition in your disk pool and create a directory for staging files, in my case:
+
+```bash
+$ git clone https://github.com/crosstool-ng/crosstool-ng.git
+...
+$ cd crosstool-ng ; ./bootstrap
+...
+$ echo export RASTA="/media/taglio/BACK/x-tools" >> "${HOME}"/.bashrc ; source "${HOME}"/.profile
+$ sudo mkdir "${RASTA}" ; ./configure --prefix="${RASTA}"
+```
+
+Next `make` and `make install`:
+
+```bash
+$ make ; sudo make install
+```
+
+Add /opt/crosstool-ng/bin to the PATH environment variable:
+
+```bash
+$ echo -e 'if [ -d "${RASTA}/bin" ] ; then
+    PATH="${RASTA}/bin:$PATH"
+fi
+' >> "${HOME}"/.profile
+$ source ~/.profile
+```
+
+Because of [multiarch](https://wiki.debian.org/Multiarch/HOWTO) support the Debian installed in the ARM device got library in uncommon directories we've got to patch crosstool-ng doing some work. After some versions checks:
+
+```bash
+taglio@HAM-01-RASB:~ $ sudo apt install binutils-source
+...
+taglio@HAM-01-RASB:~ $ ls -l /usr/src/binutils/patches/
+total 256
+-rw-r--r-- 1 root root   972 mar  6  2021 001_ld_makefile_patch.patch
+-rw-r--r-- 1 root root  1273 mar  6  2021 002_gprof_profile_arcs.patch
+-rw-r--r-- 1 root root   539 mar  6  2021 003_gprof_see_also_monitor.patch
+-rw-r--r-- 1 root root   505 mar  6  2021 006_better_file_error.patch
+-rw-r--r-- 1 root root   622 mar  6  2021 013_bash_in_ld_testsuite.patch
+-rw-r--r-- 1 root root   978 mar  6  2021 014_hash_style-both.patch
+-rw-r--r-- 1 root root  1011 mar  6  2021 014_hash_style-gnu.patch
+-rw-r--r-- 1 root root   625 mar  6  2021 127_x86_64_i386_biarch.patch
+-rw-r--r-- 1 root root   989 mar  6  2021 128_build_id.patch
+-rw-r--r-- 1 root root   546 mar  6  2021 128_ppc64_powerpc_biarch.patch
+-rw-r--r-- 1 root root 10091 mar  6  2021 129_multiarch_libpath.patch
+-rw-r--r-- 1 root root   579 mar  6  2021 130_gold_disable_testsuite_build.patch
+-rw-r--r-- 1 root root  1404 mar  6  2021 131_ld_bootstrap_testsuite.patch
+-rw-r--r-- 1 root root  2016 mar  6  2021 135_bfd_soversion.patch
+-rw-r--r-- 1 root root   878 mar  6  2021 136_bfd_pic.patch
+-rw-r--r-- 1 root root   391 mar  6  2021 157_ar_scripts_with_tilde.patch
+-rw-r--r-- 1 root root  1141 mar  6  2021 158_ld_system_root.patch
+-rw-r--r-- 1 root root   894 mar  6  2021 161_gold_dummy_zoption.diff
+-rw-r--r-- 1 root root   599 mar  6  2021 164_ld_doc_remove_xref.diff
+-rw-r--r-- 1 root root   673 mar  6  2021 aarch64-libpath.diff
+-rw-r--r-- 1 root root   316 mar  6  2021 branch-no-development.diff
+-rw-r--r-- 1 root root   139 mar  6  2021 branch-updates.diff
+-rw-r--r-- 1 root root 18330 mar  6  2021 branch-version.diff
+-rw-r--r-- 1 root root   816 mar  6  2021 gold-mips.diff
+-rw-r--r-- 1 root root   422 mar  6  2021 gold-no-keep-files-mapped.diff
+-rw-r--r-- 1 root root   375 mar  6  2021 gprof-build.diff
+-rw-r--r-- 1 root root  4509 mar  6  2021 infinity-notes.diff
+-rw-r--r-- 1 root root 17284 mar  6  2021 libctf-soname.diff
+-rw-r--r-- 1 root root  2870 mar  6  2021 mips64-default-n64.diff
+-rw-r--r-- 1 root root 17289 mar  6  2021 pgo+lto-1.diff
+-rw-r--r-- 1 root root 38880 mar  6  2021 pgo+lto-2.diff
+-rw-r--r-- 1 root root 17117 mar  6  2021 pgo+lto-3.diff
+-rw-r--r-- 1 root root  1730 mar  6  2021 pgo+lto-check-ignore.diff
+-rw-r--r-- 1 root root  5475 mar  6  2021 pr-ld-16428.diff
+-rw-r--r-- 1 root root   842 mar  6  2021 series
+taglio@HAM-01-RASB:~ $ uname -r ; uname -m
+5.15.24-v7+
+armv7l
+taglio@HAM-01-RASB:~ $  ld --version | head -n 1; gcc --version | grep gcc; ldd --version | head -n 1
+GNU ld (GNU Binutils for Raspbian) 2.35.2
+gcc (Raspbian 10.2.1-6+rpi1) 10.2.1 20210110
+ldd (Debian GLIBC 2.31-13+rpt2+rpi1+deb11u2) 2.31
+taglio@HAM-01-RASB:~ $ 
+
+```
+
+Next install on the ARM device the `symlinks`utility to convert absolute links (within the same filesystem) to relative links:
+
+```bash
+taglio@HAM-01-RASB:~ $ sudo apt install symlinks
+...
+taglio@HAM-01-RASB:~ $ sudo symlinks -rc /.
+...
+taglio@HAM-01-RASB:~ $
+```
+
+In the workstation set a global variable with the ARM binutils version:
+
+```bash
+$ echo export RASBU="2.35.2" >> "${HOME}"/.bashrc
+$ source "${HOME}"/.bashrc
+```
+
+create some directory and download the patch:
+
+```bash
+$ sudo chown -R taglio:taglio "${RASTA}"
+$ mkdir "${RASTA}"/src ; mkdir -p "${RASTA}"/patches/binutils/"${RASBU}"
+$ cd "${RASTA}"/patches/binutils/"${RASBU}" ; scp ham-01-rasb.red.ama:/usr/src/binutils/patches/129_multiarch_libpath.patch ./
+129_multiarch_libpath.patch                                                                                                                                                                                                                             100%   10KB   3.2MB/s   00:00    
+taglio@trimurti:/media/taglio/BACK/raspi-staging/patches/binutils/2.35.2$ cd "${RASTA}"
+taglio@trimurti:/media/taglio/BACK/raspi-staging$ 
+```
+
+Let initialize `ct-ng`:
+
+```bash
+$ ct-ng armv8-rpi3-linux-gnueabihf
+  CONF  armv8-rpi3-linux-gnueabihf
+#
+# configuration written to .config
+#
+
+***********************************************************
+
+Initially reported by: Stefan Hallas Mulvad <shm@hallas.nu>
+URL: 
+
+Comment:
+crosstool-NG configuration for Raspberry Pi 3.
+
+***********************************************************
+
+Now configured for "armv8-rpi3-linux-gnueabihf"
+$
+```
 
 
 

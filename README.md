@@ -2,7 +2,7 @@
 
 ![](https://www.distrelec.biz/Web/WebShopImages/landscape_large/3-/03/Raspberry%20Pi-RASPBERRY-PI-4-CASE-RW-30152783-03.jpg)
 
-- https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit
+- https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-64-bit
 
 - download lite version
 
@@ -208,7 +208,7 @@ Configure pam.d sudo file:
 
 ```bash
 # cat /etc/pam.d/sudo
-auth sufficient /usr/lib/arm-linux-gnueabihf/security/pam_ssh_agent_auth.so file=/etc/ssh/authorized_keys
+auth sufficient /usr/lib/aarch64-linux-gnu/security/pam_ssh_agent_auth.so file=/etc/ssh/authorized_keys
 
 @include common-auth
 @include common-account
@@ -238,10 +238,11 @@ Restarting ssh (via systemctl): ssh.service.
 #
 ```
 
-Add ssh-add to login file read by bash shell:
+Add ssh-add to login and logout file read by bash shell, also edit with visudo and add `Defaults env_keep += SSH_AUTH_SOCK`:
 
 ```bash
-$ echo ssh-add >> .profile
+$ echo ssh-add -v >> .profile
+$ echo ssh-add -D >> .bash_logout
 ```
 
 Delete pi user:
@@ -297,6 +298,33 @@ card 1: Pro [SB X-Fi Surround 5.1 Pro], device 1: USB Audio [USB Audio #1]
   Subdevices: 1/1
   Subdevice #0: subdevice #0
 taglio@HAM-01-RASPB:~ $ 
+```
+
+If you don't want to disable Raspberry 3 default devices the output will be:
+
+```bash
+taglio@HAM-01-RASB:~ $ aplay -l
+**** List of PLAYBACK Hardware Devices ****
+card 0: Headphones [bcm2835 Headphones], device 0: bcm2835 Headphones [bcm2835 Headphones]
+  Subdevices: 8/8
+  Subdevice #0: subdevice #0
+  Subdevice #1: subdevice #1
+  Subdevice #2: subdevice #2
+  Subdevice #3: subdevice #3
+  Subdevice #4: subdevice #4
+  Subdevice #5: subdevice #5
+  Subdevice #6: subdevice #6
+  Subdevice #7: subdevice #7
+card 1: Pro [SB X-Fi Surround 5.1 Pro], device 0: USB Audio [USB Audio]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+card 1: Pro [SB X-Fi Surround 5.1 Pro], device 1: USB Audio [USB Audio #1]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+card 2: vc4hdmi [vc4-hdmi], device 0: MAI PCM i2s-hifi-0 [MAI PCM i2s-hifi-0]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
+taglio@HAM-01-RASB:~ $ 
 ```
 
 Card id is `1`.
@@ -729,76 +757,6 @@ But you can ever build your personal toolchain using:
 - [Gentoo](https://www.gentoo.org/) [crossdev](https://wiki.gentoo.org/wiki/Cross_build_environment).
 
 And you can use, if present, containers or virtual machines programmed by the software teams of every project that we need if they have released.
-
-For now we choose to use package from workstation distribution:
-
-```bash
-taglio@trimurti:~/Work/redama/rasberry-hackrf$ cat /etc/lsb-release 
-DISTRIB_ID=Ubuntu
-DISTRIB_RELEASE=21.10
-DISTRIB_CODENAME=impish
-DISTRIB_DESCRIPTION="Ubuntu 21.10"
-taglio@trimurti:~/Work/redama/rasberry-hackrf$ 
-
-```
-
-That is as we just show the Ubuntu release, but not a [LTS](https://ubuntu.com/blog/what-is-an-ubuntu-lts-release) so that with the [Linaro](https://linaro.org/) we could have problems. 
-
-```bash
-taglio@trimurti:~/Work/redama/rasberry-hackrf$ sudo apt install gcc-arm-linux-gnueabi binutils-arm-linux-gnueabi
-Reading package lists... Done
-Building dependency tree... Done
-Reading state information... Done
-The following additional packages will be installed:
-  cpp-11-arm-linux-gnueabi cpp-arm-linux-gnueabi gcc-11-arm-linux-gnueabi gcc-11-arm-linux-gnueabi-base gcc-11-cross-base libasan6-armel-cross libatomic1-armel-cross libc6-armel-cross libc6-dev-armel-cross libgcc-11-dev-armel-cross libgcc-s1-armel-cross libgomp1-armel-cross
-  libstdc++6-armel-cross libubsan1-armel-cross linux-libc-dev-armel-cross
-Suggested packages:
-  binutils-doc gcc-11-locales cpp-doc gcc-11-doc flex bison gdb-arm-linux-gnueabi gcc-doc
-The following NEW packages will be installed:
-  binutils-arm-linux-gnueabi cpp-11-arm-linux-gnueabi cpp-arm-linux-gnueabi gcc-11-arm-linux-gnueabi gcc-11-arm-linux-gnueabi-base gcc-11-cross-base gcc-arm-linux-gnueabi libasan6-armel-cross libatomic1-armel-cross libc6-armel-cross libc6-dev-armel-cross libgcc-11-dev-armel-cross
-  libgcc-s1-armel-cross libgomp1-armel-cross libstdc++6-armel-cross libubsan1-armel-cross linux-libc-dev-armel-cross
-0 upgraded, 17 newly installed, 0 to remove and 2 not upgraded.
-Need to get 127 MB of archives.
-After this operation, 390 MB of additional disk space will be used.
-Do you want to continue? [Y/n] Y
-...
-taglio@trimurti:~/Work/redama/rasberry-hackrf$
-```
-
-And we try to compile an "hello world" program in C language for the `armv7l` processor:
-
-```bash
-taglio@trimurti:~/Work/redama/rasberry-hackrf/C$ cat helloworld.c 
-#include<stdio.h>
-int main()
-{
-        printf("Hello World!\n");
-        return 0;
-}
-taglio@trimurti:~/Work/redama/rasberry-hackrf/C$ arm-linux-gnueabi-gcc helloworld.c -o helloworld-arm -static
-taglio@trimurti:~/Work/redama/rasberry-hackrf/C$ file helloworld-arm 
-helloworld-arm: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, BuildID[sha1]=55f5e32b52352bf9658ef8c48c05d6b257c02d54, for GNU/Linux 3.2.0, not stripped
-taglio@trimurti:~/Work/redama/rasberry-hackrf/C$ scp helloworld-arm ham-01-rasb.red.ama:/home/taglio
-helloworld-arm                                                                                                                                                                                                                                          100%  527KB   8.5MB/s   00:00    
-taglio@trimurti:~/Work/redama/rasberry-hackrf/C$
-
-taglio@HAM-01-RASB:~ $ ./helloworld-arm 
-Hello World!
-taglio@HAM-01-RASB:~ $ uname -m
-armv7l
-taglio@HAM-01-RASB:~ $ 
-
-```
-
-Next we prepare our workstation with the cross compile toolkit with the available packages:
-
-```bash
-taglio@trimurti:~$ sudo dpkg --add-architecture armhf
-# echo deb \[arch=armhf\] http://ports.ubuntu.com/ubuntu-ports impish-updates main restricted universe multiverse >> /etc/apt/sources.list
-# echo deb \[arch=armhf\] http://ports.ubuntu.com/ubuntu-ports impish-security main restricted universe multiverse >> /etc/apt/sources.list
-# apt update
-taglio@trimurti:~$  sudo apt install crossbuild-essential-armh
-```
 
 Why we need cross compile?
 

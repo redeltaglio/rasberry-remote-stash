@@ -1061,6 +1061,34 @@ Configure various options:
 $ ct-ng menuconfig
 ```
 
+Path and misc options:
+
+![](https://github.com/redeltaglio/rasberry-remote-stash/raw/main/crosstool-NG/1.png)
+
+Target options:
+
+![](https://github.com/redeltaglio/rasberry-remote-stash/raw/main/crosstool-NG/2.png)
+
+Toolchain options:
+
+![](https://github.com/redeltaglio/rasberry-remote-stash/raw/main/crosstool-NG/3.png)
+
+Operating system:
+
+![](https://github.com/redeltaglio/rasberry-remote-stash/raw/main/crosstool-NG/4.png)
+
+Binary utilities:
+
+![](https://github.com/redeltaglio/rasberry-remote-stash/raw/main/crosstool-NG/5.png)
+
+C-library:
+
+![](https://github.com/redeltaglio/rasberry-remote-stash/raw/main/crosstool-NG/6.png)
+
+C compiler:
+
+![](https://github.com/redeltaglio/rasberry-remote-stash/raw/main/crosstool-NG/7.png)
+
 Build the toolchain:
 
 ```bash

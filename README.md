@@ -801,16 +801,16 @@ To cross compile ROC, the simplest way is use the toolchain virtualized in a [do
 taglio@trimurti:~/Sources/Git$ sudo apt install docker.io 
 taglio@trimurti:~/Sources/Git$ cd $ROC_DIR
 taglio@trimurti:~/Sources/Git/roc-toolkit$ docker run -t --rm -u "${UID}" -v "${PWD}:${PWD}" -w "${PWD}" \
-	rocproject/cross-arm-linux-gnueabihf \ 
-	scons -Q --enable-pulseaudio-modules --host=arm-linux-gnueabihf \
+	rocproject/aarch64-linux-gnu\ 
+	scons -Q --enable-pulseaudio-modules --host=aarch64-linux-gnu \
     --build-3rdparty=libuv,libunwind,openfec,alsa,pulseaudio:$(ssh ham-01-rasb.red.ama pulseaudio --version | cut -d ' ' -f2),sox,cpputest
 ```
 
  Copy compiled binary to the raspberry host connected to the stash:
 
 ```bash
-taglio@trimurti:~/Sources/Git/roc-toolkit/bin/arm-linux-gnueabihf$ ssh ham-01-rasb.red.ama mkdir -p Binaries/ROC
-taglio@trimurti:~/Sources/Git/roc-toolkit/bin/arm-linux-gnueabihf$ scp * ham-01-rasb.red.ama:/home/taglio/Binaries/ROC/
+taglio@trimurti:~/Sources/Git/roc-toolkit/bin/aarch64-linux-gnu/$ ssh ham-01-rasb.red.ama mkdir -p Binaries/ROC
+taglio@trimurti:~/Sources/Git/roc-toolkit/bin/aarch64-linux-gnu/$ scp * ham-01-rasb.red.ama:/home/taglio/Binaries/ROC/
 libroc.so                            100%  484KB  10.5MB/s   00:00    
 libroc.so.0                          100%  484KB  10.5MB/s   00:00    
 libroc.so.0.1                        100%  484KB  10.6MB/s   00:00    
@@ -931,14 +931,14 @@ $ git clone https://github.com/crosstool-ng/crosstool-ng.git
 ...
 $ cd crosstool-ng ; ./bootstrap
 ...
-$ echo export RASTA="/media/taglio/BACK/x-tools" >> "${HOME}"/.bashrc ; source "${HOME}"/.profile
-$ sudo mkdir "${RASTA}" ; ./configure --prefix="${RASTA}"
+$ echo export RASTA="/media/taglio/BACK/raspi/x-tools" >> "${HOME}"/.bashrc ; source "${HOME}"/.profile
+$ mkdir "${RASTA}" ; ./configure --prefix="${RASTA}"
 ```
 
 Next `make` and `make install`:
 
 ```bash
-$ make ; sudo make install
+$ make ; make install
 ```
 
 Add /opt/crosstool-ng/bin to the PATH environment variable:
@@ -994,11 +994,11 @@ total 256
 -rw-r--r-- 1 root root  5475 mar  6  2021 pr-ld-16428.diff
 -rw-r--r-- 1 root root   842 mar  6  2021 series
 taglio@HAM-01-RASB:~ $ uname -r ; uname -m
-5.15.24-v7+
-armv7l
+5.10.92-v8+
+aarch64
 taglio@HAM-01-RASB:~ $  ld --version | head -n 1; gcc --version | grep gcc; ldd --version | head -n 1
-GNU ld (GNU Binutils for Raspbian) 2.35.2
-gcc (Raspbian 10.2.1-6+rpi1) 10.2.1 20210110
+GNU ld (GNU Binutils for Debian) 2.35.2
+gcc (Debian 10.2.1-6) 10.2.1 20210110
 ldd (Debian GLIBC 2.31-13+rpt2+rpi1+deb11u2) 2.31
 taglio@HAM-01-RASB:~ $ 
 
@@ -1035,7 +1035,7 @@ taglio@trimurti:/media/taglio/BACK/raspi-staging$
 Let initialize `ct-ng`:
 
 ```bash
-$ ct-ng armv8-rpi3-linux-gnueabihf
+$ ct-ng aarch64-rpi3-linux-gnu
   CONF  armv8-rpi3-linux-gnueabihf
 #
 # configuration written to .config
@@ -1052,6 +1052,24 @@ crosstool-NG configuration for Raspberry Pi 3.
 ***********************************************************
 
 Now configured for "armv8-rpi3-linux-gnueabihf"
+$
+```
+
+Configure various options:
+
+```bash
+$ ct-ng menuconfig
+```
+
+Build the toolchain:
+
+```bash
+$ ct-ng build
+...
+[INFO ]  Finalizing the toolchain's directory: done in 5.83s (at 19:37)
+[INFO ]  Build completed at 20220301.122948
+[INFO ]  (elapsed: 19:37.30)
+[INFO ]  Finishing installation (may take a few seconds)...
 $
 ```
 

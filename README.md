@@ -762,162 +762,6 @@ Why we need cross compile?
 
 Because we want to follow the cutting edge speaking about ours radio ham programs. Because we want to use a lot of programs, some heavy, that aren't included into the package repository of [RaspiOS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS). Because, at least but not last, time compile directly into the arm device is very long and resources are limited. 
 
-#### ALSA PCM capture to network
-
-![](https://roc-streaming.org/logo.png)
-
-So what we want to obtain is the sound from a stash connected from the headphone jack to the line input jack, the blue one, transmitted to an IP network. We want to use X11 applications within an ssh remote session forwarding them and listen to them. To real scope of this document is build various radio ham remote stash, point of presence, and use the as we're directly interact with them.
-
-Some application will work with audio servers and not directly with ALSA so we have to archive streaming over IP network for various scenario. 
-
-We decide to use [ROC toolkit](https://roc-streaming.org/), because we've got different scenario and because we've found another [radio operator](https://grundstil.de/n3rd/ham) that use it.
-
-Install dependencies:
-
-```bash
-taglio@trimurti:~$  sudo apt install g++ scons ragel gengetopt
-```
-
-[SCons](https://scons.org/) is an interesting piece of software.
-
-Clone the git repository of the project a set an environment variable:
-
-```bash
-taglio@trimurti:~/Sources/Git$ git clone https://github.com/roc-streaming/roc-toolkit.git
-Cloning into 'roc-toolkit'...
-remote: Enumerating objects: 16836, done.
-remote: Counting objects: 100% (1189/1189), done.
-remote: Compressing objects: 100% (797/797), done.
-remote: Total 16836 (delta 501), reused 710 (delta 338), pack-reused 15647
-Receiving objects: 100% (16836/16836), 5.71 MiB | 4.95 MiB/s, done.
-Resolving deltas: 100% (11191/11191), done.
-taglio@trimurti:~/Sources/Git$ export ROC_DIR="${HOME}/Sources/Git/roc-toolkit"
-
-```
-
-To cross compile ROC, the simplest way is use the toolchain virtualized in a [docker](https://en.wikipedia.org/wiki/Docker_(software)) [container](https://hub.docker.com/r/rocproject/cross-arm-linux-gnueabihf/) published as open source:
-
-```bash
-taglio@trimurti:~/Sources/Git$ sudo apt install docker.io 
-taglio@trimurti:~/Sources/Git$ cd $ROC_DIR
-taglio@trimurti:~/Sources/Git/roc-toolkit$ docker run -t --rm -u "${UID}" -v "${PWD}:${PWD}" -w "${PWD}" \
-	rocproject/aarch64-linux-gnu\ 
-	scons -Q --enable-pulseaudio-modules --host=aarch64-linux-gnu \
-    --build-3rdparty=libuv,libunwind,openfec,alsa,pulseaudio:$(ssh ham-01-rasb.red.ama pulseaudio --version | cut -d ' ' -f2),sox,cpputest
-```
-
- Copy compiled binary to the raspberry host connected to the stash:
-
-```bash
-taglio@trimurti:~/Sources/Git/roc-toolkit/bin/aarch64-linux-gnu/$ ssh ham-01-rasb.red.ama mkdir -p Binaries/ROC
-taglio@trimurti:~/Sources/Git/roc-toolkit/bin/aarch64-linux-gnu/$ scp * ham-01-rasb.red.ama:/home/taglio/Binaries/ROC/
-libroc.so                            100%  484KB  10.5MB/s   00:00    
-libroc.so.0                          100%  484KB  10.5MB/s   00:00    
-libroc.so.0.1                        100%  484KB  10.6MB/s   00:00    
-module-roc-sink-input.so             100%   20KB   5.5MB/s   00:00    
-module-roc-sink.so                   100%   21KB   5.6MB/s   00:00    
-roc-conv                             100%  802KB  10.8MB/s   00:00    
-roc-example-receiver-sox             100%  249KB  10.3MB/s   00:00    
-roc-example-sender-sinewave          100%   13KB   4.1MB/s   00:00    
-roc-recv                             100% 1107KB  10.9MB/s   00:00    
-roc-send                             100% 1079KB  10.9MB/s   00:00    
-roc-test-address                     100%  658KB  10.9MB/s   00:00    
-roc-test-audio                       100%  985KB  10.9MB/s   00:00    
-roc-test-core                        100%  698KB  10.8MB/s   00:00    
-roc-test-fec                         100% 1120KB  10.9MB/s   00:00    
-roc-test-lib                         100%  682KB  10.9MB/s   00:00    
-roc-test-netio                       100%  714KB  10.9MB/s   00:00    
-roc-test-packet                      100%  803KB  10.8MB/s   00:00    
-roc-test-pipeline                    100% 1162KB  11.0MB/s   00:00    
-roc-test-rtp                         100%  847KB  10.9MB/s   00:00    
-roc-test-sndio                       100%  896KB  10.9MB/s   00:00    
-taglio@trimurti:~/Sources/Git/roc-toolkit/bin/arm-linux-gnueabihf$ 
-```
-
-Login into the HAM-01 remote stash device, that is my hostname, and copy binaries and launch `ldconfig`:
-
-```bash
-taglio@HAM-01-RASB:~/Binaries/ROC $ sudo cp roc-{recv,send,conv} /usr/bin/
-taglio@HAM-01-RASB:~/Binaries/ROC $ sudo cp libroc.so* /usr/lib
-taglio@HAM-01-RASB:~/Binaries/ROC $ sudo cp module-roc-{sink,sink-input}.so /usr/lib/pulse-14.2/modules/
-taglio@HAM-01-RASB:~/Binaries/ROC $ sudo ldconfig
-
-```
-
-Now what we've first to configure is the receiving pulseaudio module in the workstation, so we've got to configure and install ROC into it:
-
-```bash
-taglio@trimurti:~/Sources/Git/roc-toolkit$ sudo apt install g++ pkg-config scons ragel gengetopt     libuv1-dev libunwind-dev libpulse-dev libsox-dev libcpputest-dev
-...
-taglio@trimurti:~/Sources/Git/roc-toolkit$ sudo apt install libtool intltool autoconf automake make cmake
-...
-taglio@trimurti:~/Sources/Git/roc-toolkit$
-```
-
-Next build it directly:
-
-```bash
-taglio@trimurti:~/Sources/Git/roc-toolkit$ scons -Q --build-3rdparty=openfec
-...
-taglio@trimurti:~/Sources/Git/roc-toolkit$ sudo scons -Q --build-3rdparty=openfec install
-  INSTALL   /usr/include/roc
-  INSTALL   /usr/lib/x86_64-linux-gnu/libroc.so.0.1
-  INSTALL   /usr/lib/x86_64-linux-gnu/libroc.so.0
-  INSTALL   /usr/lib/x86_64-linux-gnu/libroc.so
-  INSTALL   /usr/bin/roc-conv
-  INSTALL   /usr/bin/roc-recv
-  INSTALL   /usr/bin/roc-send
-taglio@trimurti:~/Sources/Git/roc-toolkit$ 
-
-```
-
-#### Remote radioham stash, QSL software.
-
-![](https://k7kez.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-25-at-11.37.43-PM-1024x588.png)
-
-A nice [software](https://dl1gkk.com/setup-raspberry-pi-for-ham-radio/) [list](https://github.com/km4ack/pi-build/blob/master/README.md) to use in remote X forwarding by ssh will be:
-
-- [gpsd](https://gpsd.gitlab.io/gpsd/)
-- [chronyd](https://chrony.tuxfamily.org/)
-- [xgps](https://gpsd.gitlab.io/gpsd/xgps-sample.html)
-- [hamlib](https://hamlib.github.io/)
-- [direwolf](https://github.com/wb2osz/direwolf)
-- [Xastir](https://github.com/Xastir/Xastir)
-- [LinPac](http://linpac.sourceforge.net/overview.php)
-- [FLRig](http://www.w1hkj.com/files/flrig/flrig-help.pdf)
-- [FLDigi](http://www.w1hkj.com/files/fldigi/fldigi-help.pdf)
-- [WSJT-X](https://physics.princeton.edu/pulsar/K1JT/wsjtx.html)
-- [JTDX](https://www.jtdx.tech/en/)
-- [GridTracker](https://gridtracker.org/)
-- [JS8Call](https://js8call.com/)
-- [PAT](https://getpat.io/)
-- [zyGrib](https://www.zygrib.org/)
-- [CQRLOG](https://www.cqrlog.com/)
-- [TQSL](http://www.arrl.org/tqsl-download)
-- [Gpredict](http://gpredict.oz9aec.net/)
-- [QSSTV](http://users.telenet.be/on4qz/qsstv/index.html)
-- [Gqrx](https://gqrx.dk/)
-- [Freedv](https://freedv.org/)
-- [VOACAP](https://www.voacap.com/)
-- [Chirp](https://chirp.danplanet.com/projects/chirp/wiki/Home)
-- [Qtel](https://kd9cpb.com/qtel)
-- [D-Rats](https://iz2lxi.jimdofree.com/)
-- [CubicSDR](https://cubicsdr.com/)
-- [ADS-B](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast) Receiver.
-- [VirtualRadar](http://www.virtualradar.nl/virtualradar/desktop.html)
-- [XDX](https://sourceforge.net/projects/xdxclusterclient/) [dx-cluster](https://www.dxfuncluster.com/) client.
-- [Unixcw](http://unixcw.sourceforge.net/)
-- [PATMENU](https://github.com/km4ack/patmenu)
-- [ARDOPC](https://www.cantab.net/users/john.wiseman/Documents/ARDOPC.html)
-- ARDOPCGUI
-- [M0IAX](https://github.com/m0iax/JS8CallUtilities_V2)
-
-Despite others tutorials that use the ARM device to compile all those stuff, we will do it in our workstation for the same reasons than above. Next we will upload to the devices and running onto them.
-
-Another time we speak about cross compiling. We speak about fast compile time and a single workstation to do it; in my toughs there is *"remote stash as a service"*, many point of presences. Compile have to be centralized. 
-
-Let's do it with [crosstool-NG](https://github.com/crosstool-ng/crosstool-ng) in a Debian based workstation an [Ubuntu 21.10](https://ubuntu.com/blog/ubuntu-21-10-has-landed), codename [impish](https://www.omgubuntu.co.uk/2021/04/ubuntu-21-10-codename-revealed).
-
 Install dependencies: 
 
 ```bash
@@ -1103,6 +947,164 @@ $
 
 
 
+#### ALSA PCM capture to network
+
+![](https://roc-streaming.org/logo.png)
+
+So what we want to obtain is the sound from a stash connected from the headphone jack to the line input jack, the blue one, transmitted to an IP network. We want to use X11 applications within an ssh remote session forwarding them and listen to them. To real scope of this document is build various radio ham remote stash, point of presence, and use the as we're directly interact with them.
+
+Some application will work with audio servers and not directly with ALSA so we have to archive streaming over IP network for various scenario. 
+
+We decide to use [ROC toolkit](https://roc-streaming.org/), because we've got different scenario and because we've found another [radio operator](https://grundstil.de/n3rd/ham) that use it.
+
+Install dependencies:
+
+```bash
+taglio@trimurti:~$  sudo apt install g++ scons ragel gengetopt
+```
+
+[SCons](https://scons.org/) is an interesting piece of software.
+
+Clone the git repository of the project a set an environment variable:
+
+```bash
+taglio@trimurti:~/Sources/Git$ git clone https://github.com/roc-streaming/roc-toolkit.git
+Cloning into 'roc-toolkit'...
+remote: Enumerating objects: 16836, done.
+remote: Counting objects: 100% (1189/1189), done.
+remote: Compressing objects: 100% (797/797), done.
+remote: Total 16836 (delta 501), reused 710 (delta 338), pack-reused 15647
+Receiving objects: 100% (16836/16836), 5.71 MiB | 4.95 MiB/s, done.
+Resolving deltas: 100% (11191/11191), done.
+taglio@trimurti:~/Sources/Git$ export ROC_DIR="${HOME}/Sources/Git/roc-toolkit"
+
+```
+
+To cross compile ROC, the simplest way is use the toolchain virtualized in a [docker](https://en.wikipedia.org/wiki/Docker_(software)) [container](https://hub.docker.com/r/rocproject/cross-arm-linux-gnueabihf/) published as open source:
+
+```bash
+taglio@trimurti:~/Sources/Git$ sudo apt install docker.io 
+taglio@trimurti:~/Sources/Git$ cd $ROC_DIR
+taglio@trimurti:~/Sources/Git/roc-toolkit$ docker run -t --rm -u "${UID}" -v "${PWD}:${PWD}" -w "${PWD}" \
+	rocproject/aarch64-linux-gnu\ 
+	scons -Q --enable-pulseaudio-modules --host=aarch64-linux-gnu \
+    --build-3rdparty=libuv,libunwind,openfec,alsa,pulseaudio:$(ssh ham-01-rasb.red.ama pulseaudio --version | cut -d ' ' -f2),sox,cpputest
+```
+
+ Copy compiled binary to the raspberry host connected to the stash:
+
+```bash
+taglio@trimurti:~/Sources/Git/roc-toolkit/bin/aarch64-linux-gnu/$ ssh ham-01-rasb.red.ama mkdir -p Binaries/ROC
+taglio@trimurti:~/Sources/Git/roc-toolkit/bin/aarch64-linux-gnu/$ scp * ham-01-rasb.red.ama:/home/taglio/Binaries/ROC/
+libroc.so                            100%  484KB  10.5MB/s   00:00    
+libroc.so.0                          100%  484KB  10.5MB/s   00:00    
+libroc.so.0.1                        100%  484KB  10.6MB/s   00:00    
+module-roc-sink-input.so             100%   20KB   5.5MB/s   00:00    
+module-roc-sink.so                   100%   21KB   5.6MB/s   00:00    
+roc-conv                             100%  802KB  10.8MB/s   00:00    
+roc-example-receiver-sox             100%  249KB  10.3MB/s   00:00    
+roc-example-sender-sinewave          100%   13KB   4.1MB/s   00:00    
+roc-recv                             100% 1107KB  10.9MB/s   00:00    
+roc-send                             100% 1079KB  10.9MB/s   00:00    
+roc-test-address                     100%  658KB  10.9MB/s   00:00    
+roc-test-audio                       100%  985KB  10.9MB/s   00:00    
+roc-test-core                        100%  698KB  10.8MB/s   00:00    
+roc-test-fec                         100% 1120KB  10.9MB/s   00:00    
+roc-test-lib                         100%  682KB  10.9MB/s   00:00    
+roc-test-netio                       100%  714KB  10.9MB/s   00:00    
+roc-test-packet                      100%  803KB  10.8MB/s   00:00    
+roc-test-pipeline                    100% 1162KB  11.0MB/s   00:00    
+roc-test-rtp                         100%  847KB  10.9MB/s   00:00    
+roc-test-sndio                       100%  896KB  10.9MB/s   00:00    
+taglio@trimurti:~/Sources/Git/roc-toolkit/bin/arm-linux-gnueabihf$ 
+```
+
+Login into the HAM-01 remote stash device, that is my hostname, and copy binaries and launch `ldconfig`:
+
+```bash
+taglio@HAM-01-RASB:~/Binaries/ROC $ sudo cp roc-{recv,send,conv} /usr/bin/
+taglio@HAM-01-RASB:~/Binaries/ROC $ sudo cp libroc.so* /usr/lib
+taglio@HAM-01-RASB:~/Binaries/ROC $ sudo cp module-roc-{sink,sink-input}.so /usr/lib/pulse-14.2/modules/
+taglio@HAM-01-RASB:~/Binaries/ROC $ sudo ldconfig
+
+```
+
+Now what we've first to configure is the receiving pulseaudio module in the workstation, so we've got to configure and install ROC into it:
+
+```bash
+taglio@trimurti:~/Sources/Git/roc-toolkit$ sudo apt install g++ pkg-config scons ragel gengetopt     libuv1-dev libunwind-dev libpulse-dev libsox-dev libcpputest-dev
+...
+taglio@trimurti:~/Sources/Git/roc-toolkit$ sudo apt install libtool intltool autoconf automake make cmake
+...
+taglio@trimurti:~/Sources/Git/roc-toolkit$
+```
+
+Next build it directly:
+
+```bash
+taglio@trimurti:~/Sources/Git/roc-toolkit$ scons -Q --build-3rdparty=openfec
+...
+taglio@trimurti:~/Sources/Git/roc-toolkit$ sudo scons -Q --build-3rdparty=openfec install
+  INSTALL   /usr/include/roc
+  INSTALL   /usr/lib/x86_64-linux-gnu/libroc.so.0.1
+  INSTALL   /usr/lib/x86_64-linux-gnu/libroc.so.0
+  INSTALL   /usr/lib/x86_64-linux-gnu/libroc.so
+  INSTALL   /usr/bin/roc-conv
+  INSTALL   /usr/bin/roc-recv
+  INSTALL   /usr/bin/roc-send
+taglio@trimurti:~/Sources/Git/roc-toolkit$ 
+
+```
+
+#### Remote radioham stash, QSL software.
+
+![](https://k7kez.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-25-at-11.37.43-PM-1024x588.png)
+
+A nice [software](https://dl1gkk.com/setup-raspberry-pi-for-ham-radio/) [list](https://github.com/km4ack/pi-build/blob/master/README.md) to use in remote X forwarding by ssh will be:
+
+- [gpsd](https://gpsd.gitlab.io/gpsd/)
+- [chronyd](https://chrony.tuxfamily.org/)
+- [xgps](https://gpsd.gitlab.io/gpsd/xgps-sample.html)
+- [hamlib](https://hamlib.github.io/)
+- [direwolf](https://github.com/wb2osz/direwolf)
+- [Xastir](https://github.com/Xastir/Xastir)
+- [LinPac](http://linpac.sourceforge.net/overview.php)
+- [FLRig](http://www.w1hkj.com/files/flrig/flrig-help.pdf)
+- [FLDigi](http://www.w1hkj.com/files/fldigi/fldigi-help.pdf)
+- [WSJT-X](https://physics.princeton.edu/pulsar/K1JT/wsjtx.html)
+- [JTDX](https://www.jtdx.tech/en/)
+- [GridTracker](https://gridtracker.org/)
+- [JS8Call](https://js8call.com/)
+- [PAT](https://getpat.io/)
+- [zyGrib](https://www.zygrib.org/)
+- [CQRLOG](https://www.cqrlog.com/)
+- [TQSL](http://www.arrl.org/tqsl-download)
+- [Gpredict](http://gpredict.oz9aec.net/)
+- [QSSTV](http://users.telenet.be/on4qz/qsstv/index.html)
+- [Gqrx](https://gqrx.dk/)
+- [Freedv](https://freedv.org/)
+- [VOACAP](https://www.voacap.com/)
+- [Chirp](https://chirp.danplanet.com/projects/chirp/wiki/Home)
+- [Qtel](https://kd9cpb.com/qtel)
+- [D-Rats](https://iz2lxi.jimdofree.com/)
+- [CubicSDR](https://cubicsdr.com/)
+- [ADS-B](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast) Receiver.
+- [VirtualRadar](http://www.virtualradar.nl/virtualradar/desktop.html)
+- [XDX](https://sourceforge.net/projects/xdxclusterclient/) [dx-cluster](https://www.dxfuncluster.com/) client.
+- [Unixcw](http://unixcw.sourceforge.net/)
+- [PATMENU](https://github.com/km4ack/patmenu)
+- [ARDOPC](https://www.cantab.net/users/john.wiseman/Documents/ARDOPC.html)
+- ARDOPCGUI
+- [M0IAX](https://github.com/m0iax/JS8CallUtilities_V2)
+
+Despite others tutorials that use the ARM device to compile all those stuff, we will do it in our workstation for the same reasons than above. Next we will upload to the devices and running onto them.
+
+Another time we speak about cross compiling. We speak about fast compile time and a single workstation to do it; in my toughs there is *"remote stash as a service"*, many point of presences. Compile have to be centralized. 
+
+Let's do it with the [crosstool-NG](https://github.com/crosstool-ng/crosstool-ng) that we've got prepared.
+
+
+
 #### Hackrf one
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0b/SDR_HackRF_one_PCB.jpg)
@@ -1263,3 +1265,6 @@ To got a good work environment with all the libraries necessary and all the tool
 
 This distribution doesn't got the need to be installed and with `qemu` or `virtualbox` we can run it without any problem. It use the [i3](https://i3wm.org/) [tiling window manager](https://en.wikipedia.org/wiki/Tiling_window_manager), you've got to understand how does it work, but it rocks!
 
+#### Similar projects
+
+- https://github.com/happysat/Raspberry-Pi-and-SDR
